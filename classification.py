@@ -1,6 +1,7 @@
 import os
 import time
 
+
 from bs4 import BeautifulSoup
 from sklearn.datasets.base import Bunch
 from sklearn import metrics
@@ -28,8 +29,10 @@ import matplotlib.pyplot as plt
 import pandas.io.sql as pd_sql
 import sqlite3 as sql
 
+import codecs
+
 #CONNECTING TO THE DATASET
-CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue-Classifier/debate_data"
+CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/debate_data"
 #You will have to insert your own path to the transcript data folder here.#
 
 def load_data(root=CORPUS_ROOT):
@@ -57,10 +60,11 @@ def load_data(root=CORPUS_ROOT):
             # Store information about document
             filenames.append(fname)
             target.append(category)
-
-            # Read data and store in data list
-            with open(fname, 'r') as f:
+            with codecs.open(fname, 'r', 'ISO-8859-1') as f:
                 data.append(f.read())
+            # Read data and store in data list
+            # with open(fname, 'r') as f:
+            #     data.append(f.read())
 
     return Bunch(
         data=data,
