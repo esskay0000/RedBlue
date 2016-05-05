@@ -81,17 +81,18 @@ print dataset.DESCR
 #Remember to create a README file and place it inside your CORPUS ROOT directory if you haven't already done so.
 
 #print the number of records in the dataset
-len(dataset.data)
+print "The number of instances is ", len(dataset.data), "\n"
 
 #Checking out the data
-print dataset.data[-5:]
-print dataset.target[-5:]
+print "Here are the last five instances: ", dataset.data[-5:], "\n"
+print "Here are the categories of the last five instances: \n", dataset.target[-5:],
+"\n\n"
 
 #CONSTRUCT FEATURE EXTRACTION
 #TfIdfVectorizer = CountVectorizer and TfIdfTransformer all in one step.
 tfidf = TfidfVectorizer(stop_words='english')
 X_train_tfidf = tfidf.fit_transform(dataset.data)
-print X_train_tfidf.shape
+print "\n Here are the dimensions of our dataset: \n", X_train_tfidf.shape, "\n"
 
 #Logistic Regression: Model fit, transform, and testing
 splits     = cv.train_test_split(X_train_tfidf, dataset.target, test_size=0.2)
@@ -100,11 +101,18 @@ X_train, X_test, Y_train, Y_test = splits
 model      = LogisticRegression()
 model.fit(X_train, Y_train)
 
+## Variable "expected" is our actual category, dem or rep.
 expected   = Y_test
+
+#Variable "predicted" is our model's prediction based on the training data, dem or rep
 predicted  = model.predict(X_test)
 
+print "\n Here's our classification report, showing the model's accuracy: \n"
 print classification_report(expected, predicted)
+print "Here's a matrix showing results. Clockwise from top left, it's"
+print " # correct dem classifications, # incorrect dem, # incorrect rep, # correct rep"
 print metrics.confusion_matrix(expected, predicted)
+print "\n"
 
 #Logistic Regression: Predict on new data
 docs_new = ['these are a bunch of randomly created examples', 'we would need to put our RSS data here', 'trump cruz sanders', 'Trump guns ISIS', 'welfare Sanders civil rights', 'sports alias useless']
