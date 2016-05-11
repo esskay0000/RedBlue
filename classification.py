@@ -29,7 +29,12 @@ import matplotlib.pyplot as plt
 import pandas.io.sql as pd_sql
 import sqlite3 as sql
 
+# For encoding
 import codecs
+
+# For visualization
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
 
 #CONNECTING TO THE DATASET
 CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/debate_data"
@@ -115,7 +120,8 @@ print metrics.confusion_matrix(expected, predicted)
 print "\n"
 
 #Logistic Regression: Predict on new data
-docs_new = ['these are a bunch of randomly created examples', 'we would need to put our RSS data here', 'trump cruz sanders', 'Trump guns ISIS', 'welfare Sanders civil rights', 'sports alias useless']
+docs_new = ['these are a bunch of randomly created examples \n we would\n',
+            'need to put our RSS data here \n trump cruz sanders']
 X_new_tfidf = tfidf.transform(docs_new)
 
 predicted = model.predict(X_new_tfidf)

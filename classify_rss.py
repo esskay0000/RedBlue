@@ -119,11 +119,27 @@ print " # correct dem classifications, # incorrect dem, # incorrect rep, # corre
 print metrics.confusion_matrix(expected, predicted)
 print "\n"
 
-#Logistic Regression: Predict on new data
-docs_new = ["/Users/Goodgame/desktop/RedBlue/output_13apr"]
-X_new_tfidf = tfidf.transform(docs_new)
+## Inserting new data into the model and classifying it
 
-predicted = model.predict(X_new_tfidf)
+pred_arry = []
+array = []
 
-for doc, category in zip(docs_new, predicted):
-    print('%r => %s' % (doc, category))
+output_dir = '/Users/Goodgame/desktop/RedBlue/output_13apr/'
+for doc in os.listdir(output_dir):
+    if doc == ".DS_Store": continue # Skip the .DS_Store file
+    array.append(doc)
+for i in array:
+    with codecs.open(output_dir + i, 'r', 'utf-8') as f:
+        var = f.read()
+        if os.path.getsize(output_dir + i) > 0:
+            X_new_tfidf = tfidf.transform(var)
+            predicted = model.predict(X_new_tfidf)
+            pred_arry.append(predicted)
+            print predicted
+print "The number of input documents is ", len(array)
+print "The number of test results is ", len(pred_arry)
+# print array[10]
+# print pred_arry[10]
+
+# for doc, category in zip(docs_new, predicted):
+#     print('%r => %s' % (doc, category))
