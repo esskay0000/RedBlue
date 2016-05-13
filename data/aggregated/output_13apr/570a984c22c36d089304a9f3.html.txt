@@ -1,0 +1,766 @@
+
+										
+		Most popular on bostonglobe.com
+	
+
+Based on what you've read recently, you might be interested in theses stories
+
+Digital Access
+
+99 cents a week for the first 4 weeks
+
+Home Delivery
+
+Save 50% off the regular rate
+
+Digital Access
+
+99 cents a week for the first 4 weeks
+
+Home Delivery
+
+Save 50% off the regular rate
+
+Editorial
+
+
+To
+
+
+
+
+Add a message
+
+
+
+
+Your e-mail
+
+
+
+
+
+
+
+David Goldman/AP
+
+
+
+
+
+
+
+
+
+ The GOP must stop Trump
+
+
+
+
+
+
+
+PDF: A front page in Trump’s America
+
+
+
+
+
+Donald J. Trump’s vision for the future of our nation is as deeply disturbing as it is profoundly un-American. 
+
+
+Advertisement
+
+
+It is easy to find historical antecedents. The rise of demagogic strongmen is an all too common phenomenon on our small planet. And what marks each of those dark episodes is a failure to fathom where a leader’s vision leads, to carry rhetoric to its logical conclusion. The satirical front page of this section attempts to do just that, to envision what America looks like with Trump in the White House.
+
+It is an exercise in taking a man at his word. And his vision of America promises to be as appalling in real life as it is in black and white on the page. It is a vision that demands an active and engaged opposition. It requires an opposition as focused on denying Trump the White House as the candidate is flippant and reckless about securing it. 
+
+After Wisconsin, the odds have shrunk that Trump will arrive in Cleveland with the requisite 1,237 delegates needed to win the nomination outright. Yet if he’s denied that nomination for falling short of the required delegates, Trump has warned, “You’d have riots. I think you’d have riots.” Indeed, who knows what Trump’s fervent backers are capable of if emboldened by the defeat of their strongman at the hands of the hated party elite.
+
+But the rules are the rules — and if no candidate reaches that magic number, the job of choosing a nominee falls to those on the convention floor.
+
+That’s not a pretty picture. But then nothing about the billionaire real estate developer’s quest for the nation’s highest office has been pretty. He winks and nods at political violence at his rallies. He says he wants to “open up” libel laws to punish critics in the news media and calls them “scum.” He promised to shut out an entire class of immigrants and visitors to the United States on the sole basis of their religion.
+
+
+Advertisement
+
+
+
+The toxic mix of violent intimidation, hostility to criticism, and explicit scapegoating of minorities shows a political movement is taking hold in America. If Trump were a politician running such a campaign in a foreign country right now, the US State Department would probably be condemning him.
+
+Realizing that the party faces a double bind, a few conservatives have been clear-eyed enough to see the need for a plausible, honorable alternative that could emerge from the likely contested convention. Names like Paul Ryan and Mitt Romney have come up. If no candidate gets a majority on the convention’s first ballot, such a nomination might be theoretically possible.
+
+This would have no modern precedent: Ordinarily, parties put aside their differences after primaries and rally to the front-runner because they share basic common goals and values. In any other election cycle, anti-Trump Republicans would just look like sore losers. But Trump lacks those common values — not just the values of Republicans but, it becomes clearer every day, those of Democrats.
+
+House Speaker Ryan spoke to the possible long-term damage with which the party is flirting. “Leaders with different visions and ideas have come and gone; parties have risen and fallen; majorities and White Houses won and lost,” he said. “But the way we govern endures: through debate, not disorder.” The problem is that Trump has already crossed lines that a politician with a sincere commitment to democratic norms must never cross.
+
+At some point, after the election, Republicans will also need to ask themselves some tough questions about how their actions and inactions made the party vulnerable to Trump. After all, a candidate spewing anti-immigrant, anti-Muslim, authoritarian rhetoric didn’t come out of nowhere; the Tea Party has been strong enough long enough that someone like him shouldn’t be a surprise. Chasing short-term political gains, the GOP missed a lot of chances to fight the hateful currents that now threaten to overwhelm it.
+
+For now, Republicans ought to focus on doing the right thing: putting up every legitimate roadblock to Trump that they can. Unexpectedly, a key moment in American democracy has snuck up on the GOP. When he denounced Trump, Romney said he wanted to be able to say he’d fought the good fight against a demagogue. That’s the test other Republicans may want to consider.
+
+Action doesn’t mean political chicanery or subterfuge. It doesn’t mean settling for an equally extreme — and perhaps more dangerous — nominee in Ted Cruz. If the party can muster the courage to reject its first-place finisher, rejecting the runner-up should be even easier. 
+
+The Republican Party’s standard deserves to be hoisted by an honorable and decent man, like Romney or Ryan, elected on the convention floor. It is better to lose with principle than to accept a dangerous deal from a demagogue.
+
+
+PDF: A front page in Trump’s America
+
+
+
+Discuss: Trump’s vision for America
+
+
+      Page 1 of View the PDF        Contributed to     DocumentCloud by     BostonGlobe.com BG of     The Boston Globe •     View document or     read text   
+
+
+
+
+
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+
+
+.article-body p.special-hed,
+.article-body p.special-subhed,
+.article-body p.special-byline,
+.article-body p,
+.article-body .wide,
+.article-body .wide:first-child,
+.article-body .wide:first-child .figcaption,
+.article-body hr,
+#teaser i,
+.article-body #teaser {
+    margin: 0 auto;
+}
+
+.article-body p.special-hed,
+.article-body p.special-subhed,
+.article-body p.special-byline {
+    text-align: center;
+}
+
+.share-bar li a.comment,
+.share-bar li a.twitter,
+.share-bar li a.facebook,
+.share-bar li.darknavbar a.comment,
+.share-bar li.darknavbar a.twitter,
+.share-bar li.darknavbar a.facebook {
+    display: block;
+}
+
+.article-body p.special-hed {
+    font-family: "Miller Headline Roman", "Times New Roman", Times, Georgia, serif;
+    padding: .25em;
+    max-width: 850px;
+    font-size: 4.5em;
+    line-height: 1em;
+}
+
+
+.article-body p.special-subhed {
+    font-family: "Miller Headline Roman", "Times New Roman", Times, Georgia, serif;
+    font-size: 2em;
+    line-height: 1.125em;
+    padding: .25em;
+    max-width: 850px;
+}
+
+.article-body p.special-byline {
+    font-size: 1.125em;
+    line-height: 1.33333em;
+    padding: .25em;
+    margin-top: .5em;
+    margin-bottom: 2em;
+    max-width: 850px;
+}
+
+.article-body p.special-section-hed {
+    font-size: 2em;
+    line-height: .75em;
+    font-family: "Miller Headline Roman", "Times New Roman", Times, Georgia, serif;
+    margin-bottom: .5em;
+    margin-top: 1.5em;
+}
+
+.article-body p.pullquote {
+    font-size: 1.5625em;
+    line-height: 1.44em;
+    color: #444;
+    font-style: italic;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    margin: 1em auto;
+    display: block;
+    padding: 1em;
+}
+
+.article-body p.pullquote span.attribution {
+    display: block;
+    text-align: right;
+    font-style: normal;
+    font-size: .6em;
+    text-transform: uppercase;
+}
+
+.article-body p.pullquote span.detail {
+    font-style: italic;
+    text-transform: none;
+}
+
+p.timestamp {
+    font-size: 1em;
+    line-height: 2.25em;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #aaa;
+    text-transform: uppercase;
+    margin-bottom: 1.5em
+}
+
+.dropcap::first-letter {
+    font-size: 5.625em;
+    line-height: .26667em;
+    float: left;
+    display: block;
+    margin-top: .3em;
+    padding: 0 .1em .1em 0;
+}
+span.uppercase {
+    text-transform: uppercase;
+}
+
+body.type-internal div#contain {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body.type-article #main {
+    margin: 0;
+    padding: 0;
+}
+.article {
+    float: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.article .article-body {
+    width: 100%;
+}
+body.type-internal div#contain {
+    margin-top: 66px;
+}
+
+body.type-internal div#contain.fullwidth {
+    margin-top: 36px;
+}
+.article-body p {
+    max-width: 650px;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 1.125em;
+}
+
+.article-body .wide {
+    max-width: 650px;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    text-align: center;
+    position: relative;
+}
+.article-body .wide .icon-view-fullimage {
+    position: absolute;
+    top: .5em;
+    right: .5em;
+    opacity: .5;
+    cursor: pointer;
+}
+.article-body .wide .icon-view-fullimage:hover {
+    opacity: .8;
+}
+
+.article-body .wide:first-child {
+    max-width: 850px;
+}
+.article-body .wide.fullwidth {
+    max-width: 100%;
+    margin: 0;
+}
+.article-body .wide:first-child img {
+    margin: 0;
+    display: block;
+    width: 100%;
+}
+.article-body .wide:first-child .figcaption {
+    width: 100%;
+}
+.article-body .wide:first-child .figcaption .credit {
+    width: 100%;
+    max-width: 100%;
+    padding-right: .5em;
+}
+.article-body .wide .figcaption p {
+    text-align: left;
+}
+.article-body .wide .figcaption p.credit {
+    text-align: right;
+}
+.article-body hr {
+    max-width: 650px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 0 1em;
+}
+p.linebreak {
+    height: 1px;
+    background: #aaa;
+    margin: 2.5em 0;
+}
+#teaser i {
+    display: block;
+    max-width: 650px;
+    margin-top: 1em;
+    margin-bottom: 4em;
+    font-size: .9em;
+}
+
+.article-body #teaser {
+    max-width: 960px;
+    height: 100%;
+    overflow: hidden;
+}
+.teaser-title {
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+    text-align: center;
+    font-weight: 700;
+}
+a.teaser-story {
+    display: block;
+    float: left;
+    max-width: 320px;
+    width: 33.3%;
+    margin: 0;
+    padding: 1em;
+    color: #333;
+    text-decoration: none;
+}
+
+.article-body hr.hr {
+    visibility: hidden;
+}
+.article-body .videoplayer {
+    max-width: 650px;
+    margin: 2em auto;
+}
+.article-body .videoplayer object {
+    max-height: 360px;
+}
+
+.article-footer.commentsOn {
+    display: block;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+#fullimage-container.hide {
+    display: none;;
+}
+#fullimage-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 200;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    background: rgba(255, 255, 255, .95);
+    padding: 3em;
+    text-align: center;
+}
+.icon-close {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    cursor: pointer;
+}
+.image-container {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+}
+.fullimage {
+    max-width: 100%;
+    max-height: 100%;
+}
+.article-body .wide:first-child .figcaption p:last-child {
+    display: none;
+}
+.article-body h2.subhead {
+    display: none;
+}
+.article-body h3.subhead {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.special-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #aaa;
+    height: 36px;
+    line-height: 36px;
+    z-index: 100;
+}
+.special-header a {
+    line-height: 36px
+}
+.special-header img {
+    vertical-align: middle;
+}
+.special-header li {
+    vertical-align: middle;
+}
+.special-header a.bg-logo {
+    padding-left: .5em;
+    display: inline-block;
+    line-height: 36px;
+}
+.special-header.darknavbar {
+    background-color: #000;
+    border-bottom: none;
+}
+
+
+
+.share-bar {
+    float: right;
+}
+.share-bar li {
+    display: inline-block;
+    padding-right: .5em;
+}
+.share-bar li:last-child {
+    padding-right: 0;
+}
+.share-bar li a.comment {
+    background: url("https://cache.boston.com/multimedia/graphics/reusable/icons/icon-comment.svg") no-repeat;
+    height: 20px;
+    width: 20px;
+}
+.share-bar li:hover {
+    opacity: .5;
+}
+.share-bar li a.twitter {
+    background: url("https://cache.boston.com/multimedia/graphics/reusable/icons/icon-twitter.svg") no-repeat;
+    height: 20px;
+    width: 20px;
+}
+.share-bar li:hover {
+    opacity: .5;
+}
+.share-bar li a.facebook {
+    background: url("https://cache.boston.com/multimedia/graphics/reusable/icons/icon-facebook.svg") no-repeat;
+    height: 20px;
+    width: 20px;
+}
+.share-bar li:hover {
+    opacity: .5;
+}
+.share-bar li.darknavbar a.comment {
+    background: url("https://cache.boston.com/multimedia/graphics/reusable/icons/icon-comment-white.svg") no-repeat;
+    height: 20px;
+    width: 20px;
+}
+.share-bar li.darknavbar:hover {
+    opacity: .5;
+}
+.share-bar li.darknavbar a.twitter {
+    background: url("https://cache.boston.com/multimedia/graphics/reusable/icons/icon-twitter-white.svg") no-repeat;
+    height: 20px;
+    width: 20px;
+}
+.share-bar li.darknavbar:hover {
+    opacity: .5;
+}
+.share-bar li.darknavbar a.facebook {
+    background: url("https://cache.boston.com/multimedia/graphics/reusable/icons/icon-facebook-white.svg") no-repeat;
+    height: 20px;
+    width: 20px;
+}
+.share-bar li.darknavbar:hover {
+    opacity: .5;
+}
+
+
+
+/*breakpoints*/
+
+@media (max-width: 660px) {
+    .article-body p.special-hed {
+        font-size: 3em;
+        line-height: 1em;
+    }
+
+    #teaser i {
+        padding: 0 .5em;
+    }
+
+    .article-body p.special-subhed {
+        font-size: 1.5em;
+        line-height: 1em;
+    }
+
+    .article-body p.special-byline {
+        font-size: .875em;
+        line-height: 1.71429em;
+    }
+
+    .article-body p.special-section-hed {
+        font-size: 1.5em;
+        line-height: 1em;
+    }
+
+    .article-body p.pullquote {
+        font-size: 1.5625em;
+        line-height: 1.44em;
+    }
+
+    .article-body p {
+        margin: .5em;
+        margin-top: 0;
+        margin-bottom: 1.125em;
+    }
+
+    .article-body h3.subhead {
+        margin: .5em;
+    }
+}
+
+@media (max-width: 850px) {
+    body.type-internal div#contain {
+        margin-top: 36px;
+    }
+
+    .article-body .wide .icon-view-fullimage {
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {
+    a.teaser-story {
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: .5em;
+    }
+
+    .article-body .videoplayer object {
+        max-height: 200px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+globe.specialArticle = function() {
+	var NAV_HEIGHT = 36;
+	var DESKTOP_BREAKPOINT = 960;
+
+	function init() {
+		if(console && console.log) { console.log('v0.2.0'); }
+		
+		for(var feature in setup) {
+			setup[feature]();
+		}
+	}
+
+	var setup = {
+		social: function() {
+			var href = window.location.href;
+			var title = $('.special-hed').text().trim();
+			var	text = encodeURIComponent(title + " via @BostonGlobe "),
+				twitter = 'https://twitter.com/intent/tweet?text=' + text + '&url=' + encodeURI(href),
+				facebook = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURI(href);
+
+			$('.share-bar .twitter').attr('href', twitter);
+			$('.share-bar .facebook').attr('href', facebook);
+		},
+
+		teaseData: function() {
+			if(window.teaserData) {
+				var html = '';
+				html += '<div class="teaser-title">' + teaserData.title + '</div>';
+
+				teaserData.stories.forEach(function(story) {
+					html += '<a class="teaser-story" target="_blank" href="' + story.url + '">';
+					html += '<div class="teaser-image">';
+					html += '<img src="' + story.image + '">';
+					html += '</div>';
+					html += '<div class="teaser-headline">' + story.headline + '</div>';
+					html += '</a>';
+				});
+
+				$('#teaser').append(html);
+			}
+		},
+
+		bigLeadImage: function() {
+			if(window.specialOptions) {
+				var bigLeadImage = specialOptions.bigleadimage || false;
+
+				if(bigLeadImage) {
+					$('.article-body .wide').first().addClass('fullwidth');
+					$('body.type-internal div#contain').addClass('fullwidth');
+				}
+			}
+		},
+
+		comments: function() {
+			if(window.specialOptions) {
+				var enabled = specialOptions.comments || false;
+				if(enabled) {
+					var href = $('.js-comments-toggle').attr('href');
+					$('.comment').attr('href', href);
+
+					globe.onDefine('window.jQuery && $(".article-footer").length', function() {
+						$('.article-footer').addClass('commentsOn');
+					});
+				} else {
+					$('.comment').remove();
+				}
+			} else {
+				$('.comment').remove();
+			}
+		},
+
+		darkNavBar: function() {
+			if(window.specialOptions) {
+				var darkNavBar = window.specialOptions.darknavbar || false;
+				if(darkNavBar) {
+					$('.special-header').addClass('darknavbar');
+					$('.special-header .share-bar li').addClass('darknavbar');
+					var white = $('.bg-logo img').attr('src').replace('logo-full', 'logo-full-white');
+					$('.bg-logo img').attr('src', white);
+				}
+			}
+		},
+
+		viewFullImage: function() {
+			// if(window.specialOptions) {
+			// 	var viewFull = window.specialOptions.viewfull || true;
+			// 	var bigEnough = getWindowWidth() < DESKTOP_BREAKPOINT ? false : true;
+
+				//temporarily disabled
+				
+				// if(viewFull && bigEnough) {
+				// 	var images = $('.article-body .wide').not('.article-body .wide:first');
+				// 	images.each(function() {
+				// 		var src = $(this).find('img').attr('data-fullsrc');
+				// 		src = src.replace('image_835w', 'image_1920w');
+				// 		var html = window.JST['fullimage.template']({src: src});
+				// 		$(this).prepend(html);
+				// 	});
+
+				// 	setup.viewFullEvents();
+				// }
+			// }
+		},
+
+		viewFullEvents: function() {
+			// $('.article-body .wide').on('click', '.icon-view-fullimage', function() {
+			// 	var src = $(this).attr('data-src');
+			// 	var html = '<img class="fullimage" src="' + src + '">';
+			// 	$('#fullimage-container .image-container').empty().append(html);
+			// 	$('#fullimage-container').removeClass('hide');
+			// });
+
+			// $('#fullimage-container').on('click', function() {
+			// 	$(this).addClass('hide');
+			// });
+
+			// $('.icon-close').on('click', function() {
+			// 	$('#fullimage-container').addClass('hide');
+			// });
+		},
+
+		resize: function() {
+			$(window).on('resize', resize);
+			resize();
+		}
+	};
+
+	function resize() {
+		var windowHeight = $(window).height();
+		$('#fullimage-container').css('height', windowHeight);
+	}
+
+	function getWindowWidth() {
+		return $(window).width();
+	}
+
+	init();
+};
+
+globe.onDefine('window.jQuery && $("#special-article").length', function() {
+	globe.specialArticle();
+});
+
+
+
+
+
+
+Get Today’s Headlines from the Globe in your inbox: 
+
+Please enter a valid email address
+
+Thank you for subscribing to Today's Headlines!
+
+© 2016 Boston Globe Media Partners, LLC
+
+Enjoy your second free article
+
+
+	         Subscriber   Log In
+
+
+subscriber log in
+
+Already a subscriber? Log in
+
+Boston Globe Trump front page: The GOP must stop Trump
+
+If you donât rent to criminals, are you a racist?
+
+BC janitor to see fifth child graduate from the college
+
+Arresting words
+
+Continue reading by subscribing to BostonGlobe.com for just 99¢.
+
+Continue reading by subscribing to Globe.com for just $.99Â¢
+

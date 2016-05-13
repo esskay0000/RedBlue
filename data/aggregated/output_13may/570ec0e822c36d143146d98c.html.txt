@@ -1,0 +1,514 @@
+
+
+Democratic presidential candidate Senator Bernie Sanders (AP Photo / Pablo Martinez Monsivais)
+
+Climate scientists, economists, and the American people overwhelmingly agree on the danger of human-induced climate change. While economists initially resisted policies to combat climate change on the basis of its price tag, the tide is changing. The question today is not whether we can afford to reduce carbon emissions, but rather if we can find the political will to do so.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208737-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Unfortunately for us and the planet, most US politicians show little interest in transitioning away from fossil fuels. While President Obama’s executive actions to increase fuel-economy standards and reduce power-plant emissions are steps in the right direction, they are small steps and we have a very long way to go. Combating climate change should be a central issue in the current presidential election. However, the Republicans actually promise to further deregulate the fossil fuel industry and accelerate climate change. Only the Democrats say that bold action is necessary—and they differ drastically on the meaning of “bold.”				
+					
+					
+Just how much do the Democratic presidential candidates differ? It’s hard to tell from their talking points—both argue for swift action and for making America a leader in the green-energy transition. Secretary Clinton wants to “reduce greenhouse gas emissions by up to thirty percent in 2025 relative to 2005,” which would meet the commitments the US made at the 2015 Paris climate change conference. However, it isn’t quite clear how Clinton would achieve this goal, and the campaign did not respond to our request for details. Her go-to campaign promise is to install half a billion solar panels, which she claims would be sufficient to power the national grid with 100 percent renewable electricity.				
+					
+					
+While Clinton plays into popular rhetoric around building renewable energy sources, she has not taken bold action to phase out fossil fuels. She was slow to resist the Keystone pipeline, which would have transported particularly dirty fossil fuels from the Alberta tar sands through the United States. Clinton did not oppose that project when it fell under her jurisdiction as secretary of state, and she only came out against the pipeline as a candidate in the Democratic primary last September. President Obama quickly followed her lead, but the events raise doubts about Clinton’s commitment to addressing climate change when she is in office rather than on the campaign trail.				
+					
+					
+Clinton has also taken a stance in favor of natural-gas fracturing, which she helped spread around the globe as secretary of state. Although natural gas burns more cleanly than coal, fracking may exacerbate global warming due to methane leaks. The Democratic primary debate on March 6 highlighted this policy difference when the candidates were asked if they support fracking. Clinton gave a long-winded answer, saying that she supports fracking as long as it meets a list of standards. Sanders’s response: “My answer is a lot shorter. No. I do not support fracking”.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The most important difference between Clinton and Sanders on climate change concerns whether the United States should put a price on carbon. Clinton has repeatedly skirted the issue, and she offers no plan to tax or cap carbon emissions. Sanders, on the other hand, strongly supports putting a price on carbon, harnessing market forces to address climate change. That’s right—of all the candidates for president, it is the democratic socialist who wants to use the market to reduce carbon emissions.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208737			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+Unfortunately for us and the planet, most US politicians show little interest in transitioning away from fossil fuels. While President Obama’s executive actions to increase fuel-economy standards and reduce power-plant emissions are steps in the right direction, they are small steps and we have a very long way to go. Combating climate change should be a central issue in the current presidential election. However, the Republicans actually promise to further deregulate the fossil fuel industry and accelerate climate change. Only the Democrats say that bold action is necessary—and they differ drastically on the meaning of “bold.”				
+					
+					
+Just how much do the Democratic presidential candidates differ? It’s hard to tell from their talking points—both argue for swift action and for making America a leader in the green-energy transition. Secretary Clinton wants to “reduce greenhouse gas emissions by up to thirty percent in 2025 relative to 2005,” which would meet the commitments the US made at the 2015 Paris climate change conference. However, it isn’t quite clear how Clinton would achieve this goal, and the campaign did not respond to our request for details. Her go-to campaign promise is to install half a billion solar panels, which she claims would be sufficient to power the national grid with 100 percent renewable electricity.				
+					
+					
+While Clinton plays into popular rhetoric around building renewable energy sources, she has not taken bold action to phase out fossil fuels. She was slow to resist the Keystone pipeline, which would have transported particularly dirty fossil fuels from the Alberta tar sands through the United States. Clinton did not oppose that project when it fell under her jurisdiction as secretary of state, and she only came out against the pipeline as a candidate in the Democratic primary last September. President Obama quickly followed her lead, but the events raise doubts about Clinton’s commitment to addressing climate change when she is in office rather than on the campaign trail.				
+					
+					
+Clinton has also taken a stance in favor of natural-gas fracturing, which she helped spread around the globe as secretary of state. Although natural gas burns more cleanly than coal, fracking may exacerbate global warming due to methane leaks. The Democratic primary debate on March 6 highlighted this policy difference when the candidates were asked if they support fracking. Clinton gave a long-winded answer, saying that she supports fracking as long as it meets a list of standards. Sanders’s response: “My answer is a lot shorter. No. I do not support fracking”.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The most important difference between Clinton and Sanders on climate change concerns whether the United States should put a price on carbon. Clinton has repeatedly skirted the issue, and she offers no plan to tax or cap carbon emissions. Sanders, on the other hand, strongly supports putting a price on carbon, harnessing market forces to address climate change. That’s right—of all the candidates for president, it is the democratic socialist who wants to use the market to reduce carbon emissions.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208737			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+Just how much do the Democratic presidential candidates differ? It’s hard to tell from their talking points—both argue for swift action and for making America a leader in the green-energy transition. Secretary Clinton wants to “reduce greenhouse gas emissions by up to thirty percent in 2025 relative to 2005,” which would meet the commitments the US made at the 2015 Paris climate change conference. However, it isn’t quite clear how Clinton would achieve this goal, and the campaign did not respond to our request for details. Her go-to campaign promise is to install half a billion solar panels, which she claims would be sufficient to power the national grid with 100 percent renewable electricity.				
+					
+					
+While Clinton plays into popular rhetoric around building renewable energy sources, she has not taken bold action to phase out fossil fuels. She was slow to resist the Keystone pipeline, which would have transported particularly dirty fossil fuels from the Alberta tar sands through the United States. Clinton did not oppose that project when it fell under her jurisdiction as secretary of state, and she only came out against the pipeline as a candidate in the Democratic primary last September. President Obama quickly followed her lead, but the events raise doubts about Clinton’s commitment to addressing climate change when she is in office rather than on the campaign trail.				
+					
+					
+Clinton has also taken a stance in favor of natural-gas fracturing, which she helped spread around the globe as secretary of state. Although natural gas burns more cleanly than coal, fracking may exacerbate global warming due to methane leaks. The Democratic primary debate on March 6 highlighted this policy difference when the candidates were asked if they support fracking. Clinton gave a long-winded answer, saying that she supports fracking as long as it meets a list of standards. Sanders’s response: “My answer is a lot shorter. No. I do not support fracking”.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The most important difference between Clinton and Sanders on climate change concerns whether the United States should put a price on carbon. Clinton has repeatedly skirted the issue, and she offers no plan to tax or cap carbon emissions. Sanders, on the other hand, strongly supports putting a price on carbon, harnessing market forces to address climate change. That’s right—of all the candidates for president, it is the democratic socialist who wants to use the market to reduce carbon emissions.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208737			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+While Clinton plays into popular rhetoric around building renewable energy sources, she has not taken bold action to phase out fossil fuels. She was slow to resist the Keystone pipeline, which would have transported particularly dirty fossil fuels from the Alberta tar sands through the United States. Clinton did not oppose that project when it fell under her jurisdiction as secretary of state, and she only came out against the pipeline as a candidate in the Democratic primary last September. President Obama quickly followed her lead, but the events raise doubts about Clinton’s commitment to addressing climate change when she is in office rather than on the campaign trail.				
+					
+					
+Clinton has also taken a stance in favor of natural-gas fracturing, which she helped spread around the globe as secretary of state. Although natural gas burns more cleanly than coal, fracking may exacerbate global warming due to methane leaks. The Democratic primary debate on March 6 highlighted this policy difference when the candidates were asked if they support fracking. Clinton gave a long-winded answer, saying that she supports fracking as long as it meets a list of standards. Sanders’s response: “My answer is a lot shorter. No. I do not support fracking”.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The most important difference between Clinton and Sanders on climate change concerns whether the United States should put a price on carbon. Clinton has repeatedly skirted the issue, and she offers no plan to tax or cap carbon emissions. Sanders, on the other hand, strongly supports putting a price on carbon, harnessing market forces to address climate change. That’s right—of all the candidates for president, it is the democratic socialist who wants to use the market to reduce carbon emissions.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208737			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+Clinton has also taken a stance in favor of natural-gas fracturing, which she helped spread around the globe as secretary of state. Although natural gas burns more cleanly than coal, fracking may exacerbate global warming due to methane leaks. The Democratic primary debate on March 6 highlighted this policy difference when the candidates were asked if they support fracking. Clinton gave a long-winded answer, saying that she supports fracking as long as it meets a list of standards. Sanders’s response: “My answer is a lot shorter. No. I do not support fracking”.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The most important difference between Clinton and Sanders on climate change concerns whether the United States should put a price on carbon. Clinton has repeatedly skirted the issue, and she offers no plan to tax or cap carbon emissions. Sanders, on the other hand, strongly supports putting a price on carbon, harnessing market forces to address climate change. That’s right—of all the candidates for president, it is the democratic socialist who wants to use the market to reduce carbon emissions.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208737			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+I Used to Support Bernie, but Then I Changed My Mind
+
+Bernie Rocks Buffalo. He Also Did Something Else.
+
+Hundreds of People Were Just Arrested Outside Congress
+
+Sanders Is for Schmucks
+
+We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+
+The most important difference between Clinton and Sanders on climate change concerns whether the United States should put a price on carbon. Clinton has repeatedly skirted the issue, and she offers no plan to tax or cap carbon emissions. Sanders, on the other hand, strongly supports putting a price on carbon, harnessing market forces to address climate change. That’s right—of all the candidates for president, it is the democratic socialist who wants to use the market to reduce carbon emissions.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208737			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Sanders introduced legislation in December that would impose a $15 fee per metric ton of carbon emissions in 2017, and gradually raise the fee to $50 in 2030, with the aim of reducing carbon emissions by 40 percent in 2030. Although this tax would be imposed on carbon fuels as they enter the economy—when they are extracted from the ground or imported from abroad—the cost would ultimately be passed on to each and every American in the form of higher prices based on the carbon intensity of goods. This is a feature, not a bug. To seriously address climate change, we need every citizen and every business to think about how they can reduce their emissions, and a carbon fee provides everyone with an incentive to do so. That is why many countries have adopted a carbon tax to help meet their emission targets. For example, Switzerland’s CO2 law sets a carbon tax rate that increases whenever emissions reductions fall short of quantitative targets; the amount of the increase is calibrated to the extent of the shortfalls.				
+					
+					
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+Sanders’s market-based approach has the support of the overwhelming majority of economists—left, right, and center. In a recent survey, 90 percent of top economists agreed or strongly agreed that implementing a carbon tax “would be a less expensive way to reduce carbon-dioxide emissions than would a collection of policies such as ‘corporate average fuel economy’ requirements” or—for that matter—the installation of half a billion solar panels. The reason for this is straightforward. Since American businesses and consumers today don’t currently pay a price to emit a ton of carbon, save for in a few places in the Bay Area and Colorado, it is not clear what the cheapest ways to reduce emissions might be. Building solar panels would reduce emissions, but so would setting up wind turbines, or installing efficient appliances, or encouraging transit by bike, or turning down the AC. No one really knows what the least disruptive routes to a low-carbon economy will be, but putting a price on carbon will empower everyone to search for them.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208737-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+Establishing an effective climate policy is not just a matter of crafting a bill that will pass Congress. It also requires designing a policy that will win public support that is wide and deep enough to endure over the decades needed to complete the clean-energy transition.				
+					
+					
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+Economists support carbon taxes (or permit trading schemes) because they are efficient policies that reduce emissions in a cost-effective way, but they often ignore that these policies are also regressive—disproportionately falling on poor and working-class households. Putting a price on carbon burdens the poor more than the affluent, because the poor spend a higher percentage of their incomes on filling up their cars and heating and cooling their homes.				
+			
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+ 
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+
+							Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans.
+						
+
+
+The good news is that there is a policy design that can overcome this political challenge: returning the money from carbon pricing to the people as dividends, or what economists call “lump sum payments.” Sanders’s plan would rebate most of carbon tax revenues to poor and middle-class Americans on an equal per-capita basis. Although Americans earning above $100,000 would receive little or no dividend, most households would receive a dividend that exceeds their carbon tax burden. Quarterly carbon-dividend payments would be highly visible, and research conducted by one of the authors of this article shows that these dividends ensure that a substantial majority of Americans benefit from climate policy in sheer pocketbook terms: What they receive in dividends would exceed what they pay in higher prices. This will be crucial to maintaining public support for our transition away from fossil fuels.				
+					
+					
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+The bad news is that these advantages come with an opportunity cost: Every dollar of carbon revenue that is returned to the people as dividends means one less dollar available for the pet priorities of special interests. Legislators and lobbyists of all stripes may not agree on much, but one thing on which do agree is that they have better uses for money than simply handing it over to the people. Of course, they disagree sharply on exactly what these “better uses” would be. As each faction champions their own special interests, the people are forgotten. Meanwhile advocates for the public interest in a durable climate policy that brings economic benefits to the majority of Americans have been, with a few laudable exceptions, missing in action. Because no lobbyists represent the people, they must represent themselves.				
+					
+					
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+The science on climate change is clear: We must act now. The economics is also clear: We should place a price on carbon emissions, and we should rebate the revenues to protect the purchasing power of working-class Americans. Whether we adopt similar action is ultimately a question of political courage. Sanders is the only presidential candidate in either party running on this platform. In doing so, he is shining a spotlight on politicians who refuse to take on the fossil-fuel industry, and he is building a movement for a common-sense, market-based solution. But Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations.				
+					
+					
+		
+
+ Mark Paul
+Twitter
+ Mark Paul is a Research Affiliate at the Samuel DuBois Cook Center on Social Equity, Duke University. He also teaches economics at the University of Massachusetts Amherst.
+
+ Anders Fremstad
+ Anders Fremstad is an Assistant Professor of Economics at Colorado State University.
+
+ James K. Boyce
+ James K. Boyce is a Professor of Economics at University of Massachusetts Amherst.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+﻿"Sanders will not and cannot do it alone. Regardless of who wins the Democratic nomination, or the general election, Americans must mobilize to insist that their representatives put a price on carbon and protect the interests of both working Americans and future generations." 
+Join the mobilization - with Citizens&apos; Climate Lobby!
+
+Hillary is way too pragmatic and "poll-sensitive" to bring about the changes our country and world require. She will not even release the texts of her "energy company speeches". And NYC&apos;s guns come from all over. Many come from upstate NY. Only a small percentage come from VT. The DNC is trying to manipulate this entire election to benefit only Clinton.
+
+If we still have time to reverse the self-destructive consequences of climate change we the people will have to bypass the politicians and the market, and raze the vertical economy. http://thelastwhy.ca/poems/2012/12/13/economy.html
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

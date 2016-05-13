@@ -1,0 +1,351 @@
+
+
+Republican presidential candidate Donald Trump speaks at a primary-night news conference, May 3, 2016, in New York. (AP Photo / Mary Altaffer)
+
+#NeverTrump is dead. Long live #NeverTrump.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211352-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Less than a week ago the major players in the âNever Donald Trumpâ movement were boasting to reporters about their big ad buys in Indianaâat least $3.2 million in the stateâas evidence of their might and will. By Monday, some were sheepishly confessing to MSNBCâs Kasie Hunt that they already knew they had failed, in advance of the Indiana results. But they failed way bigger than any of them dreamed: After Trump carried Indiana, the last official standard-bearer of #NeverTrump hopes and dreams, Senator Ted Cruz, dropped out of the race.		
+That followed what might have been the most brutal 12 hours of the campaign to date, as Trump accused Cruzâs father of having a hand in the assassination of President John F. Kennedy, and Cruz branded Trump an âamoral pathological liarâ and said that unless he was stopped, âthis country could well plunge into the abyss.â Such histrionics donât jibe with dropping out of the race hours later, but nothing has gone predictably in this 2016 GOP presidential primary.		
+Of course, #NeverTrump never should have been necessary: GOP leaders have boasted since 2012 about the âdeep benchâ of contenders that would vie for the nomination in 2016. But all 16 of the non-Trumpsâsenators, governors, and ex-governors; Tea Partiers and moderatesâhave fallen. (Ohio Governor John Kasich, who won only 8 percent in the state that borders his home, is in a horror movie where heâs dead but he doesnât know it yet.) Once a âStop Trumpâ movement came to seem necessary, it was already doomed, because its hopes rested with Cruz, who vies with Trump for the title of the most hated man in the GOP today. With his silly Ted tricks, faux filibuster, and actual government shutdown, Cruz made himself the leader of culturally conservative Christian evangelicals, a large bloc within the GOP. Yet âTwo Corinthiansâ Trump often outpolled him among evangelicals in states he won, including Indiana. (It may turn out they are less pro-Jesus than anti-Obama.)		
+Cruz dropped out unexpectedly, but for the same reason Senator Marco Rubio didâheâs looking at making another run in 2020. That was the other problem with #NeverTrump: Many of the GOP candidates seemed to dislike one another as much as they dislike Trump, and rivalry made it impossible for them to coalesce behind the strongest candidate in the group.		
+But the biggest problem with the futile effort to stop Donald Trump was this: Heâs giving a large plurality, if not a majority, of Republican voters exactly what they want, a simplistic, say-anything, nativist tough guy who channels their rage and their fear. Watching the call and response at his campaign ralliesââWhat are we gonna build?â âA wall!â âWhoâs gonna pay for it?â âMexico!ââhas been an alarming window into the angry magical thinking that animates Trumpâs base. Trumpâs shocking political positionsâbanning Muslims from entering the United States, deporting undocumented immigrantsâare now supported by large majorities of GOP voters.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+Less than a week ago the major players in the âNever Donald Trumpâ movement were boasting to reporters about their big ad buys in Indianaâat least $3.2 million in the stateâas evidence of their might and will. By Monday, some were sheepishly confessing to MSNBCâs Kasie Hunt that they already knew they had failed, in advance of the Indiana results. But they failed way bigger than any of them dreamed: After Trump carried Indiana, the last official standard-bearer of #NeverTrump hopes and dreams, Senator Ted Cruz, dropped out of the race.		
+That followed what might have been the most brutal 12 hours of the campaign to date, as Trump accused Cruzâs father of having a hand in the assassination of President John F. Kennedy, and Cruz branded Trump an âamoral pathological liarâ and said that unless he was stopped, âthis country could well plunge into the abyss.â Such histrionics donât jibe with dropping out of the race hours later, but nothing has gone predictably in this 2016 GOP presidential primary.		
+Of course, #NeverTrump never should have been necessary: GOP leaders have boasted since 2012 about the âdeep benchâ of contenders that would vie for the nomination in 2016. But all 16 of the non-Trumpsâsenators, governors, and ex-governors; Tea Partiers and moderatesâhave fallen. (Ohio Governor John Kasich, who won only 8 percent in the state that borders his home, is in a horror movie where heâs dead but he doesnât know it yet.) Once a âStop Trumpâ movement came to seem necessary, it was already doomed, because its hopes rested with Cruz, who vies with Trump for the title of the most hated man in the GOP today. With his silly Ted tricks, faux filibuster, and actual government shutdown, Cruz made himself the leader of culturally conservative Christian evangelicals, a large bloc within the GOP. Yet âTwo Corinthiansâ Trump often outpolled him among evangelicals in states he won, including Indiana. (It may turn out they are less pro-Jesus than anti-Obama.)		
+Cruz dropped out unexpectedly, but for the same reason Senator Marco Rubio didâheâs looking at making another run in 2020. That was the other problem with #NeverTrump: Many of the GOP candidates seemed to dislike one another as much as they dislike Trump, and rivalry made it impossible for them to coalesce behind the strongest candidate in the group.		
+But the biggest problem with the futile effort to stop Donald Trump was this: Heâs giving a large plurality, if not a majority, of Republican voters exactly what they want, a simplistic, say-anything, nativist tough guy who channels their rage and their fear. Watching the call and response at his campaign ralliesââWhat are we gonna build?â âA wall!â âWhoâs gonna pay for it?â âMexico!ââhas been an alarming window into the angry magical thinking that animates Trumpâs base. Trumpâs shocking political positionsâbanning Muslims from entering the United States, deporting undocumented immigrantsâare now supported by large majorities of GOP voters.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+That followed what might have been the most brutal 12 hours of the campaign to date, as Trump accused Cruzâs father of having a hand in the assassination of President John F. Kennedy, and Cruz branded Trump an âamoral pathological liarâ and said that unless he was stopped, âthis country could well plunge into the abyss.â Such histrionics donât jibe with dropping out of the race hours later, but nothing has gone predictably in this 2016 GOP presidential primary.		
+Of course, #NeverTrump never should have been necessary: GOP leaders have boasted since 2012 about the âdeep benchâ of contenders that would vie for the nomination in 2016. But all 16 of the non-Trumpsâsenators, governors, and ex-governors; Tea Partiers and moderatesâhave fallen. (Ohio Governor John Kasich, who won only 8 percent in the state that borders his home, is in a horror movie where heâs dead but he doesnât know it yet.) Once a âStop Trumpâ movement came to seem necessary, it was already doomed, because its hopes rested with Cruz, who vies with Trump for the title of the most hated man in the GOP today. With his silly Ted tricks, faux filibuster, and actual government shutdown, Cruz made himself the leader of culturally conservative Christian evangelicals, a large bloc within the GOP. Yet âTwo Corinthiansâ Trump often outpolled him among evangelicals in states he won, including Indiana. (It may turn out they are less pro-Jesus than anti-Obama.)		
+Cruz dropped out unexpectedly, but for the same reason Senator Marco Rubio didâheâs looking at making another run in 2020. That was the other problem with #NeverTrump: Many of the GOP candidates seemed to dislike one another as much as they dislike Trump, and rivalry made it impossible for them to coalesce behind the strongest candidate in the group.		
+But the biggest problem with the futile effort to stop Donald Trump was this: Heâs giving a large plurality, if not a majority, of Republican voters exactly what they want, a simplistic, say-anything, nativist tough guy who channels their rage and their fear. Watching the call and response at his campaign ralliesââWhat are we gonna build?â âA wall!â âWhoâs gonna pay for it?â âMexico!ââhas been an alarming window into the angry magical thinking that animates Trumpâs base. Trumpâs shocking political positionsâbanning Muslims from entering the United States, deporting undocumented immigrantsâare now supported by large majorities of GOP voters.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+Of course, #NeverTrump never should have been necessary: GOP leaders have boasted since 2012 about the âdeep benchâ of contenders that would vie for the nomination in 2016. But all 16 of the non-Trumpsâsenators, governors, and ex-governors; Tea Partiers and moderatesâhave fallen. (Ohio Governor John Kasich, who won only 8 percent in the state that borders his home, is in a horror movie where heâs dead but he doesnât know it yet.) Once a âStop Trumpâ movement came to seem necessary, it was already doomed, because its hopes rested with Cruz, who vies with Trump for the title of the most hated man in the GOP today. With his silly Ted tricks, faux filibuster, and actual government shutdown, Cruz made himself the leader of culturally conservative Christian evangelicals, a large bloc within the GOP. Yet âTwo Corinthiansâ Trump often outpolled him among evangelicals in states he won, including Indiana. (It may turn out they are less pro-Jesus than anti-Obama.)		
+Cruz dropped out unexpectedly, but for the same reason Senator Marco Rubio didâheâs looking at making another run in 2020. That was the other problem with #NeverTrump: Many of the GOP candidates seemed to dislike one another as much as they dislike Trump, and rivalry made it impossible for them to coalesce behind the strongest candidate in the group.		
+But the biggest problem with the futile effort to stop Donald Trump was this: Heâs giving a large plurality, if not a majority, of Republican voters exactly what they want, a simplistic, say-anything, nativist tough guy who channels their rage and their fear. Watching the call and response at his campaign ralliesââWhat are we gonna build?â âA wall!â âWhoâs gonna pay for it?â âMexico!ââhas been an alarming window into the angry magical thinking that animates Trumpâs base. Trumpâs shocking political positionsâbanning Muslims from entering the United States, deporting undocumented immigrantsâare now supported by large majorities of GOP voters.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+Cruz dropped out unexpectedly, but for the same reason Senator Marco Rubio didâheâs looking at making another run in 2020. That was the other problem with #NeverTrump: Many of the GOP candidates seemed to dislike one another as much as they dislike Trump, and rivalry made it impossible for them to coalesce behind the strongest candidate in the group.		
+But the biggest problem with the futile effort to stop Donald Trump was this: Heâs giving a large plurality, if not a majority, of Republican voters exactly what they want, a simplistic, say-anything, nativist tough guy who channels their rage and their fear. Watching the call and response at his campaign ralliesââWhat are we gonna build?â âA wall!â âWhoâs gonna pay for it?â âMexico!ââhas been an alarming window into the angry magical thinking that animates Trumpâs base. Trumpâs shocking political positionsâbanning Muslims from entering the United States, deporting undocumented immigrantsâare now supported by large majorities of GOP voters.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+But the biggest problem with the futile effort to stop Donald Trump was this: Heâs giving a large plurality, if not a majority, of Republican voters exactly what they want, a simplistic, say-anything, nativist tough guy who channels their rage and their fear. Watching the call and response at his campaign ralliesââWhat are we gonna build?â âA wall!â âWhoâs gonna pay for it?â âMexico!ââhas been an alarming window into the angry magical thinking that animates Trumpâs base. Trumpâs shocking political positionsâbanning Muslims from entering the United States, deporting undocumented immigrantsâare now supported by large majorities of GOP voters.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+Why Bernie Didnât Get My Vote
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+This Is What Happens When Republican Voters Get What They Want
+
+Thatâs at least partly thanks to the fact that his GOP rivals often aped his ugly stances. The same Ted Cruz who called Trump an âamoral pathological liarâ proclaimed last fall: âI have been glad to praise Donald Trump for speaking out boldly and brashly and for focusing on illegal immigration.â The same Mitt Romney who belatedly denounced Trump in 2016 sought his endorsement, and thus endorsed his ugly birtherism, in 2012. In a post widely shared on social media Tuesday, Red State editor and staunch #NeverTrump promoter Ben Howe took partial blame for ignoring the strain of paranoia and racism that had infected his party. âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,ââ Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â This is Trumpâs party now, and Republicans who oppose him have to figure out what to do about it, as he threatens to make the GOP even more explicitly a vehicle for identity politics for white people.		
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+One question is, does #NeverTrump evolve into #RepublicansforHillary, which is the most viable âStop Trumpâ play left? In the last week, despite the boasting of the funded anti-Trump groups, a lot of folks have weakened, most notably Bill Kristol. âOn the one hand, Iâll say #NeverTrump, and on the other hand, Iâll say never say never,â Of course, when Always-Wrong Kristol joined #NeverTrump, it was a sure sign the New York blowhard would be the nominee.						
+			.article-wrap .article-body aside.left.custom_background_211352			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+But on Tuesday night, as #RepublicansforHillary trended, some noteworthy Republicans moved from #NeverTrump to âIâm with her.â Former John McCain speechwriter Mark Salter and Red Stateâs Ben Howe both came out as not merely anti-Trump but pro-Clinton when Cruz dropped out. Nebraska Senator Ben Sasse continued to urge Republicans to find a third-party challenger. But expect most Republicans to unite behind Trump. Ineffectual Republican National Committee chair Reince Priebus set the tone on Wednesday morning. âYou know what, I think something different and something new is probably good for our party,â he told CNN. âLook, I donât think anyone predicted what happened. So, look, weâre here. Weâre going to get behind the presumptive nominee.â Thatâs the kind of bold leadership that got the GOP where it is today: hopelessly broken.		
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+I believe the close-to-presumptive Democratic nominee, Hillary Clinton, will beat Trump decisively in November. Right now, heâs viewed negatively by three-quarters of voters who arenât white, two-thirds of women, and 70 percent of voters under 35. Clinton leads Trump by 26 points among women in the latest CNN poll. But Trump is stronger, with an important demographic: the media. Iâm not one who blames the media for his rise; his shocking campaign has been the biggest story of the last year, and it deserved to be widely covered. But the blanket Trump coverage favored shock over substance, and let him control entire news cycles with a single cruel tweet. Now his every move toward being âpresidentialâ will be taken seriously by a political press that yearns for a horse race and doesnât like Clinton. Just the most recent case in point: the fact that he accused a rivalâs father of having a role in the Kennedy assassination was treated as clickbait, rather than a claim that ought to have been disqualifying.		
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen.		
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+Updated at 12:27 pm: After vowing to fight on Tuesday night, Kasich abruptly canceled his public events Wednesday, and sources confirmed that he will suspend his campaign. Donald Trump has now defeated all 16 of his GOP foes.		
+		
+
+ Joan Walsh
+Twitter
+ Joan Walsh, The Nationâs National Affairs Correspondent, is the author of Whatâs the Matter With White People? Finding Our Way in the Next America.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Trump appears to have spent time studying how Ronald Reagan became the GOP nominee and get elected as president. Same heavy handed approach to foreign policy matters and same racism, though Reagan was careful to use code words to show his support for white supremacists and christian evangelicals like Oliver North. The KKK endorsed Ronald Reagan for president and Reagan supported the apartheid government of South Africa (much as Trump and Hillary support the apartheid government of Israel).
+
+The major purpose a political party serves for its electorate is to provide a credible system for vetting its aspirants. The Republican party failed this test and will now suffer the consequences.
+
+Ms. Walsh,
+You have no right to criticize the bad choices made by Republicans. You support Hillary Clinton, who is a neocon and a neoliberal, not a progressive. She is a shill for the 1% and the enemy of the rest of us. These facts are well established by her past policies and acts and clearly show that her attempt to disguise herself as a progressive is laughable. I am very disappointed to see intelligent women support Hillary Clinton because she is a woman rather than basing their decisions on the facts. Yes, I have read the articles in which you and others attempt to justify your conclusion that HC is a bona fide progressive. None of them are credible and most are grounded on some ancient historical statement or act that is rendered moot by years of recent history in which HC has clearly shown that she is the enemy of the people. Shame on you. You have no credibility.
+
+truth!
+
+excellent!
+
+Cracked everyone up at dinner by simply declaiming, âI, Donald J Trump, do solemnly swear that I will faithfully execute the office of the President of the United States, and will to the best of my ability preserve, protect and defend the Constitution.â (Then for good measure I added, âBelieve me.â) It will take a while for the sense of absurdity provoked by the idea of Trump being sworn in to fade away, if it ever does, but now, conversely, it also feels that the tailboard has dropped. Suddenly itâs very real that Hillary shoulders a heavy responsibility and itâs clear that all right-thinking people should get behind her candidacy, whether they like her or not as a person, a politician or a brand. Trumpism may still provoke laughter but itâs gone beyond a joke.
+
+Nowhere in this piece is any mention of Bernie&apos;s decisive 5% victory over Clinton last night in Indiana. It&apos;s the usual denial among Hillary&apos;s supporters; if we don&apos;t mention it, it didn&apos;t happen, or it it happened, it doesn&apos;t matter. The online NYT headline last night was: "Bernie Sanders Wins Indiana as Hillary Clinton nears nomination." Again, it&apos;s the propaganda machine at work, and it has backfired. The main reason Trump has prevailed this season is that the MSM has been so obsessed with burying any good news about Bernie that they&apos;ve gone into overdrive focusing on Trump. In fact, when Bernie was making a speech, CNN cut away after he&apos;d barely started and opened to an empty room with Trump&apos;s empty podium. That happens all the time. Interesting that CNN&apos;s parent company, Time Warner, is one of Hillary&apos;s top donors. Nobody on "Morning Joe,"  - MSNBC - even mentioned Bernie&apos;s victory last night; the parent company is Comcast, which recently held a fundraise for Clinton with tickets at $50K each. So what does Joan Walsh write about the day after Bernie&apos;s victory? Trump! It doesn&apos;t matter if Trump gets negative publicity, because as the old saying goes, any publicity is good publicity. In fact, the more reviled Trump is among the so-called liberal media, the more his votes he gets. It&apos;s been a sickening display of plutocracy controlled propaganda this primary season, to those of us with open eyes.  JW closes with: "This will be a race so ugly that those of us covering it will have to shower twice a day, and ultimately, anything can happen." Well, this is what you all asked for - a candidate in Hillary who is so flawed and has so much opposition research from which to draw, that Trump will have a field day. It&apos;s the fault of the MSM and DNC that we are stuck with two of the most reviled candidates in history, in a country of 320 million. And now what? We are all supposed to step in line behind the candidate that has been forced upon us, out of fear of the monster you all have created? No way!
+
+My facebook post when I heard the news: "Donald Trump has now defeated all 16 of his GOP foes." Yikes!
+
+Well, my Republican friends, the race is definitively over for your party. Maybe now many of you will realize, like I did not too long ago, that not only is the Republican Party morally bankrupt (and has been for decades), but that Trump IS the Republican Party. When you think and research what the Republican party has historically stood for, you realize that in this election, Trump is the most logical choice for GOP candidate when you look at the base of your party and its viewpoints, talking points, and ideological stances. He may be "anti-establishment" (not really... actually that&apos;s a big lie) but he is the ultimate, definitive Republican in just about EVERY way imaginable. The only difference is that he speaks what&apos;s really on his mind... and naturally the Republican base (and party Establishment, now) agrees with him on almost everything...every isolationist, fascist, violence-inciting, ally-trashing, racist, misogynist, bigoted, immoral, outrageous thing he says and does. THIS is your party. THIS is what you identify with. THIS is what your party has been for many decades. Trump just brought it all out of the shadows and into the spotlight.
+
+For those of you who call themselves Republican and yet hate the very idea of a Trump presidency: You need to ask yourself why? Why do I abhor the idea of his presidency? Is it because of his blatant, proud immorality? Is it because of his xenophobia? His racism? His views on women? His views on reproductive rights? His fake Christianity? His views and actions towards Muslims? Is it because of the way he treats our neighboring allies? Is it because he willfully incites riots and violence? Is it because he is a rampant and incessant liar? Is it because of his confusing foreign policy that proves he has no idea what he is talking about? Is it because he could set the U.S. back 50 years in a number of ways? and so on and so forth... If you answered yes to any of those questions, might I suggest that you&apos;re not really Republican at all? Might I suggest that Trump has actually ironically helped you see the light? He has exposed the GOP for what it really is and if you don&apos;t like it, GET OUT! Stop willfully allying yourself with this political party you know is fundamentally broken and morally bankrupt. Just get out. Stop voting for them. Stop campaigning for them. Stop representing them and their ideas. I am not saying "switch to being a Democrat!" Far from it, since they are likely to elect Hillary Clinton, herself a distressing candidate (but an obviously, clearly WAAAAAAYYYY better choice than Donald Trump). I may be feeling the Bern, but I do not identify myself as Democrat. Not right now, anyway.
+
+ I urge you to vote your conscience. Both the Democratic and Republican establishments have been telling you for years that if you vote for anybody other than their two candidates come general election time, you are either "throwing away your vote" or "giving it to the other candidate". That is an insidious lie. I repeat: If you vote 3rd party you are NOT throwing away your vote! When you vote 3rd party, you are actually simultaneously giving a possibly good candidate some representation and recognition while also taking a vote away from one of the main candidates. Sending a message. I predict this election cycle will see a record number of 3rd party votes. How is it that the U S of A is actually going to vote between the two most disliked candidates in history? Literally... Donald would be the #1 most disliked in history, and that 2nd place honor goes to Hillary Clinton. âª#âfacepalmâ¬ âª#â2016electionâ¬ âª#âfeelthebern
+
+One must ask: Which is a greater breach of the voter&apos;s trust, Sanders&apos; keeping his word to the Democratic party (by not running as a third party candidate) or heeding the word of his supporters and running as the Independent he truly is? I think an independent Sanders run would be viable. Given the disgusting level of condescension from the HRC camp and its cronies, it would serve them right!
+
+And I truly believe he would win!!! This is no time to be fearful of taking a risk!!  The thought of Hillary vs Trump has everyone cringing.
+
+agree!
+
+We hear ad nauseum how Trump could pull Hillary haters. Will we NEVER hear how Sanders could pull Trump haters??
+
+Trimpeter or Trumpian
+
+Had the Democratic establishment gotten behind the honest, populist candidate in the first place instead of the one with extensive negative baggage to be exploited, (or even just had a level playing field which would have sufficed) this would not be happening. The Democratic establishment, in their bubble, completely ignored or grossly misread the tenor of the voters. One reaps what one sows.
+
+This sounds an awful lot like the rise of Nazism in Germany in the 1930&apos;s, does it not?:
+âI would cringe at something someone said, or quietly roll my eyes at a post they wrote, thinking âGosh, I canât believe they think that wayâ or âI swear that person is one tweet away from saying Obama is from Kenya,â Howe wrote. âI looked the other way, and Iâm sure many others did too, as these people rose to prominence and their microphones got louder.â 
+We as a country and electorate had better take this "he&apos;s a joke, they&apos;ll never pick him" Trump situation very, very seriously and stop his momentum here and now.  The Democratic campaign needs to speak directly to the concerns of this angry, confused and fearful white base that has lost so much and feels it has nowhere to turn but to a potentially violent strongman.  For one thing, stop touting the wonders of big corporate America and Wall Street, and start talking small town: small business, neighborhood improvements, better schools, civic groups and job training opportunities, along with a strong and clear immigration solution.  Bernie taps into this individual angst better than a jaded, elite Clinton, but she has to learn to connect with real people.  There could be an awful price to pay for all of us if she can&apos;t.
+
+If Clinton makes it to the general election, she will lose.
+
+Republicans have figured it out. They didn&apos;t leave their party. Their party left THEM! And they responded accordingly: By DUMPING their party&apos;s DONOR-BOTS and their establishment writ-large.  Democrats elected Obama only to watch him DUMP their agenda ON DAY ONE.  As always, Republicans proved that THEY are faster learners than WE are. Sanders has called for a revolution. Thanks, in large part, to our media and our own collective Hillary-hypnosis, Sanders won&apos;t be LEADING that revolution. Maybe Trump will.
+
+The Tea Baggers of the Far Right are at least one election cycle ahead of Democratic Party voters in realizing that their Party establishment has lost touch with too many of the "rank & file". Millions of Democrats are gagging on the prospect of validating HRC. Prophetically, she is already running within the margin of error against Trump, according to the latest Rassmussen Poll. We are still seven months out and she can definitely lose. If Trump picks Collin Powell as his VP mate, he will negate Clinton&apos;s advantage among Afro-voters enough to put him into the Presidency. It is only going to get worse for her because plenty of Democrats, like me, consider her to be poison, and we will gird themselves for four years of The Donald and then look to recoup. Billery Clinton is Henry Kissinger in a billowing, plaid pantsuit; a blood soaked, chicken hawk psychopath. I believe that Trump&apos;s bark will not be worse than her bite regarding the prospects for international peace.
+
+That is a real stretch to say Colin Powell as Trump&apos;s VP would win over black voters. That is very presumptuous  and really suggests you have a disregard for voters&apos; intelligence. I don&apos;t prefer Hillary Clinton either, but calling her a psychopath? Come on, now. That doesn&apos;t help. Actually, whiffs of troll.
+
+Maybe. But let us hope that Bernie&apos;s supporters understand that if they stay home in November they will in effect be voting for the ignorance, bigotry, and stupidity that have come to define the GOP.
+
+Not so sure about that.  John Boehner was right when he called Cruz "Lucifer".  Pres. Cruz would have appointed to the SCOTUS people dedicated to repealing Roe v. Wade.  Who would Trump appoint?  No one can say:  he&apos;s not Lucifer, he&apos;s the Joker, Loki, the Prankster.  He might nominate Howard Stern (as suggested by Michael Krasney on NPR&apos;s Forum program) if he thought he could get the guy Senate approval.  And would Stern vote to overturn Roe v. Wade?  I doubt it.
+
+Of course, HRC would also avoid appointing any [more] pro-coathanger-abortion "Justices" to the SCOTUS.  But she&apos;d be bound to choose people who can&apos;t tell the difference between money and speech, and who believe that corporations are people.  We know she believes that nonsense.  We don&apos;t know WHAT Trump believes, only what he&apos;s said.
+
+Ms. Walsh,
+Should Hillary be the Democratic nominee and lose to The Donald, will you and your Clinton apologist colleagues have the decency to apologize to the nation?
+
+I take it you are a Hillary supporter. If so, the best you can hope for is that we do, in fact, stay home in November. Why? Because a lot of Bernie&apos;s supporters are in the same place I am. That is, I am very seriously contemplating voting for a Republican for the first time in my life if Hillary is the Democratic nominee.
+
+No, I voted for Bernie and I have contributed to his campaign. But I&apos;m also not an idiot. If you would seriously vote for Trump over Clinton, then I would really question your intelligence. Sorry.
+
+Sander&apos;s supporters won&apos;t be to blame. The corrupt DNC is to blame. Hillary is to blame. Very few Bernie supporters will be staying home. But many will be voting their conscious by writing him in or voting third party. This fear mongering and blaming won&apos;t convince Bernie supporters to vote against their conscious for a woman that&apos;s the opposite of everything they want in a leader.
+
+And who, exactly is doing the fear mongering and blaming?
+
+My view is Sanders is the only person who can put Trump down.  The establishment has made a grave mistake backing Clinton.
+
+Check out the polling data:
+http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_sanders-5565.html
+
+I agree.  Hillary while good on a number of issues is still a war hawk which is something I just cannot support.  Fortunately there is Jill to vote for.
+
+Comment above intended as reply.
+
+Something dramatic had better happen in Philly, because I agree -- Drumpf will defeat Clinton in Nov if she&apos;s the nominee (unless the electronic voting machines are properly &apos;calibrated&apos; in her favor).
+
+Don&apos;t see how.  The Donald has angered just about everyone.  Not smart to piss off women.
+
+Nobody saw how Donald would make it past Iowa or the first debate. Good article to prove my point here https://theintercept.com/2016/05/04/beyond-schadenfreude-the-spectacular-pundit-failure-on-trump-is-worth-remembering/
+
+If Clinton is the nominee, she&apos;ll beat Trump and the Republicans will practice the same obstructionist policies that they are doing with Obama, this time using the public&apos;s dislike of her.  Any progressive change will be incremental. Sanders has a better chance to confront conservative interference with the will of the people because he does not have the unlikeability factor that Clinton has.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,127 @@
+
+	414
+      
+
+By
+
+Daily Mail Reporter
+
+
+
+Published:
+  19:40 EST, 9 May 2016
+
+ | 
+Updated:
+  12:54 EST, 10 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3581849',
+                    'title': 'Forehead zapper to ease migraine pain',
+                    'url': 'http://www.dailymail.co.uk/health/article-3581849/Forehead-zapper-ease-migraine-pain-Tiny-implant-forehead-sends-electric-pulses.html',
+                    'eTwitterStatus': ' http://dailym.ai/1rNmt5t via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+414
+shares
+
+ 
+          18
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          18
+
+View  comments
+
+
+
+A pea-sized device that produces weak pulses of electricity is being tested as a treatment for migraine.
+
+The StimRelieve Halo system consists of a tiny implant inserted into the forehead, just under the skin, and a battery which clips to the ear and sends electric pulses to it wirelessly.
+
+More than 140 people are taking part in a U.S. trial, where they will have the implant fitted, but half won't have the batteries activated. Patients can trigger an electric signal using a button on the battery.
+
+The StimRelieve Halo system consists of a tiny implant inserted into the forehead, just under the skin
+
+Migraines are thought to result from abnormal brain activity, which temporarily affects nerve signals, chemicals and blood vessels, leading to pain. The idea is that the electrical pulses block or interfere with pain signals.
+
+Could rapeseed oil lower cholesterol?
+
+Switch to rapeseed oil to cut your cholesterol levels. That's the suggestion from researchers at St Boniface General Hospital in Canada, who are leading a study of 100 people with metabolic syndrome.
+
+This condition is an early stage of cardiovascular disease, where patients have a combination of diabetes, high blood pressure and obesity. High levels of bad cholesterol can make their illness worse.
+
+Patients will add 25g of rapeseed oil, or a placebo alternative of vegetable oil, to their diet for 12 weeks, and cholesterol levels will be monitored with blood tests.
+
+Switch to rapeseed oil to cut your cholesterol levels. That's the suggestion from researchers
+
+Rapeseed oil is understood to contain less saturated fat and more omega-3 fatty acids than most other vegetable oils, and these are thought to help reduce the risk of inflammatory illnesses and heart disease.
+
+How fibre can add years to your life
+
+Eating more fibre could increase your life expectancy.
+
+Researchers at the Shanghai Jiao Tong University School of Medicine in China analysed the results of 17 studies, and found that people with the highest levels of dietary fibre were 16 per cent less likely to die prematurely than those who ate the least, according to the results published in the American Journal of Epidemiology.
+
+Based on data from nearly a million people, they show that there was a 10 per cent drop in risk for each additional 10g of fibre in the diet.
+
+High-fibre foods such as whole grains help you feel full sooner, and for longer, which helps curb overeating.
+
+They're also thought to lower the risk of chronic conditions including heart disease, stroke, diabetes and some cancers. 
+
+
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

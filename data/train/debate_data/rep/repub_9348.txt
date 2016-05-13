@@ -1,0 +1,1 @@
+We have timing lights that are visible to the candidates, those lights will warn you when your time is up. And as the candidates requested, a bell will sound like this.

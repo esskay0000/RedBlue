@@ -1,0 +1,215 @@
+
+	132
+      
+
+By
+
+Reuters
+
+
+and 
+Mark Prigg For Dailymail.com
+
+
+
+
+Published:
+  18:20 EST, 11 April 2016
+
+ | 
+Updated:
+  06:02 EST, 13 April 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3535003',
+                    'title': 'ULA to partner with Bigelow on commercial space habitats',
+                    'url': 'http://www.dailymail.co.uk/sciencetech/article-3535003/ULA-partner-Bigelow-commercial-space-habitats.html',
+                    'eTwitterStatus': ' http://dailym.ai/1S1RB7C via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+132
+shares
+
+ 
+          10
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          10
+
+View  comments
+
+The first private space station is set to be an inflatable - and could launch in 2020.
+
+United Launch
+Alliance will team with billionaire entrepreneur Robert Bigelow
+to market and fly habitats for humans in space, the two revealed today.
+
+An inflatable module based on the Bigelow technology is currently being attached to the International Space Station. 
+
+United Launch Alliance will team with billionaire entrepreneur Robert Bigelow to market and fly habitats for humans in space - with the first blasting off in 2020.
+
+Bigelow has designed inflatable space habitats made of a
+Kevlar-like material and other fabrics that protect against
+impacts from orbiting debris. 
+
+They are folded for launch, then
+inflated with air once aloft. 
+
+The light, compact habitats should
+save millions of dollars in launch costs, the companies say. 
+
+The project hinges on space taxis being developed by SpaceX, Boeing Co
+ and other firms, ULA and Bigelow said on Monday.
+
+The agreement, announced at a news conference at the U.S.
+Space Symposium in Colorado Spring, Colorado, includes a 2020
+launch of a 12,000-cubic foot (330-cubic meter) inflatable
+habitat aboard a ULA Atlas 5 rocket, currently the only vehicle
+with a big enough payload container to hold the module.
+
+Bigelow told the news conference that partnering with ULA, a
+joint venture of Lockheed Martin Corp and Boeing, is 'a
+potentially enormously important relationship,' to open space to
+non-government research, commercial endeavors and tourism.
+
+ULA and Bigelow did not give details on their alliance. ULA
+President and Chief Executive Tory Bruno said at the news
+conference that ULA is contributing 'resources of technology and
+talent. 
+
+'We don't talk about dollars and investment. 
+
+'You'll see
+as time goes by what this fully encompasses.'
+
+The design was evolved from NASA's TransHab habitat concept. The B330 will have 330 cubic meters (12,000 cu/ft) of internal space. The craft will support zero-gravity research including scientific missions, manufacturing processes, a destination for space tourism and a craft for missions destined for the Moon and Mars.
+
+Bigelow has designed inflatable space habitats made of a
+Kevlar-like material and other fabrics that protect against
+impacts from orbiting debris. 
+
+They are folded for launch, then
+inflated with air once aloft. 
+
+The light, compact habitats should
+save millions of dollars in launch costs, the companies say.
+
+Bigelow Aerospace has been working on inflatable habitats
+for 15 years.
+
+The Bigelow Expandable Activity Module, Beam for short, will stay on the station for two years, with astronauts occasionally entering it. It will be the first time an astronaut steps inside an expandable habitat structure in space. The pod's size, compared to an average man, is pictured
+
+A miniature version of the expandable, fabric module arrived
+at the International Space Station on Sunday aboard a SpaceX
+Dragon cargo ship. 
+
+The Bigelow Expandable Activity Module, or
+BEAM, is expected to be attached to a station docking port on
+Saturday and inflated next month for a two-year trial run.
+
+BEAM is the firm's first manned spacecraft. Bigelow had
+previously launched two unmanned prototypes in 2006 and 2007.
+
+BEAM (CGI pictured) will be the first inflatable space habitat to ever be attached to the International Space Station (ISS)
+
+Beam will be the first inflatable space habitat to ever be attached to the International Space Station (ISS).
+
+Designed by Nasa and Bigelow Aerospace, Beam is scheduled to launch on the eighth SpaceX Commercial Resupply Service mission, due to take off on 8 April.
+
+Made up of aluminum and soft fabric, BEAM is designed to pack down into a relatively compact 5.7 feet (1.7 metres) long and just under 7.75 feet (2.4 metres) in diameter when stowed for the flight into space.
+
+When it is attached to the station's structure and inflated, it will expand to 12 feet (3.7 metres) long and 10.5 feet (3.2 metres) in diameter.
+
+Although this will be the first of these habitats tested on the ISS, Nasa thinks expandables could be a key technology to help humans on the journey to Mars. 
+
+Once attached to the station, the soft-sided Bigelow compartment will be inflated to the size of a small bedroom. Made up of aluminum and soft fabric, Beam is designed to pack down into a relatively compact 5.7ft (1.7 metres) long and just under 7.75ft (2.4 metres) in diameter when stowed for the flight into space 
+
+Bigelow plans to follow BEAM with modules that are 20 times
+larger to serve as space outposts that will be leased to
+companies and research organizations. 
+
+Bigelow said he also would
+like to attach one of the modules, known as B330, to the space
+station for use by the National Aeronautics and Space
+Administration and commercial customers.
+
+The projects are dependent on commercial space
+transportation services, such as those under development by
+SpaceX and Boeing, to fly astronauts to and from the space
+station for NASA.
+
+Bigelow Aerospace won't divulge the material used for Beam's outer layers - or even how many layers - just that the layers are spread out to absorb and break up any penetrating bits of space junk.
+
+Back when Nasa was working on the technology in the 1990s, a combination of Nextel, Kevlar, foam and other fabric formed the multilayer shield.
+
+Nasa called its project TransHab, for Transit Habitat. It never flew to space, despite elaborate blueprints and ground mock-ups. Designers envisioned an inflatable, four-level compartment, complete with dining, sleeping and exercising areas for station crews.
+
+Nasa outlined the four possible ways it might expand, shown, in a newly released video. Although this will be the first of these habitats tested on the ISS, Nasa thinks expandables could be a key technology to help humans on the journey to Mars
+
+Congress cancelled TransHab in 2000 and Bigelow Aerospace bought the patent from Nasa. 
+
+The company launched a pair of expandable spacecraft a decade ago from Russia as an experiment. Called Genesis I and II, they're still orbiting.
+
+Nasa, meanwhile, paid Bigelow Aerospace $17.8 million for the upcoming test flight, making the Beam the most affordable module ever launched to the space station, said Michael Gold, director of operations and business growth for Bigelow Aerospace.
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+
+
+
+      'Monsters look normal': Mother details how her Navy Veteran husband sexually abused her teen daughter in heart-wrenching video to warn others about the 'predators we trust with our kids every day'
+    
+
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

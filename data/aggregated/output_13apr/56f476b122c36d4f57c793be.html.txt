@@ -1,0 +1,532 @@
+
+
+ (AP Photo / Ted S. Warren)
+
+The federal agency that was established to keep workers safe has decided, for the first time in its 45-year history, that it should know who exactly is getting hurt at work. The Occupational Safety and Health Administration (OSHA), which has historically focused on tracking work-related deaths, in 2015 began systematically requiring employers âto report any severe work-related injuryâdefined as a hospitalization, amputation or loss of an eyeâwithin 24 hours.â We now have 10,388 new workplace horror stories (7,636 hospitalizations and 2,644 amputations). Here are a few examples.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206740-0','tn_economy_economics_ros_halfpage_1','tn_economy_economics_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Just before Thanksgiving, a gravedigger at St. Charles/Resurrection Cemeteries in Farmingdale, New York, was nearly buried alive when the gravesite imploded, primarily because his employer had not installed proper safeguards and failed to monitor the workplace. The OSHA spokesperson quipped afterwards about the âearly graveâ the worker had dodged, though perhaps the scariest aspect of the ordeal is the unknown number of potential graves that are dug on the cheap, without proper reinforcement.				
+					
+					
+Another grisly set of âaccidentsâ claimed four fingers, two weeks apart in February at the Primex plastics plant in Norwood, Georgia: âBoth workers had their middle and ring fingers amputated as they removed material jammed in shearing machines that cut plastic.â The gruesome amputations bookended a series of â35 safety and health citationsâ over the past decade at the company, ranging from excessive noise exposures to inadequate safety gear for workers exposed to machine burns. The company website, meanwhile, boasts that Primexâs âstate-of-the-art facilities are constantly being updated to insure that the highest quality standards are met.â				
+			
+
+							Life remains perilously cheap at work.
+						
+ 
+Some jobs, particularly in social services, come with seemingly “softer”Â hazardsâthose not as easily measured in mechanical terms.* In January, OSHA initiated an investigation following a complaint about violent incidents at an adolescent residential care facility in Birmingham, leaving the nursing staff with âbites, abrasions, contusions and stab wounds.â An OSHA investigation later showed workers being placed at unnecessary risk of assault, reflecting an often overlooked aspect of workplace safety: managing the tensions and dangers entailed in the labor of care.				
+					
+					
+In low-wage service sectors, the rampant disregard for life can invade even familiar recreational spaces. At a Brownsville, Texas, bowling alley in March, Vidal Garcia, a young part-time mechanic, suffered death by strangulation âwhen his shirt collar tangled in a faulty pinsetter, strangling him as the machine twisted the collar tighter.â The OSHA inspection revealed that the death had been preventable, as the machinery lacked the necessary safeguards to protect against getting ensnared.				
+					
+					
+But OSHA reporting and enforcement actions focus on the immediate term, often missing the dormant health and safety threats. Long-term illnesses are more likely to go unreported as they slowly manifest, perhaps years later, through chronic disease, workplace-related cancers, or cumulative reproductive or respiratory disorders stemming from occupational toxins.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+Just before Thanksgiving, a gravedigger at St. Charles/Resurrection Cemeteries in Farmingdale, New York, was nearly buried alive when the gravesite imploded, primarily because his employer had not installed proper safeguards and failed to monitor the workplace. The OSHA spokesperson quipped afterwards about the âearly graveâ the worker had dodged, though perhaps the scariest aspect of the ordeal is the unknown number of potential graves that are dug on the cheap, without proper reinforcement.				
+					
+					
+Another grisly set of âaccidentsâ claimed four fingers, two weeks apart in February at the Primex plastics plant in Norwood, Georgia: âBoth workers had their middle and ring fingers amputated as they removed material jammed in shearing machines that cut plastic.â The gruesome amputations bookended a series of â35 safety and health citationsâ over the past decade at the company, ranging from excessive noise exposures to inadequate safety gear for workers exposed to machine burns. The company website, meanwhile, boasts that Primexâs âstate-of-the-art facilities are constantly being updated to insure that the highest quality standards are met.â				
+			
+
+							Life remains perilously cheap at work.
+						
+ 
+Some jobs, particularly in social services, come with seemingly “softer”Â hazardsâthose not as easily measured in mechanical terms.* In January, OSHA initiated an investigation following a complaint about violent incidents at an adolescent residential care facility in Birmingham, leaving the nursing staff with âbites, abrasions, contusions and stab wounds.â An OSHA investigation later showed workers being placed at unnecessary risk of assault, reflecting an often overlooked aspect of workplace safety: managing the tensions and dangers entailed in the labor of care.				
+					
+					
+In low-wage service sectors, the rampant disregard for life can invade even familiar recreational spaces. At a Brownsville, Texas, bowling alley in March, Vidal Garcia, a young part-time mechanic, suffered death by strangulation âwhen his shirt collar tangled in a faulty pinsetter, strangling him as the machine twisted the collar tighter.â The OSHA inspection revealed that the death had been preventable, as the machinery lacked the necessary safeguards to protect against getting ensnared.				
+					
+					
+But OSHA reporting and enforcement actions focus on the immediate term, often missing the dormant health and safety threats. Long-term illnesses are more likely to go unreported as they slowly manifest, perhaps years later, through chronic disease, workplace-related cancers, or cumulative reproductive or respiratory disorders stemming from occupational toxins.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+Another grisly set of âaccidentsâ claimed four fingers, two weeks apart in February at the Primex plastics plant in Norwood, Georgia: âBoth workers had their middle and ring fingers amputated as they removed material jammed in shearing machines that cut plastic.â The gruesome amputations bookended a series of â35 safety and health citationsâ over the past decade at the company, ranging from excessive noise exposures to inadequate safety gear for workers exposed to machine burns. The company website, meanwhile, boasts that Primexâs âstate-of-the-art facilities are constantly being updated to insure that the highest quality standards are met.â				
+			
+
+							Life remains perilously cheap at work.
+						
+ 
+Some jobs, particularly in social services, come with seemingly “softer”Â hazardsâthose not as easily measured in mechanical terms.* In January, OSHA initiated an investigation following a complaint about violent incidents at an adolescent residential care facility in Birmingham, leaving the nursing staff with âbites, abrasions, contusions and stab wounds.â An OSHA investigation later showed workers being placed at unnecessary risk of assault, reflecting an often overlooked aspect of workplace safety: managing the tensions and dangers entailed in the labor of care.				
+					
+					
+In low-wage service sectors, the rampant disregard for life can invade even familiar recreational spaces. At a Brownsville, Texas, bowling alley in March, Vidal Garcia, a young part-time mechanic, suffered death by strangulation âwhen his shirt collar tangled in a faulty pinsetter, strangling him as the machine twisted the collar tighter.â The OSHA inspection revealed that the death had been preventable, as the machinery lacked the necessary safeguards to protect against getting ensnared.				
+					
+					
+But OSHA reporting and enforcement actions focus on the immediate term, often missing the dormant health and safety threats. Long-term illnesses are more likely to go unreported as they slowly manifest, perhaps years later, through chronic disease, workplace-related cancers, or cumulative reproductive or respiratory disorders stemming from occupational toxins.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+
+							Life remains perilously cheap at work.
+						
+
+
+Some jobs, particularly in social services, come with seemingly “softer”Â hazardsâthose not as easily measured in mechanical terms.* In January, OSHA initiated an investigation following a complaint about violent incidents at an adolescent residential care facility in Birmingham, leaving the nursing staff with âbites, abrasions, contusions and stab wounds.â An OSHA investigation later showed workers being placed at unnecessary risk of assault, reflecting an often overlooked aspect of workplace safety: managing the tensions and dangers entailed in the labor of care.				
+					
+					
+In low-wage service sectors, the rampant disregard for life can invade even familiar recreational spaces. At a Brownsville, Texas, bowling alley in March, Vidal Garcia, a young part-time mechanic, suffered death by strangulation âwhen his shirt collar tangled in a faulty pinsetter, strangling him as the machine twisted the collar tighter.â The OSHA inspection revealed that the death had been preventable, as the machinery lacked the necessary safeguards to protect against getting ensnared.				
+					
+					
+But OSHA reporting and enforcement actions focus on the immediate term, often missing the dormant health and safety threats. Long-term illnesses are more likely to go unreported as they slowly manifest, perhaps years later, through chronic disease, workplace-related cancers, or cumulative reproductive or respiratory disorders stemming from occupational toxins.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+In low-wage service sectors, the rampant disregard for life can invade even familiar recreational spaces. At a Brownsville, Texas, bowling alley in March, Vidal Garcia, a young part-time mechanic, suffered death by strangulation âwhen his shirt collar tangled in a faulty pinsetter, strangling him as the machine twisted the collar tighter.â The OSHA inspection revealed that the death had been preventable, as the machinery lacked the necessary safeguards to protect against getting ensnared.				
+					
+					
+But OSHA reporting and enforcement actions focus on the immediate term, often missing the dormant health and safety threats. Long-term illnesses are more likely to go unreported as they slowly manifest, perhaps years later, through chronic disease, workplace-related cancers, or cumulative reproductive or respiratory disorders stemming from occupational toxins.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+But OSHA reporting and enforcement actions focus on the immediate term, often missing the dormant health and safety threats. Long-term illnesses are more likely to go unreported as they slowly manifest, perhaps years later, through chronic disease, workplace-related cancers, or cumulative reproductive or respiratory disorders stemming from occupational toxins.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act
+
+Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives
+
+Global Warmingâs Terrifying New Chemistry
+
+Fear and Hate Drove Arizonaâs Republican Primary
+
+How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+
+And some companies just never seem to learn. Mega-retailer Walmart brokered a 2013 corporate-wide settlement with OSHA, with nearly $200,000 in penalties, over safety lapses across many locations. But Walmart was again cited for violations at a Pensacola, Florida, store, for repeatedly failing to provide proper training and protection for dealing with blood-borne pathogen hazards. The government also cited Walmart for failing to ensure safe access to sanitation equipment, failing to provide workers with Hepatitis B vaccination, and exposing them to âshock and burn hazardsâ and electrical wires. OSHAâs denouncement follows other charges raised by a California Walmart worker that the company denied her compensation after she broke her hip on the job.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_206740			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Jessica Levin of Making Change at Walmart says via e-mail the company had âa record of ignoring OSHA settlements. So if you are looking for the company least likely to be complying with OSHAâs required reporting of workplace injuries, you need to look no further than Walmart.â				
+					
+					
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+One reason why the corporate profit margin trumps the cost of doing nothing for injured and vulnerable workers is that the liability of willful ignorance is pitifully slim. The near-fatal graveyard disaster incurred $123,200 in fines, the bowling alley of death âcostâ about $50,000. According to the AFL-CIOâs report on workplace injuries, in 2014, âThe average penalty for a serious violation of the law in FY 2014 was $1,972 for federal OSHA and $1,043 for [parallel] state plans.â And thatâs just for the bosses who get caught: An estimated half of injuries are said to go unreported each year. And the AFL-CIO points out that OSHAâs inspector workforce currently only has the capacity to âinspect workplaces once every 140 years, on average,â about once every 91 years on the state level. The level of public investment required to effectively regulate workplaces is evidently too expensive for âsmall governmentâ lawmakers.				
+					
+					
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+So life remains perilously cheap at work. Still, OSHAâs new reporting rule is still a major step forward in workplace monitoring, in that faster reporting could enable faster regulatory intervention and corrective orders, or public investigation.				
+					
+					
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+Gathering more data faster could also facilitate continual ground-level communication with workers and advocates. Garret Brown, a former Cal/OSHA official who has worked with regulators both in the United States and abroad, underscored that time and knowledge are a source of power for the most vulnerable workers: âOSHAs around the country must develop ongoing relationships with worker and community organizations that enjoy the confidence of the workforce and, therefore, receive a lot of information about workplace problems, including health and safety. These would be unions, of course, but also workers centers, day laborers centers, Latino/black/immigrant community organizations like legal aid clinics, medical clinics, churches, and social organizations.â				
+					
+					
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+At the end of the day, safety and health enforcement is effective only if workersâ voices are heard and respected, and when your job could kill you with impunity, thereâs little incentive to speak out. So until employers face a more meaningful financial burden for the risks workers face, thereâs more to gain than to lose from squeezing every last cent out of a toiling body.				
+					
+					
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+The big unknown variable in all this, of course, is what happens after these 10,000 reports: The casualties might have been left unable to work, saddled with debt, or bilked by an insurance company. We donât know what their medical bills looked like, only that their pain cost them a hell of a lot more than it cost the boss who hurt them.				
+					
+					
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+ 				
+					
+					
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+* Authorâs Note: This sentence was clarified after publication to note that the word “softer” refers to common stereotypes about the nature of workplace safety in care and service labor. This comes in response to feedback from Jane Thomason of National Nurses United, who questioned whether The Nation was suggesting that, “because workplace violence is more of an issue in service occupations like healthcare and social services, which predominantly employ women, it is ‘softer’ than the hazards found in heavy industry and manufacturing, which employ more men?”
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+In my view, the situation, as Thomason described, is actually quite the opposite, hence the ironic use of “softer” (in quotes). Workplace safety and violence problems faced in industries in which women predominate may be unique, but are just as real as the hazards of male-dominated manual laborâthough often overlooked. So more explanation of the term has been added to contextualize this misperception of safety issues in service work.
+
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributingÂ writer forÂ The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

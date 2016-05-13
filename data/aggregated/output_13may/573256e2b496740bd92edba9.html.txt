@@ -1,0 +1,1087 @@
+
+
+US Defense Secretary Chuck Hagel speaks to troops at Camp Bastion, Afghanistan, on December 8, 2013.  (Reuters / Mark Wilson)
+
+[This piece, the second of two parts, is excerpted from Noam Chomsky’s new book, Who Rules the World? (Metropolitan Books). Part 1 can be found by clicking here.]
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211930-0','tn_world_war_and_peace_ros_halfpage_1','tn_world_war_and_peace_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+
+This article originally appeared at TomDispatch.com. To stay on top of important articles like these, sign up to receive the latest updates from TomDispatch.com.
+
+In brief, the “Global War on Terror” sledgehammer strategy has spread jihadi terror from a tiny corner of Afghanistan to much of the world, from Africa through the Levant and South Asia to Southeast Asia. It has also incited attacks in Europe and the United States. The invasion of Iraq made a substantial contribution to this process, much as intelligence agencies had predicted. Terrorism specialists Peter Bergen and Paul Cruickshank estimate that the Iraq War “generated a stunning sevenfold increase in the yearly rate of fatal jihadist attacks, amounting to literally hundreds of additional terrorist attacks and thousands of civilian lives lost; even when terrorism in Iraq and Afghanistan is excluded, fatal attacks in the rest of the world have increased by more than one-third.” Other exercises have been similarly productive.		
+A group of major human rights organizations—Physicians for Social Responsibility (US), Physicians for Global Survival (Canada), and International Physicians for the Prevention of Nuclear War (Germany)—conducted a study that sought “to provide as realistic an estimate as possible of the total body count in the three main war zones [Iraq, Afghanistan, and Pakistan] during 12 years of ‘war on terrorism,’” including an extensive review “of the major studies and data published on the numbers of victims in these countries,” along with additional information on military actions. Their “conservative estimate” is that these wars killed about 1.3 million people, a toll that “could also be in excess of 2 million.” A database search by independent researcher David Peterson in the days following the publication of the report found virtually no mention of it. Who cares?		
+More generally, studies carried out by the Oslo Peace Research Institute show that two-thirds of the region’s conflict fatalities were produced in originally internal disputes where outsiders imposed their solutions. In such conflicts, 98 percent of fatalities were produced only after outsiders had entered the domestic dispute with their military might. In Syria, the number of direct conflict fatalities more than tripled after the West initiated air strikes against the self-declared Islamic State and the CIA started its indirect military interference in the war—interference which appears to have drawn the Russians in as advanced US antitank missiles were decimating the forces of their ally Bashar al-Assad. Early indications are that Russian bombing is having the usual consequences.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+The evidence reviewed by political scientist Timo Kivimäki indicates that the “protection wars [fought by ‘coalitions of the willing’] have become the main source of violence in the world, occasionally contributing over 50 percent of total conflict fatalities.” Furthermore, in many of these cases, including Syria, as he reviews, there were opportunities for diplomatic settlement that were ignored. That has also been true in other horrific situations, including the Balkans in the early 1990s, the first Gulf War, and of course the Indochina wars, the worst crime since World War II. In the case of Iraq the question does not even arise. There surely are some lessons here.		
+The general consequences of resorting to the sledgehammer against vulnerable societies comes as little surprise. William Polk’s careful study of insurgencies, Violent Politics, should be essential reading for those who want to understand today’s conflicts, and surely for planners, assuming that they care about human consequences and not merely power and domination. Polk reveals a pattern that has been replicated over and over. The invaders—perhaps professing the most benign motives—are naturally disliked by the population, who disobey them, at first in small ways, eliciting a forceful response, which increases opposition and support for resistance. The cycle of violence escalates until the invaders withdraw—or gain their ends by something that may approach genocide.		
+Playing by the Al Qaeda Game Plan
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+This article originally appeared at TomDispatch.com. To stay on top of important articles like these, sign up to receive the latest updates from TomDispatch.com.
+
+In brief, the “Global War on Terror” sledgehammer strategy has spread jihadi terror from a tiny corner of Afghanistan to much of the world, from Africa through the Levant and South Asia to Southeast Asia. It has also incited attacks in Europe and the United States. The invasion of Iraq made a substantial contribution to this process, much as intelligence agencies had predicted. Terrorism specialists Peter Bergen and Paul Cruickshank estimate that the Iraq War “generated a stunning sevenfold increase in the yearly rate of fatal jihadist attacks, amounting to literally hundreds of additional terrorist attacks and thousands of civilian lives lost; even when terrorism in Iraq and Afghanistan is excluded, fatal attacks in the rest of the world have increased by more than one-third.” Other exercises have been similarly productive.		
+A group of major human rights organizations—Physicians for Social Responsibility (US), Physicians for Global Survival (Canada), and International Physicians for the Prevention of Nuclear War (Germany)—conducted a study that sought “to provide as realistic an estimate as possible of the total body count in the three main war zones [Iraq, Afghanistan, and Pakistan] during 12 years of ‘war on terrorism,’” including an extensive review “of the major studies and data published on the numbers of victims in these countries,” along with additional information on military actions. Their “conservative estimate” is that these wars killed about 1.3 million people, a toll that “could also be in excess of 2 million.” A database search by independent researcher David Peterson in the days following the publication of the report found virtually no mention of it. Who cares?		
+More generally, studies carried out by the Oslo Peace Research Institute show that two-thirds of the region’s conflict fatalities were produced in originally internal disputes where outsiders imposed their solutions. In such conflicts, 98 percent of fatalities were produced only after outsiders had entered the domestic dispute with their military might. In Syria, the number of direct conflict fatalities more than tripled after the West initiated air strikes against the self-declared Islamic State and the CIA started its indirect military interference in the war—interference which appears to have drawn the Russians in as advanced US antitank missiles were decimating the forces of their ally Bashar al-Assad. Early indications are that Russian bombing is having the usual consequences.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+The evidence reviewed by political scientist Timo Kivimäki indicates that the “protection wars [fought by ‘coalitions of the willing’] have become the main source of violence in the world, occasionally contributing over 50 percent of total conflict fatalities.” Furthermore, in many of these cases, including Syria, as he reviews, there were opportunities for diplomatic settlement that were ignored. That has also been true in other horrific situations, including the Balkans in the early 1990s, the first Gulf War, and of course the Indochina wars, the worst crime since World War II. In the case of Iraq the question does not even arise. There surely are some lessons here.		
+The general consequences of resorting to the sledgehammer against vulnerable societies comes as little surprise. William Polk’s careful study of insurgencies, Violent Politics, should be essential reading for those who want to understand today’s conflicts, and surely for planners, assuming that they care about human consequences and not merely power and domination. Polk reveals a pattern that has been replicated over and over. The invaders—perhaps professing the most benign motives—are naturally disliked by the population, who disobey them, at first in small ways, eliciting a forceful response, which increases opposition and support for resistance. The cycle of violence escalates until the invaders withdraw—or gain their ends by something that may approach genocide.		
+Playing by the Al Qaeda Game Plan
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+A group of major human rights organizations—Physicians for Social Responsibility (US), Physicians for Global Survival (Canada), and International Physicians for the Prevention of Nuclear War (Germany)—conducted a study that sought “to provide as realistic an estimate as possible of the total body count in the three main war zones [Iraq, Afghanistan, and Pakistan] during 12 years of ‘war on terrorism,’” including an extensive review “of the major studies and data published on the numbers of victims in these countries,” along with additional information on military actions. Their “conservative estimate” is that these wars killed about 1.3 million people, a toll that “could also be in excess of 2 million.” A database search by independent researcher David Peterson in the days following the publication of the report found virtually no mention of it. Who cares?		
+More generally, studies carried out by the Oslo Peace Research Institute show that two-thirds of the region’s conflict fatalities were produced in originally internal disputes where outsiders imposed their solutions. In such conflicts, 98 percent of fatalities were produced only after outsiders had entered the domestic dispute with their military might. In Syria, the number of direct conflict fatalities more than tripled after the West initiated air strikes against the self-declared Islamic State and the CIA started its indirect military interference in the war—interference which appears to have drawn the Russians in as advanced US antitank missiles were decimating the forces of their ally Bashar al-Assad. Early indications are that Russian bombing is having the usual consequences.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+The evidence reviewed by political scientist Timo Kivimäki indicates that the “protection wars [fought by ‘coalitions of the willing’] have become the main source of violence in the world, occasionally contributing over 50 percent of total conflict fatalities.” Furthermore, in many of these cases, including Syria, as he reviews, there were opportunities for diplomatic settlement that were ignored. That has also been true in other horrific situations, including the Balkans in the early 1990s, the first Gulf War, and of course the Indochina wars, the worst crime since World War II. In the case of Iraq the question does not even arise. There surely are some lessons here.		
+The general consequences of resorting to the sledgehammer against vulnerable societies comes as little surprise. William Polk’s careful study of insurgencies, Violent Politics, should be essential reading for those who want to understand today’s conflicts, and surely for planners, assuming that they care about human consequences and not merely power and domination. Polk reveals a pattern that has been replicated over and over. The invaders—perhaps professing the most benign motives—are naturally disliked by the population, who disobey them, at first in small ways, eliciting a forceful response, which increases opposition and support for resistance. The cycle of violence escalates until the invaders withdraw—or gain their ends by something that may approach genocide.		
+Playing by the Al Qaeda Game Plan
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+More generally, studies carried out by the Oslo Peace Research Institute show that two-thirds of the region’s conflict fatalities were produced in originally internal disputes where outsiders imposed their solutions. In such conflicts, 98 percent of fatalities were produced only after outsiders had entered the domestic dispute with their military might. In Syria, the number of direct conflict fatalities more than tripled after the West initiated air strikes against the self-declared Islamic State and the CIA started its indirect military interference in the war—interference which appears to have drawn the Russians in as advanced US antitank missiles were decimating the forces of their ally Bashar al-Assad. Early indications are that Russian bombing is having the usual consequences.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+The evidence reviewed by political scientist Timo Kivimäki indicates that the “protection wars [fought by ‘coalitions of the willing’] have become the main source of violence in the world, occasionally contributing over 50 percent of total conflict fatalities.” Furthermore, in many of these cases, including Syria, as he reviews, there were opportunities for diplomatic settlement that were ignored. That has also been true in other horrific situations, including the Balkans in the early 1990s, the first Gulf War, and of course the Indochina wars, the worst crime since World War II. In the case of Iraq the question does not even arise. There surely are some lessons here.		
+The general consequences of resorting to the sledgehammer against vulnerable societies comes as little surprise. William Polk’s careful study of insurgencies, Violent Politics, should be essential reading for those who want to understand today’s conflicts, and surely for planners, assuming that they care about human consequences and not merely power and domination. Polk reveals a pattern that has been replicated over and over. The invaders—perhaps professing the most benign motives—are naturally disliked by the population, who disobey them, at first in small ways, eliciting a forceful response, which increases opposition and support for resistance. The cycle of violence escalates until the invaders withdraw—or gain their ends by something that may approach genocide.		
+Playing by the Al Qaeda Game Plan
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud
+
+Why Bernie Didn’t Get My Vote
+
+Voter Suppression Is the Only Way Donald Trump Can Win
+
+For-Profit Colleges Have Found a New Way to Hoodwink Their Students
+
+This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+The evidence reviewed by political scientist Timo Kivimäki indicates that the “protection wars [fought by ‘coalitions of the willing’] have become the main source of violence in the world, occasionally contributing over 50 percent of total conflict fatalities.” Furthermore, in many of these cases, including Syria, as he reviews, there were opportunities for diplomatic settlement that were ignored. That has also been true in other horrific situations, including the Balkans in the early 1990s, the first Gulf War, and of course the Indochina wars, the worst crime since World War II. In the case of Iraq the question does not even arise. There surely are some lessons here.		
+The general consequences of resorting to the sledgehammer against vulnerable societies comes as little surprise. William Polk’s careful study of insurgencies, Violent Politics, should be essential reading for those who want to understand today’s conflicts, and surely for planners, assuming that they care about human consequences and not merely power and domination. Polk reveals a pattern that has been replicated over and over. The invaders—perhaps professing the most benign motives—are naturally disliked by the population, who disobey them, at first in small ways, eliciting a forceful response, which increases opposition and support for resistance. The cycle of violence escalates until the invaders withdraw—or gain their ends by something that may approach genocide.		
+Playing by the Al Qaeda Game Plan
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+The general consequences of resorting to the sledgehammer against vulnerable societies comes as little surprise. William Polk’s careful study of insurgencies, Violent Politics, should be essential reading for those who want to understand today’s conflicts, and surely for planners, assuming that they care about human consequences and not merely power and domination. Polk reveals a pattern that has been replicated over and over. The invaders—perhaps professing the most benign motives—are naturally disliked by the population, who disobey them, at first in small ways, eliciting a forceful response, which increases opposition and support for resistance. The cycle of violence escalates until the invaders withdraw—or gain their ends by something that may approach genocide.		
+Playing by the Al Qaeda Game Plan
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Obama’s global drone assassination campaign, a remarkable innovation in global terrorism, exhibits the same patterns. By most accounts, it is generating terrorists more rapidly than it is murdering those suspected of someday intending to harm us—an impressive contribution by a constitutional lawyer on the 800th anniversary of Magna Carta, which established the basis for the principle of presumption of innocence that is the foundation of civilized law.		
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Another characteristic feature of such interventions is the belief that the insurgency will be overcome by eliminating its leaders. But when such an effort succeeds, the reviled leader is regularly replaced by someone younger, more determined, more brutal, and more effective. Polk gives many examples. Military historian Andrew Cockburn has reviewed American campaigns to kill drug and then terror “kingpins” over a long period in his important study Kill Chain and found the same results. And one can expect with fair confidence that the pattern will continue.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211930-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+No doubt right now US strategists are seeking ways to murder the “Caliph of the Islamic State” Abu Bakr al-Baghdadi, who is a bitter rival of Al Qaeda leader Ayman al-Zawahiri. The likely result of this achievement is forecast by the prominent terrorism scholar Bruce Hoffman, senior fellow at the US Military Academy’s Combating Terrorism Center. He predicts that “al-Baghdadi’s death would likely pave the way for a rapprochement [with Al Qaeda] producing a combined terrorist force unprecedented in scope, size, ambition and resources.”		
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Polk cites a treatise on warfare by Henry Jomini, influenced by Napoleon’s defeat at the hands of Spanish guerrillas, that became a textbook for generations of cadets at the West Point military academy. Jomini observed that such interventions by major powers typically result in “wars of opinion,” and nearly always “national wars,” if not at first then becoming so in the course of the struggle, by the dynamics that Polk describes. Jomini concludes that “commanders of regular armies are ill-advised to engage in such wars because they will lose them,” and even apparent successes will prove short-lived.		
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Careful studies of Al Qaeda and ISIS have shown that the United States and its allies are following their game plan with some precision. Their goal is to “draw the West as deeply and actively as possible into the quagmire” and “to perpetually engage and enervate the United States and the West in a series of prolonged overseas ventures” in which they will undermine their own societies, expend their resources, and increase the level of violence, setting off the dynamic that Polk reviews.		
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Scott Atran, one of the most insightful researchers on jihadi movements, calculates that “the 9/11 attacks cost between $400,000 and $500,000 to execute, whereas the military and security response by the United States and its allies is in the order of 10 million times that figure. On a strictly cost-benefit basis, this violent movement has been wildly successful, beyond even Bin Laden’s original imagination, and is increasingly so. Herein lies the full measure of jujitsu-style asymmetric warfare. After all, who could claim that we are better off than before, or that the overall danger is declining?”		
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+And if we continue to wield the sledgehammer, tacitly following the jihadi script, the likely effect is even more violent jihadism with broader appeal. The record, Atran advises, “should inspire a radical change in our counter-strategies.”      
+      .cta.primary.xFShWHddIe{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.xFShWHddIe a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Al Qaeda/ISIS are assisted by Americans who follow their directives: for example, Ted “carpet-bomb ’em” Cruz, a top Republican presidential candidate. Or, at the other end of the mainstream spectrum, the leading Middle East and international affairs columnist of the New York Times, Thomas Friedman, who in 2003 offered Washington advice on how to fight in Iraq on the Charlie Rose show: “There was what I would call the terrorism bubble… And what we needed to do was to go over to that part of the world and burst that bubble. We needed to go over there basically, and, uh, take out a very big stick, right in the heart of that world, and burst that bubble. And there was only one way to do it… What they needed to see was American boys and girls going house to house from Basra to Baghdad, and basically saying, which part of this sentence don’t you understand? You don’t think we care about our open society, you think this bubble fantasy we’re going to just let it go? Well, suck on this. Ok. That, Charlie, was what this war was about.”		
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+That’ll show the ragheads.		
+Looking Forward
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Atran and other close observers generally agree on the prescriptions. We should begin by recognizing what careful research has convincingly shown: those drawn to jihad “are longing for something in their history, in their traditions, with their heroes and their morals; and the Islamic State, however brutal and repugnant to us and even to most in the Arab-Muslim world, is speaking directly to that…. What inspires the most lethal assailants today is not so much the Quran but a thrilling cause and a call to action that promises glory and esteem in the eyes of friends.” In fact, few of the jihadis have much of a background in Islamic texts or theology, if any.						
+			.article-wrap .article-body aside.left.custom_background_211930			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+The best strategy, Polk advises, would be “a multinational, welfare-oriented and psychologically satisfying program… that would make the hatred ISIS relies upon less virulent. The elements have been identified for us: communal needs, compensation for previous transgressions, and calls for a new beginning.” He adds, “A carefully phrased apology for past transgressions would cost little and do much.” Such a project could be carried out in refugee camps or in the “hovels and grim housing projects of the Paris banlieues,” where, Atran writes, his research team “found fairly wide tolerance or support for ISIS’s values.” And even more could be done by true dedication to diplomacy and negotiations instead of reflexive resort to violence.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211930-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Not least in significance would be an honorable response to the “refugee crisis” that was a long time in coming but surged to prominence in Europe in 2015. That would mean, at the very least, sharply increasing humanitarian relief to the camps in Lebanon, Jordan, and Turkey where miserable refugees from Syria barely survive. But the issues go well beyond, and provide a picture of the self-described “enlightened states” that is far from attractive and should be an incentive to action.		
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+There are countries that generate refugees through massive violence, like the United States, secondarily Britain and France. Then there are countries that admit huge numbers of refugees, including those fleeing from Western violence, like Lebanon (easily the champion, per capita), Jordan, and Syria before it imploded, among others in the region. And partially overlapping, there are countries that both generate refugees and refuse to take them in, not only from the Middle East but also from the US “backyard” south of the border. A strange picture, painful to contemplate.		
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+An honest picture would trace the generation of refugees much further back into history. Veteran Middle East correspondent Robert Fisk reports that one of the first videos produced by ISIS “showed a bulldozer pushing down a rampart of sand that had marked the border between Iraq and Syria. As the machine destroyed the dirt revetment, the camera panned down to a handwritten poster lying in the sand. ‘End of Sykes-Picot,’ it said.”		
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+For the people of the region, the Sykes-Picot agreement is the very symbol of the cynicism and brutality of Western imperialism. Conspiring in secret during World War I, Britain’s Mark Sykes and France’s François Georges-Picot carved up the region into artificial states to satisfy their own imperial goals, with utter disdain for the interests of the people living there and in violation of the wartime promises issued to induce Arabs to join the Allied war effort. The agreement mirrored the practices of the European states that devastated Africa in a similar manner. It “transformed what had been relatively quiet provinces of the Ottoman Empire into some of the least stable and most internationally explosive states in the world.”		
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Repeated Western interventions since then in the Middle East and Africa have exacerbated the tensions, conflicts, and disruptions that have shattered the societies. The end result is a “refugee crisis” that the innocent West can scarcely endure. Germany has emerged as the conscience of Europe, at first (but no longer) admitting almost one million refugees—in one of the richest countries in the world with a population of 80 million. In contrast, the poor country of Lebanon has absorbed an estimated 1.5 million Syrian refugees, now a quarter of its population, on top of half a million Palestinian refugees registered with the UN refugee agency UNRWA, mostly victims of Israeli policies.		
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Europe is also groaning under the burden of refugees from the countries it has devastated in Africa—not without US aid, as Congolese and Angolans, among others, can testify. Europe is now seeking to bribe Turkey (with over two million Syrian refugees) to distance those fleeing the horrors of Syria from Europe’s borders, just as Obama is pressuring Mexico to keep US borders free from miserable people seeking to escape the aftermath of Reagan’s GWOT along with those seeking to escape more recent disasters, including a military coup in Honduras that Obama almost alone legitimized, which created one of the worst horror chambers in the region.		
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Words can hardly capture the US response to the Syrian refugee crisis, at least any words I can think of.		
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+Returning to the opening question “Who rules the world?” we might also want to pose another question: “What principles and values rule the world?” That question should be foremost in the minds of the citizens of the rich and powerful states, who enjoy an unusual legacy of freedom, privilege, and opportunity thanks to the struggles of those who came before them, and who now face fateful choices as to how to respond to challenges of great human import.		
+		
+
+ Noam Chomsky
+ Noam Chomsky, Institute Professor emeritus at MIT, has written many books and articles on international affairs, in particular on Israel and Palestine. His latest book is Who Rules the World?
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

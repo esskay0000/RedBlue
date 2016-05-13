@@ -1,0 +1,42 @@
+ Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+
+Americas
+
++1 212 318 2000
+
+Europe, Middle East, & Africa
+
++44 20 7330 7500
+
+Asia Pacific
+
++65 6212 1000
+
+For years, DNA and computer operating systems served as clichÃ©s for each other: DNA is the âoperating softwareâ of living cells in the same way that system software is the âDNAâ of a computer.
+
+The problem with the comparison, as shown by research two decades in the making, is how much biologists still don't know about DNA, or genomes. That's an especially problematic development, given the industry sprouting up around genetic manipulation.  Genomics pioneer Craig Venter and more than 20 colleagues engineered a living microbe with a genome simpler than any seen in nature. In other words, they created a life form whose relative simplicity and modular design make it a platform that one day may be as easily manipulated as, say, software. Setting aside fears of Blade Runner replicants running amok, the breakthrough revealed on Thursday in the journal Science may hold promise for a new era in medicine, industry, and energy.
+
+âThese cells would be a very, very useful chassis for many industrial applications, from medicine to biochemicals, biofuels, nutrition, and agriculture,â said Dan Gibson, a top scientist at both Venterâs research institute and his company, Synthetic Genomics Inc. Ultimately, the group wants to understand the tiny genetic framework well enough to use it as a biological foundation for more complex organisms that could address many of the world's ills. Once each essential gene's function is identified, scientists can build an effective computer model of it; from there, they can simulate how best to go about âadding pathways for the production of useful products,â they wrote.
+
+It wonât be easy, though. Venter has spent two decades trying to engineer a minimal genome, and todayâs achievement reveals how much work there is to do.
+
+Scientists have long theorized how many genes might be required for a simple, viable organism that could be used as a universal template. Many studies have tried to estimate the rock-bottom number by knocking out individual genes; they have settled on 250 to 300 or so. The original bacteria species that the Venter group worked on is already pretty tiny: M. mycoides is found in cow stomachs and has about 985 genes. The human genome has more than 20,000 genes. Golden Delicious apples have more than 57,000 genes. The new organism, nicknamed Syn3.0 by researchers? It has 473.
+
+A prequel to todayâs results came in 2010, when the team turned a different bacteria into M. mycoides. They thought it would take an additional year to reach the minimal-genome breakthrough. Instead, five more years were needed to determine which genes the organism needed. Particularly time-consuming were lessons in how different genes work together. One gene might seem nonessentialâuntil removing a companion proved it indispensable. One colleague likened the result to losing an engine on a 777: The plane can still fly, unless you lose the second one. Redundancy, it turns out, is essential to survival.
+
+The most surprising result of their workâand perhaps the most sobering one for the rest of the field: The team still doesnât understand what 31 percent of the essential genes do in even the simplest organism, to say nothing of a human genome. It's a development Venter called âvery humbling.''
+
+âWe are probably at the 1 percent level in understanding the human genome,â said Clyde Hutchison III, a distinguished professor at the Venter Institute.
+
+That lack of knowledge isn't standing in the way of entrepreneurs. Biology has been âhot and heavyâ since the development of a molecular tool that makes gene editing easy, Hutchison explained. Scientists might be able to remove disease-causing genes or even determine a babyâs eye color. This technology, known as CRISPR/Cas-9, has alarmed many inside and outside the research community, who fear it may be used on the human genome before its effects are understood, with unforeseen results.Itâs hard to put a number on a group of tools and technologies as diverse as those traveling under the brand âsynthetic biology,â but dozens of startups are developing or already selling products. The U.S. spent about $820 million on synbio research between 2008 and 2014. The majority of money since 2012 has come from the Defense Advanced Research Project Agency (DARPA), which in part funded the new research.
+
+In the absence of a basic working knowledge of human DNA, Synthetic Genomics is working on otherwise-promising technologies, from growing organs inside pigs for human transplant to clean-water and energy co-production. The company is already a leader in lab technology that allows for fast and accurate DNA synthesis, Venter said.
+
+Despite Venter's new accomplishment, there are several reasons why it may not instantaneously transform synthetic biology, cautioned George Church, a professor of genetics at Harvard Medical School. For one thing, itâs hard. Venter may have difficulty getting other researchers to build off his work, a time-honored way of advancing discovery. While others have made progress tinkering with yeast and E. coli genomes, the advent of easy-to-use gene editing technology may make the laborious rewriting of entire genomes, as Venter has done, less appealing.
+
+That so many questions stand, however, shouldnât detract from the his teamâs long-fought accomplishment, said Church.
+
+âThis is the culmination of dozens of peopleâs work,â he said. âThis should be celebrated.â
+
+Your browser is out-of-date. Please download one of these excellent browsers:Chrome, Firefox, Safari, Opera or Internet Explorer. 
+

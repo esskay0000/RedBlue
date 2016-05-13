@@ -1,0 +1,62 @@
+Experts tell US agency to slow down on self-driving cars
+
+
+
+
+         WASHINGTON        (AP) -- Engineers, safety advocates and even automakers have a safety message for federal regulators eager to get self-driving cars on the road: slow down.
+
+Fully self-driving cars may be the future of the automotive industry, but they aren&apos;t yet up to the demands of real-world driving, several people told the National Highway Traffic Safety Administration during a public meeting Friday.
+
+A slower, more deliberative approach may be needed instead of the agency&apos;s rapid timetable for producing guidance for deploying the vehicles, according to an auto industry trade association. In January, the federal agency announced that it would begin work on writing guidance for deploying the vehicles. Officials have promised to complete that guidance by July.
+
+There are risks to using guidance to deviate from the government&apos;s traditional process of issuing regulations and standards, Paul Scullion, safety manager at the Association of Global Automakers, told the meeting hosted by NHTSA.
+
+"While this process is often time consuming, these procedural safeguards are in place for valid reasons," Scullion said. Working outside that process might allow the government to respond more quickly to rapidly changing technology, but that approach would likely come at the expense of thoroughness, he said.
+
+Issuing new regulations takes an average of eight years, the NHTSA has said. Regulations are also enforceable while guidance is usually more general and open to interpretation.
+
+Mark Rosekind, the NHTSA&apos;s administrator, taking note of the "irony" of automakers asking for regulations, said the agency can&apos;t wait because early self-driving technologies are already in cars on the road. Tesla&apos;s "autopilot" function, for example, enables its cars to automatically steer down the highway, change lanes and adjust speed in response to traffic.
+
+"Everybody asks, &apos;When are they going to be ready?&apos; I keep saying they&apos;re not coming; they are here now," Rosekind said. Without federal instructions, "people are just going to keep putting stuff out on the road with no guidance on how do we do this the right way."
+
+Rosekind emphasized that he sees self-driving cars as game-changing technology that could someday save the lives of many of the more than 30,000 people killed each year on the nation&apos;s roads.
+
+A General Motors official recently told a Senate committee that the automaker expects to deploy self-driving cars within a few years through a partnership with the ride-sharing service Lyft. Google, a pioneer in the development of self-driving cars, is pushing Congress to give the NHTSA new powers to grant it special, expedited permission to sell cars without steering wheels or pedals.
+
+But many of those who addressed the meeting, the first of two the agency has scheduled as it works on the guidelines, described a host of situations that self-driving cars still can&apos;t handle:
+
+-Poorly marked pavement, including parking lots and driveways, could foil the technology, which relies on clear lane markings.
+
+-Bad weather can interfere with vehicle sensors.
+
+-Self-driving cars can&apos;t take directions from a policeman.
+
+-Inconsistent traffic-control devices such as horizontal versus lateral traffic lights.
+
+Until the technology has advanced beyond the point where ordinary conditions are problematic, "it is dangerous, impractical and a major threat to the public health, safety and welfare to deploy them," said Mark Golden, executive director of the National Society of Professional Engineers.
+
+There have been thousands of "disengagements" reported in road tests of self-driving cars in which the vehicles automatically turned control over to a human being, said John Simpson, privacy project director of Consumer Watchdog.
+
+"Self-driving cars simply aren&apos;t ready to safely manage too many routine traffic situations without human intervention," he said.
+
+Rosekind said automakers are learning from the unanticipated situations the vehicles encounter and adapting their software. At the same time, he acknowledged that self-driving cars, like other systems that rely on wireless technology, can be vulnerable to hacking.
+
+James Niles, president of Orbit City Lab, a New York think tank, told the meeting that there is a complete absence of federal regulations and standards to prevent self-driving cars from being turned into weapons by "bad actors."
+
+"The concern that an autonomous vehicle could be used as a weapon has gone unnoticed by the general public and probably by the majority of government officials," he said.
+
+President Barack Obama has proposed a 10-year, $3.9 billion automated technologies program, including large-scale pilot deployments of self-driving cars around the country and funding additional cybersecurity research.
+
+---
+
+Follow Joan Lowy at twitter.com/AP-Joan-Lowy. Her work can be found at http://bigstory.ap.org/content/joan-lowy
+
+© 2016 The Associated Press.  All rights reserved.  This material may not be published, broadcast, rewritten or redistributed.  Learn more about our Privacy Policy and Terms of Use.
+
+
+                    ©2015 The Associated Press.
+                    All rights reserved. Terms
+                    under which this site is provided.
+                    Learn more about our 
+                        Privacy Policy.
+

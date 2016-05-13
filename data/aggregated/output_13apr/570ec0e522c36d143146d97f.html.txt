@@ -1,0 +1,160 @@
+
+
+A worker adjusts hoses during a hydraulic fracturing operation. (AP Photo / Brennan Linsley)
+
+For about a decade, residents in Pavillion, Wyoming, have wanted to know whatâs wrong with their water. The tiny town is surrounded by more than 1,000 gas wells drilled into sandstone, which has been fractured with a high-pressure mix of water and chemicals to release the gas trapped inside. Pavillion was something of a fracking frontier: In the mid-2000s, when residents started to complain of foul-looking water that smelled like gasoline, the American shale-gas revolution was about to explode. The EPA agreed to investigate the Pavillion case, and in 2011 released a draft report that found high levels of carcinogens and at least one chemical linked to fracking in two test wells. Then, in 2013, the agency abruptly passed the inquiry off to state regulators, whose industry-funded reviews have been inconclusive.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-209281-0','tn_environment_environmental_issues_ros_halfpage_1','tn_environment_environmental_issues_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+But the scientist who was in charge of the EPAâs investigation refused to abandon Pavillion, and now he has evidence that a major aquifer system that underlies Pavillion and the nearby Wind River reservation was contaminated by chemicals used in the fracking process. Dominic DiGiulio (now a scholar at Stanford University) and his research partner Robert Jackson released a peer-reviewed study in late March based on an analysis of data collected by federal and state officials, some of which they obtained through a Freedom of Information Act request. In other words, they finished the study EPA should have completed. They found âa slew of chemicals, all of which are known to be used for hydraulic fracturing,â said DiGiulio, which amount to âdirect lines of evidence of impact.â One specific finding was high levels of chloride, likely from the salt solutions used in fracking fluid.						
+			.article-wrap .article-body aside.left.custom_background_209281			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+âIf I were a resident, Iâd be angry,â said Jackson of the EPAâs failure to complete its own investigation. Politics might have had something to do with it, he suggested. At the same time scientists were studying Pavillion, the Obama administration was deepening its relationship with the natural-gas industry, which it embraced as an alternative to coal and as economic booster. The result was tension between scientists in the field and senior EPA officials: DiGiulio disagreed with the move to pass off the inquiry to Wyoming, a decision that he says was ânot made by scientists.â Meanwhile, environmentalists saw Pavillion as part of a pattern: Around the same time the EPA abandoned its research there, it closed several other investigations into pollution from natural-gas production.		
+In a much-criticized, 998-page draft review of the safety of the fracking boom released in 2015, the EPA reported that the practice had no âwidespread, systemic impacts on drinking water resources in the United States.â The study did not consider Pavillion, nor serious allegations of contamination in Dimrock, Pennsylvania, and Parker County, Texas. In January, the EPAâs Science Advisory Board criticized the agency for failing to âclearly describe the system(s) of interest (e.g., groundwater, surface water) nor the deÃ¥finitions of âsystemic,â âwidespread,â or âimpacts,ââ and it recommended the agency consider local-level contamination more seriously. âI donât think EPA looked at this issue very carefully, unfortunately,â DiGiulio said of the draft study, though heâs hopeful the final report will reflect the concern from the advisory board.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us. 
+Related Article
+
+Global Warmingâs Terrifying New Chemistry 
+Bill McKibben
+
+
+Pavillion presented a particularly complicated case study, because the area is also pockmarked with unlined pits that were used to store diesel-based drilling fluids before the practice was banned in the mid-1990s. DiGiulio and Jackson found compounds associated with those pits in Pavillion-area water wells, which need to be more thoroughly sampled before conclusions can be drawn as to whether they, like the aquifer deeper down, are also polluted with fracking chemicals. âItâs hard to figure out what happened at Pavillion because you have 60 years of questionable practices there,â Jackson explained. âItâs easy to say, âOh we donât do that anymore.â But there are many things we are doing today that we should worry about.â		
+One of the current practices that concerns the scientists is the shallowness of fracking activity. In Pavillion and other natural gas sites in the Southwest, fracking often occurs much closer to the surfaceâand to groundwater stocksâthan in well-known, deeper formations like the Marcellus Shale. That means thereâs a smaller safety margin: If a well leaks, the chemicals donât have to travel very far to get into the water system. Not a single state limits how shallowly companies can frack, though Colorado and Texas require operators to go through an extra permitting process. More research needs to be done to assess the risks particular to shallow fracking, DiGiulio said.		
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+But the scientist who was in charge of the EPAâs investigation refused to abandon Pavillion, and now he has evidence that a major aquifer system that underlies Pavillion and the nearby Wind River reservation was contaminated by chemicals used in the fracking process. Dominic DiGiulio (now a scholar at Stanford University) and his research partner Robert Jackson released a peer-reviewed study in late March based on an analysis of data collected by federal and state officials, some of which they obtained through a Freedom of Information Act request. In other words, they finished the study EPA should have completed. They found âa slew of chemicals, all of which are known to be used for hydraulic fracturing,â said DiGiulio, which amount to âdirect lines of evidence of impact.â One specific finding was high levels of chloride, likely from the salt solutions used in fracking fluid.						
+			.article-wrap .article-body aside.left.custom_background_209281			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+âIf I were a resident, Iâd be angry,â said Jackson of the EPAâs failure to complete its own investigation. Politics might have had something to do with it, he suggested. At the same time scientists were studying Pavillion, the Obama administration was deepening its relationship with the natural-gas industry, which it embraced as an alternative to coal and as economic booster. The result was tension between scientists in the field and senior EPA officials: DiGiulio disagreed with the move to pass off the inquiry to Wyoming, a decision that he says was ânot made by scientists.â Meanwhile, environmentalists saw Pavillion as part of a pattern: Around the same time the EPA abandoned its research there, it closed several other investigations into pollution from natural-gas production.		
+In a much-criticized, 998-page draft review of the safety of the fracking boom released in 2015, the EPA reported that the practice had no âwidespread, systemic impacts on drinking water resources in the United States.â The study did not consider Pavillion, nor serious allegations of contamination in Dimrock, Pennsylvania, and Parker County, Texas. In January, the EPAâs Science Advisory Board criticized the agency for failing to âclearly describe the system(s) of interest (e.g., groundwater, surface water) nor the deÃ¥finitions of âsystemic,â âwidespread,â or âimpacts,ââ and it recommended the agency consider local-level contamination more seriously. âI donât think EPA looked at this issue very carefully, unfortunately,â DiGiulio said of the draft study, though heâs hopeful the final report will reflect the concern from the advisory board.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us. 
+Related Article
+
+Global Warmingâs Terrifying New Chemistry 
+Bill McKibben
+
+
+Pavillion presented a particularly complicated case study, because the area is also pockmarked with unlined pits that were used to store diesel-based drilling fluids before the practice was banned in the mid-1990s. DiGiulio and Jackson found compounds associated with those pits in Pavillion-area water wells, which need to be more thoroughly sampled before conclusions can be drawn as to whether they, like the aquifer deeper down, are also polluted with fracking chemicals. âItâs hard to figure out what happened at Pavillion because you have 60 years of questionable practices there,â Jackson explained. âItâs easy to say, âOh we donât do that anymore.â But there are many things we are doing today that we should worry about.â		
+One of the current practices that concerns the scientists is the shallowness of fracking activity. In Pavillion and other natural gas sites in the Southwest, fracking often occurs much closer to the surfaceâand to groundwater stocksâthan in well-known, deeper formations like the Marcellus Shale. That means thereâs a smaller safety margin: If a well leaks, the chemicals donât have to travel very far to get into the water system. Not a single state limits how shallowly companies can frack, though Colorado and Texas require operators to go through an extra permitting process. More research needs to be done to assess the risks particular to shallow fracking, DiGiulio said.		
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+âIf I were a resident, Iâd be angry,â said Jackson of the EPAâs failure to complete its own investigation. Politics might have had something to do with it, he suggested. At the same time scientists were studying Pavillion, the Obama administration was deepening its relationship with the natural-gas industry, which it embraced as an alternative to coal and as economic booster. The result was tension between scientists in the field and senior EPA officials: DiGiulio disagreed with the move to pass off the inquiry to Wyoming, a decision that he says was ânot made by scientists.â Meanwhile, environmentalists saw Pavillion as part of a pattern: Around the same time the EPA abandoned its research there, it closed several other investigations into pollution from natural-gas production.		
+In a much-criticized, 998-page draft review of the safety of the fracking boom released in 2015, the EPA reported that the practice had no âwidespread, systemic impacts on drinking water resources in the United States.â The study did not consider Pavillion, nor serious allegations of contamination in Dimrock, Pennsylvania, and Parker County, Texas. In January, the EPAâs Science Advisory Board criticized the agency for failing to âclearly describe the system(s) of interest (e.g., groundwater, surface water) nor the deÃ¥finitions of âsystemic,â âwidespread,â or âimpacts,ââ and it recommended the agency consider local-level contamination more seriously. âI donât think EPA looked at this issue very carefully, unfortunately,â DiGiulio said of the draft study, though heâs hopeful the final report will reflect the concern from the advisory board.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us. 
+Related Article
+
+Global Warmingâs Terrifying New Chemistry 
+Bill McKibben
+
+
+Pavillion presented a particularly complicated case study, because the area is also pockmarked with unlined pits that were used to store diesel-based drilling fluids before the practice was banned in the mid-1990s. DiGiulio and Jackson found compounds associated with those pits in Pavillion-area water wells, which need to be more thoroughly sampled before conclusions can be drawn as to whether they, like the aquifer deeper down, are also polluted with fracking chemicals. âItâs hard to figure out what happened at Pavillion because you have 60 years of questionable practices there,â Jackson explained. âItâs easy to say, âOh we donât do that anymore.â But there are many things we are doing today that we should worry about.â		
+One of the current practices that concerns the scientists is the shallowness of fracking activity. In Pavillion and other natural gas sites in the Southwest, fracking often occurs much closer to the surfaceâand to groundwater stocksâthan in well-known, deeper formations like the Marcellus Shale. That means thereâs a smaller safety margin: If a well leaks, the chemicals donât have to travel very far to get into the water system. Not a single state limits how shallowly companies can frack, though Colorado and Texas require operators to go through an extra permitting process. More research needs to be done to assess the risks particular to shallow fracking, DiGiulio said.		
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+In a much-criticized, 998-page draft review of the safety of the fracking boom released in 2015, the EPA reported that the practice had no âwidespread, systemic impacts on drinking water resources in the United States.â The study did not consider Pavillion, nor serious allegations of contamination in Dimrock, Pennsylvania, and Parker County, Texas. In January, the EPAâs Science Advisory Board criticized the agency for failing to âclearly describe the system(s) of interest (e.g., groundwater, surface water) nor the deÃ¥finitions of âsystemic,â âwidespread,â or âimpacts,ââ and it recommended the agency consider local-level contamination more seriously. âI donât think EPA looked at this issue very carefully, unfortunately,â DiGiulio said of the draft study, though heâs hopeful the final report will reflect the concern from the advisory board.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us. 
+Related Article
+
+Global Warmingâs Terrifying New Chemistry 
+Bill McKibben
+
+
+Pavillion presented a particularly complicated case study, because the area is also pockmarked with unlined pits that were used to store diesel-based drilling fluids before the practice was banned in the mid-1990s. DiGiulio and Jackson found compounds associated with those pits in Pavillion-area water wells, which need to be more thoroughly sampled before conclusions can be drawn as to whether they, like the aquifer deeper down, are also polluted with fracking chemicals. âItâs hard to figure out what happened at Pavillion because you have 60 years of questionable practices there,â Jackson explained. âItâs easy to say, âOh we donât do that anymore.â But there are many things we are doing today that we should worry about.â		
+One of the current practices that concerns the scientists is the shallowness of fracking activity. In Pavillion and other natural gas sites in the Southwest, fracking often occurs much closer to the surfaceâand to groundwater stocksâthan in well-known, deeper formations like the Marcellus Shale. That means thereâs a smaller safety margin: If a well leaks, the chemicals donât have to travel very far to get into the water system. Not a single state limits how shallowly companies can frack, though Colorado and Texas require operators to go through an extra permitting process. More research needs to be done to assess the risks particular to shallow fracking, DiGiulio said.		
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+I Used to Support Bernie, but Then I Changed My Mind
+
+Bernie Rocks Buffalo. He Also Did Something Else.
+
+Hundreds of People Were Just Arrested Outside Congress
+
+Sanders Is for Schmucks
+
+We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+
+Bill McKibben
+
+Pavillion presented a particularly complicated case study, because the area is also pockmarked with unlined pits that were used to store diesel-based drilling fluids before the practice was banned in the mid-1990s. DiGiulio and Jackson found compounds associated with those pits in Pavillion-area water wells, which need to be more thoroughly sampled before conclusions can be drawn as to whether they, like the aquifer deeper down, are also polluted with fracking chemicals. âItâs hard to figure out what happened at Pavillion because you have 60 years of questionable practices there,â Jackson explained. âItâs easy to say, âOh we donât do that anymore.â But there are many things we are doing today that we should worry about.â		
+One of the current practices that concerns the scientists is the shallowness of fracking activity. In Pavillion and other natural gas sites in the Southwest, fracking often occurs much closer to the surfaceâand to groundwater stocksâthan in well-known, deeper formations like the Marcellus Shale. That means thereâs a smaller safety margin: If a well leaks, the chemicals donât have to travel very far to get into the water system. Not a single state limits how shallowly companies can frack, though Colorado and Texas require operators to go through an extra permitting process. More research needs to be done to assess the risks particular to shallow fracking, DiGiulio said.		
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+One of the current practices that concerns the scientists is the shallowness of fracking activity. In Pavillion and other natural gas sites in the Southwest, fracking often occurs much closer to the surfaceâand to groundwater stocksâthan in well-known, deeper formations like the Marcellus Shale. That means thereâs a smaller safety margin: If a well leaks, the chemicals donât have to travel very far to get into the water system. Not a single state limits how shallowly companies can frack, though Colorado and Texas require operators to go through an extra permitting process. More research needs to be done to assess the risks particular to shallow fracking, DiGiulio said.		
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+The EPAâs ability to regulate fracking is constrained by the âHalliburton Loophole,â which exempts natural-gas drilling from the Safe Drinking Water Act. The agency has also suffered a series of funding cuts that may have undermined its oversight capabilities. But multiple reports from the Government Accountability Office, including one released in the same week as DiGiulio and Jacksonâs study, have faulted the EPA for failing to use what authority it does have to protect water sources. The most recent audit found that EPA is not collecting enough information to perform appropriate oversight over wastewater from oil and gas activity. Although EPA has blamed staff shortages, the GAO noted that the agency has not even conducted an analysis to determine what resources it needs. 
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+An EPA spokesperson said the agency was in the process of reviewing DiGiulio and Jacksonâs paper, and that it would be considered in the final water-risk report, which is anticipated later this year. Asked to explain the decision to hand off the Pavillion investigation to the state of Wyoming, EPA responded, in part, âEPA and the state both agreed that the best path forward in advancing the understanding of groundwater issues in the Pavillion area included EPAâs support for the stateâs additional investigation of pits, production wells and drinking water. We determined that this additional investigation was a positive step that would generate additional information and build on EPAâs work.â 
+
+
+ ZoÃ« Carpenter
+Twitter
+ ZoÃ« Carpenter isÂ The Nationâs associateÂ Washington editor.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

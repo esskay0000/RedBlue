@@ -1,0 +1,143 @@
+
+	14
+      
+
+By
+
+Associated Press
+
+
+
+Published:
+  21:15 EST, 12 May 2016
+
+ | 
+Updated:
+  03:19 EST, 13 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3588032',
+                    'title': '3,000 bags pile up after TSA computer error at Phoenix airport',
+                    'url': 'http://www.dailymail.co.uk/news/article-3588032/TSA-3-000-checked-bags-miss-flights-leaving-Phoenix-airport.html',
+                    'eTwitterStatus': ' http://dailym.ai/24OZjtO via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+14
+shares
+
+ 
+          19
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          19
+
+View  comments
+
+More than 3,000 checked bags missed their outbound flights in Phoenix on Thursday because of a problem with a screening system at Sky Harbor International Airport, officials with Transportation Security Administration said.
+
+'TSA is experiencing significant, unprecedented technical issues with its computer server allowing the automated screening of checked bags for explosives,' TSA spokesman Nico Melendez said in a statement.
+
+Melendez didn't elaborate on the problem, which began about 6:45am and only affected Sky Harbor. Around midnight, baggage screening was operational again, the airport announced in a tweet. 
+
+Scroll down for video 
+
+Baggage sits in the special events parking lot Thursday at Phoenix Sky Harbor International Airport. More than 3,000 checked bags missed their outbound flights in Phoenix  because of a problem with a screening system
+
+The TSA experienced 'significant, unprecedented technical issues' with its computer system that automatically screens bags for explosives, the agency said
+
+The problem with the automatic screening program began about 6:45 a.m. and only affected Sky Harbor 
+
+Earlier on Thursday, Melendez said  it wasn't a safety issue.
+
+'TSA is working diligently with our airline and airport partners and using alternative screening tools to screen bags, though that method are not as efficient as our automated system,' Melendez added. 
+
+'TSA is currently bringing additional canine units from other airports and bringing in network specialists to address the situation and keep passengers safe and screen all bags.'
+
+According to the TSA, the inline baggage systems handle the bulk of checked luggage. When everything is working properly only about 10 percent of all checked bags are hand-searched by TSA officers.
+
+Julie Rodriguez, a Sky Harbor spokeswoman, said the problem existed in all three of the airport's terminals and passengers were being advised to avoid checking luggage if possible.
+
+As of Thursday evening, hundreds of bags were sitting in a parking lot that is usually used for special events. Workers were loading them onto semi-trailers.
+
+Rodriguez said those bags were slated for ground transportation to airports in Tucson and San Diego and then would be screened and flown to their destinations.
+
+'We are not seeing widespread flight delays, but many checked bags are missing flights,' Rodriguez said.
+
+A jet plane leaves Sky Harbor International Airport in Phoenix, heading west. On Thursday, over 3,000 checked bags missed their destinations 
+
+Bags could be seen piling up at Sky Harbor International Airport Thursday, after the TSA experienced computer issues 
+
+Only about 10 percent of bags are searched by hand by officers; the rest are handled by inline baggage systems, TSA said 
+
+Workers put passenger luggage on a semi truck at Sky Harbor International Airport in Phoenix Thursday
+
+Cody Desjadon, 22, of Prescott, Arizona, arrived at the airport shortly after 5 p.m. and knew something was off when he saw a parking lot full of police, dogs, and suitcases. He and his girlfriend, Hannah Brinser, 19, then learned at a Southwest ticket counter that her large suitcase would take two to three days to get to their destination in Missouri.
+
+'Our trip is three days,' Desjadon said.
+
+The couple's main concern was trying to stuff several wrapped gifts for aunts, grandparents and cousins into their two carry-ons.
+
+'It's definitely unfortunate because we're going for a graduation and there's lots of gifts for the graduation. I don't know if we can fit them all,' Desjadon said.
+
+Desjadon said a lot of other passengers were more frustrated than he was.
+
+'I've heard every swear word known to man in the last 15 minutes,' he said.
+
+Sixteen airlines fly in and out of Sky Harbor, which is one of the nation's busiest airports. Nearly 4.3 million passengers traveled through Sky Harbor in March, making it the airport's busiest month ever. 
+
+
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

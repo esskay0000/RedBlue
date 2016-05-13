@@ -1,0 +1,201 @@
+
+
+Pro-choice demonstrators appear outside of the Supreme Court in March 2016. (Photo By Tom Williams / CQ Roll Call via AP Images)
+
+What does abortion have to do with the minimum wage? Both are in the news, with ongoing fallout from the Planned Parenthood sting videos and attacks on abortion access continuing at the state level, while political candidates are centering wages, equal pay, and other issues of economic security in their campaigns. But these discussions are mostly happening separately, overlooking the ways in which access to reproductive healthcare is inextricably tied up in a woman’s ability to support herself and her family financially.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211106-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+We know, for instance, that two-thirds of minimum-wage workers are women, and that the low wage floor leaves many below the poverty level. We also know that women have a greater chance of escaping poverty, or avoiding it in the first place, if they’re able to control when and if to have children. An unwanted pregnancy can cause a woman to abandon her education or a career; an unaffordable abortion can force her to rely on the predatory services of payday lenders, entrapping her in a debt cycle. Yet it’s poor women who have the hardest time accessing family planning services—because they don’t have access to a clinic, because they’re uninsured, or because their insurance doesn’t cover the service they need and they can’t afford it otherwise. The IUD, one of the most effective methods of birth control, costs nearly a full-month’s salary for a woman working full-time at minimum wage, while fewer than a third of low-income women of reproductive age have access to federally funded family planning services.		
+Last week, members of Progressive Congress, a nonprofit loosely affiliated with the Congressional Progressive Caucus, hosted a groundbreaking summit on the Hill intended to reframe abortion as an issue of economic justice, rather than simply a moral one. Representatives Keith Ellison, who co-chairs the CPC, and Barbara Lee and Jan Schakowsky spoke, as did a number of experts from groups like the National Latina Institute for Reproductive Health and the National Women’s Law Center. They discussed that various ways in which reproductive health care plays a “critical role in the economic opportunity available to women,” as Ellison put it, and also strategies for incorporating access to that care into a broader agenda for women’s financial security.		
+Abortion is “the one issue that comes up in every single election, and [politicians] have been told not to talk about it,” noted Margarida Jorge, the national director of the Women’s Equality Center. On the other hand, Democrats are happy to talk about equal pay and other pocketbook issues. With the pro-choice movement so often playing defense against anti-choice legislation at the state and federal level, the economic security framing is intended to help catalyze an offensive switch, to arm pro-choice candidates with positive messaging, and to help build diverse coalitions. Jorge pointed out that the groups that organize the most women in the United States are not specifically “women’s organizations”—they’re labor unions, religious congregations, and civic-engagement groups.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Why Bernie Didn’t Get My Vote
+One of the major fights is against the Hyde Amendment, which bars low-income women who rely on Medicaid, as well as military members, Peace Corps volunteers, and anyone else who uses federally funded insurance, from abortion coverage. “The Hyde amendment says that it’s poor women who don’t have any choice, that they’re the ones locked into a set of life circumstances that they don’t have any control over,” Ellison explained. Barbara Lee reminded the audience that until a few years ago, “you didn’t talk about Hyde” as a member of Congress, because it was considered politically toxic. Now, a bill to repeal the amendment, which Lee helped to write, has over 100 co-sponsors in the House, and both Democratic presidential candidates have called for its demise. “This is really historic,” Lee said.						
+			.article-wrap .article-body aside.left.custom_background_211106			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“A lot of us—too many of us—for a long time have said, ‘Oh, well, don’t worry, there’s no federal dollars spent on abortion,’ as if that’s sort of the normal—as if we accept that,” said Schakowsky, another of the bill’s authors. She credited pro-choice activists with pushing her to take an offensive stance on the issue, thanking them “for bringing me along.” Indeed, groups like Unite for Reproductive and Gender Equality (URGE, whose executive director, Kierra Johnson, spoke at the roundtable) have worked for years to raise the profile of the fight against Hyde, which until recently was a lonely battle. URGE and the group All* Above All (also represented at the panel by its co-director, Destiny Lopez) launched a campaign this month on college campuses in five states to “proclaim abortion access as a public good” and raise support for overturning Hyde.		
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+We know, for instance, that two-thirds of minimum-wage workers are women, and that the low wage floor leaves many below the poverty level. We also know that women have a greater chance of escaping poverty, or avoiding it in the first place, if they’re able to control when and if to have children. An unwanted pregnancy can cause a woman to abandon her education or a career; an unaffordable abortion can force her to rely on the predatory services of payday lenders, entrapping her in a debt cycle. Yet it’s poor women who have the hardest time accessing family planning services—because they don’t have access to a clinic, because they’re uninsured, or because their insurance doesn’t cover the service they need and they can’t afford it otherwise. The IUD, one of the most effective methods of birth control, costs nearly a full-month’s salary for a woman working full-time at minimum wage, while fewer than a third of low-income women of reproductive age have access to federally funded family planning services.		
+Last week, members of Progressive Congress, a nonprofit loosely affiliated with the Congressional Progressive Caucus, hosted a groundbreaking summit on the Hill intended to reframe abortion as an issue of economic justice, rather than simply a moral one. Representatives Keith Ellison, who co-chairs the CPC, and Barbara Lee and Jan Schakowsky spoke, as did a number of experts from groups like the National Latina Institute for Reproductive Health and the National Women’s Law Center. They discussed that various ways in which reproductive health care plays a “critical role in the economic opportunity available to women,” as Ellison put it, and also strategies for incorporating access to that care into a broader agenda for women’s financial security.		
+Abortion is “the one issue that comes up in every single election, and [politicians] have been told not to talk about it,” noted Margarida Jorge, the national director of the Women’s Equality Center. On the other hand, Democrats are happy to talk about equal pay and other pocketbook issues. With the pro-choice movement so often playing defense against anti-choice legislation at the state and federal level, the economic security framing is intended to help catalyze an offensive switch, to arm pro-choice candidates with positive messaging, and to help build diverse coalitions. Jorge pointed out that the groups that organize the most women in the United States are not specifically “women’s organizations”—they’re labor unions, religious congregations, and civic-engagement groups.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Why Bernie Didn’t Get My Vote
+One of the major fights is against the Hyde Amendment, which bars low-income women who rely on Medicaid, as well as military members, Peace Corps volunteers, and anyone else who uses federally funded insurance, from abortion coverage. “The Hyde amendment says that it’s poor women who don’t have any choice, that they’re the ones locked into a set of life circumstances that they don’t have any control over,” Ellison explained. Barbara Lee reminded the audience that until a few years ago, “you didn’t talk about Hyde” as a member of Congress, because it was considered politically toxic. Now, a bill to repeal the amendment, which Lee helped to write, has over 100 co-sponsors in the House, and both Democratic presidential candidates have called for its demise. “This is really historic,” Lee said.						
+			.article-wrap .article-body aside.left.custom_background_211106			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“A lot of us—too many of us—for a long time have said, ‘Oh, well, don’t worry, there’s no federal dollars spent on abortion,’ as if that’s sort of the normal—as if we accept that,” said Schakowsky, another of the bill’s authors. She credited pro-choice activists with pushing her to take an offensive stance on the issue, thanking them “for bringing me along.” Indeed, groups like Unite for Reproductive and Gender Equality (URGE, whose executive director, Kierra Johnson, spoke at the roundtable) have worked for years to raise the profile of the fight against Hyde, which until recently was a lonely battle. URGE and the group All* Above All (also represented at the panel by its co-director, Destiny Lopez) launched a campaign this month on college campuses in five states to “proclaim abortion access as a public good” and raise support for overturning Hyde.		
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+Last week, members of Progressive Congress, a nonprofit loosely affiliated with the Congressional Progressive Caucus, hosted a groundbreaking summit on the Hill intended to reframe abortion as an issue of economic justice, rather than simply a moral one. Representatives Keith Ellison, who co-chairs the CPC, and Barbara Lee and Jan Schakowsky spoke, as did a number of experts from groups like the National Latina Institute for Reproductive Health and the National Women’s Law Center. They discussed that various ways in which reproductive health care plays a “critical role in the economic opportunity available to women,” as Ellison put it, and also strategies for incorporating access to that care into a broader agenda for women’s financial security.		
+Abortion is “the one issue that comes up in every single election, and [politicians] have been told not to talk about it,” noted Margarida Jorge, the national director of the Women’s Equality Center. On the other hand, Democrats are happy to talk about equal pay and other pocketbook issues. With the pro-choice movement so often playing defense against anti-choice legislation at the state and federal level, the economic security framing is intended to help catalyze an offensive switch, to arm pro-choice candidates with positive messaging, and to help build diverse coalitions. Jorge pointed out that the groups that organize the most women in the United States are not specifically “women’s organizations”—they’re labor unions, religious congregations, and civic-engagement groups.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Why Bernie Didn’t Get My Vote
+One of the major fights is against the Hyde Amendment, which bars low-income women who rely on Medicaid, as well as military members, Peace Corps volunteers, and anyone else who uses federally funded insurance, from abortion coverage. “The Hyde amendment says that it’s poor women who don’t have any choice, that they’re the ones locked into a set of life circumstances that they don’t have any control over,” Ellison explained. Barbara Lee reminded the audience that until a few years ago, “you didn’t talk about Hyde” as a member of Congress, because it was considered politically toxic. Now, a bill to repeal the amendment, which Lee helped to write, has over 100 co-sponsors in the House, and both Democratic presidential candidates have called for its demise. “This is really historic,” Lee said.						
+			.article-wrap .article-body aside.left.custom_background_211106			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“A lot of us—too many of us—for a long time have said, ‘Oh, well, don’t worry, there’s no federal dollars spent on abortion,’ as if that’s sort of the normal—as if we accept that,” said Schakowsky, another of the bill’s authors. She credited pro-choice activists with pushing her to take an offensive stance on the issue, thanking them “for bringing me along.” Indeed, groups like Unite for Reproductive and Gender Equality (URGE, whose executive director, Kierra Johnson, spoke at the roundtable) have worked for years to raise the profile of the fight against Hyde, which until recently was a lonely battle. URGE and the group All* Above All (also represented at the panel by its co-director, Destiny Lopez) launched a campaign this month on college campuses in five states to “proclaim abortion access as a public good” and raise support for overturning Hyde.		
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+Abortion is “the one issue that comes up in every single election, and [politicians] have been told not to talk about it,” noted Margarida Jorge, the national director of the Women’s Equality Center. On the other hand, Democrats are happy to talk about equal pay and other pocketbook issues. With the pro-choice movement so often playing defense against anti-choice legislation at the state and federal level, the economic security framing is intended to help catalyze an offensive switch, to arm pro-choice candidates with positive messaging, and to help build diverse coalitions. Jorge pointed out that the groups that organize the most women in the United States are not specifically “women’s organizations”—they’re labor unions, religious congregations, and civic-engagement groups.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Why Bernie Didn’t Get My Vote
+One of the major fights is against the Hyde Amendment, which bars low-income women who rely on Medicaid, as well as military members, Peace Corps volunteers, and anyone else who uses federally funded insurance, from abortion coverage. “The Hyde amendment says that it’s poor women who don’t have any choice, that they’re the ones locked into a set of life circumstances that they don’t have any control over,” Ellison explained. Barbara Lee reminded the audience that until a few years ago, “you didn’t talk about Hyde” as a member of Congress, because it was considered politically toxic. Now, a bill to repeal the amendment, which Lee helped to write, has over 100 co-sponsors in the House, and both Democratic presidential candidates have called for its demise. “This is really historic,” Lee said.						
+			.article-wrap .article-body aside.left.custom_background_211106			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“A lot of us—too many of us—for a long time have said, ‘Oh, well, don’t worry, there’s no federal dollars spent on abortion,’ as if that’s sort of the normal—as if we accept that,” said Schakowsky, another of the bill’s authors. She credited pro-choice activists with pushing her to take an offensive stance on the issue, thanking them “for bringing me along.” Indeed, groups like Unite for Reproductive and Gender Equality (URGE, whose executive director, Kierra Johnson, spoke at the roundtable) have worked for years to raise the profile of the fight against Hyde, which until recently was a lonely battle. URGE and the group All* Above All (also represented at the panel by its co-director, Destiny Lopez) launched a campaign this month on college campuses in five states to “proclaim abortion access as a public good” and raise support for overturning Hyde.		
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+This Is What Happens When Republican Voters Get What They Want
+
+Why Bernie Didn’t Get My Vote
+
+One of the major fights is against the Hyde Amendment, which bars low-income women who rely on Medicaid, as well as military members, Peace Corps volunteers, and anyone else who uses federally funded insurance, from abortion coverage. “The Hyde amendment says that it’s poor women who don’t have any choice, that they’re the ones locked into a set of life circumstances that they don’t have any control over,” Ellison explained. Barbara Lee reminded the audience that until a few years ago, “you didn’t talk about Hyde” as a member of Congress, because it was considered politically toxic. Now, a bill to repeal the amendment, which Lee helped to write, has over 100 co-sponsors in the House, and both Democratic presidential candidates have called for its demise. “This is really historic,” Lee said.						
+			.article-wrap .article-body aside.left.custom_background_211106			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“A lot of us—too many of us—for a long time have said, ‘Oh, well, don’t worry, there’s no federal dollars spent on abortion,’ as if that’s sort of the normal—as if we accept that,” said Schakowsky, another of the bill’s authors. She credited pro-choice activists with pushing her to take an offensive stance on the issue, thanking them “for bringing me along.” Indeed, groups like Unite for Reproductive and Gender Equality (URGE, whose executive director, Kierra Johnson, spoke at the roundtable) have worked for years to raise the profile of the fight against Hyde, which until recently was a lonely battle. URGE and the group All* Above All (also represented at the panel by its co-director, Destiny Lopez) launched a campaign this month on college campuses in five states to “proclaim abortion access as a public good” and raise support for overturning Hyde.		
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+“A lot of us—too many of us—for a long time have said, ‘Oh, well, don’t worry, there’s no federal dollars spent on abortion,’ as if that’s sort of the normal—as if we accept that,” said Schakowsky, another of the bill’s authors. She credited pro-choice activists with pushing her to take an offensive stance on the issue, thanking them “for bringing me along.” Indeed, groups like Unite for Reproductive and Gender Equality (URGE, whose executive director, Kierra Johnson, spoke at the roundtable) have worked for years to raise the profile of the fight against Hyde, which until recently was a lonely battle. URGE and the group All* Above All (also represented at the panel by its co-director, Destiny Lopez) launched a campaign this month on college campuses in five states to “proclaim abortion access as a public good” and raise support for overturning Hyde.		
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+Although political debates about reproductive health usually focus narrowly on the most controversial issue—abortion—advocates at the summit spoke of the need to broaden the conversation to people who might not go to bat for abortion access but would support efforts to expand comprehensive sex education, for example, or affordable childcare. “When we think about Medicaid, the only battle isn’t around abortion access,” said URGE’s Johnson. While Medicaid doesn’t cover abortion, it also doesn’t always cover the costs of an additional child, leaving some people with an unplanned pregnancy unable to afford either option. Expanding eligibility, then, is an area where pro-choice activists and others might find common ground.		
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+While the summit was underway in Washington, the Oklahoma legislature enthusiastically passed a bill that defines providing abortion as “unprofessional conduct” for doctors. It’s really an abortion ban: Under the legislation, doctors would lose their medical licenses and spend up to three years in jail for performing the procedure. The bill clearly contradicts Roe v. Wade and, if it’s signed into law, will probably be ruled unconstitutional. But this attack on choice, like other oft-tried and failed anti-choice measures like personhood amendments, serves a purpose nonetheless.		
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+“All they’re trying to do is keep the war of ideas moving forward and animate their people,” explained Jorge of the Women’s Equality Center. “We need to be talking at least as much as the other side.” We, meaning not just the pro-choice movement but all of the politicians, activists, and voters who care about lifting women out of poverty and making sure they’re financially stable.		
+		
+
+ Zoë Carpenter
+Twitter
+ Zoë Carpenter is The Nation’s associate Washington editor.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Right-Wing Males appear to be scared little bullies.
+
+Given Roe v Wade, one cannot criminalize abortion. Therefore, it is extremely important to understand the motives for abortion and to try to create programs that help women who are frightened into abortion.
+
+Candidates in favor of keeping induced abortion legal need only to declare that fact in campaigns.  Any more promotion of "pro-choice" is politically risky and could serve to minimize other important issues.  In 2014, in red States, "Pro-choice" activists made the issue front and center, at the expense of other issues , and lost bad in the Senate.  Go figure.
+
+Nothing is more important than a human being, in this case more than half the population, to have the right to control how they will use their body as opposed to forced birth, just as odious as forced abortion or forced sterilization. These politicians not only want to end the right to choose, some would allow the woman to die instead of removing the fetus. Others who have no medical training are opposed to methods of abortion. Finally some would limit or end birth control under the false science that it cause abortion. Maybe you think it&apos;s ok to play around and interfere with women&apos;s health. But think about how if they control half the population&apos;s repro rights, what else these politicians may to decide to control next.
+
+Nature intended for women to have the final say reguarding their reproductive functions. Women are the vessels for the nine month gestation time required to produce a child. Men have an an all but two second role in the process. When men take on the gestation function, they can decide whether it will proceed to term.
+
+This article is for me overwhelmingly sad to read.  It shows all the lost ground in the last three decades, and serves to remind me how once Reagan took office that unneeded sense of helplessness became so much the norm for women across the country who were not rolling in the 1980&apos;s manure fest of money.  So many lives ran off track because of really revolting people like the Mitch McConnells of today.  Ugly, uglier, ugliest....
+
+It really is sad that an issue about the personal health and bodily autonomy of a woman isn&apos;t enough on it&apos;s own. We have to put it in the only terms that Americans seem to care about. Money.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

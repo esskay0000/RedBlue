@@ -1,0 +1,1927 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script>
+var articlereadbyUser = 0;
+var pageCounterPaywall = 0; 
+      function getCookie(name)
+      {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+      }
+      var checkCookie = getCookie('SESSchecknc');
+      if (checkCookie!='undefined' && checkCookie==1)
+      { 
+         var currentUrl = document.URL;
+         if (currentUrl.indexOf("?nc=1") > -1){ }
+         else
+         {
+            if (currentUrl.indexOf("?") > -1)
+            {
+               if (currentUrl.indexOf("&nc=1") > -1) {}
+               else{
+                  window.location.href = currentUrl+"&nc=1";                  
+               }            
+            }
+            else
+            {
+            window.location.href = currentUrl+"/?nc=1"; 
+			
+            }
+            //document.open('text/javascript');
+            //document.write('<script type="text/undefined">');
+         }
+      }
+</script>
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	 <meta charset="utf-8">
+		<!-- Always force latest IE rendering engine or request Chrome Frame -->
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+		<!-- Use title if it's in the page YAML frontmatter -->			
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>How to Succeed on Broadway! | The Nation</title>
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="">
+			<!-- Facebook META -->
+			<!--<meta property="fb:app_id" content="">-->
+			<meta property="og:site_name" content="The Nation">
+			<meta property="og:title" content="How to Succeed on Broadway!">
+			<meta property="og:description" content="Why is Arthur Miller one of the most lauded American playwrights—and one of the most vilified?">
+			<!--<meta property="og:url" content="">-->
+			<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img-1440x756.jpg">
+			<meta property="og:type" content="website">
+			<!-- Twitter META -->
+			<meta name="twitter:title" content="How to Succeed on Broadway!">
+			<meta name="twitter:description" content="Why is Arthur Miller one of the most lauded American playwrights—and one of the most vilified?">
+			<meta name="twitter:url" content="http://www.thenation.com/article/how-to-succeed-on-broadway/">
+			<meta name="twitter:image" content="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img-1440x756.jpg">
+						<!-- Fav Icon -->
+			<!--<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />--->
+			<link rel="icon" type="image/ico" href="http://www.thenation.com/wp-content/themes/thenation/images/favicon.ico" />
+	<meta name="sailthru.image.full" content="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img-680x430.jpg" /> 
+<meta name="sailthru.image.thumb" content="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img-275x173.jpg" />
+<meta name="sailthru.title" content="How to Succeed on Broadway!" />
+<meta name="sailthru.date" content="April 20th, 2016" />
+<meta name="sailthru.content_id" content="210062" />
+<meta name="sailthru.description" content="Why is Arthur Miller one of the most lauded American playwrights—and one of the most vilified?" />
+<meta name="sailthru.tags" content="Arts and Entertainment,Theater,Books &amp; the Arts" />
+<meta name="keywords" content="" />
+<meta name="sailthru.author" content="Alisa Solomon" />
+<script type="text/javascript">
+    (function() 
+	{
+        function loadHorizon() 
+		{
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+        	}
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+		{
+            	if (typeof oldOnLoad === 'function') 
+			{
+                	oldOnLoad();
+          		}
+            	Sailthru.setup({
+                	domain: 'horizon.thenation.com'
+            		});
+        	};
+    	})();
+</script>
+<!--Advertisements-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//kilomonj.net/adBlockDetector/12257" async defer></script>
+<!--<script class="kxct" data-id="JDkN7kNL" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN7kNL"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>-->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20564932" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20564932&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+<link href="http://www.thenation.com/wp-content/themes/thenation/stylesheets/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="Self-sacrifice has stormed into New York City theaters this season. On one stage, a Viennese aristocrat hands over to a Jewish psychiatrist the pass that would have released him from Nazi detention." />
+<meta name="keywords" content="books &amp; the arts, arts and entertainment, theater" />
+<meta property="fb:app_id" content="192399944158735" />
+<meta property="og:site_name" content="The Nation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How to Succeed on Broadway!" />
+<meta property="og:url" content="http://www.thenation.com/article/how-to-succeed-on-broadway/" />
+<meta property="og:description" content="Self-sacrifice has stormed into New York City theaters this season. On one stage, a Viennese aristocrat hands over to a Jewish psychiatrist the pass that would have released him from Nazi detention." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2016-04-20T13:09:41+00:00" />
+<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="907" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2016-04-20T05:00:52+00:00" />
+<meta property="article:modified_time" content="2016-04-20T13:09:41+00:00" />
+<meta property="article:author" content="http://www.thenation.com/author/smccroskey/" />
+<meta property="article:publisher" content="https://www.facebook.com/TheNationMagazine" />
+<meta property="article:tag" content="books &amp; the arts" />
+<meta property="article:tag" content="arts and entertainment" />
+<meta property="article:tag" content="theater" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TheNation" />
+<meta name="twitter:title" content="How to Succeed on Broadway!" />
+<meta name="twitter:description" content="Self-sacrifice has stormed into New York City theaters this season. On one stage, a Viennese aristocrat hands over to a Jewish psychiatrist the pass that would have released him from Nazi detention." />
+<meta name="twitter:image:src" content="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img.jpg" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="907" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Feed" href="http://www.thenation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Comments Feed" href="http://www.thenation.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; How to Succeed on Broadway! Comments Feed" href="http://www.thenation.com/article/how-to-succeed-on-broadway/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thenation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='defaultbasic-css'  href='http://www.thenation.com/wp-content/themes/thenation/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='thenation-stylesheet-all-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/all.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='basicfonts-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/fonts.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_calendar-jos-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_frontend-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style_submissions-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tn_stf_style-css'  href='http://www.thenation.com/wp-content/plugins/tn-sailthruforms/admin/assets/tn_sailthruforms_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.thenation.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/tn-customeditor//tinymce-dropcap.js?ver=4.2.4'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thenation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.13" />
+<link rel='canonical' href='http://www.thenation.com/article/how-to-succeed-on-broadway/' />
+<link rel='shortlink' href='http://www.thenation.com/?p=210062' />
+<link rel="stylesheet" href="http://www.thenation.com/wp-content/plugins/solr-for-wordpress-on-pantheon/template/autocomplete.css" type="text/css" media="screen" />
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          //  $("#s").suggest("?method=autocomplete", {});
+          //  $("#search-value").suggest("?method=autocomplete", {});
+        });
+    </script>
+    <script type='text/javascript'>var pageCounterPaywall = 0; var scrollHolderPaywall = {};var maxarticlePaywall = 0; var current_articlePaywall = 0; var maxdaysPaywall = 0; var accesseddaysPaywall = 0; </script>				<!-- WordPress Popular Posts v3.2.1 -->
+				<script type="text/javascript">//<![CDATA[
+
+					// Create XMLHttpRequest object and set variables
+					var xhr = ( window.XMLHttpRequest )
+					  ? new XMLHttpRequest()
+					  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+					url = 'http://www.thenation.com/wp-admin/admin-ajax.php',
+					params = 'action=update_views_ajax&token=fcf1f46c60&id=210062';
+					// Set request method and target URL
+					xhr.open( "POST", url, true );
+					// Set request header
+					xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+					// Hook into onreadystatechange
+					xhr.onreadystatechange = function() {
+						if ( 4 == xhr.readyState && 200 == xhr.status ) {
+							if ( window.console && window.console.log ) {
+								window.console.log( xhr.responseText );
+							}
+						}
+					}
+					// Send request
+					xhr.send( params );
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.1 -->
+				<script src="http://www.thenation.com/wp-content/plugins/tn-paywall/inc/paywall-script.php?nc=1&paywallid=MjEwMDYy&display=YmxvY2s="></script><script>
+jQuery(document).ready(function(){
+   jQuery('#search').submit(function(event){
+      if (jQuery('#search input:text').eq(0).val().length<1){
+	 return false;
+      }
+   });
+   jQuery('#searchbox').submit(function(event){
+      if (jQuery('#searchbox input:text').eq(0).val().length<1){
+	 return false;
+	 }
+   });
+});
+</script>
+</head>
+<!-- Quantcast Tag -->  <script type="text/javascript">  var _qevents = _qevents || [];    (function() {  var elem = document.createElement('script');  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";  elem.async = true;  elem.type = "text/javascript";  var scpt = document.getElementsByTagName('script')[0];  scpt.parentNode.insertBefore(elem, scpt);  })();    _qevents.push({  qacct:"p-krSvyk7fmpe57"  });  </script>    <noscript>  <div style="display:none;">  <img src="//pixel.quantserve.com/pixel/p-krSvyk7fmpe57.gif" border="0" height="1" width="1" alt="Quantcast"/>  </div>  </noscript>  <!-- End Quantcast tag -->
+<body>
+<!-- Google Analytics Code -->
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63392420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- Live Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code End -->
+<!-- Chartbeat code starts here -->
+<script type="text/javascript">
+  var _sf_async_config = { uid: 7841, domain: 'thenation.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.insertBefore(e, document.body.firstChild);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Chartbeat code ends here -->
+<!-- Google Mobile Interstitial Starts here -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script> 
+  (adsbygoogle = window.adsbygoogle || []).push({ 
+    google_ad_client: 'ca-pub-4976568202552923', 
+    enable_page_level_ads: true, 
+    interstitials: {google_ad_channel: 'ca-pub-4976568202552923'} 
+  }); 
+</script>
+<!-- Google Mobile Interstitial Ends here -->
+<!-- Advertisements -->
+<!---- Moat Script starts here -------->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/thenationcontent252XZzP54/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!---- Moat Script ends here --------->
+<script async="async" data-client-id="hBpPprgSpyyiDmn" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/esf.js"></script><script>
+    var pageCounterPaywall ;
+	var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+</script>
+<!-- Function to call Advertisements on entire website-->
+<script type='text/javascript'>
+   function call_ad(ad_type,ad_div,ad_name_desktop,ad_name_mobile,custom_targeting,key,values) {
+      if (typeof custom_targeting === 'undefined') { custom_targeting = false; }
+      if (typeof key === 'undefined') { key = null; }
+      if (typeof values === 'undefined') { values = null; }
+      var w,h,w1,h1;
+      var ad_name='';
+      if (ad_type == "leaderboard")
+	  {
+		 w = 728;
+		 h = 90;
+		 w1=970;
+		 h1=90;
+		 ad_name = ad_name_desktop;
+		 if (isMobile.any())
+		 {
+			 w = 320;
+			 h = 50;
+			 ad_name = ad_name_mobile;
+		 }
+      }
+      else if (ad_type == "halfpage")
+	  {
+		w = 300;
+		h = 250;
+		w1 = 300;
+		h1 = 600;
+		ad_name = ad_name_desktop;
+		if(isMobile.any())
+		{
+			w = 300;
+			h = 250;
+			w1 = 300;
+			h2 = 250;
+			ad_name = ad_name_mobile;
+		}		
+      }
+      else if (ad_type == "halfpage250") {
+	 w = 300;
+	 h = 250;
+	 ad_name = ad_name_desktop;
+      }
+      else if (ad_type == "pixel")
+	  {
+		var ad_pixel_name1 = "_pixel_2";
+		var ad_pixel_name_final=ad_name_desktop.indexOf(ad_pixel_name1);
+		//alert(ad_pixel_name_final);
+		if(articlereadbyUser!=0)
+		{
+		if(ad_pixel_name_final<=-1)
+		{
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===true) {
+			  return;
+			}
+		}
+		}
+		/*for hiding meterpaywall popups when pixel ads call ends here*/
+		
+		if(isMobile.any())
+		{
+		ad_name = ad_name_mobile;
+		}
+		else
+		{
+		ad_name = ad_name_desktop;
+		}
+		
+						w = 1;
+		h = 1;
+      }
+      //alert('ad_name: '+ad_name+'  div: '+ad_div+'  key: '+key+'  values: '+values);
+      googletag.cmd.push(function() {
+      var ad_slot = null;
+	  if(ad_type == "halfpage" || ad_type == "leaderboard") {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [[w, h],[w1,h1]], ad_div);
+	  }
+	  else {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [w, h], ad_div);
+	  }
+      if (custom_targeting==true && key && values)
+	  {
+		 for(i=0;i<key.length;i++) {
+			ad_slot = ad_slot.setTargeting(key[i], [values[i]]);
+		 }
+      }
+      ad_slot = ad_slot.addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      	  googletag.pubads().refresh([ad_slot]); // Since same ad unit might get repeated
+	  //setInterval(function(){googletag.pubads().refresh([ad_slot]);}, 10000);
+            googletag.enableServices();
+      });
+		googletag.cmd.push(function() {
+		googletag.display(ad_div);		
+      });
+   }
+</script>
+<div id="ad-pixel"></div>
+<div id="ad-pixel-2"></div>
+<div id="ad-leaderboard" class="push ad full-width leaderboard"></div>
+<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="desktop">
+	<div class="header-bar utility">
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="actions">
+			<li><a class="social-link fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"><span>Facebook</span></a></li>
+			<li><a class="social-link tw" href="https://twitter.com/thenation" target="_blank"><span>Twitter</span></a></li>
+						<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage" class="btn btn-yellow donate">Donate</a>
+			</li>
+									<li id="login_status">
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        <div class="lightbox-form">
+			<div class="lightbox-inner login_popup">
+				<div class="listing__hero row">
+					<div class="listing_form small-12 columns">
+						<!--<div class="closebutton"></div>-->
+                        <div class="login_top_msz">If you are a current Subscriber and are unable to log in, you may have to create a NEW username and password.  To do so, <a href="https://ssl.palmcoastd.com/06601/apps/LOGINSSO" target="_blank">click here</a> and use the “NEW USER” sign-up option.</div>
+						<h1>Log In</h1>
+						<div class="row primaryError" id="primaryError"  style="display: none">
+						 <div class="field form-field text-field small-12 columns error">
+									<p class="errormsg"></p>
+						 </div>
+						 </div>
+						<form action="index.html" class="search__form" onsubmit="return trigClick();"  name="lightboxform" id="lightboxform">
+								<div class="row">
+								<div class="field form-field e_mail_field_con text-field small-12 columns valid">
+									<input type="text" tabindex="1" name="e_mail" class="pcd_email" value="" id="e_mail" placeholder="" autocapitalize="off">
+									<label for="e_mail">Email *</label>
+															
+								</div>
+							</div>
+							<div class="row">
+								<div class="field form-field text-field pwd_field_con small-12 columns error">
+									<input type="password" tabindex="2" name="pwd" class="pcd_pwd" value="" id="pwd" placeholder="" minlength="2">
+									<label for="last_name">Password *</label>
+									             
+								</div>
+							</div>
+							
+							
+							<div class="row checkbox-row">
+								<div class="field form-field checkbox-field small-7 partsec columns">
+									<div class="checkbox">
+										<input type="checkbox" tabindex="4" value="None" id="box03" class="check_input" name="checkbox3" >
+										<label for="box03"></label>
+									</div>
+									<label for="box03">Remember Me</label>
+									 </div>
+								<div class="field form-field checkbox-field small-5 partsec columns pull-right"> <a tabindex="5" href="https://ssl.palmcoastd.com/06601/apps/-222532" style="padding: 0px !Important;">Forgot Your Password?</a></div>
+							</div>
+ 
+							<div class="row">
+								<div class="field form-field small-12 medium-6 partsec columns">
+									<div class="form-button" id="form-loading">
+									    <button class="primary-button pcdLoginButton" tabindex="3" type="submit" id="loginBut">Log In</button>
+									    <img class="loaderImg" src='http://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF' style="display: none" id="loader" alt="loader">
+								    </div>
+								</div>
+						        </div>
+							<div class="row">
+								<div class="field form-field small-12 medium-12 columns Subscriber_btn">									
+								If you are not a Subscriber, <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO" target="_blank">Subscribe</a> Now!<br />Back to <a href="http://www.thenation.com" >site</a>								
+								</div>
+						      </div>
+						</form>
+					</div>
+				</div>
+			</div>
+</div>					
+						</div>
+						
+									  <a href="http://www.thenation.com/login/" class="btn btn-yellow login">Log In</a>
+				 				</li>
+					</ul>
+		<!-- /.actions -->
+		<nav class="trending">
+						<div class="menu-keyword-menu-container"><ul id="menu-keyword-menu" class="menu"><li id="menu-item-199269" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-199269"><a href="http://www.thenation.com/subject/election-2016/">Election 2016</a></li>
+<li id="menu-item-207209" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207209"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>
+<li id="menu-item-210225" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210225"><a href="http://www.thenation.com/keyword/hillary-clinton/">Hillary Clinton</a></li>
+<li id="menu-item-210478" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210478"><a href="http://www.thenation.com/keyword/private-prisons/">Private prisons</a></li>
+<li id="menu-item-210479" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210479"><a href="http://www.thenation.com/keyword/immigration-detention-centers/">Immigration detention centers</a></li>
+</ul></div>		</nav>
+	</div>
+	</div>
+		<!-- /.trending -->
+	</div>
+	<!-- /.header-bar.utility -->
+
+	<div class="header-bar main" id="'navbar'">
+	<div class="row">
+		<nav role="navigation" class="primary small-12 columns">
+			<ul>
+				<li class="home">
+						<h1 class="logo">
+							<a href="http://www.thenation.com">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation" class="non-sticky">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation" class="sticky"/>
+							</a>
+						</h1>
+					</li>
+				<li class="news-links">
+									<div class="menu-subject-menu-container"><ul id="menu-subject-menu" class="menu"><li id="menu-item-186986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-201145" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li id="menu-item-201148" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li id="menu-item-116709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>				</li>
+				 
+				
+				<li class="article-meta">
+													 <h3 class="tophead_subject"><a href="http://www.thenation.com/subject/theater/">
+					Theater</a></h3>
+											<h2>How to Succeed on Broadway!</h2>
+				</li>
+								<li class="quick-links">
+					<ul>
+														<li class="current-issue"><a href="http://www.thenation.com/issue/may-9-16-2016/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+								<a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a>								</li>
+														<li class="search-toggle"><a href="#">Search</a></li>
+					</ul>
+				</li>
+				 
+				<li class="article-social">
+						<ul>
+							<li><a href="javascript:void(0)" class="social-article social-share fb"><span>Facebook</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share tw"><span>Twitter</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share email"><span>Email</span></a></li>
+						</ul>
+					</li>
+								</ul>
+		</nav>
+		</div>
+	<!-- /.primary -->
+	</div>
+
+	<!-- /.header-bar.main -->
+	<div class="header-bar search searchbardrop">
+	<div class="row">
+		<form action="http://www.thenation.com/" role="search" method="get" id="search" name="search">
+			<input type="text" placeholder="Search" name="ssearch">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		</div>
+	</div>
+</header>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+		$(".landing ul>li.news-links, .landing ul>li.quick-links").attr('style','display:inline !important');
+	});
+	</script>
+<!-- /#desktop -->
+<header id="mobile" class="push">
+	<div class="header-bar">
+		<a href="#mobile-menu" class="nav-toggle">
+			<span>Toggle Menu</span>
+		</a>
+		<h1 class="logo">
+			<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation"/></a>
+		</h1>
+						
+								  <a href="http://www.thenation.com/login/" class="my-profile"><span>Log In</span></a>
+				 							 
+	 	</div>
+	<!-- /.header-bar -->
+	<div id="mobile-menu" role="navigation">
+	<div class="mobile-scroll">
+	
+		<nav class="primary">
+			<ul>
+				<div class="menu-subject-menu-container"><ul id="menu-subject-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>			</ul>
+		</nav>
+		<nav class="utility">
+			<ul>
+												<li class="subscribe">
+								<a class="alert" href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**MOB">Subscribe</a>								</li>
+																					<li class="current-issue"><a href="http://www.thenation.com/issue/may-9-16-2016/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+																</li>
+															<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a>
+			</li>
+			<!-- Login/Logout -->
+							<li>
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        					
+						</div>
+						
+									  
+				 <li id="login_status_mob_account"><a href="http://www.thenation.com/login/">Log In</a></li>
+				 				</li>
+							</ul>
+		</nav>
+		<div class="social">
+			<a class="social-icon icon-fb" target="_blank" href="https://www.facebook.com/TheNationMagazine">
+			<span>Facebook</span>
+			</a>
+			<a class="social-icon icon-tw" target="_blank" href="https://twitter.com/thenation">
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="search">
+			<form id="mobile-search" action="http://www.thenation.com/" role="search" method="get" name="search">
+			<!--<input type="text" placeholder="Search" class="clearable" name="s">-->
+			<input type="text" id="q" class="clearable" name="ssearch" placeholder="Search">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		
+		</div>
+		</div>
+	</div>
+	<!-- /#mobile-menu -->
+</header>
+	<div class="container push"><script type= "text/javascript">
+var preventLoad_article = false;
+var check_comment = false;
+jQuery(document).ready(function(){
+		});
+</script>
+
+
+<div class="article-wrap article-page " id="wrap">
+	<!-- Advertisements -->
+<script type="text/javascript">
+	var key = [];
+	var values = [];
+</script>
+		<script type="text/javascript">
+			key.push("tn_author");
+			values.push("'alisa-s'");
+		</script>
+			<!-- Calling Header, Footer Leaderboards and Pixel Ads -->
+	<script type="text/javascript">
+		jQuery( document ).ready(function($) {
+			custom_targeting = false;
+			if (key.length > 0 && values.length > 0) {
+				custom_targeting = true;
+			}
+			call_ad('leaderboard','ad-leaderboard','tn_culture_arts_and_entertainment_ros_leaderboard_1','tn_culture_arts_and_entertainment_article_leaderboard_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel','tn_culture_arts_and_entertainment_article_pixel_1','tn_culture_arts_and_entertainment_article_pixel_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel-2','tn_culture_arts_and_entertainment_article_pixel_2','tn_culture_arts_and_entertainment_article_pixel_mobile_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_test_pixel','tn_test_pixel',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_test_pixel_2','tn_test_pixel_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_culture_arts_and_entertainment_article_pixel_1','tn_culture_arts_and_entertainment_article_pixel_1',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_culture_arts_and_entertainment_article_pixel_2','tn_culture_arts_and_entertainment_article_pixel_2',custom_targeting,key,values);
+			call_ad('leaderboard','div-gpt-ad-1428494597034-0','tn_culture_arts_and_entertainment_ros_leaderboard_1','tn_culture_arts_and_entertainment_article_leaderboard_mobile_1',custom_targeting,key,values);
+		});
+	</script>
+	<div class="postid-210062 scrolltrace " articlelisttitle="How to Succeed on Broadway!" articlelistlinks="http://www.thenation.com/article/how-to-succeed-on-broadway/" article-post-id="210062">
+	<article id="url-title">
+	<!-- Banner Image -->  
+			<header class="article-header">
+		<div class="article-header-content">
+					<ul class="article-info">
+				<li class="category"><a href="http://www.thenation.com/subject/theater/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/theater/">Theater</a></li><li class="category"><a href="http://www.thenation.com/subject/arts-and-entertainment/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/arts-and-entertainment/">Arts and Entertainment</a></li><li class="subcategory"><a href="http://www.thenation.com/admin-taxonomy/books-and-the-arts/">Books &amp; the Arts</a></li>								<li class="issue">
+									<a href="http://www.thenation.com/issue/may-9-16-2016/">May 9-16, 2016 Issue</a>
+								</li>
+									</ul>
+		
+			<h1 class="title">How to Succeed on Broadway!</h1>
+			<h2 class="subtitle">Why is Arthur Miller one of the most lauded American playwrights—and one of the most vilified? </h2>
+			<div class="byline">
+							<h2 class="author_name">By <a class="author" href="http://www.thenation.com/authors/alisa-solomon/">Alisa Solomon</a></h2>					<!--<h2>By </h2>-->
+								
+		
+				<h4 class="time is_date article_pub_time">April 20, 2016<!--<span><a href="" class="click_comment"></span><span>1 Comments</span></a>-->
+								
+				</h4>
+
+							</div>
+			<ul class="article-share">
+			<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+			</ul>
+			</div>
+		</header>
+					
+		
+		<section class="article-body  abody-210062">
+		<aside class="left full-width-mobile image wide indent">
+										<a class="gallery imgHover" href="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img.jpg" title="A scene from Arthur Miller’s The Crucible, directed by Ivan van Hove. (Jan Versweyveld)"><img src="http://www.thenation.com/wp-content/uploads/2016/04/solomon_miller_otu_img.jpg" alt="solomon_miller_otu_img"></a>
+										<p class="caption">A scene from Arthur Miller’s <em>The Crucible</em>, directed by Ivan van Hove. <span class="credits">(Jan Versweyveld)</span></p>
+							</aside>
+							<div style="clear:both"></div>		
+					<p>Self-sacrifice has stormed into New York City theaters this season. On one stage, a Viennese aristocrat hands over to a Jewish psychiatrist the pass that would have released him from Nazi detention. Elsewhere, a failing traveling salesman commits suicide in the hope that his family will receive a life-insurance settlement that would allow his son to get ahead at last; a Brooklyn longshoreman betrays his wife’s undocumented cousins to immigration authorities and provokes a fatal showdown with one of them; and a 17th-century New England farmer goes to the gibbet rather than relinquish a signed confession admitting that he’s consorted with the devil. All the men wracked by these storms permanently absent themselves from moral conundrums, in gestures at once self-aggrandizing and self-abnegating: What can one do when capitalism, racism, male honor, and mass hysteria seem to toss one against the limits of principled action?<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-0" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>					<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210062-0','tn_culture_arts_and_entertainment_ros_halfpage_1','tn_culture_arts_and_entertainment_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					</script>
+							
+<p>We owe the larger-than-life presence of this quandary to the <a href="http://www.arthurmiller.org/centennial/" target="_blank">2015 centennial</a> of Arthur Miller’s birth. Along with some public readings, conferences, symposia, and publications, four of Miller’s major plays have been or are still being staged in New York as part of the ongoing festivities: <em>Death of a Salesman</em> (1949), <em>The Crucible</em> (1953), <em>A View From the Bridge</em> (1955), and <em>Incident at Vichy</em> (1964). Seeing them all in the space of five months (two of them in dazzling Broadway productions by the experimental Belgian director Ivo van Hove), I was struck not only by how Miller’s protagonists fatally escape a crisis when it comes to a head, but also by how often—in three of these four plays—the crisis is provoked by the hero’s illicit desire, which is to say, by a woman’s erotic power.		
+<p>In <em>Salesman</em>, Biff discovers Willy Loman’s affair with a woman he’s met on the road, which is revealed toward the play’s end as the cause of the rift between father and son, as well as of Biff’s loss of ambition. In <em>Bridge</em>, Eddie Carbone upsets communal mores and calls the law in order to rid his home of the man loved by his 17-year-old niece, Catherine, a woman Eddie lusts after incestuously. In <em>The Crucible</em>, John Proctor is condemned—and several innocents of Salem hanged as witches—because he has adulterously “known” and then jilted his household servant, Abigail, also 17. Though these plays also have female characters that are grounded and less sexualized, I couldn’t help fixating on the function of women in Miller’s dramas as the agents of his heroes’ well-made comeuppance.		
+<p>Van Hove’s volcanic versions of <em><a href="http://www.lct.org/shows/view-bridge/" target="_blank">Bridge</a> </em>at the Lyceum Theater and <em><a href="http://www.thecrucibleonbroadway.com/" target="_blank">The Crucible</a></em> at the Walter Kerr Theater (until July 17) have made this point pop to the surface, in no small part because his Catherine (Phoebe Fox) and Abigail (Saoirse Ronan) are presented as women who are bewildered and enraged, respectively, by their lack of power within stifling patriarchies. Still, being thoroughly captivated, even thrilled, as I watched these masterfully constructed plays in the theater, and then riled up as I thought about them afterward, I realized that I was stuck in the same polarized ambivalence that dogged Miller’s long, illustrious career as one of the most lauded American playwrights—and one of the most vilified.<aside class="right hidden-on-mobile most-popular-plus-ad"><div class="most-popular hover_b_remove">
+									<h3>Most Popular</h3><div class="popular-article"><h4>1</h4><p><a href="http://www.thenation.com/article/the-cia-waterboarded-the-wrong-man-83-times-in-1-month/">The CIA Waterboarded the Wrong Man 83 Times in 1 Month</a></p></div><div class="popular-article"><h4>2</h4><p><a href="http://www.thenation.com/article/african-american-voters-have-a-good-reason-to-support-hillary-clinton/">African-American Voters Have an Understandable Reason to Support Hillary Clinton</a></p></div><div class="popular-article"><h4>3</h4><p><a href="http://www.thenation.com/article/brotherhood-of-bullies-bob-knight-endorses-donald-trump/">Brotherhood of Bullies: Bob Knight Endorses Donald Trump</a></p></div><div class="popular-article"><h4>4</h4><p><a href="http://www.thenation.com/article/the-orange-rage-monster-acts-presidential/">The Orange Rage Monster Acts Presidential</a></p></div><div class="popular-article"><h4>5</h4><p><a href="http://www.thenation.com/article/before-unity-sanders-must-stay-in-the-fight/">Before ‘Unity,’ Sanders Must Stay in the Fight</a></p></div></aside>		
+<p align="center">* * *		
+<p>Along with Eugene O’Neill and Tennessee Williams, Miller is part of the triumvirate of American dramatic genius. He won a Pulitzer Prize and some Tony Awards, has constantly held the stage (to this day, he remains one of the top <a href="http://www.americantheatre.org/2014/09/23/top-20-most-produced-playwrights-2014-2015/" target="_blank">20 most-produced playwrights in America</a>), and enjoys an apparently permanent lock on high-school English syllabuses. (<em>The Crucible</em> and <em>Death of a Salesman</em> still occupy ninth and 36th place, respectively, on <a href="http://www.perfectionlearning.com/top%20100-american-lit-titles" target="_blank">the list of most-assigned texts</a>, according to a survey of literature teachers.) Persistently exploring the dilemmas that an individual confronts within, and against, the social world—in particular, amid the promise and the imperfections of America—Miller reigned for more than half a century, until his death in 2005, as the liberal conscience of the national stage. He always believed, without embarrassment, in the moral force of drama. His great achievement was to create plays that, performed well, leave us in a place of satisfying dramatic closure, but ethical—even political—suspension.		
+<p>Still, the initial newspaper reviews of Mil­ler’s plays were <a href="http://www.nytimes.com/books/00/11/12/specials/miller-bridge55.html" target="_blank">often mixed</a>. More important, he was reviled by those theater critics who, once upon a time, held forth in periodicals where serious writing about the stage was considered mandatory: Stanley Kauffmann, Robert Brustein, Richard Gilman, Gordon Rogoff, Erika Munk, Eric Bentley. Here’s just a sample of their fault-finding with Miller: “a ‘great’ American playwright whose work is mostly mediocre” (Kauffmann); “noisy virtue and moral flatulence” (Brustein); “second-­rate but superficially engrossing” (Gilman); “soppy and schematic” (Rogoff); “muddled and banal individual psychology” (Munk); “terrible inertness…striving after a poetry and an eloquence which the author does not achieve…. The world has made the author important before he has made himself great” (Bentley). Most of the writers who threw these darts were my teachers; no doubt some of their reasoned antagonism seeped into me, but it often evaporates as I am swept up into the high-pressure atmosphere that gathers around Miller’s plays in performance.					<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-2" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>							<script type="text/javascript">
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210062-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						</script>
+								
+<p>These critics’ collective beef was of its moment. When <em>Salesman</em> opened on Broadway in 1949 and was hailed for bringing a tragic dimension to the common man, the Living Theatre was already two years old, and committed to exploding the domestic drama by bringing the most daring of European works to the American stage and, soon, developing a local, radical avant-garde. Bentley’s <em><a href="http://www.powells.com/book/the-playwright-as-thinker-9780816672950?p_isbn&amp;partnerid=36604" target="_blank">Playwright as Thinker</a></em> had appeared in 1946, championing the far edgier European modernists. Compared to these forces, Miller was relegated to the newly named category of the <a href="http://harpers.org/archive/1949/02/highbrow-lowbrow-middlebrow/" target="_blank">“middlebrow,” popularized by Russell Lynes</a> the very month of <em>Salesman</em>’s premiere, and elaborated as <a href="http://www.powells.com/book/masscult-midcult-essays-against-the-american-grain-9781590174470?p_isbn&amp;partnerid=36604" target="_blank">“midcult” by the critic Dwight Macdonald</a>. The latter defined it as work that “pretends to respect the standards of High Culture while in fact it waters them down and vulgarizes them.” Marrying commerce to art, Broadway was midcult by definition, and Miller’s plays, with their bourgeois high-mindedness, were to his detractors the quintessence of shallow profundity.		
+<p>Nowadays, long after the postmodern collapse of “high” and “low,” when much of the best dramatic writing appears on TV and Ligeti quartets are performed in clubs that serve beer (hell, when Ivo van Hove is directing on Broadway), those midcentury labels are quaint artifacts, expressing an elite anxiety about the rising postwar middle class. We can see Miller’s plays more contextually now, and appreciate what they achieved on their own terms.		
+<p>For his part, Miller made no apologies for writing to a popular audience. Why wouldn’t he want a packed house? Tickets were cheap when his career began in the late 1930s, and, he mused later, the audience “had not yet been atomized, as it would be by the mid-fifties, into young and old, hip and square, or even political left and middle and right. So the playwright’s challenge was to please not a small sensitized supporting clique but an audience representing, more or less, all of [white] America.” He recognized that “trash” enjoyed longer runs than, say, Laurence Oliv­ier in a Greek tragedy or T.S. Eliot’s <em>Cocktail Party</em>, but insisted that in those years, it was far from irrational to set a serious play’s sights on the audience that flocked to midtown Manhattan instead of the Village.      <style>
+      .cta.primary.MCVXjyBbOM{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.MCVXjyBbOM a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      </style>
+      <aside class="siderail__item full cta primary right article_action_right MCVXjyBbOM">
+   <div class="item__content">
+            <h3>GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+</h3>
+            <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**ARL" target="_blank" class="btn">Subscribe</a>   
+   </div>   
+</aside>
+ 
+
+										
+<p>To succeed on Broadway, Miller explained, meant working in a recognizable—or recognizable enough—realistic mode. (A superb essayist, Miller produced a virtual primer on American playwriting with his ruminations over the years; one of the advantages of the centennial is that his analyses of theater, as well as his reportage and social commentary, have been reissued in a new volume of <em><a href="http://www.bloomsbury.com/uk/the-collected-essays-of-arthur-miller-9781472591746/" target="_blank">Collected Essays</a></em> [Bloomsbury; £29.99] comprising three of his previous anthologies.) Even so, Miller was experimenting with dramatic form pretty much from the start. His breakthrough work, <em>All My Sons</em> (1947), was the last not to flout the naturalistic frame. In <em>Salesman</em>, Miller innovatively used the simultaneity that theater uniquely provides to make the presentness of the past felt in the story and the action. The play unfolds in two time zones: One is that of Willy’s decline, as he finds himself unable to complete his sales trips and is fired from the company to which he has devoted himself for 34 years. In the other, scenes and figures from Willy’s near and distant past intrude into the action, appearing in the Loman home without bothering to observe the scenic conventions of walls or doors.		
+<p align="center">* * *		
+<p>The permeability of time and space was one of the strongest aspects of the excellent <a href="http://www.castillo.org/salesman-2015/" target="_blank">production of <em>Salesman</em></a> presented by the New Yiddish Rep in the fall. Set on a nearly bare stage, with just a small table and a couple of chairs (no iconic <a href="http://www.nytimes.com/interactive/2012/03/01/theater/201203-death-of-a-salesman-interactive.html#march8" target="_blank">two-story house like the one Jo Mielziner ingeniously designed</a> in 1949), the drama was dematerialized. Miller had originally conceived of the play as taking place in Willy’s head, and the New Yiddish Rep’s production came closer than any I’ve seen to creating that properly disorienting perspective. Actor Avi Hoffman shifted realms so organically that it felt like we were looking out from his confused, chaotic, and claustrophobic mind.		
+<p>The production was performed in Yiddish with English supertitles, using a translation created by Joseph Buloff soon after the play first opened. When Buloff performed the role of Willy, or <em>Vili</em>, in the 1951 version in New York, with Miller’s blessing, the <em>Commentary</em> critic George Ross titled his review <a href="https://www.commentarymagazine.com/articles/on-the-horizon-death-of-a-salesman-in-the-original/" target="_blank">“<em>Death of a Salesman</em> in the Original.”</a> From early on, critics like Mary McCarthy (no fan of Miller’s) and Leslie Fiedler accused the Lomans of being crypto-Jews, as if Miller were trying to pass dramaturgically. But this is a family whose lives are so out of time and place, so generally deracinated, that the question of its Jewish origins, fun as it may be to debate, is immaterial. The play is set “today”—presumably, 1949—and the boys not only didn’t serve in the war; they seem never to have heard of it. Just as we never learn what’s inside Willy’s suitcase (because it’s himself that Willy is selling, after all), those historic and naturalistic details are beside the point: The Lomans occupy a more mythic realm.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-4" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210062-4','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>In his essay “<em>Salesman</em> at Fifty,” written in 1999, Miller conceded that the Lomans could be recognized as “Jews light-years away from religion or a community that might have fostered Jewish identity.” Still, the power of the Yiddish performance lay not in returning the family to its roots, but in heightening the play’s emotion. How much more devastating the final showdown between Biff (Daniel Kahn) and Vili sounds in Yiddish: “<em>Du bist gornisht</em>!” Biff shouts. (“You are nothing.”) “<em>Gornisht</em>! <em>Gornisht</em>!” And the language seemed to anchor Suzanne Toren’s Linda, who came off, atypically, as weary but strong. Director Moshe Yassur also used the language to separate the sons even further from their father: The boys break into En­glish between themselves sometimes—poignantly so in the restaurant scene when they pick up a couple of women—abandoning Vili linguistically as well as physically, and giving him one more way to realize that he has passed his use-by date. The fluid roll of the Yiddish sharpens his alienation.		
+<p>It wasn’t just Miller’s family-centered insistence on narrative that irked his critics; there was also his politics, or rather the alleged preachiness of his plays, which is hardly separable from their alleged realism. That Miller had become a prominent public intellectual and literary statesman—serving as the first American president of PEN, speaking out on a wide range of issues involving human rights and free expression—perhaps exacerbated the problem. Those not listening carefully could have mistaken the hectoring of some of his characters for the voice of his op-eds.		
+<p align="center">* * *		
+<p><em>Incident at Vichy</em> is a case in point. It’s a play derided for its lack of credibility or character development, even though Miller was also sneered at for writing the kinds of plays that were expected to highlight such features. In other words, critics chided Miller for writing realism at all as well as for not being enough of a realist.		
+<p>It was easy to see what they meant as I watched the <a href="http://www.signaturetheatre.org/tickets/production.aspx?pid=4280" target="_blank">Signature Theatre’s production of <em>Vichy</em></a> in November. Set in a commandeered Vichy police station in 1942, it’s the most linear of Miller’s plays, in style and staging. Ten men, rounded up on suspicion of being Jews, are called one by one from a waiting-area bench into an offstage space where their papers will be checked—as well as, one character makes sure to explain, their presumably circumcised penises. Each is summoned by a reluctant, obliging officer and disappears from the stage.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-5" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210062-5','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>While the steady diminution of the dramatis personae structures the play’s action, its marrow is the men’s debate over why they’ve been detained, whether the rumors of Jewish extermination can be true, how they might resist, what responsibility entails, and what constitutes solidarity. By the time the group has dwindled to the last two prisoners—a Jewish psychiatrist named Leduc (a brooding Darren Pettie) and an aristocratic Viennese aesthete, Von Berg (a wooden Richard Thomas), clearly hauled in by mistake—the argument has become more personal. Leduc calls for Von Berg’s “responsibility,” and, in a spontaneous, self-sacrificing gesture, the Austrian returns from the offstage inspection, shoves his pass into Leduc’s hands, and pushes him out to the street. Then he awaits his fate as new prisoners are brought in.		
+<p>The drama is not without its tendentiousness. It was the second work that Miller wrote after an eight-year hiatus from playwriting, and he wrote it quickly; it was inspired, in part, by his coverage for the <em>New York Herald Tribune</em> of a war-crimes trial in Frankfurt of former Auschwitz guards. When the play premiered in 1964, the Open Theater was devising new forms; Peter Brook’s Artaudian production of Peter Weiss’s <em>Marat/Sade</em> was about to land in New York, arguing even more forcefully for a visceral, intensely visual theater. Miller’s row of yakking men could only seem stagnant in such a context, and their long-winded arguments slack and sluggish at a time of urgent calls to radical action.		
+<p>Nonetheless, even in the flat production at the Signature, I found myself absorbed by the arguments and left the theater reconsidering the play as a sort of rhetorical chorale, a form in which psychological character might matter no more than in a piece by, say, the Wooster Group.		
+<p>Not that Miller would have thought of his work as belonging to the same species as that of the text-fracturing, narrative-nuking, high-tech troupe. (In fact, he once forced the group to close a show that, without permission, had sampled 20 minutes of <em>The Crucible</em>.) Still, as much as Miller remained a master of forward-driving storytelling, with each line of dialogue pressing hard on the gas pedal, he was constantly trying new approaches. He deployed elements of symbolism, expressionism, and Greek tragedy, among other styles. Late in his career, he even tried vaudeville, a form he’d adored as a boy; its riveting melodramas had him anxiously “clawing at my mother’s arm,” and probably taught him a lot about plotting for anticipation and denouement.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-6" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210062-6','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p align="center">* * *		
+<p>The Miller centennial might have been an opportunity to probe these investigations and expand our experience of Miller onstage, but the repertoire this season draws only from the greatest hits. A brief, but welcome, exception will be a one-night reading at the <a href="http://www.publictheater.org/en/Public-Theater-Season/Public-Forum-Drama-Club-No-Villain-by-Arthur-Miller/" target="_blank">Public Theater on May 2 of <em>No Villain</em></a>. Miller wrote the play as a sophomore at the University of Michigan, and it won a substantial playwriting prize (which is what had drawn him to that campus in the first place). Despite some premieres of later plays and an occasional regional-theater production, Miller’s playwriting career in the regular US repertoire effectively—and unjustifiably—ended with <em>The Price</em> in 1968. This is astonishing, since Miller had 37 more highly productive years. The same was true for O’Neill and Williams. We seem to freeze our classic dramatists in the amber glow of their first major successes; it’s as though once they’ve made their reputations, we lose interest in them as creative artists. Apparently, we prefer monuments.		
+<p>Thanks to two collections of Miller’s plays issued for the centennial, however, a far wider range of his work is available to readers. In <em><a href="http://www.powells.com/book/penguin-arthur-miller-collected-plays-9780143107774?p_isbn&amp;partnerid=36604" target="_blank">The Penguin Arthur Miller: Collected Plays</a></em> ($30), a rich if cumbersome paperback volume nearly 1,300 pages long and weighing in at three and a half pounds, almost half of the contents are likely to be unfamiliar to all but the most erudite Millerologists as well as theatergoers in England, where Miller’s late plays have found a warmer welcome.		
+<p>The anthology contains Miller’s preferred “authoritative texts” for the plays. If you want to compare the initial one-act version of <em>A View From the Bridge</em> (1955) with the now-familiar “full-length” version (1956), you’ll need the Library of America’s more comprehensive three-volume set, <em><a href="http://www.powells.com/book/the-collected-plays-of-arthur-miller-9781598533798?p_isbn&amp;partnerid=36604" target="_blank">The Collected Plays of Arthur Miller</a></em> ($115), edited by Tony Kushner (who, <a href="http://www.thenation.com/article/kazan-and-bad-times/" target="_blank">like Miller</a>, has been an <a href="http://www.thenation.com/article/puffins-and-presidents/?nc=1" target="_blank">occasional contributor to this magazine</a>). These volumes include even more of the lesser-known works, as well as Miller’s notes and essays on his plays and a half-dozen wartime radio scripts. (Miller had an early job writing for the dramatic radio series <em>Cavalcade of America</em>.) They round out the literary portrait of Miller as a man consistently seeking to stretch himself and the dramatic form.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-7" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210062-7','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>These texts also allow one to trace the preoccupations that began early and persisted throughout Miller’s seven-decade career. One of the thickest threads running through his oeuvre concerns a crisis of masculinity and manly honor, which often weaves itself around the moral agons at the heart of the plays. <em>A View From the Bridge</em>’s Eddie Carbone and <em>The Crucible</em>’s John Proctor are stark examples. I suspect that van Hove chose to direct these two plays in order to stress this point. “I want my name!” Eddie demands as he confronts Marco, his wife’s cousin, whom he accuses of smearing him as a snitch (which, in fact, Eddie is). “I have given you my soul; leave me my name!” cries Proctor as he refuses to hand over a signed confession.		
+<p>New to Broadway this season, van Hove has been working in New York for nearly two decades, making a name for himself at the New York Theatre Workshop and at BAM as a vivid, sometimes controversial reinterpreter of canonical plays. Over the years, along with the designer Jan Versweyveld (his artistic and life partner), van Hove has turned familiar plays, or at least characters, inside out, seeming to extract the subtext and then smear it onto the performance’s surface, often in highly physical confrontations (a sloppy, violent food fight at the climax of <a href="http://www.nytimes.com/2007/09/25/theater/reviews/25bran.html" target="_blank">Molière’s <em>The Misanthrope</em></a>) or blunt metaphors (a water-filled bathtub at the center of his <em><a href="http://www.nytimes.com/1999/09/13/theater/theater-review-a-brimming-bathtub-as-the-focus-of-desire.html" target="_blank">Streetcar Named Desire</a></em>, into which many of the characters plunged). He consistently draws brave, stupendous performances from his actors, and the Miller plays are no exception. Sometimes van Hove strips a work down to its shattering, elemental emotions, as in the two productions of his I’ve admired most. In an adaptation of Ingmar Bergman’s 1973 television series <em>Scenes From a Marriage</em>, van Hove had three pairs of actors play the troubled married couple at different stages; in his version of Kushner’s <em>Angels in America</em>, the multilayered action unfolded on a mostly bare stage against flickering projections.		
+<p>Van Hove brought a sense of inexorable intensity to his two Miller productions. Contrary to the cliché often applied to Miller, he did not breathe new life into a pair of familiar classics. (What reviewers really mean when they use that phrase is that they’d forgotten how powerfully Miller’s works can play onstage, how arresting and moving they can be.) Rather, van Hove scraped away the thick varnish of sentimentality and sanctimony that has built up on Miller’s plays over the decades—and he used a strong solvent.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210062-8" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210062-8','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>For <em>Bridge</em>, he picked up on Miller’s allusion to Greek tragedy and ritualized the play. He and Versweyveld placed the action atop a blank square platform, adorned with only a couple of thin benches along its perimeter. With some spectators seated in bleachers on two sides and the rest in the conventional auditorium out front, the space looked like a boxing ring—or, with partial walls sometimes raised around it, a shark tank.		
+<p>Gone with the furniture of a Brooklyn apartment is any shred of specific setting: no streetscape, no immigrant accents, no shoes, and no bridge, except insofar as Alfieri (Michael Gould), the neighborhood lawyer and friend to Eddie (Mark Strong), serves to link the audience to the space of primal conflict—between Eddie and his desire, between Eddie and his community. Until the bloody end, Alfieri stays outside that seething box, prowling the periphery of the action. Miller’s idea of Alfieri as a Greek chorus has never worked so well. We need the buffer.		
+<p align="center">* * *		
+<p><em>The Crucible</em> can’t quite be distilled in the same manner: It’s too political, but not political in the reductive way that teenagers learn about all over the country. The play doesn’t overlay the Salem witch hunts directly onto the red purges of the McCarthy era, and it was never meant to. Rather, the subject—the protagonist, you could even say—is the community. In the face of terror and fundamentalist absolutes, it behaves hysterically. The thin bonds of neighborliness and common cause that hold a society together, despite disputes over property and other issues, come unglued. With a public fueled by fear and willful ignorance, the state/church blithely and repeatedly commits murder in its name. How easy it is, Abigail learns, to whip a mob into a frenzy when you can convince them of their own righteousness. And how quickly it takes on a life of its own.		
+<p>Van Hove trimmed away a couple of short scene-openings to streamline the action, but, as usual, did not significantly alter the text. His production reveals it as a hurtling and terrifying story where no one is left unscathed and no one is wholly innocent—or entirely guilty. Even Abigail, who can be represented as the stereotypical woman scorned, comes across here as a servant-girl chafing at her lack of agency.						<style>
+			.article-wrap .article-body aside.left.custom_background_210062			 {
+			 background:#5000b2 !important;
+			 }
+			 </style>
+				<aside class="left takeaction indent custom_background_210062">
+					<div class="action_tout_heading"><p><p>LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS</p></p></div>
+					<form action="" name="sailthru_action_tout_form" method="post">
+					<input type="email" name="email" id="take_action_sailthru_email_210062" class="take_action_sailthru_email" Placeholder="Enter Email">
+									<input type="hidden" name="take_action_sailthru_list_final" id="take_action_sailthru_list_final_210062" value="daily_tout,master,daily">
+					<div class="cta"><p>
+										<input type="button" class="take_action_sailthru_submit" name="submit_sailthru" value="SIGN UP!" onclick="add_action_tout_sailthru(210062)"></p></div>
+					</form>
+				<p id="action_tout_response_210062"></p>
+				</aside>
+				
+<p>Perhaps to evoke the infantilized position that the girls and, eventually, all of the accused inhabit, van Hove and Versweyveld set the action in a schoolroom. A chalkboard with an oath of obedience penned upon it becomes the never-clean slate for an accumulation of tests and vows.		
+<p>Van Hove blocks the actors’ movements to emphasize the communal nature of the calamity. As they enter their state of collective hysteria, the girls twitch and curl their hands; they clump together as if pulled by Abigail’s magnetism and move as a unit. In the last act, van Hove moves the community’s authorities in a similar way: The men cluster into a menacing scrum.		
+<p>As the girls shudder and stare in their final group assertion of the devil’s presence, van Hove produces a coup de théâtre: a stage-right wall of windows bursts open and a gale gushes through, leaving light fixtures swinging from the ceiling and debris cluttering the floor. It becomes the postapocalyptic setting for the astonishingly tender last scene in which Proctor (Ben Whishaw) and his wife, Elizabeth (Sophie Okonedo), meet for the last time. The effect invites the audience to imagine the specter of danger along with the citizens of Salem. We know it is fictive, both theatrically and within the story, but I could feel the chill winds blowing. These days, I know they are all too real.		
+		</section>
+		<footer class="article-footer narrow">
+
+			   		<div class="footer-module comments">
+			<!-- Comments count function -->
+				<a class="click_comment" href="">1 Comment</a>
+			</div>
+						<div class="footer-module">
+				<ul class="article-share">
+					<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+				</ul>
+			</div>
+			<!--<div class="footer-module narrow supplemental-info">
+							</div>-->
+			
+			<div class="footer-module narrow author-bio">
+									<p><span><a href="http://www.thenation.com/authors/alisa-solomon/"> Alisa Solomon</a>
+												</span> Alisa Solomon, director of the arts and culture concentration at the Columbia Journalism School, is the author of <em>Wonder of Wonders: A Cultural History of &ldquo;Fiddler on the Roof.&rdquo;</em>
+</em></p><br/>
+						</div>
+							<div class="footer-module narrow contact-us">
+					<p>To submit a correction for our consideration, click <a target=_blank href=/corrections>here.</a>										</p>
+					<p>For Reprints and Permissions, click <a target="_blank" href="http://www.thenationreprints.com/services/reprints/">here.</a></p>
+				</div>
+				
+			<div id="comments_210062" class="commentContainer" style="display:none">
+			<div id="comments" class="comments-area">
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/article/how-to-succeed-on-broadway/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">In order to comment, you must be logged in as a paid subscriber. <a href="#TB_inlinepcd_login?width=600&height=550&inlineId=login-content-id-pcd_login" class="thickbox comment_login_link"> Click here to log in</a> or subscribe.</p>												</div><!-- #respond -->
+						<!--<h2 class="comments-title">
+					</h2>-->
+				<ol class="comment-list custom_comments">
+			   <li id="comment-2109911143" class="comment byuser comment-author-000488593 even thread-even depth-1">
+   <article id="div-comment-2109911143" commentIDVal="2109911143" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Iska Alter</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-20T10:25:52+00:00">
+								April 20, 2016 at 10:25 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>That the notion that INCIDENT AT VICHY is a kind of chorale (even perhaps in a religious sense) is a most interesting idea; after all the stage is filled with ten Jews (even Von Berg chooses to become a pseudo-Jew), a minyan, that creates a congregation.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109911143,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109911143,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+					
+</div><!-- #comments -->			</div>
+					</footer>
+		<footer class="article-footer recirc-block">
+			<div class="footer-module full-width-mobile recirc-block">
+					<div class="recirc column" id="recirccol-210062">
+					<ul class="tag-browser">
+					 
+							<li><a name="theater" class="other" href="#">Theater</a></li>
+						 
+							<li><a name="arts-and-entertainment" class="other" href="#">Arts and Entertainment</a></li>
+						 
+							<li><a name="books-and-the-arts" class="other" href="#">Books &amp; the Arts</a></li>
+										<li><a name="May 9-16, 2016 Issue" class="other" href="#">May 9-16, 2016 Issue</a></li>
+												
+					</ul>
+					<div class="recirc-carousel" id="recirccar-210062">
+														<ul id="theater" class="article-list">
+																		<li>
+										<time>Apr 25, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/arthur-miller-chameleon-play-the-crucible/">Arthur Miller’s Chameleon Play</a> <span class="author">
+																	By Alina Cohen																		</span></h2>
+									</li>
+																		<li>
+										<time>Mar 25, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/chile-future-on-the-world-stage/">Chile’s Future: On the World Stage</a> <span class="author">
+																	By Alisa Solomon																		</span></h2>
+									</li>
+																	</ul>
+																<ul id="arts-and-entertainment" class="article-list">
+																		<li>
+										<time>Apr 25, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/arthur-miller-chameleon-play-the-crucible/">Arthur Miller’s Chameleon Play</a> <span class="author">
+																	By Alina Cohen																		</span></h2>
+									</li>
+																		<li>
+										<time>Apr 22, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/prince-the-moments-end/">Prince: The Moment’s End</a> <span class="author">
+																	By David Hajdu																		</span></h2>
+									</li>
+																	</ul>
+														<ul id="books-and-the-arts" class="article-list">
+														<li>
+								<time>Today 5:00 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/americas-long-hangover/">America’s Long Hangover</a> <span class="author">									By Beverly Gage								</span></h2>
+							</li>
+														<li>
+								<time>Apr 20, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/humes-call-to-action/">Hume’s Call to Action</a> <span class="author">									By Richard Bourke								</span></h2>
+							</li>
+													</ul>
+												<ul id="May 9-16, 2016 Issue" class="article-list">
+														<li>
+								<time>Apr 21, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/letters-from-the-may-9-16-2016-issue/">Letters From the May 9-16, 2016, Issue</a> <span class="author">
+																	By Our Readers								</span></h2>
+							</li>
+														<li>
+								<time>Apr 21, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/tangled-web/">Donald Trump’s Virtual Reality</a> <span class="author">
+																	By Patricia J. Williams								</span></h2>
+							</li>
+													</ul>
+												
+					</div>
+				</div>
+				<style>
+.tout.footer.donate.yLXEoGUwSh{
+background: #cc0e0e !important;
+}
+.tout.footer.donate p{color: #ffffff !important;}
+.tout.footer.donate .btn{
+   border:3px solid #ffffff !important;
+   color: #ffffff !important;
+   background: #cc0e0e !important;
+}
+.tout.footer.donate .btn:hover{
+   background:#ffffff !important;
+   color:#cc0e0e !important;
+}
+</style>
+<div class="tout footer donate column yLXEoGUwSh">
+   <div class="donate-wrapper">
+             <p>“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+</p>
+            <div class="donate-grid"><a href="https://ssl.palmcoastd.com/06601/apps/ANNIVERSARY2?ikey=I**RR2" target="_blank" class="btn">Subscribe to The Nation</a></div>   </div>
+</div>
+							</div>
+		</footer>
+		</article>
+
+
+<script type="text/javascript">
+  //  googletag.cmd.push(function() {
+  //  googletag.defineSlot('/1004953/tn_article_leaderboard_2', [728, 90], 'div-gpt-ad-1428494597034-0').
+  //  setTargeting("test","infinitescroll").
+  //  addService(googletag.pubads());
+  //
+  // // Infinite scroll requires SRA
+  // googletag.pubads().enableSingleRequest();
+  //
+  // // Disable initial load, we will use refresh() to fetch ads.
+  // // Calling this function means that display() calls just
+  // // register the slot as ready, but do not fetch ads for it.
+  // googletag.pubads().disableInitialLoad();
+  //
+  // // Enable services
+  // googletag.enableServices();
+  //});
+    
+  
+ // Function to generate unique names for slots
+ var nextSlotId = 1;
+ function generateNextSlotName() {
+   var id = nextSlotId++;
+   return 'adslot' + id;
+ }
+	var nextSlotIdSide = 1;
+	function generateNextSlotNameSide() {
+	  var idSide = nextSlotIdSide++;
+	  return 'slotSide' + idSide;
+	}
+
+</script>
+	
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+   //googletag.display('div-gpt-ad-1428494597034-0');
+});
+</script>
+	 <div id="ad-interarticle"   class="ad full-width interarticle position-relative">
+		<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+		<div id="div-gpt-ad-1428494597034-0"> 
+<!--     <script>
+        // Call display() to register the slot as ready
+        // and refresh() to fetch an ad.
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-1428494597034-0');
+          googletag.pubads().refresh();
+        });
+     </script> 
+--> </div>
+	</div>
+	 <!--<div id='div-gpt-ad-1428494597034-0' class="push ad full-width leaderboard"></div>-->
+	
+	<a class="inifiniteLoader"><img src="http://www.thenation.com/wp-content/themes/thenation/images/infi_loader.gif" /></a>
+	</div>
+					</div><!-- article wrap -->
+	<!--<a class="goTop" title="Scroll Top"><img src="http://www.thenation.com/wp-content/themes/thenation/images/scroll_arrow.png" /></a>-->
+<!-- Including  Body content image in gallery -->
+	<!-- Including  Body content image in  gallery -->
+	<script>
+	       function runSlider(ele)
+	    {   
+			 ele.bxSlider({
+  adaptiveHeight: true,
+ adaptiveHeightSpeed: 500,
+  infiniteLoop: false,
+  hideControlOnEnd: false,
+  pager: false
+});
+return false;
+		}
+
+	   
+		 jQuery(document).ready(function(){
+		 var flag = false;
+		 $('section.article-body img').each(function() {
+		   
+			 if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 {
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+             if(flag)
+			{
+			 runSlider($('.gallery-2'));
+			}
+	});
+	</script>
+	<script>	
+jQuery(document).ready(function(){
+  $e = $('.article-body').children().last();   
+   $t = $e.prop("tagName");
+   var tagsArray = ['FORM','ASIDE'];
+   var anothertagsArray = {'UL':'li','OL':'li','BLOCKQUOTE':'p'};
+   if(jQuery.inArray($t, tagsArray )!='-1')
+   {} 
+   else
+   {    
+      if($t in anothertagsArray)
+      {
+         $('.article-body > p:last-of-type').toggleClass('changed');
+         $e.find(anothertagsArray[$t]+':last').addClass('redotclass');         
+      }    
+   }
+});
+jQuery(document).ready(function(){
+$('figure').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+   if($(this).hasClass('alignright')||$(this).hasClass('alignleft') || $(this).hasClass('aligncenter'))
+   { 
+     $(this).after('<div class="clear"></div>');
+	}
+	});
+
+	//jQuery('.click_comment').click(function(){
+	//			console.log("called     "+'#comments_210062' );
+	//		$( '#comments_210062' ).toggle();
+	//		$('html, body').animate({
+	//			scrollTop: $('#comments_210062').offset().top
+	//		},2000);
+	//		return false;
+	//	});
+});
+</script>
+	<script>// Scroll IF # id exist in URL
+	jQuery(document).ready(function($){
+	var url_id = window.location.hash.substr(1);
+	if(url_id!='')
+	{
+	var s = url_id;
+	var n = s.indexOf('/');
+	if(n!=''&& typeof n!= 'undefined')
+	{
+		var id_var = s.substring(0, n != -1 ? n : s.length);
+		//alert(id_var);
+		
+				$('html, body').animate({
+					scrollTop: $('#'+id_var).offset().top
+				},2000);
+				return false;
+			
+		}
+	}
+	});
+	</script>
+	
+	<script type="text/javascript">
+/*script to handle Back Button Event */
+var pageChange = 1;
+jQuery.noConflict();
+if(window.attachEvent) {
+    window.attachEvent('onpopstate', datHash);
+}
+function datHash(event)
+{
+	//event.preventDefault();
+	var str = $('#goback').val();
+	if(str=='')
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	else
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	return false;
+}
+/*script to handle Back Button Event */
+
+</script>
+<!--Alternate Popup code start-->
+<!--Alternate Popup code End--> 
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+	$('.post-edit-link').attr('href', function( _, action){
+    return action.replace('https', 'http');
+});
+    });
+
+jQuery(document).ready(function($) {
+	
+//	(function(window, undefined) {
+//    // Define variables
+//    var History = window.History,
+//        State = History.getState();
+//
+//    // Bind statechange event
+//    History.Adapter.bind(window, 'statechange', function() {
+//        var State = History.getState();
+//    });
+//	})(window);
+	
+	$('a.inifiniteLoader').hide();
+	var count = 1;
+	var loagAgn = false;
+	/*Script to handle Article Load Ajax*/
+	function loadArticle(pageNumber){
+		$('a.inifiniteLoader').show('fast');
+		$.ajax({
+		    url: "http://www.thenation.com/wp-admin/admin-ajax.php",
+		    type:'POST',
+			cache: false,
+			dataType: 'json',
+		    data: {action:'infinite_scroll',page_no: pageNumber, loop_file: 'articleload',slug:'arts-and-entertainment,theater',curr_post_id:'210062',baseInfo:'{"SERVER_SOFTWARE":"nginx\/1.8.1","REQUEST_URI":"\/article\/how-to-succeed-on-broadway\/","USER":"7e1000ca1a784ef2b65c2792cd59fa8d","HOME":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d","FCGI_ROLE":"RESPONDER","QUERY_STRING":"","REQUEST_METHOD":"GET","CONTENT_TYPE":"text\/html","CONTENT_LENGTH":"","SCRIPT_NAME":"\/index.php","DOCUMENT_URI":"\/index.php","DOCUMENT_ROOT":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/code","SERVER_PROTOCOL":"HTTP\/1.1","GATEWAY_INTERFACE":"CGI\/1.1","REMOTE_ADDR":"5.34.241.202","REMOTE_PORT":"20751","SERVER_ADDR":"10.223.145.182","SERVER_PORT":"11933","SERVER_NAME":"endpointa28bd986.chios.panth.io","REDIRECT_STATUS":"200","PATH_INFO":"","PATH_TRANSLATED":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/code","HTTPS":"OFF","SCRIPT_FILENAME":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/code\/\/index.php","HTTP_HOST":"www.thenation.com","HTTP_USER_AGENT":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/42.0.2311.135 Safari\/537.36","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8","HTTP_ACCEPT_ENCODING":"gzip","HTTP_CONTENT_TYPE":"text\/html","HTTP_COOKIE":"has_js=1","HTTP_SURROGATE_CAPABILITY":"styx=\\\"ESI\/1.0\\\"","HTTP_USER_AGENT_HTTPS":"OFF","HTTP_VIA":"HTTP\/1.1 ECS (arn\/4597), HTTP\/1.1 ECS (ord\/5729)","HTTP_X_FORWARDED_FOR":"5.34.241.202, 5.104.69.151, 72.21.87.41, 72.21.87.41","HTTP_X_FORWARDED_PROTO":"http","HTTP_X_GATEWAY_LIST":"ord1","HTTP_X_HOST":"www.thenation.com","HTTP_X_PANTHEON_CLIENT_IP":"5.34.241.202","HTTP_X_PANTHEON_STYX":"1","HTTP_X_PROTO":"http:\/\/","HTTP_X_VARNISH":"878545772","PHP_SELF":"\/index.php","REQUEST_TIME_FLOAT":"1461751756.8102","REQUEST_TIME":"1461751756","PRESSFLOW_SETTINGS":"{\\\"conf\\\":{\\\"pressflow_smart_start\\\":true,\\\"pantheon_binding\\\":\\\"7e1000ca1a784ef2b65c2792cd59fa8d\\\",\\\"pantheon_site_uuid\\\":\\\"672ae238-dede-44f4-9243-89a591c2cc46\\\",\\\"pantheon_environment\\\":\\\"live\\\",\\\"pantheon_tier\\\":\\\"live\\\",\\\"pantheon_index_host\\\":\\\"18f9ce30-8984-49c6-a353-771e7a1a88ef-private.panth.io\\\",\\\"pantheon_index_port\\\":449,\\\"redis_client_host\\\":\\\"10.223.242.45\\\",\\\"redis_client_port\\\":10000,\\\"redis_client_password\\\":\\\"f7862bd887a04097b9c0c40dd322708a\\\",\\\"file_public_path\\\":\\\"sites\/default\/files\\\",\\\"file_private_path\\\":\\\"sites\/default\/files\/private\\\",\\\"file_directory_path\\\":\\\"sites\/default\/files\\\",\\\"file_temporary_path\\\":\\\"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/tmp\\\",\\\"file_directory_temp\\\":\\\"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/tmp\\\",\\\"css_gzip_compression\\\":false,\\\"js_gzip_compression\\\":false,\\\"page_compression\\\":false,\\\"error_level\\\":0},\\\"databases\\\":{\\\"default\\\":{\\\"default\\\":{\\\"host\\\":\\\"10.223.144.42\\\",\\\"port\\\":10000,\\\"username\\\":\\\"pantheon\\\",\\\"password\\\":\\\"b35cb8c7d81b4ff0a54a7af315773f96\\\",\\\"database\\\":\\\"pantheon\\\",\\\"driver\\\":\\\"mysql\\\"}}},\\\"drupal_hash_salt\\\":\\\"b444002d80740b3d94cc5e42e4945dbc224fd3134e65b580da60215ffe4c8bf3\\\",\\\"config_directory_name\\\":\\\"config\\\"}","FRAMEWORK":"wordpress","DOCROOT":"\/","FILEMOUNT":"wp-content\/uploads","AUTH_KEY":"VHpmJoHTr14kv2qyk4zD6NrSc3IqAUmZxtz0nUnwkNA=","SECURE_AUTH_KEY":"zuloHYH0e\/uwY8+VFQ\/rgob0NrMXhmIsg9ymhQ4uBTg=","LOGGED_IN_KEY":"2m+ff0Ly0rHeTX0y0XQjPbiJWgk2aCET7rTjb+zMW5c=","NONCE_KEY":"JMqPWPpuEU03WW4UaqSzKy1gkcWsavf\/LHKLgHKzusc=","AUTH_SALT":"Q7pT2rIMICgULXTEtMwYfknUKfI0Yaog3PBcoVMI7F8=","SECURE_AUTH_SALT":"a3AFHfpntT3bMHQ5x\/6oFBL2AUyT\/sRYoO2W8Zz5hws=","LOGGED_IN_SALT":"+gVdi3DCKSVclyPORyNbSyHp2Gx9F81RWiMAwMV3hGg=","NONCE_SALT":"JcwHG4IRUl\/DsS0Va2+Z15HXCQKQmnIsDS8mbPoP8w4=","PANTHEON_INDEX_HOST":"10.223.96.36","PANTHEON_INDEX_PORT":"449","REPLICA_DB_HOST":"10.223.240.192","REPLICA_DB_PORT":"10000","REPLICA_DB_USER":"pantheon","REPLICA_DB_PASSWORD":"51bc58f755ba453a9c36b3f5794b3513","REPLICA_DB_NAME":"pantheon","DB_HOST":"10.223.144.42","DB_PORT":"10000","DB_USER":"pantheon","DB_PASSWORD":"b35cb8c7d81b4ff0a54a7af315773f96","DB_NAME":"pantheon","CACHE_HOST":"10.223.242.45","CACHE_PORT":"10000","CACHE_PASSWORD":"f7862bd887a04097b9c0c40dd322708a","PANTHEON_SITE":"672ae238-dede-44f4-9243-89a591c2cc46","PANTHEON_SITE_NAME":"thenation","PANTHEON_ENVIRONMENT":"live","PANTHEON_INFRASTRUCTURE_ENVIRONMENT":"live","PATH":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/bin:\/usr\/local\/bin:\/bin:\/usr\/bin:\/srv\/bin","PHPRC":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/php.ini"}'},
+		    success: function(receivedHTML){
+			if (typeof receivedHTML == 'object') 
+			{
+				if(typeof receivedHTML.html!=='undefined' && receivedHTML.html!='')
+				{
+					html = receivedHTML.html;
+				}
+			}
+			else
+			{
+				$('a.inifiniteLoader').hide();
+				$("#single_article_footer").show();
+			}
+			//html = receivedHTML.html;
+			$('a.inifiniteLoader').hide('1000');
+			$("#wrap").append(html);    // This will be the div where our content will be loaded
+			var postID = $($.parseHTML(html)).filter(".scrolltrace").attr('article-post-id');
+			
+			$('.abody-'+postID).children('p:first-of-type').html(function (i, html) {
+if ($('.abody-'+postID).children('img').length == "0") {
+var text = $('.abody-'+postID).children('p:first-of-type').html();
+$('.abody-'+postID).children('p:first-of-type').html(text.replace(/^(<.?>)?([A-Za-z0-9])/g,'$1<span class="dropcap">$2</span>'));
+}
+});        
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===false) 
+			{		  
+				/*for hiding meterpaywall popups when pixel ads call ends here*/
+				/****Alternate Popup code start*********/
+				var enable_alterpopup_check;
+				enable_alterpopup_check ='';
+				if(typeof(enable_alterpopup_check) != "undefined" && enable_alterpopup_check == 1) 
+				{ 
+					var alternate_article_no;
+					alternate_article_no = '';
+					if(pageCounterPaywall % alternate_article_no == 0 && pageCounterPaywall!=0)
+					{
+						show_lightbox('','');
+					}
+				}
+				/******Alternate Popup code End********/
+			}
+			pageCounterPaywall++;
+			ajaxCarousel(postID);
+			/** Slider Content **/
+			var flag = false;
+			$('section.article-body:last img').each(function() {
+			if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 { 
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+
+			 if(flag){
+			var k = $('section.article-body:last').find('.gallery-2').bxSlider({
+				  adaptiveHeight: true,
+				 adaptiveHeightSpeed: 500,
+				  infiniteLoop: false,
+				  hideControlOnEnd: false,
+				  pager: false
+				});
+			 k.reloadSlider();
+			 }
+			 /* Slider Content End */
+			 
+			 
+			 var usera = navigator.userAgent.toLowerCase(); 
+				if ($('.article-page').length) { 
+				var slickWidth = $('.article-list.slick-slide').width(); 
+				if ($('.ie9').length) 
+				{ slickWidth = $('.recirc-carousel.slick-initialized.slick-slider').width(); } 
+				$('.slick-list.draggable').css( 
+				{'width' : slickWidth} 
+				); 
+				if (!/android|webos|iphone|ipad|ipod|blackberry/i.test(usera)) { 
+				$('.article-list.slick-slide').children('li').css( 
+				{'width' : slickWidth} 
+				); 
+				$('.slick-list').css( 
+				{'width' : slickWidth} 
+				); 
+				} 
+				} 
+			 
+			 
+			 
+			 
+			 
+			 
+		    }
+		});
+	    return false;
+	}
+	
+
+	/*Script to handle Scroll*/
+	 $(window).bind('scroll', function() {
+		
+			$('.scrolltrace').each(function() {
+			   var post = $(this);
+			   var topp = post.position().top;
+			   var bott = post.position().top + post.height();
+			   var pos = $(window).scrollTop();
+			    if (pos>=topp && pos<=bott) {
+			       $(this).addClass('currentScr');
+			       if($('.currentScr').attr("articlelistlinks")!=window.location.href)
+				   {
+						var ua = window.navigator.userAgent;
+						var msie = ua.indexOf("MSIE ");
+
+						if (msie > 0){ 
+							
+						}else{
+								window.history.pushState({}, "", $('.currentScr').attr('articlelistlinks'));
+								load_article_ads();
+						}
+				   // Google Analytics  for Infinite Scroll
+					 ga('send', 'pageview', {
+								'page': $('.currentScr').attr('articlelistlinks'),
+								'title': $('.currentScr').attr('articlelisttitle')
+							});
+
+				    pSUPERFLY.virtualPage($('.currentScr').attr('articlelistlinks'), $('.currentScr').attr('articlelisttitle'));
+				$("nav.primary ul li.article-meta h2").html($('.currentScr').attr('articlelisttitle').substring(0,100));
+			       $("title").html($('.currentScr').attr('articlelisttitle'));
+						 
+						 
+						 var linktext = $('.currentScr').find(".anchor_subject").html();
+						 if (linktext!='') {
+						 var linkredirectval =$('.currentScr').find(".anchor_subject").attr('subjectlink');
+						 if(typeof linkredirectval!='undefined')
+						 {
+								var subject_head_link = "<a href='"+linkredirectval+"'>"+linktext+"</a>";
+								$('.tophead_subject').html(subject_head_link);
+						 }
+						 else
+						 {
+							 var subject_head_link = "";
+							$('.tophead_subject').html(subject_head_link);
+						 }
+							
+						 }
+			       
+			       pageChange = parseInt(pageChange) + 1;
+				   }
+				  /****** First ad beside title starts here ************/
+				   
+						   $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+							  if (i === 0 ) {
+								 if (isMobile.any()===null || isMobile.any()===undefined)
+								{
+									var mq = window.matchMedia( "(min-width: 1365px)" );
+								//console.log(mq.matches);
+									if (mq.matches===true) 
+									{ 
+											$(this).addClass('first-ad');
+											var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+											  $(this).css({
+												'top' : fullscreenPos,
+												'position': 'absolute',
+												'right': 85
+											  });
+										}
+								}
+							  }
+						});
+						$(window).bind('resize', function(e)
+							{
+						 $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+						  if (i === 0) 
+						  {
+
+						  if (isMobile.any()===null || isMobile.any()===undefined)
+						{ 
+									$(this).removeClass('first-ad');
+									var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+									  $(this).css({
+										 'top': 'inherit',
+										'position': 'relative',
+										'right': 0
+									  });
+								
+							}
+							}
+						});
+						});	
+						 /****** First ad beside title ends here ************/
+				 }
+			   else
+			   {
+			       $(this).removeClass('currentScr');
+			   }
+		       });
+			
+		if ( typeof PaywallWorking !== 'undefined' && PaywallWorking == 'on' )
+     {
+        var loadPoint = false;
+        var loadPointElement = $('.scroll_handler:eq('+pageCounterPaywall+')').position();      
+        if (typeof loadPointElement!=="undefined")
+        {
+           loadPoint = loadPointElement.top;
+        }
+     }
+     else
+     {
+        //var loadPoint = $('.footer-module .article-share:last').position().top; 
+        //var loadPoint = $('footer.recirc-block:last').position().top;	
+        var loadPoint = $('.article-header .article-share:last').position().top;
+        //var loadPoint = $('section.article-body:last').position().top;
+     }
+	
+		if  (loadPoint!=false && $(window).scrollTop() > loadPoint)
+		{ if($('.scrolltrace').length==count)
+		  { { loagAgn = true;
+		      if(loagAgn)
+			  {
+			count++;
+		 if (count < 6) {
+			 if(preventLoad_article==false){
+								loadArticle(count);//code
+				
+				}		
+		 }
+		 if (count==6) {
+			$('a.inifiniteLoader').hide();
+			$("#single_article_footer").show();
+		 }
+		 loagAgn = false;
+			  }
+		   }
+		  
+		  }
+		}
+		
+//		 if($(this).scrollTop() > 100){
+//            $('.goTop').stop().animate({
+//                bottom: '20px'    
+//                }, 500);
+//        }
+//        else{
+//            $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//            }, 500);
+//        }
+	});
+	
+	/*Script to handle Scroll close*/	
+	 
+//	$('.goTop').click(function() {
+//        $('html, body').stop().animate({
+//           scrollTop: 0
+//        }, 500, function() {
+//           $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//           }, 500);
+//        });
+//    });
+	
+	 // Script for Comment Sec
+	 $('body').on('click','.click_comment',function(event){
+	   event.preventDefault();
+	   $(this).closest('.article-footer').find('.commentContainer').slideToggle('slow', function() {
+         if ($(this).css('display')=='none') {
+           check_comment = false;//condition added for print
+         }
+         else{
+            check_comment = true;//condition added for print
+         }			
+		});
+		 $('html, body').animate({
+				scrollTop: $($(this).closest('.article-footer').find('.commentContainer')).offset().top
+			},2000);
+	 });
+	 
+	var list;
+	$('body').on('click','a.comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	var comment_link_respond = $(this);		
+	comment_link_respond.closest('.comment-form').find('.comment-status').html('');
+	list = $(this).closest('article').attr('id');
+
+	var PIDS = list.split('-');
+	$(this).closest('.comments-area').find('.comment-respond').find('#comment_parent').val(PIDS[PIDS.length-1]);
+	
+	});
+	
+	$('body').on('click','.cancel-comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	list=null;
+	});
+	
+	
+	$('body').on('click','.submit',function(event){
+		event.preventDefault();
+		$( ".comment-status" ).remove();
+	var commentform=$(this).closest('.comment-form'); // find the comment  form
+	    commentform.prepend('<div class="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+        var statusdiv=commentform.find('.comment-status'); // define the infopanel
+				var checkspace = $(this).closest('.comment-form').find("textarea#comment").val();
+		if (checkspace.replace(/\s/g, '').length && $(this).closest('.comment-form').find("textarea#comment").val()!='') {
+			statusdiv.html(' ');
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Add a status message
+			//Extract action URL from commentform
+			var formurl=commentform.attr('action');
+			
+				statusdiv.html('<p>Processing...</p>');
+				 $(this).attr('disabled','disabled');
+				var e = $(this);
+				$.ajax({
+						type: 'post',
+						url: formurl,
+						data: formdata,
+					  error: function(XMLHttpRequest, textStatus, errorThrown)
+						{
+							statusdiv.html(' ');
+							 $('.submit').removeAttr('disabled');
+							statusdiv.html('<p class="error_cmnt" >You might have left one of the fields blank, or be posting too quickly</p>');
+						},
+						success: function(data, textStatus){
+							var chkstatus_comment = $($.parseHTML(data)).filter(".chk_comment_class").attr('comment-status');
+							
+								if (chkstatus_comment=='spam') {
+									statusdiv.html('<p class="error_cmnt" >You have been blocked from commenting by <i>The Nation\'s</i> moderators.</p>');
+								}
+								else{
+									$('.submit').removeAttr('disabled'); 
+									$("textarea#comment").val('');
+									statusdiv.html('<p class="success_cmnt" ></p>');
+									if(e.closest(".comments-area").has("ol.comment-list").length > 0){
+										if(list != null){
+											e.closest(".comments-area").find('#'+list).after(data);
+										}
+										else{
+											e.closest(".comments-area").find('ol.comment-list').prepend(data);
+										}
+									}
+									else{
+										e.closest(".comments-area").prepend('<ol class="comment-list custom_comments"> </ol>');
+										e.closest(".comments-area").find('ol.comment-list').html(data);
+									}
+							}
+						}
+						
+				});
+				return false;
+			statusdiv.html('');
+		}else{
+			statusdiv.html('<p class="error_cmnt" >Please enter text in comment box.</p>');
+		}
+        }); 
+});
+// Print functionality
+function tn_print_fn()
+{            
+    var tn_current_url=window.location.href;
+    if (check_comment == true) {
+       window.open(tn_current_url+'?print=1&comment=1','_blank');
+    }
+    else{
+       window.open(tn_current_url+'?print=1','_blank');
+    }
+    
+    return false;
+}
+</script>
+ 
+<script>
+function add_action_tout_sailthru(post_id)
+{
+ var ajaxurl=ajax_object.ajax_url;
+	var sailthru_email_take_action = document.getElementById('take_action_sailthru_email_'+post_id).value;
+	if(sailthru_email_take_action!='')
+	{
+			var take_action_sailthru_list_final = document.getElementById('take_action_sailthru_list_final_'+post_id).value;
+			var action_tout_sailthru='action_tout_sailthru';
+			jQuery.ajax({
+			url:ajaxurl,
+			type:"POST",
+			data:"sailthru_email_take_action="+sailthru_email_take_action+"&take_action_sailthru_list_final="+take_action_sailthru_list_final+"&action="+action_tout_sailthru,
+			success:function(data){
+			//alert(data);
+			document.getElementById('action_tout_response_'+post_id).innerHTML=data;
+			document.getElementById('take_action_sailthru_email_'+post_id).value='';
+			}
+			});
+	}
+	else
+	{
+	var error_msg='<span style="color:#cc0e0e">Please Enter Email</span>';
+	document.getElementById('action_tout_response_'+post_id).innerHTML=error_msg;
+	}
+}
+jQuery(document).ready(function(){
+jQuery( ".action_tout_remove_gallery a" ).removeClass( "gallery imgHover" ).delay( 1000 );
+});
+/**************** First ad beside title starts here ************/
+jQuery(document).ready(function(){
+jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+var mq = window.matchMedia( "(min-width: 1365px)" );
+if (mq.matches===true) 
+	{
+			$(this).addClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  $(this).css({
+				'top' : fullscreenPos,
+				'position': 'absolute',
+				'right': 85
+			  });
+		}
+	}
+	}
+});
+});
+jQuery(window).bind('resize', function(e)
+{
+ jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+			jQuery(this).removeClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  jQuery(this).css({
+				 'top': 'inherit',
+				'position': 'relative',
+				'right': 0
+			  });
+		
+	}
+	}
+});
+});
+/**************** First ad beside title end here ************/
+</script>
+
+  <div id="show_light_box">
+</div>
+	</div>
+	</div>
+	<div id="single_article_footer" style="display: none">	<footer class="push">
+	<div class="row">
+	<div class="sitemap small-12 columns">
+		<div class="block home">
+			<h1 class="logo">
+					<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation"></a>
+				</h1>
+		</div>
+		<div class="block social">
+			<h2>Follow The Nation</h2>
+			<ul>
+				<li><a class="fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"></a></li>
+				<li><a class="tw" href="https://twitter.com/thenation" target="_blank"></a></li>
+				<li><a class="rs" href=" http://www.thenation.com/all-rss" target="_blank"></a></li>
+			</ul>
+			<h2>Get Email Updates</h2>
+			<p>Stay connected with everything Nation by signing up for our free daily newsletter. </p>
+			<div class="newsletter-signup">
+					<input type="email" class="newsletter-signup__email" id="newsletter_email" name="newsletter_email" required="required" placeholder="Email address">
+					<input type="button" id="newsletter_submit" value="" class="newsletter-signup__submit" />
+			</div>
+			
+			<div id="subscribe_newsletter"></div>
+		</div>
+		<div class="">
+			<aside id="nav_menu-5" class="widget widget_nav_menu block nation nav"><h2  class="expander"><a href="#">Sections</a></h2><div class="menu-footer-sections-container"><ul id="menu-footer-sections" class="menu"><li id="menu-item-119851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119851"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-119852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119852"><a href="http://www.thenation.com/world/">World</a></li>
+<li id="menu-item-119853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119853"><a href="http://www.thenation.com/economy/">Economy</a></li>
+<li id="menu-item-119850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119850"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115792" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-115792"><a href="http://www.thenation.com/subject/society/">Society</a></li>
+<li id="menu-item-116577" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-116577"><a href="http://www.thenation.com/subject/environment/">Environment</a></li>
+<li id="menu-item-119854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119854"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			   <aside id="nav_menu-4" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">The Nation</a></h2><div class="menu-footer-the-nation-container"><ul id="menu-footer-the-nation" class="menu"><li id="menu-item-116578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116578"><a title="About-us-and-contact" href="http://www.thenation.com/about-us-and-contact/">About</a></li>
+<li id="menu-item-178918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178918"><a href="http://www.thenation.com/advertise/">Advertise</a></li>
+<li id="menu-item-180633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180633"><a href="http://www.thenation.com/ebooks/">Books</a></li>
+<li id="menu-item-116581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116581"><a href="http://www.thenation.com/community-guidelines/">Comments Policy</a></li>
+<li id="menu-item-131108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131108"><a href="http://www.thenation.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-116583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116583"><a href="http://www.thenation.com/help/">Help</a></li>
+<li id="menu-item-178899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178899"><a href="http://www.thenation.com/jobs/">Jobs and Internships</a></li>
+<li id="menu-item-134910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134910"><a href="http://www.thenation.com/nation-builders/">Nation Builders</a></li>
+<li id="menu-item-179840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179840"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			  <aside id="nav_menu-3" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">Magazine</a></h2><div class="menu-footer-magazine-container"><ul id="menu-footer-magazine" class="menu"><li id="menu-item-134664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134664"><a href="http://www.thenation.com/issue/">Current Issue</a></li>
+<li id="menu-item-134728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134728"><a href="http://www.thenation.com/masthead/">Masthead</a></li>
+<li id="menu-item-116587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116587"><a href="http://www.thenation.com/archive/">Archive</a></li>
+<li id="menu-item-134846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134846"><a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a></li>
+<li id="menu-item-134847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134847"><a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a></li>
+<li id="menu-item-134727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134727"><a href="http://www.thenation.com/subscription-services/">Subscription Services</a></li>
+<li id="menu-item-134733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134733"><a href="http://www.thenation.com/events/">Events</a></li>
+<li id="menu-item-179839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179839"><a href="http://www.thenationreprints.com/">Reprints</a></li>
+</ul></div></div></aside>		</div>
+	</div>
+		<div class="copyright row">
+		<div class="small-12 columns">
+			<p>Copyright (c) 2016 The Nation Company LLC</p>
+		</div>
+	</div>
+	</footer>
+</div>
+
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script src='http://www.thenation.com/wp-content/plugins/tn-paywall/inc/js/paywall.js'></script><link rel='stylesheet' id='dashicons-css'  href='http://www.thenation.com/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.thenation.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.thenation.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/Magzine_issue_ajax.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/light_box.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/all.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/modernizr.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/comments_js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.thenation.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/pcd_login_popup.js?ver=4.2.4'></script>
+<script>
+function susbcribe_sailthru(form_value){        
+   var newsletterArray = new Array();var firstname ='';var lastname ='';var zippostal ='';var user_email ='';
+   jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         firstname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         lastname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         zippostal = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="email") {
+         user_email = jQuery(this).val();
+      }     
+   });
+   
+   jQuery(form_value).closest("form").find("input[name^='sft_newssletter_variables']").each(function() {
+      newsletterArray.push(jQuery(this).attr("id"));         
+   });      
+   var newsletter_variable=newsletterArray.join(",");
+   var origin_host=document.location.origin;
+  // console.log(firstname);
+   //console.log(lastname);
+  // console.log(zippostal);
+   //console.log(user_email);
+  //myWindow= window.open(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,"form_popup","width=400,height=400");
+ PopupCenter(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,'xtf','300','300');
+   //console.log(newsletterArray.join(","));
+  jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="email") {
+         jQuery(this).val('');
+      }     
+   });
+}  
+function PopupCenter(url, title, w, h) {
+    // Fixes dual-screen position                         Most browsers      Firefox
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    // Puts focus on the newWindow
+    if (window.focus) {
+        newWindow.focus();
+    }
+	setTimeout(function () { newWindow.close();}, 5000);
+}
+
+</script>
+<script type="text/javascript"  src="http://www.thenation.com/wp-content/themes/thenation/js/jquery.bxslider.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"442438c9d9","applicationID":"5436353","transactionName":"Z1JSYkYACEsAV0cKXV4YZURdTklRD1BWGxxAX0A=","queueTime":0,"applicationTime":1112,"ttGuid":"","agentToken":"","atts":"SxVRFA4aG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

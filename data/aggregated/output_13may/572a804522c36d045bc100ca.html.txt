@@ -1,0 +1,811 @@
+
+
+Protesters hold up photographs of their missing relatives, who worked at Rana Plaza, outside of Dhaka on April 29, 2013. (Reuters / Andrew Biraj)
+
+Three years after the Rana Plaza factory collapsed on the outskirts of Dhaka, the lives that were shattered have still not been allowed to heal. Since the day more than 1,100 people were buried in the wreckage of the shoddily constructed manufacturing complex, we are just starting to discover among the ruins what global worker justice should look like.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210464-0','tn_world_regions_and_countries_ros_halfpage_1','tn_world_regions_and_countries_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+For victims, there has been halting progress, according to International Labor Rights Forum (ILRF). A $30 million donor trust fund has issued several thousand payments to survivors and households of the deceased, ranging from about $1,340 for an injured survivor to 10 times that amount for families of the deceased. Other aid funds, such as one established by the multinational Primark, have been established independently to provide long-term medical aid. Overall, however, advocates report that, while global media attention has waned, the suffering has not, as survivors and their communities remain impoverished and wracked with emotional trauma.				
+					
+					
+Bangladesh’s massive garment-export industry, however, is still going strong, fueled by a $1.3 trillion global market capitalizing on “fast fashion” trends, and a constantly churning workforce of young rural migrant women.				
+					
+					
+But a few survivors are resisting business as usual. A lawsuit against Canadian multinational retailer Loblaws and its auditing firm, Bureau Veritas, is moving forward in the coming months, seeking some $2 billion in damages to compensate as many as 3,850 victims of the collapse—a group of plaintiffs gathered through the firm’s field research in Bangladesh. The suit, now awaiting class certification in an Ontario court, marks one of the first legal actions against a multinational retailer accused of contributing to tragedy at the far end of its supply chain.				
+					
+					
+The suit holds Loblaws partially responsible for “wrongful death and injury arising from the negligence” of safety conditions, charges the retailer with “breach of fiduciary duty,” and attributes to Loblaws indirect liability for workers employed by its subcontractor New Wave, which produced clothes under the Joe Fresh brand.				
+			
+
+							“I had envisioned a meaningful life in which I would be active, employed and able to support my family…”
+						
+ 
+The danger began years before Rana Plaza started crumbling: Around 2005, Loblaws sought to shift manufacturing labor from China, where wages were gradually rising, to “cheaper” southern neighbors like Bangladesh, which could produce about as much for a fraction of China’s labor costs. Since Bangladesh’s labor environment was notoriously dangerous and exploitative, the suit contends, “Loblaws was a leader in the ‘race to the bottom,’” deliberately driving its operations into a “regulatory and legal vacuum.”
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Bernie Sanders Should Push for a New Realism in Foreign Policy
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+For victims, there has been halting progress, according to International Labor Rights Forum (ILRF). A $30 million donor trust fund has issued several thousand payments to survivors and households of the deceased, ranging from about $1,340 for an injured survivor to 10 times that amount for families of the deceased. Other aid funds, such as one established by the multinational Primark, have been established independently to provide long-term medical aid. Overall, however, advocates report that, while global media attention has waned, the suffering has not, as survivors and their communities remain impoverished and wracked with emotional trauma.				
+					
+					
+Bangladesh’s massive garment-export industry, however, is still going strong, fueled by a $1.3 trillion global market capitalizing on “fast fashion” trends, and a constantly churning workforce of young rural migrant women.				
+					
+					
+But a few survivors are resisting business as usual. A lawsuit against Canadian multinational retailer Loblaws and its auditing firm, Bureau Veritas, is moving forward in the coming months, seeking some $2 billion in damages to compensate as many as 3,850 victims of the collapse—a group of plaintiffs gathered through the firm’s field research in Bangladesh. The suit, now awaiting class certification in an Ontario court, marks one of the first legal actions against a multinational retailer accused of contributing to tragedy at the far end of its supply chain.				
+					
+					
+The suit holds Loblaws partially responsible for “wrongful death and injury arising from the negligence” of safety conditions, charges the retailer with “breach of fiduciary duty,” and attributes to Loblaws indirect liability for workers employed by its subcontractor New Wave, which produced clothes under the Joe Fresh brand.				
+			
+
+							“I had envisioned a meaningful life in which I would be active, employed and able to support my family…”
+						
+ 
+The danger began years before Rana Plaza started crumbling: Around 2005, Loblaws sought to shift manufacturing labor from China, where wages were gradually rising, to “cheaper” southern neighbors like Bangladesh, which could produce about as much for a fraction of China’s labor costs. Since Bangladesh’s labor environment was notoriously dangerous and exploitative, the suit contends, “Loblaws was a leader in the ‘race to the bottom,’” deliberately driving its operations into a “regulatory and legal vacuum.”
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Bernie Sanders Should Push for a New Realism in Foreign Policy
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+Bangladesh’s massive garment-export industry, however, is still going strong, fueled by a $1.3 trillion global market capitalizing on “fast fashion” trends, and a constantly churning workforce of young rural migrant women.				
+					
+					
+But a few survivors are resisting business as usual. A lawsuit against Canadian multinational retailer Loblaws and its auditing firm, Bureau Veritas, is moving forward in the coming months, seeking some $2 billion in damages to compensate as many as 3,850 victims of the collapse—a group of plaintiffs gathered through the firm’s field research in Bangladesh. The suit, now awaiting class certification in an Ontario court, marks one of the first legal actions against a multinational retailer accused of contributing to tragedy at the far end of its supply chain.				
+					
+					
+The suit holds Loblaws partially responsible for “wrongful death and injury arising from the negligence” of safety conditions, charges the retailer with “breach of fiduciary duty,” and attributes to Loblaws indirect liability for workers employed by its subcontractor New Wave, which produced clothes under the Joe Fresh brand.				
+			
+
+							“I had envisioned a meaningful life in which I would be active, employed and able to support my family…”
+						
+ 
+The danger began years before Rana Plaza started crumbling: Around 2005, Loblaws sought to shift manufacturing labor from China, where wages were gradually rising, to “cheaper” southern neighbors like Bangladesh, which could produce about as much for a fraction of China’s labor costs. Since Bangladesh’s labor environment was notoriously dangerous and exploitative, the suit contends, “Loblaws was a leader in the ‘race to the bottom,’” deliberately driving its operations into a “regulatory and legal vacuum.”
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Bernie Sanders Should Push for a New Realism in Foreign Policy
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+But a few survivors are resisting business as usual. A lawsuit against Canadian multinational retailer Loblaws and its auditing firm, Bureau Veritas, is moving forward in the coming months, seeking some $2 billion in damages to compensate as many as 3,850 victims of the collapse—a group of plaintiffs gathered through the firm’s field research in Bangladesh. The suit, now awaiting class certification in an Ontario court, marks one of the first legal actions against a multinational retailer accused of contributing to tragedy at the far end of its supply chain.				
+					
+					
+The suit holds Loblaws partially responsible for “wrongful death and injury arising from the negligence” of safety conditions, charges the retailer with “breach of fiduciary duty,” and attributes to Loblaws indirect liability for workers employed by its subcontractor New Wave, which produced clothes under the Joe Fresh brand.				
+			
+
+							“I had envisioned a meaningful life in which I would be active, employed and able to support my family…”
+						
+ 
+The danger began years before Rana Plaza started crumbling: Around 2005, Loblaws sought to shift manufacturing labor from China, where wages were gradually rising, to “cheaper” southern neighbors like Bangladesh, which could produce about as much for a fraction of China’s labor costs. Since Bangladesh’s labor environment was notoriously dangerous and exploitative, the suit contends, “Loblaws was a leader in the ‘race to the bottom,’” deliberately driving its operations into a “regulatory and legal vacuum.”
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Bernie Sanders Should Push for a New Realism in Foreign Policy
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+The suit holds Loblaws partially responsible for “wrongful death and injury arising from the negligence” of safety conditions, charges the retailer with “breach of fiduciary duty,” and attributes to Loblaws indirect liability for workers employed by its subcontractor New Wave, which produced clothes under the Joe Fresh brand.				
+			
+
+							“I had envisioned a meaningful life in which I would be active, employed and able to support my family…”
+						
+ 
+The danger began years before Rana Plaza started crumbling: Around 2005, Loblaws sought to shift manufacturing labor from China, where wages were gradually rising, to “cheaper” southern neighbors like Bangladesh, which could produce about as much for a fraction of China’s labor costs. Since Bangladesh’s labor environment was notoriously dangerous and exploitative, the suit contends, “Loblaws was a leader in the ‘race to the bottom,’” deliberately driving its operations into a “regulatory and legal vacuum.”
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Bernie Sanders Should Push for a New Realism in Foreign Policy
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+
+							“I had envisioned a meaningful life in which I would be active, employed and able to support my family…”
+						
+
+
+The danger began years before Rana Plaza started crumbling: Around 2005, Loblaws sought to shift manufacturing labor from China, where wages were gradually rising, to “cheaper” southern neighbors like Bangladesh, which could produce about as much for a fraction of China’s labor costs. Since Bangladesh’s labor environment was notoriously dangerous and exploitative, the suit contends, “Loblaws was a leader in the ‘race to the bottom,’” deliberately driving its operations into a “regulatory and legal vacuum.”
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4This Is What Happens When Republican Voters Get What They Want5Bernie Sanders Should Push for a New Realism in Foreign Policy
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+This Is What Happens When Republican Voters Get What They Want
+
+Bernie Sanders Should Push for a New Realism in Foreign Policy
+
+Meanwhile, the complaint contends, Loblaws violated its own voluntary corporate social-responsibility code, which promised consumers humane, safe factory conditions. Critics say its designated auditing firm, Bureau Veritas, operated as a rubber stamp for corporate agendas.				
+					
+					
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+Joel Rochon, an attorney for the case, tells The Nation, “It should have been absolutely clear to Loblaws that they had to do a structural audit to ensure the safety of these workers and everyone else in that building.”				
+					
+					
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+At the time of the collapse, even ordinary workers understood the hazards. A young former New Wave sewing-machine worker, Rehana Khatun, testified in the complaint that she and coworkers had gathered in fear at the factory entrance, wary of entering after cracks had been spotted in the building’s wall. But her shop was busy churning out 24,000 pairs of Joe Fresh boys’ pants.“The production manager from New Wave ordered me to enter the building and resume work,” she recalled. To avoid losing her job, she entered and soon found herself buried under rubble. Her mangled body was extracted many hours later.				
+					
+					
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+After losing both legs to the disaster, Khatun’s body stands as a testament to what activists see as fast fashion’s dehumanizing bottom line. In failing to properly safeguard the factory, plaintiffs say, Loblaws and other corporations irrevocably harmed workers and deceived consumers. (The company has not responded to an inquiry from The Nation.)				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210464			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Khatun had been a primary income earner before the disaster, earning about $85 a month for 12-hour days, she testified, but she now scrapes by on periodic payments from the government and the Rana Plaza Trust Fund, struggling to raise a family while coping with costly medical treatment. “I will never be able to enjoy my life as I used to before the Rana Plaza collapse,” she stated. “I had envisioned a meaningful life in which I would be active, employed and able to support my family…. The collapse has resulted in drastic consequences and anguish for me.”				
+					
+					
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+Industrial safety specialist Garrett Brown, who worked as a consultant in the occupational-safety response to Rana Plaza, concludes in his affidavit, “Loblaws turned a blind eye to well-known dangers,” including ignoring endemic local regulatory corruption and overlooking evidence the building had undergone a potentially hazardous “rapid expansion [that] would have been alarming to any competent auditor” tasked with monitoring workplace safety. “Rather than changing their audit,” Brown concludes, Loblaws “[c]ontinued to benefit from low wages and the lack of meaningful government regulation.”					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210464-2','tn_world_regions_and_countries_ros_halfpage_2','tn_world_regions_and_countries_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+Rejecting the claims, Loblaws contends the Canadian courts lacked jurisdiction to review the case, suggesting that the most appropriate system to try such a case would be Bangladesh.				
+					
+					
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+While a few civil and public-interest cases have been filed in Bangladesh against the Rana Plaza operators—and remain largely stalled in the court bureaucracy—Rochon dismisses the idea. Noting that Loblaws’s business decisions are handled through its Canadian headquarters (as were its decision to ignore its factory-auditing duties), he argues, “To suggest that a country like Bangladesh should handle this sort of complex litigation is, we believe, disingenuous,” particularly because “we have a developed judicial system here that’s ready willing and able to handle a class action of this nature.”				
+					
+					
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+Still, whether or not these plaintiffs see justice in Canada, they represent a tiny fraction of the workforce that remains vulnerable to future Rana Plazas.				
+					
+					
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+The major set of reforms aimed at preventing future factory disasters, known as the Bangladesh Accord, was an unprecedented global collaboration of multinationals, labor groups, and safety authorities. Though it covers just a portion of Bangladesh’s garment sector, the accord provides a legally binding monitoring program and an organized process for renovating unsafe factories. The program’s management recently reported that over half of “all identified safety issues [have been] reported or verified as corrected” by inspectors. Nonetheless, of more than 1,600 facilities inspected, just seven factories have actually completed initial remediation plans; nearly 1,400 are behind schedule. Financing for future remediation is uncertain, especially as the program is scheduled to end in 2018. By then, will the world still remember Rana Plaza?				
+					
+					
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+The future is even shakier for Bangladesh’s labor movement. The disaster sparked a spate of reforms to facilitate the creation of new trade unions. But implementation has been systematically hampered by rampant union busting, including excessively strict registration procedures, violent suppression, and the shuttering of factories after workers manage to unionize. ILRF concludes, “At least a third of the newly established trade unions have not survived in the still highly repressive atmosphere and an astonishingly high number of new applications to form a trade union are being turned down.”				
+					
+					
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+Real freedom of association cannot be secured amid profound social disenfranchisement, and so the cycle of poverty, neglect, and violence persists. The collapse of Rana Plaza jarred the global fashion business and offered a chance to remake the relationship between the state and industry. And workers are slowly forging a path for their movement out of the ruins. Yet with each day that passes without genuine legal recompense, their avenue toward justice grows narrower, from Dhaka’s streets to an Ontario courtroom, and back to the factory floor.				
+					
+					
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

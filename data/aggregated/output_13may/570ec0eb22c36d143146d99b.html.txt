@@ -1,0 +1,576 @@
+
+
+A logo sign outside of a facility occupied by Pfizer Inc. in San Diego, California. (Sipa via AP Images)
+
+Pfizer, the giant drug company best known for Viagra, got smacked down this week for its snarky plan to save $35 billion in US taxes by becoming Irish. The Treasury Department is often a limp watchdog when it comes to policing arcane tax dodges, but this time, Treasury grew some fangs by tightening its regulations, which led Pfizer to call off the deal.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208892-0','tn_economy_business_ros_halfpage_1','tn_economy_business_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Tax law is not sexy, but Pfizer’s loss is a potent win for small-d democracy. It can provide a starting point for reinvigorating reform politics. Among Washington’s myriad scandals, the drug industry is the Goliath of our corrupted politics. Pfizer and its brethren in Big Pharma spread millions around the halls of Congress, and they always seem to get their way. The David throwing stones at Pfizer & Co. is a small but feisty reform group called Americans for Tax Fairness. It rallied support and argued that Treasury could stop the looting… and this time little David won.		
+The US Chamber of Commerce was not happy. “It’s punitive, it’s paranoia,” the boss lobbyist complained. Whenever the Chamber whines, we know something good has happened for the people.		
+Here is why I think this episode has great potential for inspiring a broader movement to confront the corporate dominance of American politics: Pfizer’s CEO, Ian Read, was stupid enough to announce that the company was abandoning US citizenship right in the middle of a tumultuous presidential campaign—one in which voters have expressed alarm and anger about their lost prosperity and continuing economic troubles.		
+The rebellion may have legs, regardless of who wins the White House this fall, because the corporate wise guys have unwittingly established a new context for how we look at tax debates and other economic issues: patriotism. Pfizer’s cynical ploy deeply insults the fervent national loyalty of most Americans. We celebrate patriots on every occasion, and—more than in so many other countries—love to wave the flag and sing the national anthem. Patriotism can be an empowering emotion; indeed, it may be the single thread that holds us together, in the face of a increasingly savage political environment and multiple divisions on so many issues. Some of us may not like our neighbors, and many of us despise the politicians—but don’t mess with America.		
+Pfizer, like so many other corporations, ignored this public sentiment and took the occasion to jump ship for greener pastures in Ireland. Of course, the company was not actually planning to go anywhere. It was only going to move its address offshore to reduce its tax bill dramatically. Both Hillary Clinton and Bernie Sanders jumped on Pfizer. Even our even-tempered president was appalled. Treasury took the cue and shut down the odious loophole that had allowed what is called “corporate inversion.” Blocking corporate inversions may also damage the demands of multinationals for another kind of multibillion-dollar tax giveaway regarding profits earned abroad, which I reported in this post last month. As with these untaxed profits, the lobbyists are using the threat of inversions to blackmail Congress—give us the money by reducing taxes here, or we move to another country.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Tax law is not sexy, but Pfizer’s loss is a potent win for small-d democracy. It can provide a starting point for reinvigorating reform politics. Among Washington’s myriad scandals, the drug industry is the Goliath of our corrupted politics. Pfizer and its brethren in Big Pharma spread millions around the halls of Congress, and they always seem to get their way. The David throwing stones at Pfizer & Co. is a small but feisty reform group called Americans for Tax Fairness. It rallied support and argued that Treasury could stop the looting… and this time little David won.		
+The US Chamber of Commerce was not happy. “It’s punitive, it’s paranoia,” the boss lobbyist complained. Whenever the Chamber whines, we know something good has happened for the people.		
+Here is why I think this episode has great potential for inspiring a broader movement to confront the corporate dominance of American politics: Pfizer’s CEO, Ian Read, was stupid enough to announce that the company was abandoning US citizenship right in the middle of a tumultuous presidential campaign—one in which voters have expressed alarm and anger about their lost prosperity and continuing economic troubles.		
+The rebellion may have legs, regardless of who wins the White House this fall, because the corporate wise guys have unwittingly established a new context for how we look at tax debates and other economic issues: patriotism. Pfizer’s cynical ploy deeply insults the fervent national loyalty of most Americans. We celebrate patriots on every occasion, and—more than in so many other countries—love to wave the flag and sing the national anthem. Patriotism can be an empowering emotion; indeed, it may be the single thread that holds us together, in the face of a increasingly savage political environment and multiple divisions on so many issues. Some of us may not like our neighbors, and many of us despise the politicians—but don’t mess with America.		
+Pfizer, like so many other corporations, ignored this public sentiment and took the occasion to jump ship for greener pastures in Ireland. Of course, the company was not actually planning to go anywhere. It was only going to move its address offshore to reduce its tax bill dramatically. Both Hillary Clinton and Bernie Sanders jumped on Pfizer. Even our even-tempered president was appalled. Treasury took the cue and shut down the odious loophole that had allowed what is called “corporate inversion.” Blocking corporate inversions may also damage the demands of multinationals for another kind of multibillion-dollar tax giveaway regarding profits earned abroad, which I reported in this post last month. As with these untaxed profits, the lobbyists are using the threat of inversions to blackmail Congress—give us the money by reducing taxes here, or we move to another country.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+The US Chamber of Commerce was not happy. “It’s punitive, it’s paranoia,” the boss lobbyist complained. Whenever the Chamber whines, we know something good has happened for the people.		
+Here is why I think this episode has great potential for inspiring a broader movement to confront the corporate dominance of American politics: Pfizer’s CEO, Ian Read, was stupid enough to announce that the company was abandoning US citizenship right in the middle of a tumultuous presidential campaign—one in which voters have expressed alarm and anger about their lost prosperity and continuing economic troubles.		
+The rebellion may have legs, regardless of who wins the White House this fall, because the corporate wise guys have unwittingly established a new context for how we look at tax debates and other economic issues: patriotism. Pfizer’s cynical ploy deeply insults the fervent national loyalty of most Americans. We celebrate patriots on every occasion, and—more than in so many other countries—love to wave the flag and sing the national anthem. Patriotism can be an empowering emotion; indeed, it may be the single thread that holds us together, in the face of a increasingly savage political environment and multiple divisions on so many issues. Some of us may not like our neighbors, and many of us despise the politicians—but don’t mess with America.		
+Pfizer, like so many other corporations, ignored this public sentiment and took the occasion to jump ship for greener pastures in Ireland. Of course, the company was not actually planning to go anywhere. It was only going to move its address offshore to reduce its tax bill dramatically. Both Hillary Clinton and Bernie Sanders jumped on Pfizer. Even our even-tempered president was appalled. Treasury took the cue and shut down the odious loophole that had allowed what is called “corporate inversion.” Blocking corporate inversions may also damage the demands of multinationals for another kind of multibillion-dollar tax giveaway regarding profits earned abroad, which I reported in this post last month. As with these untaxed profits, the lobbyists are using the threat of inversions to blackmail Congress—give us the money by reducing taxes here, or we move to another country.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Here is why I think this episode has great potential for inspiring a broader movement to confront the corporate dominance of American politics: Pfizer’s CEO, Ian Read, was stupid enough to announce that the company was abandoning US citizenship right in the middle of a tumultuous presidential campaign—one in which voters have expressed alarm and anger about their lost prosperity and continuing economic troubles.		
+The rebellion may have legs, regardless of who wins the White House this fall, because the corporate wise guys have unwittingly established a new context for how we look at tax debates and other economic issues: patriotism. Pfizer’s cynical ploy deeply insults the fervent national loyalty of most Americans. We celebrate patriots on every occasion, and—more than in so many other countries—love to wave the flag and sing the national anthem. Patriotism can be an empowering emotion; indeed, it may be the single thread that holds us together, in the face of a increasingly savage political environment and multiple divisions on so many issues. Some of us may not like our neighbors, and many of us despise the politicians—but don’t mess with America.		
+Pfizer, like so many other corporations, ignored this public sentiment and took the occasion to jump ship for greener pastures in Ireland. Of course, the company was not actually planning to go anywhere. It was only going to move its address offshore to reduce its tax bill dramatically. Both Hillary Clinton and Bernie Sanders jumped on Pfizer. Even our even-tempered president was appalled. Treasury took the cue and shut down the odious loophole that had allowed what is called “corporate inversion.” Blocking corporate inversions may also damage the demands of multinationals for another kind of multibillion-dollar tax giveaway regarding profits earned abroad, which I reported in this post last month. As with these untaxed profits, the lobbyists are using the threat of inversions to blackmail Congress—give us the money by reducing taxes here, or we move to another country.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+The rebellion may have legs, regardless of who wins the White House this fall, because the corporate wise guys have unwittingly established a new context for how we look at tax debates and other economic issues: patriotism. Pfizer’s cynical ploy deeply insults the fervent national loyalty of most Americans. We celebrate patriots on every occasion, and—more than in so many other countries—love to wave the flag and sing the national anthem. Patriotism can be an empowering emotion; indeed, it may be the single thread that holds us together, in the face of a increasingly savage political environment and multiple divisions on so many issues. Some of us may not like our neighbors, and many of us despise the politicians—but don’t mess with America.		
+Pfizer, like so many other corporations, ignored this public sentiment and took the occasion to jump ship for greener pastures in Ireland. Of course, the company was not actually planning to go anywhere. It was only going to move its address offshore to reduce its tax bill dramatically. Both Hillary Clinton and Bernie Sanders jumped on Pfizer. Even our even-tempered president was appalled. Treasury took the cue and shut down the odious loophole that had allowed what is called “corporate inversion.” Blocking corporate inversions may also damage the demands of multinationals for another kind of multibillion-dollar tax giveaway regarding profits earned abroad, which I reported in this post last month. As with these untaxed profits, the lobbyists are using the threat of inversions to blackmail Congress—give us the money by reducing taxes here, or we move to another country.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Pfizer, like so many other corporations, ignored this public sentiment and took the occasion to jump ship for greener pastures in Ireland. Of course, the company was not actually planning to go anywhere. It was only going to move its address offshore to reduce its tax bill dramatically. Both Hillary Clinton and Bernie Sanders jumped on Pfizer. Even our even-tempered president was appalled. Treasury took the cue and shut down the odious loophole that had allowed what is called “corporate inversion.” Blocking corporate inversions may also damage the demands of multinationals for another kind of multibillion-dollar tax giveaway regarding profits earned abroad, which I reported in this post last month. As with these untaxed profits, the lobbyists are using the threat of inversions to blackmail Congress—give us the money by reducing taxes here, or we move to another country.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+I Used to Support Bernie, but Then I Changed My Mind
+
+Bernie Rocks Buffalo. He Also Did Something Else.
+
+Hundreds of People Were Just Arrested Outside Congress
+
+Sanders Is for Schmucks
+
+We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+
+The tax-code details are horribly complicated, even for tax lawyers, but citizens immediately understood it as the betrayal of America.		
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Having milked staggering wealth from US consumers through its inflated drug prices, Pfizer expected to have it both ways. Like other major multinationals, it planned to continue to enjoy all the benefits of being American—the government subsides and research grants and meek law enforcement—but would establish its HQ in Dublin, where tax rates are pitifully lower.		
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Economist Robert Reich calls them “disloyal corporations,” and he has proposed some smart ideas on how to penalize their un-American behavior. I prefer to think of them as “capitalist deserters,” since that suggests that their irresponsible flight is systematic in modern American capitalism. The strategy of abandoning the home country reflects the moral failure of individual executives and investors, but the disease is systemic: The US financial system endorsed it as serving “shareholder value” and punished companies that refused to go along. Either way, it stinks.		
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+The turncoat corporation is by now a familiar figure in American commerce. All of the best names in manufacturing have made their exit—either wholly or partially—by closing factories and dumping US employees to produce stuff somewhere else, where the labor is cheaper (I called this migration “wage arbitrage” in my book One World, Ready or Not). 
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Washington did not stop them; in fact, the government encouraged them, clearing the way with numerous trade agreements. The corporate executives and strategists I interviewed for my book insisted they had no choice and were only responding nervously to the fierce pressures of global competition. Some of them were sincerely worried about what they were doing to the country. Some were indifferent to the loss and injury they were causing.		
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+I don’t buy the excuses. Rival trading nations, faced with the same pressures and trade agreements, responded quite differently, and they have prospered. They have moved some production offshore, but have done so in ways that retained the high-end manufacturing and highly skilled workers at home, maintaining stable employment. I will follow up with a deeper report on the injurious differences of America’s approach to globalization.		
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+But I’m not through banging on Pfizer and the US drug industry. They are to be blamed for injuries to American life that are far deeper than their wily schemes to escape taxation. Their rapacious profit-seeking damages the health of Americans, but it also puts US consumers in the bizarre position of subsidizing foreign healthcare systems.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208892-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_208892			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Many doctors seem to understand this and complain, regardless of their personal politics. “As a physician, I have my own index of healthcare costs,” Dr. Ramin Oskoui, a distinguished DC cardiologist, wrote on his personal blog. “I look at how many of my patients tell me they can’t afford their medications. Drug costs are so high that some take only the drugs they ‘really, really need.’ Or they start cutting dosages. One patient said to me last week, ‘This new heart-failure drug does make me feel better, but I can’t afford the extra $350 a month.’”		
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+While Pfizer was planning its change of nationality, it raised the prices on more than 100 of its medications, some by as much as 20 percent. Meanwhile, the Obama administration’s proposed new multilateral trade agreement, the Trans-Pacific Partnership (TPP), aims to keep poorer countries from developing cheaper drugs by extending the patent rights of Big Pharma. So much for “free trade.”		
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+If Congress got serious, it would at least require the government to negotiate drug prices for Medicare and Medicaid, but even that reform wouldn’t get to the heart of the problem. The United States, Oskoui told me with emphasis, is the only advanced nation in the world that lets drug companies set their own prices. Everywhere else, governments control prices.		
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+“Big Pharma continues to lobby for laws that not only handicap Medicare from negotiating drug costs, but also continues to hold American consumers captive as prescription drug buyers, legally barring them from purchasing drugs from other countries,” Oskoui explained.		
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+Indeed, Oskoui makes a more controversial point. By allowing US companies to jack up prices here, American consumers are unwittingly subsidizing single-payer healthcare systems in Canada, France, and elsewhere. Americans pay more—a lot more—for drugs so Pfizer and the rest can  make “sweetheart deals” on the prices they charge in Europe and still turn a profit. Social democracies, it turns out, are the hard-headed business managers. Uncle Sam is played for a sucker.
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+If doctors could be heard on this point, many would agree. The intriguing thing about Oskoui is that he is neither a liberal nor a conventional conservative. He describes his perspective as libertarian. I teased him a little—you are a libertarian who wants the government to determine drug prices? He smiled wryly. Government, he suggested, could achieve the same outcome if it decided to enforce the antitrust laws.		
+		
+
+ William Greider
+ William Greider is The Nation’s national affairs correspondent.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+"﻿ The US Chamber of Commerce was not happy. “It’s punitive, it’s paranoia,” the boss lobbyist complained. Whenever the Chamber whines, we know something good has happened for the people". 
+Not enough whining!
+
+Couldn&apos;t agree more. 
+Kris Alman MD
+https://www.finance.senate.gov/imo/media/doc/Sovaldi%20report%20feedback%20spreadsheet.pdf
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

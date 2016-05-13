@@ -1,0 +1,1 @@
+Timing lights will be visible. Those lights will warn you when time is up. And as you requested, a bell will also sound, like this.

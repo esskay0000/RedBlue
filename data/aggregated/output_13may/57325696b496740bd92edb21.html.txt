@@ -1,0 +1,124 @@
+
+	976
+      
+
+By
+
+Anton Nilsson For Dailymail.com
+
+
+
+
+Published:
+  18:05 EST, 9 May 2016
+
+ | 
+Updated:
+  21:54 EST, 9 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3581954',
+                    'title': 'Meet the men who wear medieval armor and bash each other with swords',
+                    'url': 'http://www.dailymail.co.uk/news/article-3581954/Fight-knight-Meet-men-dress-medieval-armor-use-swords-axes-bash-s-heads-sport.html',
+                    'eTwitterStatus': ' http://dailym.ai/1rN2xzo via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+976
+shares
+
+ 
+          71
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          71
+
+View  comments
+
+As comfortable in a suit as he is in full-body armor, this Wall Street guy's hobby is to go medieval on other men and bash their heads in with clubs and hatchets. 
+
+Damion DiGrazia is a founding member of a New York group dedicated to a modern version of medieval hand-to-hand combat, part of a larger Armored Combat League. 
+
+'In this sport... The goal is to take everyone on the opposing team to the ground,' DiGrazia, 35, says in a recent mini-documentary called 'Harlem Fight Knight' produced by MEL Magazine. 
+
+And how do the 'knights' force their opponents to the ground? By charging them with medieval-style weapons, of course. 
+
+Scroll down for video 
+
+The members of the New York chapter of the Armored Combat League all share a common interest: bashing in skulls, medieval-style
+
+The medieval fighting style is brutal, and practitioners frequently land blows with heavy weapons to each other's heads and bodies 
+
+In this still from 'Harlem Fight Knight,' three fighters are locked in close combat as a fourth 'knight' stands to the side 
+
+The rules of the fighting are simple: weapons must be blunt and are subject to a weight limit, and thrusting and stabbing is illegal - otherwise, nearly anything goes
+
+The next world championship in medieval combat will take place in Lisbon, Portugal, later this month
+
+These armored fighters use swords, axes and clubs to bash each other's skulls in for the fun of it. There are around 200 practitioners of medieval-style armored combat in the United States
+
+Damion DiGrazia, left, is pictured in armor alongside a fellow fighter. DiGrazia founded the New York Armored Combat League chapter 
+
+In the recent mini-documentary 'Harlem Knight Fight,' DiGrazia, 35, talks about his interest in medieval-style hand-to-hand combat
+
+The fighting is brutal, and although practitioners wear heavy armor and steel helmets, it looks like a painful hobby. DiGrazia told New York's Pix 11 that he's suffered two dislocated shoulders - and a cut to the forehead after he accidentally bashed himself in the face with a mace. 
+
+According to a 2014 Men's Journal story, the rules of the fighting are simple: weapons must be blunt and are subject to a weight limit, and thrusting and stabbing is illegal - otherwise, 'nearly anything goes.' In a 'melee'-style fight between two teams of several 'knights,' the last team standing wins. 
+
+DiGrazia says ACL fighting is a 'martial artist's dream'. The New York fighters range from men in their 20s to one skull basher who is 70 years old, DiGrazia told Pix11. 
+
+The American league has around 200 fighters, and the top ones regularly meet with those representing over 20 countries. The next world championship in medieval combat will take place in Lisbon, Portugal, later this month.
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

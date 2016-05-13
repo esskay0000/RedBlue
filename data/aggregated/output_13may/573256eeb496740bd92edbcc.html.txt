@@ -1,0 +1,1921 @@
+
+
+Illustration by Karl-Raphael Blanchard. 
+
+Scarcely a day goes by without political seismologists offering new evidence to suggest that the tectonic plates of American politics are on the verge of a profound and unsettling shift. Too much stress has built up along too many ideological and demographic fault lines for things to remain as they are. Will 2016 be the year of “the big one”—long feared by some, eagerly anticipated by others? Are we witnessing a fundamental realignment of political coalitions, perhaps even the birth of new parties? As part of “That’s Debatable,” our new series on issues that remain unresolved on the left, published on TheNation.com and occasionally in the magazine, we asked three scholars of American politics to consider these questions. A political theorist, a historian, and a political scientist, respectively, they approach the topic not as clairvoyants peering into a crystal ball, but as observers intent on identifying some of the subtler forces at work in this unnerving year in order to hazard a few guesses as to what it all means. —Richard Kreitner 
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211272-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Danielle Allen
+Communications Breakdown
+In 1999, the libertarian party helped transform American politics by launching a campaign that ultimately sent hundreds of thousands of e-mails to the Federal Deposit Insurance Corporation to protest its proposed “know your customer” banking regulations. The FDIC withdrew the rules, and the era of digital politics was born. Roughly a decade later, social media propelled “birtherism” to the forefront of the national conversation, reinstating nativism as an active ideology in the United States. In 2009 came the Tea Party movement, followed by Occupy Wall Street in 2011, both of which drew on new online organizing mechanisms to build solidarity networks around a particular analysis of social reality. The question for students of American politics now is whether these changes can drive a fundamental realignment of our political parties.				
+					
+					
+Transformations in communications technology have made it more possible than ever before for dissenters from the Democratic and Republican parties to find one another and to form sizable communities of interest. The result is lowered barriers to entry for the work of political organization, with consequences announced daily in headlines about the 2016 presidential campaign. Insurgent candidates in both parties have drawn on the organizational power that has developed over the past decade within ideologically defined communities: Donald Trump has summoned the anger and xenophobia of the birthers, Bernie Sanders has channeled Occupy’s critique of rampant inequality, and Ted Cruz has marshaled the forces of the Tea Party universe. By attaching other groups of voters to their original, more ideologically concentrated constituencies, these candidates have achieved greater success in their respective primary campaigns than anyone thought possible just one year ago.				
+					
+					
+Regardless of whether they succeed in taking over their parties, these new coalitions have the potential to remake American politics if either the insurgents or the party faithful are driven to seek refuge in existing third parties or to create entirely new ones. For the 2016 campaign at least, that latter possibility is already foreclosed, so a takeover (hostile or otherwise) of a third party seems more likely—both the Libertarian Party and the Green Party can place candidates on the ballot in a significant number of states. Even so, our first-past-the-post electoral system makes it very hard for third parties to challenge the top two. Barring the emergence of new habits of collaboration and alliance formation among small parties, only a fundamental change to our system of voting—the introduction of proportional representation, for example—would allow for a more fluid political system to develop.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+
+							It is easier than ever for dissenters from the two major parties to find one another and form new coalitions.
+						
+ 
+Speculating on what the future holds for America’s political alignment requires thinking through a complex array of factors: voting rules, political egos, the time horizons of charismatic leaders, questions of succession, the intensity of various ideological commitments, and a famously mutable public opinion. What we are most likely to see is more of the new normal: incredibly bitter fights among plurality-sized groups for total—if temporary—control of one of the major parties. Will this also worsen gridlock at the national level, thereby exacerbating the intensity of those intraparty battles and further destabilizing our political system overall? If these dynamics play out simultaneously in both parties, the most unified side will triumph.				
+					
+					
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Communications Breakdown
+In 1999, the libertarian party helped transform American politics by launching a campaign that ultimately sent hundreds of thousands of e-mails to the Federal Deposit Insurance Corporation to protest its proposed “know your customer” banking regulations. The FDIC withdrew the rules, and the era of digital politics was born. Roughly a decade later, social media propelled “birtherism” to the forefront of the national conversation, reinstating nativism as an active ideology in the United States. In 2009 came the Tea Party movement, followed by Occupy Wall Street in 2011, both of which drew on new online organizing mechanisms to build solidarity networks around a particular analysis of social reality. The question for students of American politics now is whether these changes can drive a fundamental realignment of our political parties.				
+					
+					
+Transformations in communications technology have made it more possible than ever before for dissenters from the Democratic and Republican parties to find one another and to form sizable communities of interest. The result is lowered barriers to entry for the work of political organization, with consequences announced daily in headlines about the 2016 presidential campaign. Insurgent candidates in both parties have drawn on the organizational power that has developed over the past decade within ideologically defined communities: Donald Trump has summoned the anger and xenophobia of the birthers, Bernie Sanders has channeled Occupy’s critique of rampant inequality, and Ted Cruz has marshaled the forces of the Tea Party universe. By attaching other groups of voters to their original, more ideologically concentrated constituencies, these candidates have achieved greater success in their respective primary campaigns than anyone thought possible just one year ago.				
+					
+					
+Regardless of whether they succeed in taking over their parties, these new coalitions have the potential to remake American politics if either the insurgents or the party faithful are driven to seek refuge in existing third parties or to create entirely new ones. For the 2016 campaign at least, that latter possibility is already foreclosed, so a takeover (hostile or otherwise) of a third party seems more likely—both the Libertarian Party and the Green Party can place candidates on the ballot in a significant number of states. Even so, our first-past-the-post electoral system makes it very hard for third parties to challenge the top two. Barring the emergence of new habits of collaboration and alliance formation among small parties, only a fundamental change to our system of voting—the introduction of proportional representation, for example—would allow for a more fluid political system to develop.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+
+							It is easier than ever for dissenters from the two major parties to find one another and form new coalitions.
+						
+ 
+Speculating on what the future holds for America’s political alignment requires thinking through a complex array of factors: voting rules, political egos, the time horizons of charismatic leaders, questions of succession, the intensity of various ideological commitments, and a famously mutable public opinion. What we are most likely to see is more of the new normal: incredibly bitter fights among plurality-sized groups for total—if temporary—control of one of the major parties. Will this also worsen gridlock at the national level, thereby exacerbating the intensity of those intraparty battles and further destabilizing our political system overall? If these dynamics play out simultaneously in both parties, the most unified side will triumph.				
+					
+					
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+In 1999, the libertarian party helped transform American politics by launching a campaign that ultimately sent hundreds of thousands of e-mails to the Federal Deposit Insurance Corporation to protest its proposed “know your customer” banking regulations. The FDIC withdrew the rules, and the era of digital politics was born. Roughly a decade later, social media propelled “birtherism” to the forefront of the national conversation, reinstating nativism as an active ideology in the United States. In 2009 came the Tea Party movement, followed by Occupy Wall Street in 2011, both of which drew on new online organizing mechanisms to build solidarity networks around a particular analysis of social reality. The question for students of American politics now is whether these changes can drive a fundamental realignment of our political parties.				
+					
+					
+Transformations in communications technology have made it more possible than ever before for dissenters from the Democratic and Republican parties to find one another and to form sizable communities of interest. The result is lowered barriers to entry for the work of political organization, with consequences announced daily in headlines about the 2016 presidential campaign. Insurgent candidates in both parties have drawn on the organizational power that has developed over the past decade within ideologically defined communities: Donald Trump has summoned the anger and xenophobia of the birthers, Bernie Sanders has channeled Occupy’s critique of rampant inequality, and Ted Cruz has marshaled the forces of the Tea Party universe. By attaching other groups of voters to their original, more ideologically concentrated constituencies, these candidates have achieved greater success in their respective primary campaigns than anyone thought possible just one year ago.				
+					
+					
+Regardless of whether they succeed in taking over their parties, these new coalitions have the potential to remake American politics if either the insurgents or the party faithful are driven to seek refuge in existing third parties or to create entirely new ones. For the 2016 campaign at least, that latter possibility is already foreclosed, so a takeover (hostile or otherwise) of a third party seems more likely—both the Libertarian Party and the Green Party can place candidates on the ballot in a significant number of states. Even so, our first-past-the-post electoral system makes it very hard for third parties to challenge the top two. Barring the emergence of new habits of collaboration and alliance formation among small parties, only a fundamental change to our system of voting—the introduction of proportional representation, for example—would allow for a more fluid political system to develop.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+
+							It is easier than ever for dissenters from the two major parties to find one another and form new coalitions.
+						
+ 
+Speculating on what the future holds for America’s political alignment requires thinking through a complex array of factors: voting rules, political egos, the time horizons of charismatic leaders, questions of succession, the intensity of various ideological commitments, and a famously mutable public opinion. What we are most likely to see is more of the new normal: incredibly bitter fights among plurality-sized groups for total—if temporary—control of one of the major parties. Will this also worsen gridlock at the national level, thereby exacerbating the intensity of those intraparty battles and further destabilizing our political system overall? If these dynamics play out simultaneously in both parties, the most unified side will triumph.				
+					
+					
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Transformations in communications technology have made it more possible than ever before for dissenters from the Democratic and Republican parties to find one another and to form sizable communities of interest. The result is lowered barriers to entry for the work of political organization, with consequences announced daily in headlines about the 2016 presidential campaign. Insurgent candidates in both parties have drawn on the organizational power that has developed over the past decade within ideologically defined communities: Donald Trump has summoned the anger and xenophobia of the birthers, Bernie Sanders has channeled Occupy’s critique of rampant inequality, and Ted Cruz has marshaled the forces of the Tea Party universe. By attaching other groups of voters to their original, more ideologically concentrated constituencies, these candidates have achieved greater success in their respective primary campaigns than anyone thought possible just one year ago.				
+					
+					
+Regardless of whether they succeed in taking over their parties, these new coalitions have the potential to remake American politics if either the insurgents or the party faithful are driven to seek refuge in existing third parties or to create entirely new ones. For the 2016 campaign at least, that latter possibility is already foreclosed, so a takeover (hostile or otherwise) of a third party seems more likely—both the Libertarian Party and the Green Party can place candidates on the ballot in a significant number of states. Even so, our first-past-the-post electoral system makes it very hard for third parties to challenge the top two. Barring the emergence of new habits of collaboration and alliance formation among small parties, only a fundamental change to our system of voting—the introduction of proportional representation, for example—would allow for a more fluid political system to develop.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+
+							It is easier than ever for dissenters from the two major parties to find one another and form new coalitions.
+						
+ 
+Speculating on what the future holds for America’s political alignment requires thinking through a complex array of factors: voting rules, political egos, the time horizons of charismatic leaders, questions of succession, the intensity of various ideological commitments, and a famously mutable public opinion. What we are most likely to see is more of the new normal: incredibly bitter fights among plurality-sized groups for total—if temporary—control of one of the major parties. Will this also worsen gridlock at the national level, thereby exacerbating the intensity of those intraparty battles and further destabilizing our political system overall? If these dynamics play out simultaneously in both parties, the most unified side will triumph.				
+					
+					
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Regardless of whether they succeed in taking over their parties, these new coalitions have the potential to remake American politics if either the insurgents or the party faithful are driven to seek refuge in existing third parties or to create entirely new ones. For the 2016 campaign at least, that latter possibility is already foreclosed, so a takeover (hostile or otherwise) of a third party seems more likely—both the Libertarian Party and the Green Party can place candidates on the ballot in a significant number of states. Even so, our first-past-the-post electoral system makes it very hard for third parties to challenge the top two. Barring the emergence of new habits of collaboration and alliance formation among small parties, only a fundamental change to our system of voting—the introduction of proportional representation, for example—would allow for a more fluid political system to develop.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+
+							It is easier than ever for dissenters from the two major parties to find one another and form new coalitions.
+						
+ 
+Speculating on what the future holds for America’s political alignment requires thinking through a complex array of factors: voting rules, political egos, the time horizons of charismatic leaders, questions of succession, the intensity of various ideological commitments, and a famously mutable public opinion. What we are most likely to see is more of the new normal: incredibly bitter fights among plurality-sized groups for total—if temporary—control of one of the major parties. Will this also worsen gridlock at the national level, thereby exacerbating the intensity of those intraparty battles and further destabilizing our political system overall? If these dynamics play out simultaneously in both parties, the most unified side will triumph.				
+					
+					
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud
+
+Why Bernie Didn’t Get My Vote
+
+Voter Suppression Is the Only Way Donald Trump Can Win
+
+For-Profit Colleges Have Found a New Way to Hoodwink Their Students
+
+This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+
+							It is easier than ever for dissenters from the two major parties to find one another and form new coalitions.
+						
+
+
+Speculating on what the future holds for America’s political alignment requires thinking through a complex array of factors: voting rules, political egos, the time horizons of charismatic leaders, questions of succession, the intensity of various ideological commitments, and a famously mutable public opinion. What we are most likely to see is more of the new normal: incredibly bitter fights among plurality-sized groups for total—if temporary—control of one of the major parties. Will this also worsen gridlock at the national level, thereby exacerbating the intensity of those intraparty battles and further destabilizing our political system overall? If these dynamics play out simultaneously in both parties, the most unified side will triumph.				
+					
+					
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Danielle Allen, a Washington Post contributing columnist, is a political theorist at Harvard University and the author, with Jennifer S. Light, of From Voice to Influence: Understanding Citizenship in a Digital Age (2015). 
+Rick Perlstein
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+It’s Happening Here 
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+What are the prospects for a realignment of American politics? On the Democratic side, practically nil. The presidential front-runner—the one with the endorsements of 15 out of 18 sitting Democratic governors, 40 out of 44 senators, and 161 out of 188 House members—is running a campaign explicitly opposed to fundamental transformation. Her signature campaign promise—no new taxes on households making $250,000 or less—renders serious change impossible. The chance for her opponent to win the nomination approaches mathematical impossibility. He is running as a “revolutionary.” But governing is a team sport. If, by some miracle, Bernie Sanders entered the White House in January, he would do so naked and alone—in command of a party apparatus less prepared ideologically, institutionally, and legislatively to do great things than at any other time in its history.				
+					
+					
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+One side promises competence. The other promises the impossible. This is the Democratic Party in 2016.				
+					
+					
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+And the Republicans? Senator Ted Cruz, believe it or not, was also a candidate of continuity, the nearly pure product of a conservative-movement Petri dish. His father was an evangelical pastor from one of America’s most reactionary immigrant communities. Cruz received his tutelage in the thought of Milton Friedman and Frédéric Bastiat while still in high school; he also memorized the US Constitution, was a champion debater at Princeton, and worked as the conservative movement’s all-but-official Supreme Court litigator in his years as solicitor general of Texas. His creepy extremism is precisely the extremism we have known in the Republican Party ever since Barry Gold- water in 1964. His electoral coalition was Goldwater’s—which, blessedly, in our increasingly younger, browner, and leftward-leaning nation, means it was always going to be very hard for him to become president.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211272-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+That leaves our orange-maned wild card—who, for the same reasons, will also have a very hard time winning a presidential election. But if there is any chance of a fundamental realignment in American politics, it would come from the candidate to whom none of the familiar rules apply. Donald Trump has primed millions of his followers to believe that a corrupt national establishment—a conspiracy of politicians, the media, and business—has stolen their birthright as Americans. The techno-sociology scholar Zeynep Tufekci, studying Trump’s social-media following, notes that his fans treat him as the sole source of truth and authority: In their view, “every unpleasant claim about Trump is a fabrication by a cabal that includes the Republican leadership and the mass media.” Recently, Robert Costa and Bob Woodward of The Washington Post asked Trump what he would do in his first 100 days as president. The candidate replied that he would focus on trade deals. “What about economic legislation?” Costa asked. Trump responded, “Before I talk about legislation, because I think frankly this is more important—number one, it’s going to be a very big tax cut.” He spoke, in other words, as if tax policy isn’t a product of legislation, but rather gets handed down by presidential fiat.				
+					
+					
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Trump has also announced the litmus test for his first Supreme Court nominee: a willingness to prioritize his crushing of a political rival. (“I’d probably appoint people that would look very seriously at [Hillary Clinton’s] e-mail disaster because it’s a criminal activity.”)				
+			
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+ 
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+
+							“If the GOP becomes a vehicle for white nationalism, Democrats will welcome the refugees.” —Daniel Schlozman
+						
+
+
+If Trump wins the presidency, we’ll have elected an aspiring dictator. In that event, speculation about the fate of the conservative movement, let alone the Republican Party, would be quite beside the point. But if Donald Trump loses the presidency, we’ll still be left with those millions of followers—many of them violent—trained by Trump to believe that their American birthright has been stolen from them once more. The only thing that will stand in their way is the strength of our constitutional system. One must hope it proves very strong indeed. The alternative is a sort of realignment that none of us want.				
+					
+					
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Rick Perlstein is the national correspondent for The Washington Spectator and the author, most recently, of The Invisible Bridge: The Fall of Nixon and the Rise of Reagan (2014). 
+Daniel Schlozman
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+The Great Divide 
+      .cta.primary.UOQznMgsTm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.UOQznMgsTm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Democrats and republicans will likely spend the coming decades as they have the last eight: fighting over the legacy of the New Deal, respectively defending and assailing its commitments to a robust welfare state and a mixed economy. In his 1944 State of the Union address, Franklin D. Roosevelt called for a Second Bill of Rights guaranteeing access to employment, housing, medical care, and education. A conservative coalition of Republicans and Southern Democrats stopped those plans in their tracks. Yet far more than in FDR’s time, the parties are divided sharply over his vision. That is likely to continue, whatever the shape of things to come.				
+					
+					
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Early in the Reagan era, James L. Sundquist, an influential scholar of partisan realignment, observed that “when the New Deal alignment is strengthened, the New Deal coalitions are weakened.” These fissures have only grown starker: The Roosevelt coalition broke apart as liberals and conservatives sorted between the parties. Minorities and “pink-collar” workers supplanted white Southerners and Northern ethnics in the Democratic fold. Party coalitions, now oriented largely around race, fight pitched policy battles around class. The Democratic Party has embraced a version of what Northern liberals hoped for in the postwar era—a party more diverse in its leadership and no longer cemented to the male family wage.				
+					
+							
+Related Articles
+
+How to Destroy the Republican Party, in 3 Easy Steps 
+Thomas Geoghegan
+
+
+Who Is the Real Progressive: Hillary Clinton or Bernie Sanders? 
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+
+The Coming Party Realignment 
+Lawrence Goodwyn
+
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Thomas Geoghegan
+
+Kim Phillips-Fein, Charles Postel, Robert Greene II and Michael Kazin
+
+Lawrence Goodwyn
+
+With their own house largely in order, the New Dealers’ proverbial grandchildren watch with both fascination and horror the lurid spectacle of a Republican Party whose contradictions have, in the unlikely figure of Donald Trump, finally come to the fore. That upheaval has loosed from their moorings three very different blocs of voters. Their allegiances, once the dust settles, will determine the balance of power in American politics.				
+					
+					
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+If Trumpism prevails and the Republican Party becomes principally a vehicle for white nationalism, Democrats will welcome the refugees: affluent suburbanites who tend to be socially tolerant but skeptical about redistribution. For Democrats, such a coalition could bring back congressional majorities, but they would be unwieldy ones. A party swollen with economic elites would bring to the fore the vexed politics of revenue: Expanding programs for the Democrats’ disadvantaged constituents would cost the wealthier ones dearly. The usual work-arounds— employer mandates, tax credits, and the like—make it even harder to enact public programs further down the road.				
+					
+					
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+If the Republicans retreat into a familiar shell that appeals only to the likes of Ted Cruz, the less-bigoted white losers from economic dislocation might switch to the Democrats. With congressional majorities supporting redistributionist policies, this new coalition could create a new class politics built on Rooseveltian universal programs, largely redeeming the New Deal’s unfulfilled promises.				
+					
+					
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Finally, if the Republicans’ existing power centers—K Street and the Koch boardroom—maneuver successfully to defeat the insurgency, the plutocrats will retain control of the party’s apparatus and agenda, even as they redouble their efforts to diversify its base, marketing aggressively to Latinos and Asians. Unfortunately for them, as the 2016 campaign has shown, the Republican base has other ideas. Yet even if the presidency remains out of reach, the party’s leaders might well be content to control the national purse strings in the House of Representatives and sow tensions among Democratic constituencies whenever priorities conflict: housing versus healthcare, young versus old, race versus class.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_211272			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Given the pyrotechnics of 2016, these prognoses may seem mundane. A fundamental realignment along the lines of 1860, 1896, or 1936, however, would require not just movement in a few voter blocs or on issues such as trade, but a change in the basic divide between the parties’ competing positions. That’s a remote prospect. The New Deal still casts a long shadow, and party politics will likely remain a battle over the size and scope of government.n				
+					
+					
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+
+ Danielle Allen
+ Danielle Allen, the UPS Foundation Professor of Social Science at the Institute for Advanced Study in Princeton, has published books on ancient Greek politics and citizenship in contemporary democracies. She is finishing a book on the Declaration of Independence.
+
+ Rick Perlstein
+Twitter
+ Rick Perlstein is the author of Before the Storm: Barry Goldwater and the Unmaking of the American Consensus, winner of the 2001 Los Angeles Times Book Award for history, and Nixonland: The Rise of a President and the Fracturing of America (2008), a New York Times bestseller picked as one of the best nonfiction books of the year by over a dozen publications. A former online columnist for The New Republic and Rolling Stone and former chief national correspondent for the Village Voice, his journalism and essays have appeared in Newsweek, The Nation, the New York Times, and many other publications. Perlstein has been called the "chronicler extraordinaire of American conservatism" by Politico and the "hypercaffeinated Herodotus of the American century" by The Nation. He lives in Chicago, where he is at work on a book on the 1970s and the rise of Ronald Reagan. He plays jazz piano on the side.
+
+
+ Daniel Schlozman
+ Daniel Schlozman, assistant professor of political science at Johns Hopkins University, is the author of When Movements Anchor Parties: Electoral Alignments in American History (2015).
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+It&apos;s interesting that none of the commentators mentioned the 800 pound guerrilla in the room, inequality and the  state of the economy. Perhaps it would have been worthwhile to invite Stiglitz or Reich to comment. Neither of the party establishments has any desire to address the issues of growing inequality (both are entirely in the grasp of those who have benefited from Reaganomics and Clintonomics). How will more recessions and "recoveries" that leave out a large majority of the American people affect the political structure of the US? And where will the larger and larger number of Americans, whose economic situation is precarious at best, find a political home? These questions are not based on speculation, but on an analysis of the economic developments over the past 40+ years.
+
+Other than the structural problems of the rich owning the electoral system and having the ability to gerrymander districts to their political advantage, the underlying problem is that we have collections of interest groups trying to get power through a 2 party system, a corporate owned media which manipulates and trivializes the public square, and a disengaged public with no vision how democratic elections should really work. The media coverage makes elections as much an exercise in bonding as in policy choice. This year the candidates with the most name recognition are Clinton, with nearly 25 years at the highest levels of public office, and Trump with as much exposure as America&apos;s public tycoon and later "reality" tv star. In addition Cruz, the leader of the far right,  is the most hated man in politics. Among the "establishment" candidates Bush was uninspiring and burdened with family baggage, Rubio is young and handsome but hard to take seriously and the sixteen Republicans were clearly too many for anyone to be taken that seriously. Sanders is the closest heir to Obama&apos;s 2008 campaign substantively but is an elderly loner whose message was ignored by the corporate media. So how surprised are we that the best known candidates won? Substantively Americans have little vision on how to handle the economy where capital has the mobility to leave people flatfooted in search of a living wage, let alone a good one, and where the rich&apos;s share of productivity is being extracted, leaving the 98% with inadequate resources for consumption, health care, education and retirement, and for maybe 40% exclusion from the economy altogether. What good is the internet for changing this? I expect Republicans, particularly the establishment ones, to come together behind Trump, and to invest heavily in down ticket elections, if only because they are united by loathing of Obama, Clinton and liberals moreso than on policy initiatives, and by getting the spoils. If Republicans win with Trump, they may in the absence of a 9/11 type unifying event, be unable to govern effectively.  However a major realignment seems unlikely, as there is little to make ordinary Americans into sound participants in policy decisions and to make elites pay attention. Unfortunately there are too few choices, R, D, waste your vote or stay home. Most likely elections engulfed in paid negativity will just get to be too much for Americans to handle emotionally, and the quality of democracy will decrease.
+
+For elections with three or more candidates, the best  system is approval voting. See electology.org. Instant runoff voting is subject to anomalous results.
+
+Can a constitutional convention to amend our system of federalism seem far-fetched and naive? Probably. But if we instituted a parliamentary system such as the one in the United Kingdom, progressives, greens, libertarians, etc. could join forces to break up what is essentially this duopoly that Democrats and Republicans have over the electorate. I know this was the option that the late Gore Vidal was always advocating in his interviews and essays in his career. It seems to be a sensible solution. But that said, of three scholars to this question The Nation posed Danielle Allen seems to the most astute and incentive.
+
+The time for partying is long over. If we don&apos;t soon unify the light of life will go out. http://thelastwhy.ca/
+
+A single person just executed a hostile takeover of Abe Lincoln&apos;s party using internet memes and hats.  And the view of these "experts" is that a realignment of the parties is "highly unlikely."  Well, guess again.  Sanders supporters and Trump supporters are joining forces to stop Hillary -- Ex. A:  https://www.reddit.com/r/HillaryForPrison/ -- and the people are finally realizing that the DNC and RNC are a Uniparty for the oligarchy, no more different than Ford and Mercury.  The Punto Fijo Pact in Venezuela, and the National Front Agreement in Columbia, were effective at exercising control while they lasted, but one gave us Hugo Chavez and the other birthed FARC.  No one has the slightest clue how this will turn out, but those two examples are certainly more analogous than what happened when it really was "Lincoln&apos;s Party."
+
+The combination of Party Politics and the Electoral College represent a double firewall between the voter and actual  electoral power. Neither can be abolished soon enough to suit me. Power brokers spoon feed us donor-approved robots, and NEITHER party has the slightest concern for the wishes of the people they deceptively refer to as "the electorate". And they wonder why (and rejoice in the fact that) voter turnout and apathy are at all-time highs.
+
+I don&apos;t think the electoral college is any threat to democracy - it does need reform, like everything else.  We are a union of 50 States and each State does have the option of sending proportional delegates, over winner-take-all.  Corruption is virtually limited to each State, and not in the hand of one National vote counter.
+
+On the other hand, runoff elections are most desperately needed for a "50% or more of voters" winner of the Presidency, instead of winning the office with 43% of votes like Clinton did in 1992 (look what that led to: DLC and super-delegates.)  A multi-party election system is not viable without a fair and thorough runoff system for the general election, which may require two or three election "rounds" if there is no clear 50% majority winner.
+
+Very true. I referred to the Electoral college and the delegate system as a"double firewall" of the status quo. There was an unwitting omission, a third element in that axiom: Impeachment. Perhaps the GOP has already thought of this option and their next gambit will be a Paul Ryan VP pick. Trump is elected (on Ryan&apos;s popularity), Trump is impeached (on HIS unpopularity) Ryan ascends to the Oval Office. Bingo. Trifecta.
+
+Hmmm. Does shooting off your mouth before engaging your brain constitute the high crimes and/or abuse of office required for impeachment? Inquiring minds wonder.  🤔
+
+It depends. Are we talking :"I did not have sexual relations with that woman..." kind of shooting off your mouth or the "I am not a crook..." kind? Impeachment, like everything else in current politics is agenda-driven. Mix Trump&apos;s obvious penchant for recklessness and the present level of GOP revulsion, toss in a classified briefing and Twitter. Add a dash of Paul Ryan. Voila! Impeachment Souffle!
+
+Thanks for the well-thought out opinions. I was, however, hoping to hear more about the possibility of what comes after implosions of both of the majors, yet I got only a nod in that direction, an only by way of the idea of the rise of a third party. I understand how the system is currently set up, but why does everyone act as though that system is set in stone? With some changes (suggested in previous comments), and given the unprecedented ability of grassroots coalition building through communications technology, it is now possible to elect people who can commit to a platform that defies the divisions between the two majors. Obviously, we need election reform in terms of the money, as statistics show that 90% of elections are won by the candidate with the most money. But why cannot the smaller parties work in fluid coalitions from election cycle to election cycle? This would most certainly strip the major parties of their stranglehold on politics.
+
+1% Special Interests would find it difficult to bribe more than two parties.  The more parties, the more expensive it is.
+
+If there is any kind of fairness of the multi-party system in Federal Elections.  We will need to invest in election reform, with national rules, methods, mail-in ballot systems and paper back up.  We will also need a run-off system, second-round voting (or third, etc., with more than three candidates) when a candidate does not get more than 50% of the vote due to a  third party inclusion.  Some kind of fair way to get the majority of voters for the winner.  Clinton won in 1992 with far less than a majority than Bush in 2000.  System unfairness breeds voter apathy. 
+
+The Democratic Party Elites must dissolve their  cognitive dissonance of the fact: Clinton fans are  quite likely to vote for a Sanders Democratic Party presidential candidate, but Sanders supporters will abandon Clinton in droves (but not abandon other progressives running) by either not voting, voting third party, or writing-in Sanders.  In this infinitely unfair and Dirty Democratic Party primary, the closer in popularly-elected primary delegates Sanders gets to Clinton the more intense the Clinton abandonment.  If Sanders surpasses Clinton, the revolution will have arrived.
+
+Bernie Sanders is not out either.
+
+California has practically twice as many delegates as any other State (546 delegates.) If Sanders wins Oregon (74 delegates) and California by the same margin as he did Washington State (Sanders won 74 delegates, to Clinton&apos;s 27.) Sanders can seriously challenge her for the nomination. And then there&apos;s New Jersey delegates (146) and some rural Western States, where Sanders does well.
+Furthermore, the current political & media blitz of "fait accompli" in favor of Hillary Clinton, may add an element of justifiable spite to the mood of voters on the West Coast (and in New Jersey, etc.) voters, who may feel as if they are being treated as insignificant by the machine media & machine politics. This mood would favor Sanders.
+
+Amongst many excellent comments, this one really hits the nail on its head!  This year, Emperors of both Parties have been exposed as having no clothes. It&apos;s time to assess and revise our entire system; and taken together, the comments about this article could provide a good starter list of what needs to be done to fix and recreate a better and fairer electoral process.
+
+Hillary Clinton is using the same slick spinning with Trump as she has done with Sanders, cherry picking votes or statements (out-of-context) and using them for [whacko] character assassination, instead of standing on issues.  Meanwhile, Trump has sympathized with Sanders fighting against a "rigged" system.  Sanders or Bust!  Or get used to more-of-the-same atrocities overseas, and more-of-the-same corporate prostitution at home, second to the needs of the struggling masses.
+
+Thank you for your comment that filled in blatantly missing gaps by the three so-called American Political Scholars.
+
+"Yes, Virginia" professionalism is an information  bubble, which pops sounds into a media echo chambers.  By now we should be used to it.
+
+Regarding the third essay, does paying for  programs for the constitutionally guaranteed "general welfare" really require more taxes on suburbanites?  No, because that&apos;s not where the money is.  The real money is hidden overseas and in the US, hoarded by corporations using public FED money to buy their own stock rather than expand,  and with the fraction of a percent oligarchy.  Hasn&apos;t everyone seen the facts about fewer than 100 people owning more than 50% of the population?   We need real inheritance taxes on estates worth more than a few million, a return to the situation decades ago when corporations paid relatively 6 times more than people compared to today,  and our next war of choice should be to seize all hidden funds overseas.  Nationalize the defense industry and make the Pentagon submit to an audit. When writers pretend we must tax the middle class to pay for change, they are covering for the billionaires and establishment.
+
+"fewer than 100 people owning more than 50% of the population?"  as in "owning the lives"  or "owning the vote" of more than 50% of us? :-(
+
+What a condescending and irritating comment regarding Sanders by Pearlstein.  Loved his books but this makes me rethink my opinion of him just a little bit.  You go on and get that "competence" thing out of your system there buddy, here&apos;s hoping to see the "competent" one lose, big time.  
+
+And really, competence in just what?  Some of us want an actually competent Democrat, not a ConservaDem shill.  And as for a Sanders cabinet, maybe you&apos;d best look at some of the people who once served who are not part of the corrupt machine.  I realize, many of them don&apos;t have big famous names anymore, but they just might get famous if they were given a chance to correct the ugly neo-liberal path we&apos;re currently on.
+
+And quite obviously, the Democratic house is not all "in order" either, or HRC would already be the nominee.  Way to miss some history, but I guess it&apos;s important to be dismissive of hoi polloi.
+
+Did not mean this as a response but a new comment.
+
+It means owning more wealth than the entire bottom 50% of the population.  So 100 people own as much wealth as the 150 million people lower down the income/wealth scale.
+
+I know - I was being humorous.  Parties think they own people too.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

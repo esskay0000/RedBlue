@@ -1,0 +1,331 @@
+
+
+A solitary confinement cell at New York’s Rikers Island. (AP Photo / Bebeto Matthews)
+
+For many people, the lingering impact of a stint in jail extends far beyond the prison gates. In many cases, the financial consequences of a conviction can damn a person to an eternal financial purgatory. In a new report, researchers at the University of California, Los Angeles amningly map out how the criminal-justice system works to bury ostensibly “free” people under mountains of debt, forcing citizens who have already served their time in jail to continue laboring not for wages so much as for basic civil rights.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-209007-0','tn_society_law_ros_halfpage_1','tn_society_law_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+It’s not exactly a neo-gulag; think carceral capitalism. The research by the UCLA Institute for Research on Labor and Employment, UCLA Labor Center, and A New Way of Life Reentry Project outlines how punitive structures within the civil- and criminal-justice systems work to tie punishment to poverty to unemployment:		
+First, probation and parole require participants to seek and maintain employment as part of a set of standard conditions.… Second, courts may demand that people work when they are too poor to pay criminal justice debts from the fines, fees, and restitution imposed by the criminal justice system.		
+That means that many probation and parole participants are being forced to work just to stay out of jail. A similar dynamic plays out when the criminal-justice and child-welfare systems intersect: According to the report, courts can “order parents that are too poor to pay child support to find and maintain jobs or face jail as a consequence.”		
+These extractive apparatuses have dominated cities across the country, and gained particular attention in Ferguson, Missouri, where the courts effectively sucked financing from residents who had been nabbed for minor offenses such as missing a hearing. To further tighten the debt trap, researchers note, “Criminal justice debt and child support obligations cannot be erased in bankruptcy, and those who can’t pay face incarceration.” (People with criminal records also face further employment barriers when background checks taint job applications with problematic rap sheets.)		
+The link between state oppression and labor markets doesn’t mean all work requirements are necessarily “incarceration by another name.” It does, however, raise the question of whether the purpose of parole is to shift punishment toward a more cost-effective, less restrictive form of supervision—as many prison reformers argue—or to keep workers on a leash for as long as possible.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+UCLA researcher Noah Zatz likened this coerced labor to historical convict-leasing programs of the segregated South, or contemporary immigrant guestworker programs, in which a labor visa is premised on the support of a single sponsoring employer—a form of indenture suited to the global labor market.		
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+It’s not exactly a neo-gulag; think carceral capitalism. The research by the UCLA Institute for Research on Labor and Employment, UCLA Labor Center, and A New Way of Life Reentry Project outlines how punitive structures within the civil- and criminal-justice systems work to tie punishment to poverty to unemployment:		
+First, probation and parole require participants to seek and maintain employment as part of a set of standard conditions.… Second, courts may demand that people work when they are too poor to pay criminal justice debts from the fines, fees, and restitution imposed by the criminal justice system.		
+That means that many probation and parole participants are being forced to work just to stay out of jail. A similar dynamic plays out when the criminal-justice and child-welfare systems intersect: According to the report, courts can “order parents that are too poor to pay child support to find and maintain jobs or face jail as a consequence.”		
+These extractive apparatuses have dominated cities across the country, and gained particular attention in Ferguson, Missouri, where the courts effectively sucked financing from residents who had been nabbed for minor offenses such as missing a hearing. To further tighten the debt trap, researchers note, “Criminal justice debt and child support obligations cannot be erased in bankruptcy, and those who can’t pay face incarceration.” (People with criminal records also face further employment barriers when background checks taint job applications with problematic rap sheets.)		
+The link between state oppression and labor markets doesn’t mean all work requirements are necessarily “incarceration by another name.” It does, however, raise the question of whether the purpose of parole is to shift punishment toward a more cost-effective, less restrictive form of supervision—as many prison reformers argue—or to keep workers on a leash for as long as possible.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+UCLA researcher Noah Zatz likened this coerced labor to historical convict-leasing programs of the segregated South, or contemporary immigrant guestworker programs, in which a labor visa is premised on the support of a single sponsoring employer—a form of indenture suited to the global labor market.		
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+First, probation and parole require participants to seek and maintain employment as part of a set of standard conditions.… Second, courts may demand that people work when they are too poor to pay criminal justice debts from the fines, fees, and restitution imposed by the criminal justice system.		
+
+That means that many probation and parole participants are being forced to work just to stay out of jail. A similar dynamic plays out when the criminal-justice and child-welfare systems intersect: According to the report, courts can “order parents that are too poor to pay child support to find and maintain jobs or face jail as a consequence.”		
+These extractive apparatuses have dominated cities across the country, and gained particular attention in Ferguson, Missouri, where the courts effectively sucked financing from residents who had been nabbed for minor offenses such as missing a hearing. To further tighten the debt trap, researchers note, “Criminal justice debt and child support obligations cannot be erased in bankruptcy, and those who can’t pay face incarceration.” (People with criminal records also face further employment barriers when background checks taint job applications with problematic rap sheets.)		
+The link between state oppression and labor markets doesn’t mean all work requirements are necessarily “incarceration by another name.” It does, however, raise the question of whether the purpose of parole is to shift punishment toward a more cost-effective, less restrictive form of supervision—as many prison reformers argue—or to keep workers on a leash for as long as possible.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+UCLA researcher Noah Zatz likened this coerced labor to historical convict-leasing programs of the segregated South, or contemporary immigrant guestworker programs, in which a labor visa is premised on the support of a single sponsoring employer—a form of indenture suited to the global labor market.		
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+These extractive apparatuses have dominated cities across the country, and gained particular attention in Ferguson, Missouri, where the courts effectively sucked financing from residents who had been nabbed for minor offenses such as missing a hearing. To further tighten the debt trap, researchers note, “Criminal justice debt and child support obligations cannot be erased in bankruptcy, and those who can’t pay face incarceration.” (People with criminal records also face further employment barriers when background checks taint job applications with problematic rap sheets.)		
+The link between state oppression and labor markets doesn’t mean all work requirements are necessarily “incarceration by another name.” It does, however, raise the question of whether the purpose of parole is to shift punishment toward a more cost-effective, less restrictive form of supervision—as many prison reformers argue—or to keep workers on a leash for as long as possible.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+UCLA researcher Noah Zatz likened this coerced labor to historical convict-leasing programs of the segregated South, or contemporary immigrant guestworker programs, in which a labor visa is premised on the support of a single sponsoring employer—a form of indenture suited to the global labor market.		
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+The link between state oppression and labor markets doesn’t mean all work requirements are necessarily “incarceration by another name.” It does, however, raise the question of whether the purpose of parole is to shift punishment toward a more cost-effective, less restrictive form of supervision—as many prison reformers argue—or to keep workers on a leash for as long as possible.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+UCLA researcher Noah Zatz likened this coerced labor to historical convict-leasing programs of the segregated South, or contemporary immigrant guestworker programs, in which a labor visa is premised on the support of a single sponsoring employer—a form of indenture suited to the global labor market.		
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+I Used to Support Bernie, but Then I Changed My Mind
+
+Bernie Rocks Buffalo. He Also Did Something Else.
+
+Hundreds of People Were Just Arrested Outside Congress
+
+Sanders Is for Schmucks
+
+We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+
+UCLA researcher Noah Zatz likened this coerced labor to historical convict-leasing programs of the segregated South, or contemporary immigrant guestworker programs, in which a labor visa is premised on the support of a single sponsoring employer—a form of indenture suited to the global labor market.		
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+Zatz noted another parallel between criminal-justice and civil immigration systems: Like parolees who can be jailed for failing to work, guestworkers who violate their visas are subject to detention and deportation, showing how “two forms of state violence merge. In all these situations, employers are the intermediary between the government and the worker, as opposed to situations where people are directly in state custody (jail, prison, detention, etc.).”		
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+The problem goes well beyond prison facilities, since nearly 9,000 people are imprisoned for parole or probation violations on a given day. Though it is difficult to disentangle cause and effect, for an individual who must calculate the risks and benefits of every economic move as they seek to avoid the terrifying possibility of re-incarceration—many would rationally sacrifice some freedom of labor to preserve physical freedom—everything operates within a structure of state violence, with few safeguards against abuse.		
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+Of those incarcerated solely for violating probation or parole requirements to pay court-ordered debts, two-thirds reported full-time work, earning on average less than $1,000 per month. Among fathers incarcerated for failing to pay child support, 95 percent worked in the previous year and 85 percent lived in or near poverty.		
+
+Meanwhile, state institutions are making a killing. The researchers note that by compelling as many as 100,000 people a year to “perform unpaid, court-ordered community service often to work off criminal justice debt,” which tend to accumulate steadily, “[s]tate and municipal governments and nonprofits get a stream of free labor from individuals who may have to work for hundreds of hours.”						
+			.article-wrap .article-body aside.left.custom_background_209007			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Moreover, these workers affect other poor workers, including those without a parole sentence hanging over their heads (even that could change quickly, especially if you happen to live in a heavily policed community). On the day-to-day workplace level, for a liminal, anxiety-wracked subset of workers, denied standard job protections and excluded from a union, losing a job could mean getting dragged back into prison.		
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+The researchers pointed out that public-sector jobs are especially at risk. In California, jobs maintaining public facilities annually involve as many as “100,000 people doing on average 100 hours of court-ordered community service, that is equivalent to more than 5,000 full-time/full-year positions “		
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+“The threat of replacement can force concessions, or just lower the ‘market’ wage,” the researchers warn. This carceral coercion has been exhibited in certain welfare-to-work programs, often criticized for “punishing the poor” while purporting to uplift them. (The program was widely criticized in New York in the 1990s for being manipulated to systematically replace city workers in public-works jobs.)		
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+There could be rational policy solutions to these dilemmas. One might even argue that the state has an ethical duty to provide the reentry or parole population with basic job opportunities. In places where vocational education or “transitional” employment programs are used in lieu of incarceration, perhaps a rehabilitative job could be structured to provide labor protections, union rights, and other protections. But these provisions are (not surprisingly) easier to negotiate when you don’t have to worry about getting fired or put back in prison for talking back to your boss.		
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+In the debate over criminal-justice reform, lawmakers will have to weigh the relative social costs of different punishments. But to suggest parole is inherently more humane—that forced labor euphemized as “community service” is ennobling—is to ignore the psychological and social violence that the prison system imposes, even outside of prison walls. When economic citizenship is conditional, freedom is cheapened for every participant of the labor market, whether they’re trying to work off a punishing debt or just to keep up with the daily grind.		
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+I think the problem with the state or private businesses making money on prisoners is immoral.  If we don&apos;t think that the person is dangerous enough that we are not willing to pay to imprison them, then they don&apos;t belong in prison.
+Incentives to society for locking people up should be illegal...we need to remove any financial motive (and political motive like disenfranchising felons).
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

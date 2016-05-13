@@ -1,0 +1,57 @@
+Advertisement
+
+Advertisement
+
+By DAVID E. SANGERMARCH 24, 2016
+
+
+WASHINGTON — The Justice Department on Thursday unsealed an indictment against seven Iranian computer specialists who regularly worked for the country’s Islamic Revolutionary Guards Corps, charging that they were behind cyberattacks on dozens of American banks and that they attempted to take over the controls of a small dam in Rye, N.Y.
+
+The indictment, while long expected, is the first time that the Obama administration has sought action against Iranians for a wave of computer attacks on the United States that began in 2011.
+
+The indictment does not say that the attacks were directed by the Revolutionary Guards. But it referred to those who were charged as “experienced computer hackers” who “performed work on behalf of the Iranian Government, including the Islamic Revolutionary Guard Corps.”
+
+In 2010, an American-led cyberattack on Iran’s main nuclear enrichment plant, the so-called Stuxnet virus, was revealed for the first time, and intelligence experts have long speculated that the attacks aimed at some of America’s largest banks — including JPMorgan Chase, Bank of America, Capital One and PNC Bank — were retaliation.
+
+The indictment also cited attacks on the New York Stock Exchange and AT&T.;
+
+All of those attacks were “distributed denial of service” attacks, often called DDoS attacks, in which the target’s computers are overwhelmed by coordinated computer requests from thousands of machines around the world. The result is often that the targeted networks crash, putting them out of service for some number of hours.
+
+Attorney General Loretta Lynch announced an indictment against seven Iranians who are believed to have attempted to hack into several American banks and a dam in New York.
+
+But in the case of the Bowman Dam in Rye, a suburb of New York, there was an effort to take over the dam itself. The effort failed, but in some ways worried American investigators more because it was a different kind of attack, aimed at seizing control of a piece of infrastructure.
+
+Advertisement
+
+None of the named Iranians live in the United States and it is doubtful that they will ever make it to an American courtroom. In that respect the indictment is similar to one the Justice Department issued two years ago against members of Unit 61398 of the Chinese People’s Liberation Army, which it accused of stealing data from American corporations. But the administration argues that such indictments send a strong signal, and make it difficult for those who were indicted to travel, for fear they could be extradited.
+
+The indictment comes only eight months after the nuclear deal reached between Iran and six other nations, including the United States, appeared to be putting Tehran and Washington on a track toward a more productive relationship, after 35 years of enmity. But the Iranian missile launches in recent months — also organized by the Guards — have led to calls in Congress for new sanctions. The indictment appeared part of an American effort to keep Iran from taking the energy previously reserved for its nuclear program to bolster its growing corps of cyberwarriors, some of whom work directly for the government while others, like those named in the indictment, appear to be contractors.
+
+As a measure of the importance the administration placed on the indictment, it was announced by Attorney General Loretta Lynch, in a news conference in Washington with the United States attorney for the Southern District of New York, Preet Bharara, where the indictment was handed down. It was unclear how long it had been under seal.
+
+The Iranians named in the indictment were Ahmad Fathi, Hamid Firoozi, Amin Shokohi and Sadegh Ahmadzadegan, who went by the online handle of “Nitr0jen26.”
+
+Also named were Omid Ghaffarinia, known as “PLuS,” Sina Keissar and Nader Saedi, also known as “Turk Server.” Their whereabouts were not described, but some worked for a firm the indictment called ITSec Team, and some for Mersad Company, both described as private security companies based in Iran.
+
+Sign up to receive an email from The New York Times as soon as important news breaks around the world.
+
+At the news conference, James B. Comey, the F.B.I. director, said the key to the case was solving the problem of “attribution” — figuring out exactly who was behind an attack in the world of cyberspace, where it is relatively easy to hide someone’s true identity.
+
+“Cybercriminals often think it is a freebie to reach into the United States,” Mr. Comey said. The message of the indictment was that “no matter how hard they work to hide their identify and their tradecraft, we will pierce that shield and find them.”
+
+He also dismissed the fact that the individual attackers were out of reach of the Justice Department, noting that “the world is small and our memories are long.”
+
+Advertisement
+
+“We want them looking over their shoulder when they travel or sit at a keyboard,” he added.
+
+John P. Carlin, who heads the national security division of the Justice Department, suggested that a crucial step to identifying the hackers came when investigators gained access to the products of intelligence agencies. He gave no specifics.
+
+But Iran’s computer networks have been a primary target of the National Security Agency for years, and it is likely that in penetrating those networks — for both intelligence purposes or potential sabotage — the National Security Agency could have traced the attacks to specific computers, IP addresses, or individuals. That evidence would only come out at a trial, if at all.
+
+But naming individuals, some experts suggested, may also put American cyberoperators at risk. Jason Healey, a cyberconflict expert at Columbia University and the Atlantic Council, asked in a Twitter post on Thursday morning, soon after the indictments were announced, whether naming individuals, rather than governments, “puts TAO & IOC operators at risk for similar indictments?” He was referring to the Tailored Access Operations unit of the National Security Agency, which is responsible for breaking into foreign computer systems, and the Information Operations Center at the C.I.A.
+
+Follow The New York Times’s politics and Washington coverage on Facebook and Twitter, and sign up for the First Draft politics newsletter.
+
+Go to Home Page »
+

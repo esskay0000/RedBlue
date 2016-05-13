@@ -1,0 +1,244 @@
+
+
+A sign announces the acceptance of food stamps at a farmers' market in Roseville, California. (AP Photo / Rich Pedroncelli)
+
+With 2.2 million people locked up in prisons and jails, it’s fair to say America has a culture of incarceration. Our nation’s criminal-justice system is so pervasive that Sesame Street now provides tools to help children cope with having an incarcerated parent.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-207203-0','tn_society_law_ros_halfpage_1','tn_society_law_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+
+This article originally appeared at TalkPoverty.org.
+
+But mass incarceration is not the end of the story. Each year, more than 600,000 individuals are released from lock up and return to their communities. And then America proceeds to punish them for having been punished.		
+The felony drug ban is just one example. Adopted by Congress 20 years ago, the ban imposes a lifetime restriction on the cash assistance program known as Temporary Assistance for Needy Families (TANF) and nutrition assistance (SNAP) for anyone convicted of a state or federal drug felony, unless states opt out. In states where the ban applies, a person released from a long prison sentence could be denied basic assistance at a time of extreme vulnerability and risk.		
+A study by The Sentencing Project found that in the 12 states that impose the lifetime ban, an estimated 180,000 women are impacted. If we include the other 24 states that impose a partial ban, the number of people affected is significantly higher. And because drug law enforcement is conducted with racial biases, people of color are disproportionately denied assistance.		
+The felony drug ban can be traced back to the 1990s, when politicians of both parties sought political gain by getting “tough on crime.” Senator Phil Gramm (R-TX), the sponsor of the ban, argued that “we ought not to give people welfare benefits who are violating the nation’s drug laws.” After just two minutes of floor debate, the measure was adopted by unanimous consent as part of the 1996 welfare “reform” legislation.		
+The felony drug ban was consistent with other efforts in Congress to get tough on formerly incarcerated individuals. In the early 1990s, Congress began to erect barriers and cut services for people struggling to reenter society. First, Pell grants were barred for incarcerated individuals, ensuring that most could not receive a college education prior to release. Then restrictions were enacted to deny people with drug convictions access to welfare benefits, public housing, and financial aid for higher education. Largely missing from the debate was any discussion of whether such post-incarceration punishments are effective or even counterproductive.		
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+This article originally appeared at TalkPoverty.org.
+
+But mass incarceration is not the end of the story. Each year, more than 600,000 individuals are released from lock up and return to their communities. And then America proceeds to punish them for having been punished.		
+The felony drug ban is just one example. Adopted by Congress 20 years ago, the ban imposes a lifetime restriction on the cash assistance program known as Temporary Assistance for Needy Families (TANF) and nutrition assistance (SNAP) for anyone convicted of a state or federal drug felony, unless states opt out. In states where the ban applies, a person released from a long prison sentence could be denied basic assistance at a time of extreme vulnerability and risk.		
+A study by The Sentencing Project found that in the 12 states that impose the lifetime ban, an estimated 180,000 women are impacted. If we include the other 24 states that impose a partial ban, the number of people affected is significantly higher. And because drug law enforcement is conducted with racial biases, people of color are disproportionately denied assistance.		
+The felony drug ban can be traced back to the 1990s, when politicians of both parties sought political gain by getting “tough on crime.” Senator Phil Gramm (R-TX), the sponsor of the ban, argued that “we ought not to give people welfare benefits who are violating the nation’s drug laws.” After just two minutes of floor debate, the measure was adopted by unanimous consent as part of the 1996 welfare “reform” legislation.		
+The felony drug ban was consistent with other efforts in Congress to get tough on formerly incarcerated individuals. In the early 1990s, Congress began to erect barriers and cut services for people struggling to reenter society. First, Pell grants were barred for incarcerated individuals, ensuring that most could not receive a college education prior to release. Then restrictions were enacted to deny people with drug convictions access to welfare benefits, public housing, and financial aid for higher education. Largely missing from the debate was any discussion of whether such post-incarceration punishments are effective or even counterproductive.		
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+The felony drug ban is just one example. Adopted by Congress 20 years ago, the ban imposes a lifetime restriction on the cash assistance program known as Temporary Assistance for Needy Families (TANF) and nutrition assistance (SNAP) for anyone convicted of a state or federal drug felony, unless states opt out. In states where the ban applies, a person released from a long prison sentence could be denied basic assistance at a time of extreme vulnerability and risk.		
+A study by The Sentencing Project found that in the 12 states that impose the lifetime ban, an estimated 180,000 women are impacted. If we include the other 24 states that impose a partial ban, the number of people affected is significantly higher. And because drug law enforcement is conducted with racial biases, people of color are disproportionately denied assistance.		
+The felony drug ban can be traced back to the 1990s, when politicians of both parties sought political gain by getting “tough on crime.” Senator Phil Gramm (R-TX), the sponsor of the ban, argued that “we ought not to give people welfare benefits who are violating the nation’s drug laws.” After just two minutes of floor debate, the measure was adopted by unanimous consent as part of the 1996 welfare “reform” legislation.		
+The felony drug ban was consistent with other efforts in Congress to get tough on formerly incarcerated individuals. In the early 1990s, Congress began to erect barriers and cut services for people struggling to reenter society. First, Pell grants were barred for incarcerated individuals, ensuring that most could not receive a college education prior to release. Then restrictions were enacted to deny people with drug convictions access to welfare benefits, public housing, and financial aid for higher education. Largely missing from the debate was any discussion of whether such post-incarceration punishments are effective or even counterproductive.		
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+A study by The Sentencing Project found that in the 12 states that impose the lifetime ban, an estimated 180,000 women are impacted. If we include the other 24 states that impose a partial ban, the number of people affected is significantly higher. And because drug law enforcement is conducted with racial biases, people of color are disproportionately denied assistance.		
+The felony drug ban can be traced back to the 1990s, when politicians of both parties sought political gain by getting “tough on crime.” Senator Phil Gramm (R-TX), the sponsor of the ban, argued that “we ought not to give people welfare benefits who are violating the nation’s drug laws.” After just two minutes of floor debate, the measure was adopted by unanimous consent as part of the 1996 welfare “reform” legislation.		
+The felony drug ban was consistent with other efforts in Congress to get tough on formerly incarcerated individuals. In the early 1990s, Congress began to erect barriers and cut services for people struggling to reenter society. First, Pell grants were barred for incarcerated individuals, ensuring that most could not receive a college education prior to release. Then restrictions were enacted to deny people with drug convictions access to welfare benefits, public housing, and financial aid for higher education. Largely missing from the debate was any discussion of whether such post-incarceration punishments are effective or even counterproductive.		
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+The felony drug ban can be traced back to the 1990s, when politicians of both parties sought political gain by getting “tough on crime.” Senator Phil Gramm (R-TX), the sponsor of the ban, argued that “we ought not to give people welfare benefits who are violating the nation’s drug laws.” After just two minutes of floor debate, the measure was adopted by unanimous consent as part of the 1996 welfare “reform” legislation.		
+The felony drug ban was consistent with other efforts in Congress to get tough on formerly incarcerated individuals. In the early 1990s, Congress began to erect barriers and cut services for people struggling to reenter society. First, Pell grants were barred for incarcerated individuals, ensuring that most could not receive a college education prior to release. Then restrictions were enacted to deny people with drug convictions access to welfare benefits, public housing, and financial aid for higher education. Largely missing from the debate was any discussion of whether such post-incarceration punishments are effective or even counterproductive.		
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+The felony drug ban was consistent with other efforts in Congress to get tough on formerly incarcerated individuals. In the early 1990s, Congress began to erect barriers and cut services for people struggling to reenter society. First, Pell grants were barred for incarcerated individuals, ensuring that most could not receive a college education prior to release. Then restrictions were enacted to deny people with drug convictions access to welfare benefits, public housing, and financial aid for higher education. Largely missing from the debate was any discussion of whether such post-incarceration punishments are effective or even counterproductive.		
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+Two decades later, there is little evidence that these tough on crime policies have improved public safety. In general, post-incarceration punishment does little to deter crime, as most people are unaware that a conviction could result in the loss of public benefits. For example, one study found that of 26 women facing drug charges, not a single one had been aware that she could lose food stamps or welfare benefits as a result of a conviction.						
+			.article-wrap .article-body aside.left.custom_background_207203			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Meanwhile, the felony drug ban is counterproductive to safe reentry. After an individual leaves prison, food and welfare benefits can help meet basic survival needs as she searches for a job and housing. The denial of such assistance increases the likelihood that formerly incarcerated individuals will return to criminal activity to provide sustenance for their families. And when welfare benefits are not available to offset the cost of drug treatment, it is less likely that former prisoners struggling with addiction will be able to live drug-free and avoid a return to prison. A study by researchers at the Yale School of Medicine even found that denying SNAP to women with felony drug convictions is harmful to public safety.		
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+In recent years, there has been a broad re-thinking of policies that put thousands of people behind bars for long prison terms. States in every region of the country have scaled back harsh penalties that have contributed to mass incarceration.		
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+In Congress, a bipartisan group of Senators has introduced the Sentencing Reform and Corrections Act, which would reduce the impact of harsh mandatory minimum penalties and create rehabilitative programming in federal prisons. The bill would mean fewer people locked up for decades for low-level drug offenses and it would free up funds that could be used for crime prevention and substance abuse treatment.		
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+Federal sentencing reform is indeed necessary to reduce excessive rates of incarceration, which have had diminishing returns for public safety over the years. But along with that should come a reconsideration of post-incarceration punishments that strip former prisoners of the basic assistance they need to get back on their feet. In the past year, Texas and Alabama have taken steps to opt out of the felony drug ban. Until Congress acts to repeal the ban altogether, other states should follow their lead.		
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+It is time to stop punishing people after they have been released from prison—not only to improve the life prospects of people who have served their time, but also as part of a broader effort to strengthen public safety and our communities.		
+		
+
+ Jeremy Haile
+ Jeremy Haile is federal advocacy counsel at The Sentencing Project. He also serves on the board of directors of the National Coalition for the Homeless.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,534 @@
+
+
+ (Shutterstock)
+
+We’re constantly told that our money is better managed by the private sector: Why trust faceless bureaucrats instead of simply contracting out services to fiscally disciplined corporate managers? Political branding reflects the melding of the commercial and the civic. We don’t receive benefits; we instead transact with public service providers. Hardworking taxpayers deserve a “return on investment.”
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211297-0','tn_society_education_ros_halfpage_1','tn_society_education_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+While this approach could work for certain state functions, like constructing public works and collecting tolls, perhaps, some operations may be too sensitive to outsource to the lowest bidder, according to In the Public Interest’s (ITPI) analysis of failed privatization projects across the country.		
+One case study is California controversial “partnership” with the charter network California Virtual Academies (CAVA), where, according to ITPI’s investigation, staffing imbalances necessitated that “one in four teachers spent 80 percent of their time on clerical work, which severely limited the time they spent teaching students.” The charter movement’s goal of “efficiency” evidently means forcing a quarter of teachers to spend more time doing office tasks than interacting with kids.		
+Despite CAVA’s marketing spiel about “virtual” education enabling “individualized” learning, both the pedagogy and student experience felt dehumanizing to many, ITPI reports:		
+Most of the teachers we interviewed reported that the quality of the computers, the education software and other materials used by teachers and parents is poor and that this impedes their ability to teach.		
+Some teachers complained of unmet needs for students with disabilities, ranging from lack of classroom support for basic life skills to excessive caseloads for special education teachers.		
+CAVA schools also reportedly underpaid instructors, compared to standard local district salaries, according to ITPI, contributing to extremely high turnover among teachers and student turnover rates many times higher than the statewide rate.		
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+While this approach could work for certain state functions, like constructing public works and collecting tolls, perhaps, some operations may be too sensitive to outsource to the lowest bidder, according to In the Public Interest’s (ITPI) analysis of failed privatization projects across the country.		
+One case study is California controversial “partnership” with the charter network California Virtual Academies (CAVA), where, according to ITPI’s investigation, staffing imbalances necessitated that “one in four teachers spent 80 percent of their time on clerical work, which severely limited the time they spent teaching students.” The charter movement’s goal of “efficiency” evidently means forcing a quarter of teachers to spend more time doing office tasks than interacting with kids.		
+Despite CAVA’s marketing spiel about “virtual” education enabling “individualized” learning, both the pedagogy and student experience felt dehumanizing to many, ITPI reports:		
+Most of the teachers we interviewed reported that the quality of the computers, the education software and other materials used by teachers and parents is poor and that this impedes their ability to teach.		
+Some teachers complained of unmet needs for students with disabilities, ranging from lack of classroom support for basic life skills to excessive caseloads for special education teachers.		
+CAVA schools also reportedly underpaid instructors, compared to standard local district salaries, according to ITPI, contributing to extremely high turnover among teachers and student turnover rates many times higher than the statewide rate.		
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+One case study is California controversial “partnership” with the charter network California Virtual Academies (CAVA), where, according to ITPI’s investigation, staffing imbalances necessitated that “one in four teachers spent 80 percent of their time on clerical work, which severely limited the time they spent teaching students.” The charter movement’s goal of “efficiency” evidently means forcing a quarter of teachers to spend more time doing office tasks than interacting with kids.		
+Despite CAVA’s marketing spiel about “virtual” education enabling “individualized” learning, both the pedagogy and student experience felt dehumanizing to many, ITPI reports:		
+Most of the teachers we interviewed reported that the quality of the computers, the education software and other materials used by teachers and parents is poor and that this impedes their ability to teach.		
+Some teachers complained of unmet needs for students with disabilities, ranging from lack of classroom support for basic life skills to excessive caseloads for special education teachers.		
+CAVA schools also reportedly underpaid instructors, compared to standard local district salaries, according to ITPI, contributing to extremely high turnover among teachers and student turnover rates many times higher than the statewide rate.		
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Despite CAVA’s marketing spiel about “virtual” education enabling “individualized” learning, both the pedagogy and student experience felt dehumanizing to many, ITPI reports:		
+Most of the teachers we interviewed reported that the quality of the computers, the education software and other materials used by teachers and parents is poor and that this impedes their ability to teach.		
+Some teachers complained of unmet needs for students with disabilities, ranging from lack of classroom support for basic life skills to excessive caseloads for special education teachers.		
+CAVA schools also reportedly underpaid instructors, compared to standard local district salaries, according to ITPI, contributing to extremely high turnover among teachers and student turnover rates many times higher than the statewide rate.		
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Most of the teachers we interviewed reported that the quality of the computers, the education software and other materials used by teachers and parents is poor and that this impedes their ability to teach.		
+
+Some teachers complained of unmet needs for students with disabilities, ranging from lack of classroom support for basic life skills to excessive caseloads for special education teachers.		
+CAVA schools also reportedly underpaid instructors, compared to standard local district salaries, according to ITPI, contributing to extremely high turnover among teachers and student turnover rates many times higher than the statewide rate.		
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+CAVA schools also reportedly underpaid instructors, compared to standard local district salaries, according to ITPI, contributing to extremely high turnover among teachers and student turnover rates many times higher than the statewide rate.		
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Meanwhile, thanks to “aggressive” recruitment campaigns, enrollment boomed from 10,800 in 2009 to 14,500 in 2013 across California.
+Most Popular1Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud2Why Bernie Didn’t Get My Vote3Voter Suppression Is the Only Way Donald Trump Can Win4For-Profit Colleges Have Found a New Way to Hoodwink Their Students5This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud
+
+Why Bernie Didn’t Get My Vote
+
+Voter Suppression Is the Only Way Donald Trump Can Win
+
+For-Profit Colleges Have Found a New Way to Hoodwink Their Students
+
+This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater
+
+Letting state duties (and public oversight) slip into the hands of private companies, in order to bolster a profit-making enterprise, is a continual pattern in the ITPI’s case studies, showing how corrupt bidding processes and various health and safety failures have tried to save money at the expense of public health, safety, and social welfare. In Camden, New Jersey, the contracted water-service vendor left one-fifth of the city’s fire hydrants unfit for service. From 2001 to 2009, Florida’s prison system contracted with a cafeteria vendor that “lowered costs and profited by cutting corners on the quality and healthiness of the food,” forcing incarcerated people to subsist on greasy slop.		
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+But while contractor scandals are common, educational and youth services stand apart as an especially sensitive outsourcing issue. We know schools involve services that inherently require more than cost efficiency, including basic ethical priorities about the public’s obligation toward developing its youth. The research reveals many instances when systematic outsourcing in schools ultimately squandered years of children’s educations, and outsourced foster care services were linked to massive mismanagement, even to abuse cases being overlooked.		
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+The glaringly bad academic performance is exacerbated by opaque budgets. Despite receiving about $50 million annually in 2013–14, CAVA demonstrated virtually no accountability on how public funds were invested for each student. So amid policymakers’ obsession with fiscal prudence in school spending, the subjective value of a student’s experience gets lost.						
+			.article-wrap .article-body aside.left.custom_background_211297			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Separately, a damning report by Stanford University researchers described the “overwhelming negative impact” of online education providers like K12, the company that runs CAVA.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211297-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Bay Area News Group just revealed through its own review of K12’s records that of the thousands of California kids who wended through the online programs, most high schoolers never got diplomas, and “almost none of them are qualified to attend the state’s public universities.” The Mt. Diablo school district’s own auditing found that its CAVA branch “inappropriately gives K12 California control over areas that should be the responsibility of school site staff.”		
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Last year CAVA issued a response to ITPI’s report denying complaints of mismanagement while claiming its schools had been externally audited with “a long record of clean findings,” and suggesting that the state had used inaccurate graduation data. It dismissed ITPI’s research as being biased in favor of the teachers’ union. It has similarly dismissed the Bay Area reports as biased and inaccurate.		
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+But the pattern of opacity persists across the charter movement. ITPI also details the botched attempt to cut costs in Muskegon Heights, Michigan, in 2012, placing schools under the management the charter chain Mosaica, which pursued “savings” by scrapping the entire teaching staff, failing to restaff schools, and essentially defunding special-education services. Even the bathrooms lacked toilet paper and basic supplies were missing.		
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+The charter venture eventually failed in business terms: “Despite the cuts to teacher salaries and special education resources, Mosaica was unable to generate a profit.” In 2014, the school’s contract was canceled under a mutual agreement with the emergency manager and the charter board. Mosaica’s CEO claimed the school was “proud of the academic turnaround” but the authorities conceded the financial failure—painting the collapse more as a business matter than a case of educational corruption.		
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+Unregulated contracting also affects other school operations. A private janitorial-service contract in Chicago public schools led to nearly 300 layoffs and complaints of “filthy classrooms, spilled milk left uncleaned, and overflowing garbage cans.”		
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+ITPI recommends essential principles for monitoring contracts based on upholding labor, environmental, and public-welfare protections. This would entail forcing contractors to monitor at each step of the way that none of those protections would be sacrificed in order to “achieve savings.”		
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+ITPI’s research director Shar Habibi says via e-mail, “At the very least, performing rigorous cost benefits analyses at the front end, ensuring contractors must adhere to high performance standards, ensuring robust government oversight of contractors, and ensuring contractors aren’t [cutting] costs by slashing wages and benefits, are important policies to set the ground level expectations.” Also, Habibi argues, there must be “a comprehensive approach to responsible contracting codified in the law and implemented in a real way to prevent or at least have recourse when contracting go wrong.”		
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+For schools, perhaps expectations should go beyond fiscal input versus academic output and broach children’s development more holistically.		
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+But the basic principle can often get lost here: Why is it taboo to suggest that effective government will cost money? Corporate contractors will always bill themselves as the most efficient way to provide a service on the cheap, but the costs of gambling on children, people with disabilities and mental-health problems, and other vulnerable groups are just too high—costs without refunds.		
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Private contractors can excel at constructing or remodeling school buildings.  As an engineer, I have seen it.  But it is best to have a strong connection between instructional and well supervised public maintenance and operations staff to maintain the best learning environment-- no offsite private bureaucracy delaying or neglecting the things that need to be done.  The cost of rigorous inspection of profit oriented firms can offset savings.  The author is correct, the ROI fails to incentivise providing what is best for the student.  You have to spend more than the cost of well supervised public employees to get the same results.
+
+When people are brainwashed from the day they are born that anything private is inherently superior to anything public, these are the results you will get.  It all goes back to a capitalist economy - the private sector is interested in making money - nothing else.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

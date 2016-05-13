@@ -1,0 +1,46 @@
+London
+
+GETTY
+
+Gundremmingen plant in southern Germany was found to be riddled with computer viruses, including those which would allow attackers remote access to equipment for moving nuclear fuel rods.
+
+Viruses, known as W32.Ramnit and Conficker, were discovered at the plant, which is located 75 miles northwest of Munich.
+
+W32.Ramnit has the potential to give an attacker remote control over a system when it is connected to the internet and is also designed to steal files from infected computers.
+
+The virus could be used by groups such as Islamic State to obtain nuclear secrets, bringing them one step closer to building a radioactive bomb.
+
+However, officials said the plant was isolated from the internet and was therefore not vulnerable to attackers gaining remote access.
+
+Fears of an ISIS-inspired nuclear attack have grown in recent weeks after terrorists involved in the Brussels attack were found to be monitoring an official in charge of a Belgian nuclear plant.
+
+Investigators discovered 10 hours of footage filmed by jihadis of the home of the research and development director of the Belgian Nuclear Programme.
+
+Brussels bombers - brothers Ibrahim and Khalid El Bakraoui - hid their camera in the bushes near his home and police now believe they were planning to kidnap the senior nuclear official in a bid to force him to give the extremists access to the highly sensitive atomic site.
+
+The latest security breach, at Gundremmingen, which included malware found on 18 removable data drives, mainly USB sticks, has prompted German utility company RWE to increase its cyber security measures.
+
+GETTY
+
+GETTY
+
+PH
+
+IT specialists are now looking into the incident at Gundremmingen's B unit, where viruses were found in a computer system retrofitted in 2008 with data visualisation software.
+
+After Japan's Fukushima nuclear disaster five years ago, concern in Germany over the safety of nuclear power triggered a decision by the government to speed up the shutdown of nuclear plants.
+
+The terrifying prospect of an ISIS nuclear attack was confirmed earlier this month when police searching the flat of Paris attacks suspect Salah Abdeslam found documents relating to a German nuclear base.
+
+Investigators discovered the cache of files, which related to the Juelich base, in his Molenbeek flat when it was searched on March 18.
+
+The atomic site, near the Belgian border, is used to store radioactive waste.
+
+Printed news articles from the internet and photos of the chairman of the nuclear site Wolfgang Marquardt were found in the apartment.
+
+
+                    See today's front and back pages, download the newspaper,
+                    order back issues and use the historic Daily Express
+                    newspaper archive.
+                
+

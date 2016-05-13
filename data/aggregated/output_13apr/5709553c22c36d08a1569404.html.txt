@@ -1,0 +1,1612 @@
+
+
+ (AP Photo / Richard Vogel)
+
+Last week, Vox published an article titled âThis simple calculator tells you how each presidential candidateâs tax plan affects you.â It couldnât be more manipulative.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208360-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+
+Developers:Brenda Rossi and Nathaniel deVelder
+
+Voxâs calculator, despite its catchy headline, does not show how your overall economic situation might change under each candidateâs policy agenda. What it presents is a number Vox calls âyour tax liability,â which includes things you would never think of as part of your tax billâlike the payroll taxes your employer pays on your wage or the tax you pay on a bottle of wine. Using Voxâs approach, which draws on a narrow, but largely correct, analysis from the Tax Policy Center (TPC), simply getting a raise from your boss would look like a larger tax billâbad news. As a result, Voxâs calculator overwhelmingly favors Trump and Cruz, while suggesting that Sandersâs plan would have a negative effect on disposable income for the majority of Americans.		
+This is all a bit misleading. Final take-home payâthe amount of money you get to spend after the government takes its share and you have paid the cost of health insuranceâhas an exponentially larger effect on your life than your tax rate. Contrary to what is implied in Voxâs calculator, TPC finds that under the Sanders plan, middle-income the take-home pay of earners with employer-provided healthcare increases.
+Taxes, in other words, donât exist in a vacuumâwhat the government does with those taxes matters quite a bit. 
+A key part of the Sanders plan, for example, is health insurance. In Voxâs calculator, your tax rate increases to fund Sandersâs Medicare-for-All plan. But theyâre not accounting for the fact that your employer will no longer be paying for your health insurance. Will you pay more taxes? Yes. But if your employer currently pays for your insurance, as is the case for about half of Americans, then companiesâ newfound savings under Medicare-for-All will be passed onto you in the form of higher wages.		
+The impact of this healthcare system would be huge. The Kaiser Family Foundation finds that the average employer-sponsored insurance costs $17,545 for a family plan, and $6,251 for single coverage. Under the Sanders plan, employers would pay an additional 6.2 percent in payroll taxes and individuals an additional 2.2 percent tax to finance health insurance. Many Americans come out ahead in the calculation once we include this important detail.		
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+Developers:Brenda Rossi and Nathaniel deVelder
+
+Voxâs calculator, despite its catchy headline, does not show how your overall economic situation might change under each candidateâs policy agenda. What it presents is a number Vox calls âyour tax liability,â which includes things you would never think of as part of your tax billâlike the payroll taxes your employer pays on your wage or the tax you pay on a bottle of wine. Using Voxâs approach, which draws on a narrow, but largely correct, analysis from the Tax Policy Center (TPC), simply getting a raise from your boss would look like a larger tax billâbad news. As a result, Voxâs calculator overwhelmingly favors Trump and Cruz, while suggesting that Sandersâs plan would have a negative effect on disposable income for the majority of Americans.		
+This is all a bit misleading. Final take-home payâthe amount of money you get to spend after the government takes its share and you have paid the cost of health insuranceâhas an exponentially larger effect on your life than your tax rate. Contrary to what is implied in Voxâs calculator, TPC finds that under the Sanders plan, middle-income the take-home pay of earners with employer-provided healthcare increases.
+Taxes, in other words, donât exist in a vacuumâwhat the government does with those taxes matters quite a bit. 
+A key part of the Sanders plan, for example, is health insurance. In Voxâs calculator, your tax rate increases to fund Sandersâs Medicare-for-All plan. But theyâre not accounting for the fact that your employer will no longer be paying for your health insurance. Will you pay more taxes? Yes. But if your employer currently pays for your insurance, as is the case for about half of Americans, then companiesâ newfound savings under Medicare-for-All will be passed onto you in the form of higher wages.		
+The impact of this healthcare system would be huge. The Kaiser Family Foundation finds that the average employer-sponsored insurance costs $17,545 for a family plan, and $6,251 for single coverage. Under the Sanders plan, employers would pay an additional 6.2 percent in payroll taxes and individuals an additional 2.2 percent tax to finance health insurance. Many Americans come out ahead in the calculation once we include this important detail.		
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+This is all a bit misleading. Final take-home payâthe amount of money you get to spend after the government takes its share and you have paid the cost of health insuranceâhas an exponentially larger effect on your life than your tax rate. Contrary to what is implied in Voxâs calculator, TPC finds that under the Sanders plan, middle-income the take-home pay of earners with employer-provided healthcare increases.
+Taxes, in other words, donât exist in a vacuumâwhat the government does with those taxes matters quite a bit. 
+A key part of the Sanders plan, for example, is health insurance. In Voxâs calculator, your tax rate increases to fund Sandersâs Medicare-for-All plan. But theyâre not accounting for the fact that your employer will no longer be paying for your health insurance. Will you pay more taxes? Yes. But if your employer currently pays for your insurance, as is the case for about half of Americans, then companiesâ newfound savings under Medicare-for-All will be passed onto you in the form of higher wages.		
+The impact of this healthcare system would be huge. The Kaiser Family Foundation finds that the average employer-sponsored insurance costs $17,545 for a family plan, and $6,251 for single coverage. Under the Sanders plan, employers would pay an additional 6.2 percent in payroll taxes and individuals an additional 2.2 percent tax to finance health insurance. Many Americans come out ahead in the calculation once we include this important detail.		
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+Taxes, in other words, donât exist in a vacuumâwhat the government does with those taxes matters quite a bit. 
+A key part of the Sanders plan, for example, is health insurance. In Voxâs calculator, your tax rate increases to fund Sandersâs Medicare-for-All plan. But theyâre not accounting for the fact that your employer will no longer be paying for your health insurance. Will you pay more taxes? Yes. But if your employer currently pays for your insurance, as is the case for about half of Americans, then companiesâ newfound savings under Medicare-for-All will be passed onto you in the form of higher wages.		
+The impact of this healthcare system would be huge. The Kaiser Family Foundation finds that the average employer-sponsored insurance costs $17,545 for a family plan, and $6,251 for single coverage. Under the Sanders plan, employers would pay an additional 6.2 percent in payroll taxes and individuals an additional 2.2 percent tax to finance health insurance. Many Americans come out ahead in the calculation once we include this important detail.		
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+A key part of the Sanders plan, for example, is health insurance. In Voxâs calculator, your tax rate increases to fund Sandersâs Medicare-for-All plan. But theyâre not accounting for the fact that your employer will no longer be paying for your health insurance. Will you pay more taxes? Yes. But if your employer currently pays for your insurance, as is the case for about half of Americans, then companiesâ newfound savings under Medicare-for-All will be passed onto you in the form of higher wages.		
+The impact of this healthcare system would be huge. The Kaiser Family Foundation finds that the average employer-sponsored insurance costs $17,545 for a family plan, and $6,251 for single coverage. Under the Sanders plan, employers would pay an additional 6.2 percent in payroll taxes and individuals an additional 2.2 percent tax to finance health insurance. Many Americans come out ahead in the calculation once we include this important detail.		
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+The impact of this healthcare system would be huge. The Kaiser Family Foundation finds that the average employer-sponsored insurance costs $17,545 for a family plan, and $6,251 for single coverage. Under the Sanders plan, employers would pay an additional 6.2 percent in payroll taxes and individuals an additional 2.2 percent tax to finance health insurance. Many Americans come out ahead in the calculation once we include this important detail.		
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+Use this calculator to see what your after-tax take-home pay may look like. These are, however, just estimates. Please see below for full explanation and limitations of this tool.*
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+While Voxâs presentation is misleading, itâs certainly true that Sanders proposes tax increases, Clinton will keep things largely the same, and Trump and Cruz propose major tax cuts. But this doesnât tell us anything useful about how much money we will actually have at the end of the day.						
+			.article-wrap .article-body aside.left.custom_background_208360			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+We caught up with Roberton Williams, the economist at the Tax Policy Center responsible for the data, who explained that âwhat the government does with the money is not part of the model. The government can throw the money away, or spend it on healthcare and educationâ¦. The analysis would be very different if we were the tax and spending center.â Spendingâor in other words tax dollars used to finance shared goods like healthcare, education, roads, Social Security, and so forthâis completely left out.		
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+What happens if you figure them in? According to Citizens for Tax Justice, under Sandersâs proposals, many Americans will not only see their take-home pay increase, theyâll also spend less of it on things like prescriptions and student loans. Under Clinton, things will stay largely the same. And under Trump and Cruz, youâll have more money in your pocket on pay day, but youâll have far more expenses. Cruz wants to gut five crucial government agencies, including the Department of Education. How much will you have to pay to send your kids to school under a Cruz administration? The massive cuts that the two Republican candidates propose ensure that youâll pay a heavy price for lower taxes.				
+ 
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+ 
+
+Using Voxâs calculator, a proposal to completely defund public K-12 schooling and pass those educational expenses on to parents instead would simply show up as a reduction in a householdâs effective tax rate. Letâs just scrap Social Security while weâre at it. Setting the calculation up to include taxing but not spending ensures a misleading picture of benevolent Republicans kicking cash to us all.		
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+We asked Dr. Williams if Voxâs calculator matched its headlining claim. He said, âTo the extent that [the candidatesâ tax plans] affects your overall economic well-being, itâs misleadingâ¦. we do not say how this will affect peopleâs overall financial situation.â If you care about the money in your pocket, then the Vox calculator is of little use. Should Vox wish to uphold its reputation for smart wonkery, they should scrap it entirely.		
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+* * *		
+How We Made the Calculator
+
+What does this calculator tell me?
+
+This calculator is an estimation of your after-tax take-home pay. As you know, taxes are endlessly complex, so many simplifications were made. This calculator does a good job of explaining wage income, but it is not optimized for higher-income individuals with large amounts of unearned income.
+
+
+Can you explain what you did?
+
+Of course! Come into the weeds with us.
+The calculator shows after-tax take-home pay. In order to get this calculation, we took the current tax code and added in proposed tax policies from Clinton, Cruz, Sanders, and Trump.
+The estimations are based on the 1040 tax form, thus they cannot generate accurate estimates for high-income earners with large deductions and itemizations, nor large unearned income (e.g., the Buffet rule). The calculator does handle high wageâearner policy in general, but if you have large itemized deductions or unearned income, please note that the tool is not optimized for your tax situation. We start with current tax policy, and alter it for each candidate.
+For Clinton, we
+
+Add a 4 percent surtax on adjusted gross income (AGI) over $5 million
+
+
+For Cruz, we
+
+Add the Business flat tax
+Repeal the credit for elderly and disabled
+Repeal the credit for child and dependent care expenses
+Repeal the alternative minimum tax (AMT)
+Reduce all regular tax brackets to 10 percent
+Repeal the healthcare deduction
+Repeal the state and local tax deduction
+Repeal the property tax deduction
+Repeal schedule A line 8 deductions
+Repeal investment interest deduction
+Repeal schedule A deductions on lines 20-23
+Repeal schedule A line 28 deductions
+Raise standard deduction
+Repeal above-the-line adjustments (1030 lines 23-35)
+Treat all non-joint filers as single
+
+
+For Sanders, we
+
+Repeal the alternative minimum tax (AMT)
+Reduce top regular tax brackets to 28 percent
+Add a 2.2% taxable income surtax
+Incorporated the graduates AGI surtax
+
+These are 9, 15, 20, and 24 percent, depending on income bracket
+
+
+Repeal the exemption phaseout
+Repeal the healthcare deduction (*)
+Repeal the itemized deduction limit
+Repeal health savings accounts and self-employed health insurance deductions (*)
+
+
+For Trump, we
+
+Replaced the current tax brackets with his proposed 10, 20, and 25 percent brackets.
+Treated married filing separately as single
+Increased standard deductions to $25,000 for single, and $50,000 for joint
+Repeal alternative minimum tax
+Doubled phase-out rate for exemptions
+Doubled phase-out rate for itemized deductions
+
+
+What proposed tax changes are not included? Please note, this tool is looking at a 1040 tax form, thus some proposed tax changes are not included in our calculations.
+
+Buffet rule (Clintonâs policy to impose a 30 percent minimum tax on taxpayers with AGI over $1 million)
+Excise taxes (such as the financial transaction tax or carbon tax proposed by Senator Sanders), additional wealth taxes, estate and gift taxes
+Estate and wealth taxes
+Changes in capital gains taxes
+
+
+We are also not including parentsâ tax credits for children in college or for daycare expenses.
+Please note, our calculator is in 2015 US dollars. The Vox tool is in 2017 dollars.
+The calculator is not optimized for individuals over 65 receiving Medicare.
+
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+3. Why does my take-home pay go up?		
+
+
+In some instances, you may see your take-home pay go up under some candidates. This can be for a number of reasons.
+Under the Republicans, your take-home pay may go up because your tax rate, the amount of money you pay the government, goes down.
+Under Senator Sanders, your take-home pay may go up, even though youâre paying more taxes. This may seem counterintuitive, but let us explain. We will assume, as the Tax Policy Center (TPC) does, that your total compensation, the complete amount you cost your employer, stays the same under the different candidates. Healthcare is a major expense for most employers. On average, if you have a family plan, the total cost is $17,545. Part of this, $12,590, is paid by your employer, while the remaining $4,955 is paid out of your pocket.
+
+Under the Sanders plan, your employer no longer purchases your health insurance, which is paid for through a tax. Thus, we assume (as TPC does) that your employer passes on the money they would have paid for health insurance to you, the worker, in the form of wages (after taxes, of course). Thus your tax rate goes up, but your pay may go up too.
+We do not account for the employee contribution to the health-insurance premium. Currently, the average family contributes $4,955 for a family plan. Under the Sanders plan, that would be money you no longer need to spend. Thatâs more money in your pocket.
+
+
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+*While these are not policy, it is assumed by TPC, and us, that these become unnecessary and are thereby eliminated due to lack of use. This implicitly assumes that Sandersâs Medicare-for-All is passed.
+
+
+ Mark Paul
+Twitter
+ Mark Paul is a Research Affiliate at the Samuel DuBois Cook Center on Social Equity, Duke University. He also teaches economics at the University of Massachusetts Amherst.
+
+ David Rosnick
+Twitter
+ David Rosnick is an Economist at the Center for Economic and Policy Research.
+
+ Emily Stephens
+Twitter
+ Emily Stephens is CEO of Gravity Switch and an independent researcher. She studied economics and international womenâs health at the University of Massachusetts Amherst.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+I am a strong Sanders supporter and support universal healthcare.  However, I do not think employers will pass along all no-longer-paid- healthcare costs to rank and file employees.  In my past job, I worked on designing and implementing executive benefit plans; I would expect a large chunk of any savings from benefits to go to the top 5% of earners at any major company.  Some small amount of money might also go to the lower level employees to offset taxes.  There is no way companies would pass all or most of the savings on to anyone but the executives, in my experience.
+
+I&apos;m retired from Verizon with Medicare by UHC as part of retirement package. Neither pricing formula shows effect on  my monthly subscription and deductible costs. My pharmacy is also corporate Mail order plan via ExpressScripts and costs for minimal RX needs is reasonable. Effect of candidates&apos;  plans unknown.
+
+I support single payer (although I&apos;m not sure the Sanders proposal is optimal), but must ask why should we assume that employers will pass along what they spending on health insurance to employees in the form of increased wages.  Employers do have to compete for workers and I&apos;m sure some, perhaps most of those health insurance dollars would be shifted to increased wages - but how much?  Wages, like employee benefits, are deductible to the employers - but don&apos;t forget that there are others costs that go up for employers when wages go up.  Worker&apos;s Compensation insurance is one example.
+
+My point is that it&apos;s very hard to model projections on how single-payer will impact employers, workers, and taxes.  That doesn&apos;t mean we should pursue single-payer - we just need to be honest that the transition may be bumpy and some financial pain may be felt in ways not anticipated (at first).
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

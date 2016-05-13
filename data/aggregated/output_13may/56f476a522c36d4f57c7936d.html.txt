@@ -1,0 +1,57 @@
+Banks, dam targeted by Iranian hackers, US says; 7 charged
+
+
+
+
+         WASHINGTON        (AP) -- The U.S. charged seven hackers linked to the Iranian government with executing large-scale coordinated cyberattacks on dozens of banks as well as a small dam outside New York City - intrusions that law enforcement officials said reached into America&apos;s infrastructure, disrupted the nation&apos;s financial system and cost tens of millions.
+
+Indictments announced Thursday by the Justice Department show a determination by overseas hackers to cripple vital American interests, officials said, and marked the first time the FBI attributed a breach of a U.S. computer system that controls critical infrastructure to a hacker linked to a foreign government.
+
+The hackers are accused of infecting thousands of people&apos;s computers with malware to create a network of zombie computers they used to overwhelm servers of major institutions to knock them offline. Those included the Bank of America, NASDAQ and the New York Stock Exchange.
+
+"The attacks were relentless, systematic and widespread," said Attorney General Loretta Lynch. "They threatened our economic well-being and our ability to compete fairly in the global marketplace, both of which are directly linked to our national security."
+
+One of the alleged hackers is accused of repeatedly gaining access to the control system of the Bowman Avenue Dam, a small flood-control structure in Rye Brook, about 20 miles north of New York City. Officials termed his access "a frightening frontier on cybercrime," and said the hacker would have been able to operate a digitally controlled sluice gate, flooding portions of the city of Rye, but the gate had been disconnected for maintenance.
+
+The hacker was still able to gain information about the dam&apos;s operations, including its water level, temperature and the sluice gate.
+
+While that attack did no harm, one official said the hacker obtained knowledge about the computer system that could be used on other dams and infrastructure. The official spoke on condition of anonymity because he wasn&apos;t authorized to speak publicly. Computer systems, such as the one controlling the dam, are considered the backbone or core of modern industries including transportation, energy, oil and gas and manufacturing.
+
+The indictments unsealed Thursday stem from intrusions between 2011 and 2013 that officials say targeted 46 victims, disabling bank websites and interfering with customers&apos; ability to do online banking. The attacks, which occurred sporadically over 176 days, cost the institutions tens of millions of dollars in remediation costs, but no customers lost money or had their personal information stolen.
+
+The accused hackers worked for two Iranian computer companies linked to the Iranian government, including the Islamic Revolutionary Guard Corps, the U.S. said. Charges include violating U.S. laws on computer hacking and gaining unauthorized access to a protected computer.
+
+The seven defendants are Ahmad Fathi, 37; Hamid Firoozi, 34; Amin Shokohi, 25; Sadegh Ahmadzadega, 23; Omid Ghaffarinia, 25; Sina Keissar, 25, and Nader Saedi, 26. Faroozi is charged alone for hacking the dam. Shokohi received credit from the Iranian government toward his mandatory military service for his work in the attacks, the U.S. alleges.
+
+None of the individuals is in American custody and it&apos;s unclear whether they will ever be arrested or if criminal indictments in absentia are effective in combatting such crimes.
+
+The Justice Department in May 2014 indicted five Chinese military officials suspected of hacking into several major American companies, including U.S. Steel and Westinghouse, and stealing trade secrets. None has been brought to the U.S. to face charges.
+
+The Justice Department is determined to remove a cloak of "perceived anonymity" long enjoyed by foreign hackers and has focused on doing so since 2012, said John Carlin, the department&apos;s top national security official.
+
+"We want them looking over their shoulder, both when they travel and when they sit at a keyboard," said FBI Director James Comey.
+
+The criminal case comes amid warming relations between the U.S. and Iran following last year&apos;s nuclear agreement.
+
+Since rolling back its nuclear program this year, Iran has regained access to some $100 billion in overseas assets and the two countries&apos; top diplomats have been meeting and discussing global matters at their most intensive level since Iran&apos;s 1979 overthrow of the U.S.-backed shah.
+
+Significant tensions remain, however. Iran has conducted several ballistic missile tests in violation of a U.N. ban, prompting the latest U.S. sanctions against the Islamic Republic on Thursday.
+
+In 2010, the so-called Stuxnet virus disrupted the operation of thousands of centrifuges at a uranium enrichment facility in Iran. Iran says that assault and other computer virus attacks are part of a concerted effort by Israel, the U.S. and their allies to undermine its nuclear program through covert operations.
+
+The latest Iranian attacks were a reminder of U.S. vulnerabilities, said Luke Dembosky, who supervised national security-related cyber cases at the Justice Department until March 1. "We were very fortunate that this access did not lead to something catastrophic, but the next one might."
+
+In December, hackers linked to Russia used a coordinated attack to take down part of Ukraine&apos;s power grid, blacking out more than 225,000 people after hitting regional electric power distribution companies. U.S. officials called that the realization of a nightmare scenario - that hackers can remotely take down a critical system on which a country depends.
+
+---
+
+AP writer Bradley Klapper contributed to this report.
+
+---
+
+Follow Tami Abdollah on Twitter at https://twitter.com/latams and Eric Tucker at https://twitter.com/etuckerAP .
+
+© 2016 The Associated Press.  All rights reserved.  This material may not be published, broadcast, rewritten or redistributed.  Learn more about our Privacy Policy and Terms of Use.
+
+Copyright ©2007 ... 
+

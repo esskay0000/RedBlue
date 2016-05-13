@@ -1,0 +1,131 @@
+
+	164
+      
+
+By
+
+Jane Denton For Thisismoney
+
+
+
+Published:
+  01:42 EST, 10 May 2016
+
+ | 
+Updated:
+  07:56 EST, 10 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'ThisIsMoney';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3581195',
+                    'title': 'How many years will it take me to become a billionaire?\u00A0',
+                    'url': 'http://www.dailymail.co.uk/money/news/article-3581195/How-long-earn-billionaire-s-fortune.html',
+                    'eTwitterStatus': ' http://dailym.ai/24J3V8l via @' + twitterVia,
+                    'articleChannelFollowButton': 'ThisIsMoney',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+164
+shares
+
+ 
+          94
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          94
+
+View  comments
+
+British workers on an average salary would need to toil away for 348,063 years to earn the fortune of their wealthiest compatriot, a new study suggests.
+
+While the gulf between the world's wealthiest 1 per cent and the rest of us is widening, the time it would take for average earners to earn a billionaire's fortune varies significantly depending on the country, business products  and services marketplace Expert Market said.  
+
+
+
+In Brazil, where the average worker's wage is £1.95 an hour, it would take a worker there over five million years to reach the £19billion fortune of Brazilian billionaire Jorge Paulo Lemann. 
+
+Dreaming of wealth: A worker in the UK would have to toil away for over 348,000 years to earn the fortune of the country's richest siblings
+
+Based on a 40-hour week on an average hourly wage of just over £15, the average Briton would need to work for nearly 350,000 years to rake in the wealth of the billionaire Indian-born British siblings  Srichand and Gopichand Hinduja, who are worth around £10billion.
+
+To earn the £51.4billion fortune of Bill Gates, people on average hourly wages in the US would need to work for for one million years. 
+
+In Canada, where the average hourly wage is over £17 an hour, workers would need to toil for over 570,000 years to attain the £16.3billion fortune of media magnate David Thomson.
+
+Meanwhile, in Italy, where the average hourly pay packet is around £11.62 an hour, hard-working people would need to work for nearly 790,000 years to take home the £15.1billion fortune of confectionery businesswoman and widow of Michele Ferrero, Maria Franca Fissolo.
+
+In Mexico, where the average hourly wage is around £4.59 an hour, people in the country would need to work for over 3.8million years to generate the wealth of billionaire Carlos Slim Helu.
+
+As well as revealing that its average hourly wage for workers is lower than in Mexico, in China, people would have to work for over 3million years to rake in the wealth of Chinese businessman Wang Jianlin.
+
+Wealthy: Billionaires Bill Gates of the US and Indian-born British siblings Srichand and Gopichand Hinduja
+
+How long will it take? Average time it will take workers to earn the wealth of global billionaires
+
+Michael Horrocks, of Expert Market, said: 'At a time when CEO salaries are being contested, this research sheds light on the very different prospects of company heads and the employees who power their businesses.'
+
+Last month, WPP boss Sir Martin Sorrell defended his pay package worth up to £70million.
+
+Sir Martin, who has previously faced shareholder revolts over his pay, said he was "not embarrassed' by the success of the company he founded. 
+
+
+
+Gulf: The gulf between the world's wealthiest 1% and the rest of us is widening, Expert market said
+
+
+
+
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+MORE HEADLINES
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

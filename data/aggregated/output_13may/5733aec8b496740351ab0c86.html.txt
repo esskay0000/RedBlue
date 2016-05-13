@@ -1,0 +1,188 @@
+ The inside track on Washington politics. 
+
+*Invalid email address
+
+ The inside track on Washington politics. 
+
+*Invalid email address
+
+Google’s “knowledge panels” materialize at random, as unsourced and absolute as if handed down by God:
+
+Betty White is 94 years old.
+
+The Honda Civic is 2016’s best car.
+
+Taipei is the capital of — ahem — the “small island nation” of Taiwan.
+
+If you’ve ever Googled a person, place or thing — which, survey suggests, you almost definitely have — then you’ve encountered these aggressive, bold-faced modules, one of Google’s many bids for your fleeting attention. Since their quiet, casual introduction in 2012, knowledge panels and other sorts of “rich answers” have mushroomed across Google, appearing atop the results on roughly one-third of its 100 billion monthly searches, not only in response to simple, numerical queries like “Betty White age,” but also to more complex, nuanced questions like “capital of Israel” or “D.C.’s best restaurant.”
+
+  [Always click the first Google result? You might want to stop doing that.]  
+
+To Google, that’s proof of its semantic search technology; to Googlers, it’s a convenience that saves them a few clicks. But to skeptics, of whom there are a growing number, it’s a looming public literacy threat — one that arguably dwarfs the recent revelations that Facebook’s trending topics are curated by humans. 
+
+“It undermines people’s ability to verify information and, ultimately, to develop well-informed opinions,” said Dario Taraborelli, head of research at the Wikimedia Foundation and a social computing researcher who studies knowledge production online. “And that is something I think we really need to study and process as a society.” 
+
+For Taraborelli, the primary issue with Google’s knowledge panels is that they aren’t terribly knowledgeable: They provide information but often leave out any context on where that information came from. That makes it difficult for readers to evaluate the accuracy of the statement or whether it’s the best and most complete of the available options.
+
+They could just scroll down the page and click through some links, of course — but that becomes increasingly difficult as searchers migrate to voice and mobile, and as Google expands its rich-answer offerings without differentiating which programs those results source from. 
+
+  [How to see everything you’ve ever Googled, if you’re so brave]  
+
+There are “snippets,” for instance, which pull a portion of text from a cited webpage in response to a question like “how to lose weight.” There are maps, sourced from Google’s local search program, that will direct you to local businesses if you search something like “best pizza D.C.”
+
+These are all concerning, as they algorithmically confer a lot of unearned authority. (There’s no indication as to what makes a restaurant the “best,” for instance — the locations proffered during a recent Google search wouldn’t make my top 10, let alone my top three.) But most pertinent to our interests are the modules and carousels linked to Google’s Knowledge Graph, an advanced database sourced largely from Wikipedia and constructed in part from user search patterns. According to a October 2015 analysis by the digital marketing firm Stone Temple Consulting, these knowledge panels, which are frequently unattributed, are one of the fastest growing types in Google’s arsenal.
+
+In a 2012 blog post announcing the introduction of these modules, Google’s Amit Singhal rejoiced in the “critical first step” toward the future of search, an engine that “understands the world a bit more like people do.” Which is all well and good, until you get into subjects more complex than the current time in Timbuktu.
+
+Mark Graham, a geographer at the Oxford Internet Institute, recently did just that: He and his colleague Heather Ford analyzed, in a paper published last month in the academic volume Code and the City, how the city of Jerusalem was represented both on Wikipedia and in Google knowledge panels. They found that while Wikipedia may explain the city’s contested geopolitical status in enormous depth — as of this writing, that portion runs to almost 1,500 words — the nuance was jettisoned completely when the article was deboned and ingested by Google.
+
+“Google, through its data and algorithms, now controls how we interact with many facets of the cities we live in,” Graham warned. “So we should be asking whether we are happy ceding decisions about how we live our everyday lives to them.”
+
+In fact, as Graham dug into other contested cities, he discovered that Google’s knowledge panels regularly, if inadvertently, make rather important decisions for us: Taiwan, you’ll remember, is described as if it were an independent nation, when only 22 countries actually recognize it as such. Meanwhile, Google corrects searches for “Londonderry,” Ireland’s fourth-largest city, to “Derry,” the (unofficial) term favored by Irish nationalists.
+
+Since Google frequently does not cite its sources — a ploy, Taraborelli says, to make it seem more authoritative — there’s no way for users to double-check “answers” for bias or error, which doubtlessly exist.
+
+In September, for instance, my colleagues in the Style section published a story on the peculiar fact that no one seems to know Hillary Clinton’s height — not even Google, which until recently listed it as 5-foot-7 in a prominent knowledge panel. That error appears to date back to an unsourced Wikipedia edit from 2007, which has since been debated and deleted by Wikipedians.
+
+Now Googling Clinton’s height produces a mere rich-answer “snippet,” which incorrectly measures Clinton at “5 feet tall, maybe 5′ 2″.” But at least now you can click through to CelebHeights.com and see exactly what you’re dealing with.
+
+In its defense, Google has made some changes to certain types of knowledge panels that suggest it’s aware of the whole sourcing thing. Medical queries now pull up proprietary editorial panels fact-checked by doctors at Google and the Mayo Clinic. And if you search for a food or recipe ingredient, the accompanying knowledge panel will also link you to the Agriculture Department’s database on food nutrition.
+
+“Our goal is to be useful; we realize we’ll never be perfect, just as a person’s or library’s knowledge is never complete,” a Google spokesperson said in a statement. “We’re constantly working to improve search, and to make searching with Google easier and results more accurate for people.”
+
+Unfortunately, as long as Google has a commercial interest in appearing omniscient, it probably won’t work to improve knowledge panel transparency. That burden will fall instead to people like Taraborelli and nonprofits like the Wikimedia Foundation, which is working on an open-license, machine-readable knowledge base that will both source all of its statements and accommodate conflicting sources. The hope is that Google will begin pulling from that database and citing its sources, instead of dumbing down Wikipedia.
+
+Where history was once written by its victors, and later by its nerds, it’s now being shaped by its algorithms.
+
+Liked that? Try these!
+
+lifestyle
+
+
+
+the-intersect
+
+
+
+
+
+
+
+
+
+
+
+Please provide a valid email address. 
+
+SuperFan Badge
+
+SuperFan badge holders consistently post smart, timely comments about Washington area sports and teams.
+
+More about badges | Request a badge
+
+Culture Connoisseur Badge
+
+Culture Connoisseurs consistently offer thought-provoking, timely comments on the arts, lifestyle and entertainment.
+
+More about badges | Request a badge
+
+Fact Checker Badge
+
+Fact Checkers contribute questions, information and facts to The Fact Checker.
+
+More about badges | Request a badge
+
+Washingtologist Badge
+
+Washingtologists consistently post thought-provoking, timely comments on events, communities, and trends in the Washington area.
+
+More about badges | Request a badge
+
+Post Writer Badge
+
+This commenter is a Washington Post editor, reporter or producer.
+
+Post Forum Badge
+
+Post Forum members consistently offer thought-provoking, timely comments on politics, national and international affairs.
+
+More about badges | Request a badge
+
+Weather Watcher Badge
+
+Weather Watchers consistently offer thought-provoking, timely comments on climates and forecasts.
+
+More about badges | Request a badge
+
+World Watcher Badge
+
+World Watchers consistently offer thought-provoking, timely comments on international affairs.
+
+More about badges | Request a badge
+
+Post Contributor Badge
+
+This commenter is a Washington Post contributor. Post contributors aren’t staff, but may write articles or columns. In some cases, contributors are sources or experts quoted in a story.
+
+More about badges | Request a badge
+
+Post Recommended
+
+Washington Post reporters or editors recommend this comment or reader post.
+
+You must be logged in to report a comment.
+
+You must be logged in to recommend a comment.
+
+Comments our editors find particularly useful or relevant are displayed in Top Comments, as are comments by users with these badges: . Replies to those posts appear here, as well as posts by staff writers.
+
+All comments are posted in the All Comments tab.
+
+To pause and restart automatic updates, click "Live" or "Paused". If paused, you'll be notified of the number of additional comments that have come in.
+
+lifestyle
+
+
+
+the-intersect
+
+
+
+
+
+Success! Check your inbox for details.
+
+ Please enter a valid email address 
+
+You might also like: 
+
+
+
+
+
+
+
+See all newsletters
+
+Play right from this page
+
+ It's 3D Mahjongg- you don't even need to wear 3D glasses! 
+
+ Online crossword. 
+
+ Spider Solitaire is known as the king of all solitaire games! 
+
+ Challenge your crossword skills everyday with a huge variety of puzzles waiting for you to solve. 
+
+lifestyle
+
+*Please enter a valid email address
+
+Please indicate agreement.
+
+lifestyle
+
+*Please enter a valid email address
+
+Please indicate agreement.
+

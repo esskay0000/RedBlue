@@ -1,0 +1,140 @@
+
+
+Author Luke Mogelson and his book These Heroic, Happy Dead (L: Photo by Nama Vanier)
+
+In John Williams’s 1965 novel Stoner, a brilliant doctoral student named David Masters, impertinent and too smart for his own good, asks two of his peers, “Have you ever considered the question of the true nature of the University?” After teasing them about their shortcomings, he goes on to theorize, “It’s for us that the University exists, for the dispossessed of the world; not for the students, not for the selfless pursuit of knowledge, not for any of the reasons that you hear.” The academy and the battlefield make for an unlikely comparison, but, in his new story collection, These Heroic, Happy Dead, Luke Mogelson demonstrates a similar point: American soldiers fight for someone, and something, other than the reasons you hear.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210931-0','tn_culture_books_and_ideas_ros_halfpage_1','tn_culture_books_and_ideas_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+“To the Lake,” the first story in the collection, opens with a veteran named McPherson who has punched a window in the house where he and his girlfriend Lilly reside, prompting her to escape to her parents’ lake home in Vermont. After drinking vodka and stuffing his Bushmaster in his car, he starts driving north, toward her. It’s snowing fiercely, and he crashes his car. A police officer finds him, discovers his gun, and takes him to jail, where a guard with a clipboard approaches him and looks back and forth from his clipboard to McPherson, with suspicion. “There seemed to be a discrepancy there he didn’t quite approve of,” McPherson tells the reader. That discrepancy is at the heart of many of Mogelson’s stories—between his characters’ records as soldiers and their new lives as veterans who suffer from the same troubles as the rest of us, and often more intensely.		
+In the story “Kids,” a prequel to “To the Lake,” we meet McPherson as a respected sergeant. At war, he’s a competent, if somewhat cruel, authority. He enjoys a power that he lacks in the first story. War provided the opportunity McPherson needed to exert control, and once he’s returned and lost that ability, he resorts to criminality and irresponsibility. Mogelson illustrates the jarring shift from being a man who can give orders to being a man who must take them.		
+In “Peacetime,” one of the most memorable and darkly funny pieces in the collection, a man named Papadopoulos returns from war and joins the New York National Guard. Between drills, he works as a paramedic for a hospital in Queens with a partner named Karen. He develops a habit of stealing from homes when the pair is out on emergency calls. “Not valuable stuff,” Papadopoulos tells us. “Small stuff. A spoon, say, or a refrigerator magnet.” Later, he confesses, “Every now and then I overreached.” He continues despite the fact that Karen could easily discover his transgressions. Mogelson never pinpoints an impetus for the kleptomania, but there’s an implication that, in peacetime, Papadopoulos is missing the danger and adrenaline of wartime. He’s living in the Armory on Lexington Avenue, sleeping on a cot in the medical-supply closet, and he doesn’t seem to have many possessions to his name. In fact, his own name is undermined. Captain Finkbiner, his new CO, summons him to his office and asks him, “Papadopoulos… What is that?” When Papadopoulos replies, “My name,” Finkbiner says, “Cute… So now I know who the joker is. The jackass. The clown.” Outside of the warzone, where he was guaranteed a roof over his head and a specific allotment of goods, Papadopoulos struggles to reestablish his identity and a life of his own by pilfering objects. The last line of the story, “Somewhere, someone was calling my name,” reveals what, perhaps, he’s wanted along: recognition.						
+			.article-wrap .article-body aside.left.custom_background_210931			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS 
+
+
+
+
+
+
+
+
+None of Mogelson’s characters have a particularly strong sense of self. The men narrate what happens to them without much contemplation. In this way, his writing is reminiscent of Hemingway’s: Both writers make use of omission to tell the story. Mogelson also shares a war journalism background with Hemingway, which may at least partially account for the stylistic kinship. (Mogelson has covered the Iraqi war, the Ebola outbreak, and conflict in Syria.) But if his journalism serves to give readers a clearer picture of what’s going on in Iraq, his stories aim at something different: an exploration of the type of man who chooses to fight for his country and how he copes once he’s returned. Mogelson gives readers a nuanced, empathetic look into lives irrevocably altered by conflict. It doesn’t matter that these aren’t the true, nonfictional characters of journalism. The reader trusts Mogelson’s steady, lucid prose to outline the inner lives of the men he’s known. He gives us enough to fill in the rest.		
+Of course, there’s no way of knowing how Mogelson’s characters would have turned out if they hadn’t gone to war. Is combat entirely responsible for their troubles? Or might they have had issues beforehand, which the war temporarily suppressed? Mogelson wisely avoids making any statements about direct causation. His characters certainly don’t analyze why they act the way they do. It’s difficult to imagine them receiving the help they need, since they don’t even recognize the need. It isn’t hard to see how these issues would arise off the page for real returning soldiers.		
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+“To the Lake,” the first story in the collection, opens with a veteran named McPherson who has punched a window in the house where he and his girlfriend Lilly reside, prompting her to escape to her parents’ lake home in Vermont. After drinking vodka and stuffing his Bushmaster in his car, he starts driving north, toward her. It’s snowing fiercely, and he crashes his car. A police officer finds him, discovers his gun, and takes him to jail, where a guard with a clipboard approaches him and looks back and forth from his clipboard to McPherson, with suspicion. “There seemed to be a discrepancy there he didn’t quite approve of,” McPherson tells the reader. That discrepancy is at the heart of many of Mogelson’s stories—between his characters’ records as soldiers and their new lives as veterans who suffer from the same troubles as the rest of us, and often more intensely.		
+In the story “Kids,” a prequel to “To the Lake,” we meet McPherson as a respected sergeant. At war, he’s a competent, if somewhat cruel, authority. He enjoys a power that he lacks in the first story. War provided the opportunity McPherson needed to exert control, and once he’s returned and lost that ability, he resorts to criminality and irresponsibility. Mogelson illustrates the jarring shift from being a man who can give orders to being a man who must take them.		
+In “Peacetime,” one of the most memorable and darkly funny pieces in the collection, a man named Papadopoulos returns from war and joins the New York National Guard. Between drills, he works as a paramedic for a hospital in Queens with a partner named Karen. He develops a habit of stealing from homes when the pair is out on emergency calls. “Not valuable stuff,” Papadopoulos tells us. “Small stuff. A spoon, say, or a refrigerator magnet.” Later, he confesses, “Every now and then I overreached.” He continues despite the fact that Karen could easily discover his transgressions. Mogelson never pinpoints an impetus for the kleptomania, but there’s an implication that, in peacetime, Papadopoulos is missing the danger and adrenaline of wartime. He’s living in the Armory on Lexington Avenue, sleeping on a cot in the medical-supply closet, and he doesn’t seem to have many possessions to his name. In fact, his own name is undermined. Captain Finkbiner, his new CO, summons him to his office and asks him, “Papadopoulos… What is that?” When Papadopoulos replies, “My name,” Finkbiner says, “Cute… So now I know who the joker is. The jackass. The clown.” Outside of the warzone, where he was guaranteed a roof over his head and a specific allotment of goods, Papadopoulos struggles to reestablish his identity and a life of his own by pilfering objects. The last line of the story, “Somewhere, someone was calling my name,” reveals what, perhaps, he’s wanted along: recognition.						
+			.article-wrap .article-body aside.left.custom_background_210931			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS 
+
+
+
+
+
+
+
+
+None of Mogelson’s characters have a particularly strong sense of self. The men narrate what happens to them without much contemplation. In this way, his writing is reminiscent of Hemingway’s: Both writers make use of omission to tell the story. Mogelson also shares a war journalism background with Hemingway, which may at least partially account for the stylistic kinship. (Mogelson has covered the Iraqi war, the Ebola outbreak, and conflict in Syria.) But if his journalism serves to give readers a clearer picture of what’s going on in Iraq, his stories aim at something different: an exploration of the type of man who chooses to fight for his country and how he copes once he’s returned. Mogelson gives readers a nuanced, empathetic look into lives irrevocably altered by conflict. It doesn’t matter that these aren’t the true, nonfictional characters of journalism. The reader trusts Mogelson’s steady, lucid prose to outline the inner lives of the men he’s known. He gives us enough to fill in the rest.		
+Of course, there’s no way of knowing how Mogelson’s characters would have turned out if they hadn’t gone to war. Is combat entirely responsible for their troubles? Or might they have had issues beforehand, which the war temporarily suppressed? Mogelson wisely avoids making any statements about direct causation. His characters certainly don’t analyze why they act the way they do. It’s difficult to imagine them receiving the help they need, since they don’t even recognize the need. It isn’t hard to see how these issues would arise off the page for real returning soldiers.		
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+In the story “Kids,” a prequel to “To the Lake,” we meet McPherson as a respected sergeant. At war, he’s a competent, if somewhat cruel, authority. He enjoys a power that he lacks in the first story. War provided the opportunity McPherson needed to exert control, and once he’s returned and lost that ability, he resorts to criminality and irresponsibility. Mogelson illustrates the jarring shift from being a man who can give orders to being a man who must take them.		
+In “Peacetime,” one of the most memorable and darkly funny pieces in the collection, a man named Papadopoulos returns from war and joins the New York National Guard. Between drills, he works as a paramedic for a hospital in Queens with a partner named Karen. He develops a habit of stealing from homes when the pair is out on emergency calls. “Not valuable stuff,” Papadopoulos tells us. “Small stuff. A spoon, say, or a refrigerator magnet.” Later, he confesses, “Every now and then I overreached.” He continues despite the fact that Karen could easily discover his transgressions. Mogelson never pinpoints an impetus for the kleptomania, but there’s an implication that, in peacetime, Papadopoulos is missing the danger and adrenaline of wartime. He’s living in the Armory on Lexington Avenue, sleeping on a cot in the medical-supply closet, and he doesn’t seem to have many possessions to his name. In fact, his own name is undermined. Captain Finkbiner, his new CO, summons him to his office and asks him, “Papadopoulos… What is that?” When Papadopoulos replies, “My name,” Finkbiner says, “Cute… So now I know who the joker is. The jackass. The clown.” Outside of the warzone, where he was guaranteed a roof over his head and a specific allotment of goods, Papadopoulos struggles to reestablish his identity and a life of his own by pilfering objects. The last line of the story, “Somewhere, someone was calling my name,” reveals what, perhaps, he’s wanted along: recognition.						
+			.article-wrap .article-body aside.left.custom_background_210931			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS 
+
+
+
+
+
+
+
+
+None of Mogelson’s characters have a particularly strong sense of self. The men narrate what happens to them without much contemplation. In this way, his writing is reminiscent of Hemingway’s: Both writers make use of omission to tell the story. Mogelson also shares a war journalism background with Hemingway, which may at least partially account for the stylistic kinship. (Mogelson has covered the Iraqi war, the Ebola outbreak, and conflict in Syria.) But if his journalism serves to give readers a clearer picture of what’s going on in Iraq, his stories aim at something different: an exploration of the type of man who chooses to fight for his country and how he copes once he’s returned. Mogelson gives readers a nuanced, empathetic look into lives irrevocably altered by conflict. It doesn’t matter that these aren’t the true, nonfictional characters of journalism. The reader trusts Mogelson’s steady, lucid prose to outline the inner lives of the men he’s known. He gives us enough to fill in the rest.		
+Of course, there’s no way of knowing how Mogelson’s characters would have turned out if they hadn’t gone to war. Is combat entirely responsible for their troubles? Or might they have had issues beforehand, which the war temporarily suppressed? Mogelson wisely avoids making any statements about direct causation. His characters certainly don’t analyze why they act the way they do. It’s difficult to imagine them receiving the help they need, since they don’t even recognize the need. It isn’t hard to see how these issues would arise off the page for real returning soldiers.		
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+In “Peacetime,” one of the most memorable and darkly funny pieces in the collection, a man named Papadopoulos returns from war and joins the New York National Guard. Between drills, he works as a paramedic for a hospital in Queens with a partner named Karen. He develops a habit of stealing from homes when the pair is out on emergency calls. “Not valuable stuff,” Papadopoulos tells us. “Small stuff. A spoon, say, or a refrigerator magnet.” Later, he confesses, “Every now and then I overreached.” He continues despite the fact that Karen could easily discover his transgressions. Mogelson never pinpoints an impetus for the kleptomania, but there’s an implication that, in peacetime, Papadopoulos is missing the danger and adrenaline of wartime. He’s living in the Armory on Lexington Avenue, sleeping on a cot in the medical-supply closet, and he doesn’t seem to have many possessions to his name. In fact, his own name is undermined. Captain Finkbiner, his new CO, summons him to his office and asks him, “Papadopoulos… What is that?” When Papadopoulos replies, “My name,” Finkbiner says, “Cute… So now I know who the joker is. The jackass. The clown.” Outside of the warzone, where he was guaranteed a roof over his head and a specific allotment of goods, Papadopoulos struggles to reestablish his identity and a life of his own by pilfering objects. The last line of the story, “Somewhere, someone was calling my name,” reveals what, perhaps, he’s wanted along: recognition.						
+			.article-wrap .article-body aside.left.custom_background_210931			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS 
+
+
+
+
+
+
+
+
+None of Mogelson’s characters have a particularly strong sense of self. The men narrate what happens to them without much contemplation. In this way, his writing is reminiscent of Hemingway’s: Both writers make use of omission to tell the story. Mogelson also shares a war journalism background with Hemingway, which may at least partially account for the stylistic kinship. (Mogelson has covered the Iraqi war, the Ebola outbreak, and conflict in Syria.) But if his journalism serves to give readers a clearer picture of what’s going on in Iraq, his stories aim at something different: an exploration of the type of man who chooses to fight for his country and how he copes once he’s returned. Mogelson gives readers a nuanced, empathetic look into lives irrevocably altered by conflict. It doesn’t matter that these aren’t the true, nonfictional characters of journalism. The reader trusts Mogelson’s steady, lucid prose to outline the inner lives of the men he’s known. He gives us enough to fill in the rest.		
+Of course, there’s no way of knowing how Mogelson’s characters would have turned out if they hadn’t gone to war. Is combat entirely responsible for their troubles? Or might they have had issues beforehand, which the war temporarily suppressed? Mogelson wisely avoids making any statements about direct causation. His characters certainly don’t analyze why they act the way they do. It’s difficult to imagine them receiving the help they need, since they don’t even recognize the need. It isn’t hard to see how these issues would arise off the page for real returning soldiers.		
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS 
+
+
+
+
+
+
+None of Mogelson’s characters have a particularly strong sense of self. The men narrate what happens to them without much contemplation. In this way, his writing is reminiscent of Hemingway’s: Both writers make use of omission to tell the story. Mogelson also shares a war journalism background with Hemingway, which may at least partially account for the stylistic kinship. (Mogelson has covered the Iraqi war, the Ebola outbreak, and conflict in Syria.) But if his journalism serves to give readers a clearer picture of what’s going on in Iraq, his stories aim at something different: an exploration of the type of man who chooses to fight for his country and how he copes once he’s returned. Mogelson gives readers a nuanced, empathetic look into lives irrevocably altered by conflict. It doesn’t matter that these aren’t the true, nonfictional characters of journalism. The reader trusts Mogelson’s steady, lucid prose to outline the inner lives of the men he’s known. He gives us enough to fill in the rest.		
+Of course, there’s no way of knowing how Mogelson’s characters would have turned out if they hadn’t gone to war. Is combat entirely responsible for their troubles? Or might they have had issues beforehand, which the war temporarily suppressed? Mogelson wisely avoids making any statements about direct causation. His characters certainly don’t analyze why they act the way they do. It’s difficult to imagine them receiving the help they need, since they don’t even recognize the need. It isn’t hard to see how these issues would arise off the page for real returning soldiers.		
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+Of course, there’s no way of knowing how Mogelson’s characters would have turned out if they hadn’t gone to war. Is combat entirely responsible for their troubles? Or might they have had issues beforehand, which the war temporarily suppressed? Mogelson wisely avoids making any statements about direct causation. His characters certainly don’t analyze why they act the way they do. It’s difficult to imagine them receiving the help they need, since they don’t even recognize the need. It isn’t hard to see how these issues would arise off the page for real returning soldiers.		
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+A campus provides nourishment for an academic the way a battlefield sustains a soldier. Outside the university, Stoner’s David Masters dies (at war). Mogelson’s characters don’t fare much better outside of their realm—they end up in jail, sinking their own boats, or causing traumatic accidents. Both Stoner and These Heroic, Happy Dead suggest that the occupations we choose become our havens and determine our identities. As long as some men need war to survive, can a truly peaceful society be possible?		
+		
+
+ Alina Cohen
+Twitter
+ Alina Cohen is a Brooklyn-based arts and culture writer.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Buffy St. Marie sang: "He&apos;s the universal soldier, and he really is to blame."   But there is plenty of blame to go around.  Most of those older politicians  who send people to war never have come close to signing up for war themselves? I seldom hear about women who have gone to war and how it affects them.  Are they more resilient, or do they tend to suffer in silence?  Or is there less interest in them?  What is it?
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

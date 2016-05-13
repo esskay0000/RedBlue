@@ -1,5 +1,8 @@
 # RedBlue
 
-This repository exists to classify text as "red" or "blue" depending
-on whether it uses language consistent with the language in
-Democratic or Republican primary presidential debate transcripts.
+RedBlue is a political language classifier for news articles. It uses Baleen
+(https://github.com/bbengfort/baleen) to ingest RSS feeds into MongoDB. We
+then parse the data, remove stop words, and vectorize the data. Once
+it's in the proper format, we pass it to a scikit-learn logistic regression
+algorithm that we trained using transcripts from the 2016 presidential
+primary debates.

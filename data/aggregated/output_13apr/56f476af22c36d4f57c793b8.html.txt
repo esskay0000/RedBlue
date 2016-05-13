@@ -1,0 +1,524 @@
+
+
+The offices of The Guardian and its sister paper, The Observer, on August 19, 2013.  (AP Photo / Raphael Satter)
+
+Last week brought the distressing news of massive lay-offs at The Guardian, which is possibly the best news organization in the world right now. Management announced with apparently sincere regret that The Guardian and its sister paper, The Observer, will cut 100 editorial jobs, plus another 150 support jobsâmainly, itâs hoped, through retirement and other semi-voluntary measures. Considering that the total editorial staff at the two papers numbers 750, this means that roughly one out of every seven editorial employees will go, mostly from the London office. These and other cost-cutting moves are compelled by âthe volatile media environmentâ facing news organizations today, announced Katharine Viner, The Guardianâs editor-in-chief.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-207040-0','tn_society_media_ros_halfpage_1','tn_society_media_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Disclosure: I consider the people in danger of losing their jobs at The Guardian my colleagues, and this financial belt-tightening will also affect what I and other freelance contributors get paid. But these facts should not disqualify me from issuing a âtough loveâ plea to everyone reading this and all the organizations, communities, and networks you are part of: Please donât be a free riderâhelp pay for the journalism you read, watch, or otherwise consume.				
+					
+						 
+			 .article-wrap .article-body aside.left.custom_background_207040			 {
+			 background:#f17700 !important;
+			 }
+			 
+
+Support our journalism
+
+Donate Now!
+
+I say that The Guardian is the best news organization in the world at the moment not just because of its exemplary environmental news coverage, or its smart combination of deep reporting and spot news coverage, or its recently expanded focus on US news. Whatâs especially valuable is The Guardianâs long history of standing up to power and privilege in a way that most US news organizations no longer do.				
+					
+					
+Itâs no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian, rather than, say, The New York Times. Snowden explained that he didnât trust the Times after the paperâs editors acceded to the George W. Bush administrationâs demand in 2004 not to publish an article by James Risen and Eric Lichtblau that began to reveal the administrationâs surveillance activities. Only a year laterâafter Bush was re-electedâdid the Times publish their reportersâ story. âHiding that story changed history,â Snowden exclaimed.				
+					
+					
+The Guardianâs financial troubles are emblematic of a broader trend that demands attention. Everyone who believes that an informed public is essential to democratic governance should be concerned about the fate of not only The Guardian but serious news outlets in general. If these outlets canât stay in business, where will people turn to get the information, analysis, and debate needed to form oneâs opinion, cast oneâs vote, and otherwise perform oneâs duty as a citizen?				
+			
+
+							It’s no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian.
+						
+ 
+There is no single reason for the economic troubles challenging serious news operations these days, but surely a major factor is that most peopleâeven people who should know betterâassume that they no longer have to pay for journalism. Journalism is now considered to be a free good, especially when it appears online.				
+					
+					
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Disclosure: I consider the people in danger of losing their jobs at The Guardian my colleagues, and this financial belt-tightening will also affect what I and other freelance contributors get paid. But these facts should not disqualify me from issuing a âtough loveâ plea to everyone reading this and all the organizations, communities, and networks you are part of: Please donât be a free riderâhelp pay for the journalism you read, watch, or otherwise consume.				
+					
+						 
+			 .article-wrap .article-body aside.left.custom_background_207040			 {
+			 background:#f17700 !important;
+			 }
+			 
+
+Support our journalism
+
+Donate Now!
+
+I say that The Guardian is the best news organization in the world at the moment not just because of its exemplary environmental news coverage, or its smart combination of deep reporting and spot news coverage, or its recently expanded focus on US news. Whatâs especially valuable is The Guardianâs long history of standing up to power and privilege in a way that most US news organizations no longer do.				
+					
+					
+Itâs no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian, rather than, say, The New York Times. Snowden explained that he didnât trust the Times after the paperâs editors acceded to the George W. Bush administrationâs demand in 2004 not to publish an article by James Risen and Eric Lichtblau that began to reveal the administrationâs surveillance activities. Only a year laterâafter Bush was re-electedâdid the Times publish their reportersâ story. âHiding that story changed history,â Snowden exclaimed.				
+					
+					
+The Guardianâs financial troubles are emblematic of a broader trend that demands attention. Everyone who believes that an informed public is essential to democratic governance should be concerned about the fate of not only The Guardian but serious news outlets in general. If these outlets canât stay in business, where will people turn to get the information, analysis, and debate needed to form oneâs opinion, cast oneâs vote, and otherwise perform oneâs duty as a citizen?				
+			
+
+							It’s no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian.
+						
+ 
+There is no single reason for the economic troubles challenging serious news operations these days, but surely a major factor is that most peopleâeven people who should know betterâassume that they no longer have to pay for journalism. Journalism is now considered to be a free good, especially when it appears online.				
+					
+					
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Support our journalism
+
+
+Donate Now!
+
+I say that The Guardian is the best news organization in the world at the moment not just because of its exemplary environmental news coverage, or its smart combination of deep reporting and spot news coverage, or its recently expanded focus on US news. Whatâs especially valuable is The Guardianâs long history of standing up to power and privilege in a way that most US news organizations no longer do.				
+					
+					
+Itâs no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian, rather than, say, The New York Times. Snowden explained that he didnât trust the Times after the paperâs editors acceded to the George W. Bush administrationâs demand in 2004 not to publish an article by James Risen and Eric Lichtblau that began to reveal the administrationâs surveillance activities. Only a year laterâafter Bush was re-electedâdid the Times publish their reportersâ story. âHiding that story changed history,â Snowden exclaimed.				
+					
+					
+The Guardianâs financial troubles are emblematic of a broader trend that demands attention. Everyone who believes that an informed public is essential to democratic governance should be concerned about the fate of not only The Guardian but serious news outlets in general. If these outlets canât stay in business, where will people turn to get the information, analysis, and debate needed to form oneâs opinion, cast oneâs vote, and otherwise perform oneâs duty as a citizen?				
+			
+
+							It’s no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian.
+						
+ 
+There is no single reason for the economic troubles challenging serious news operations these days, but surely a major factor is that most peopleâeven people who should know betterâassume that they no longer have to pay for journalism. Journalism is now considered to be a free good, especially when it appears online.				
+					
+					
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Itâs no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian, rather than, say, The New York Times. Snowden explained that he didnât trust the Times after the paperâs editors acceded to the George W. Bush administrationâs demand in 2004 not to publish an article by James Risen and Eric Lichtblau that began to reveal the administrationâs surveillance activities. Only a year laterâafter Bush was re-electedâdid the Times publish their reportersâ story. âHiding that story changed history,â Snowden exclaimed.				
+					
+					
+The Guardianâs financial troubles are emblematic of a broader trend that demands attention. Everyone who believes that an informed public is essential to democratic governance should be concerned about the fate of not only The Guardian but serious news outlets in general. If these outlets canât stay in business, where will people turn to get the information, analysis, and debate needed to form oneâs opinion, cast oneâs vote, and otherwise perform oneâs duty as a citizen?				
+			
+
+							It’s no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian.
+						
+ 
+There is no single reason for the economic troubles challenging serious news operations these days, but surely a major factor is that most peopleâeven people who should know betterâassume that they no longer have to pay for journalism. Journalism is now considered to be a free good, especially when it appears online.				
+					
+					
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+The Guardianâs financial troubles are emblematic of a broader trend that demands attention. Everyone who believes that an informed public is essential to democratic governance should be concerned about the fate of not only The Guardian but serious news outlets in general. If these outlets canât stay in business, where will people turn to get the information, analysis, and debate needed to form oneâs opinion, cast oneâs vote, and otherwise perform oneâs duty as a citizen?				
+			
+
+							It’s no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian.
+						
+ 
+There is no single reason for the economic troubles challenging serious news operations these days, but surely a major factor is that most peopleâeven people who should know betterâassume that they no longer have to pay for journalism. Journalism is now considered to be a free good, especially when it appears online.				
+					
+					
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+
+							It’s no accident that Edward Snowden went public with his expose of warrantless surveillance in The Guardian.
+						
+
+
+There is no single reason for the economic troubles challenging serious news operations these days, but surely a major factor is that most peopleâeven people who should know betterâassume that they no longer have to pay for journalism. Journalism is now considered to be a free good, especially when it appears online.				
+					
+					
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Well, guess what? Real journalismâthe kind that does original, even investigative, reporting of actual events out in the world and that seeks to hold politicians, corporations, and other powerful interests accountableâcosts real money, even when itâs published online.				
+					
+					
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Stephen Glover alludes to this conundrum in a stern critique of The Guardianâs dilemma published by the British website The Prospect (not to be confused with The American Prospect in the US). Gloverâs piece is worth reading, both because he obviously did a good deal of reporting for it and his years as a media columnist and a founder of The Independent in 1986 arm him with insider knowledge of the financial requirements of a modern newspaper.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5Whatâs Wrong With Bernie Sandersâs Strategy
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act
+
+Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives
+
+Global Warmingâs Terrifying New Chemistry
+
+Fear and Hate Drove Arizonaâs Republican Primary
+
+Whatâs Wrong With Bernie Sandersâs Strategy
+
+Glover blames The Guardianâs problems on its own business decisionsâor, more precisely, the decisions of Alan Rusbridger, the paperâs editor-in-chief for 20 years before retiring in May 2015. Rusbridger was a spendthrift, Glover chargesâtoo eager to staff new bureaus in the United States and occupy fancy offices in London. Rusbridgerâs greatest error, however, according to Glover, was to bet the paperâs future on digital rather than print but then decide not to charge readers for online content.				
+					
+					
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Is The Guardianâs âpolicy of putting all its journalistic material online without charging readersâ¦commercially unviable?â Glover asks. âCould the free model be fatally flawed? There are good reasons for thinking so.â Not least among those reasons: Rusbridger left his successor an operation that was losing Â£58.6 million ($84.7 million) a year by 2015.				
+			
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+ 
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+
+							Rusbridger left his successor an operation that was losing 58.6 million pounds.
+						
+
+
+The Guardian is in the enviable position of being supported by the Scott Trust Limited, a foundation established by the newspaperâs family owners in 1936 to assure The Guardianâs long-term financial health and journalistic independence. The Trustâs assets available to the Guardian Media Group were worth Â£740 million ($1.1 billion) as of January 2016, calculates Glover. Which sounds like a sizable âfighting fund,â he observes with a trace of schadenfreude, until one considers that the operation âburned throughâ almost half that amount over the past 10 years.				
+					
+					
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+I donât pretend to know the ins and outs of The Guardianâs recent financial decisions, and every management team makes its share of mistakes. But the overriding issue, it seems to me, is getting people to pay for the journalism they consume. How is any company supposed to pay its employees, keep the lights on, and do everything else needed to stay in business if its customers stop paying for its products? In theory, advertising could help make up the difference. But readersâ failure to pay for the product in turn increases advertisersâ bargaining leverage and diminishes that revenue stream as well.				
+					
+					
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+So, please: If you care about democracy and the real journalism it requires, help pay for it. You know the old saying: âYou get what you pay for.â Pay nothing for your journalism, and thatâs what youâll get: supposed ânewsâ stories that usually are little more than tarted up opinion pieces. (Andârant alertâthe most infuriating thing? The opinion mongers tend to poach their story ideas and background information from the few news outlets that still do real reportingâbut of course donât pay them for it.)				
+					
+					
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+Me, I pay $50 a year to be a Guardian Member. A subscription to The Nation costs even less (or if you already subscribe, you can donate). I even pay for an online subscription to the Times, despite my frequent frustrations with this countryâs paper of record. But these are just optionsâpick the outlets you prefer. The point is, please chip in somewhere, and talk to friends, family, and co-workers about doing the same. Or pretty soon there wonât be any newspapers or journalists left.				
+					
+					
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+I donât want to leave the impression that free riders are the only problem here: We journalists also bear some responsibility. We have not done a good enough job of making the case to the public about why they should pay for our work. At least not yet we havenât, despite good intentions and some concrete attempts. But we had better figure it out, and fast, or serious journalism is going to go the way of chamber music: It may still exist in the culture, but only in rarefied circles underwritten by aging elites. Which is no recipe for journalismâs survival, much less for journalism regaining the social and political relevancy democracy requires.				
+					
+					
+		
+
+ Mark Hertsgaard
+Twitter
+ Mark Hertsgaard is the the environment correspondent for The Nation and the author, most recently, of HOT: Living Through the Next Fifty Years on Earth.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Mark Hertsgaard makes an excellent argument, one which I embraced some time ago when becoming a "Guardian Member" myself.  But their coverage of the Democratic primary race has been so wretchedly pro-Clinton, so utterly dismissive of Sanders, that it has soured my impression of their journalistic integrity.  I explained this clearly when I canceled my membership last month.  Reader comments following flawed Guardian journalism have become more useful and informative than the hack campaign coverage itself.
+
+My cancelation was more "kick in the shin" than refusal to pay for on-line journalism, and I hope to reverse it soon.  In the meantime, if the Guardian needs to shed staff, they can start with just about the whole pack of biased horse-race stenographers reporting on the US elections.  I&apos;ll chip in for their replacements.
+
+As a long-time Nation subscriber, I can say that the Nation has its own "in the tank for Hillary" problem.  Were it not for the Editors&apos; courageous and clarifying endorsement of the Sanders campaign, there would be a bright spotlight on the stream of self-serving pro-
+Clinton jabber from the likes of Pollitt, Alterman, Walsh, et.al.  Fortunately, the work of Nichols, Guttenplan, Hertsgaard, Vandenhoevel, Cohen and many others are well worth supporting, and we should.
+
+Y&apos;all must be reading a different Guardian than I am, if you think that the paper has ignored Sanders in favor of crowning Clinton the nominee....
+
+You clearly haven&apos;t been reading Guardian US, which I had been, everyday, until I got tired of all of the fawning Hillary praises & Bernie bashing & deleted it from my news list & unliked it on Facebook.
+
+I agree with the comments here. I stopped reading the Guardian after it essentially turned itself into the propaganda piece for the Blairites inside the UK Labour Party. It&apos;s &apos;reporting&apos; on left-wing Labour leader Jeremy Corbyn has been appealing and worse on many occasions than the right-wing media. And it may have a stronger focus on the US, but you won&apos;t read much (that isn&apos;t critical) on Sanders as it is very much a cheerleader for Hilary Clinton (and pretty much crowns her the Democratic Presidential candidate in waiting on a weekly basis). For thirty years it was my daily paper, I refuse to read it now.
+
+If The Guardian is "the best news organization in the world" than things have hit rock bottom in the world of print journalism. While The Guardian has reported important stories (Snowden, The Chicago Police department, Rebecca Brooks/Rupert Murdoch), it has also printed much more garbage. Over a decade ago it still had some ok cultural reporting/analysis, but in the past 5 years it has really gone down the tubes....I would not consider paying for it, as I could care less about the latest pop star who can&apos;t sing. I can see why Glenn Greenwald left, he clearly saw the writing on the wall. The Guardian has been even worse than The New Yorker, NYT or New Yorker magazine for sounding more like Hillary&apos;s PR team than a newspaper intent on presenting real journalistic stories on the US election. Once the Snowden story hit, it seems like every Washington DC insider decided to fill its pages (both articles & in the comment section) with excuses for US imperialism & federal overreach into surveilling every bit of everyone&apos;s daily life.  I will definitely not shed a tear if it disappears given its current state, whereas ten years ago it would have given me cause for concern.
+
+Couldn&apos;t agree more, stopped reading it because it&apos;s covering of Latin America&apos;s news is so biased and wrong, that it made me question everything else in their pages.
+
+The subhead has the word "back" instead of "backed." Loss of a participles -ed ending is a common thing these days, but I hope it won&apos;t catch on at THE NATION.
+
+Thanks, Mr. Rawley--I&apos;m pretty sure that was a typo production error.  We&apos;ll fix it pronto.
+
+Mark Hertsgaard
+
+Thanks. I sympathize with typos more since I left the apostrophe out of "participle&apos;s" in my own message.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

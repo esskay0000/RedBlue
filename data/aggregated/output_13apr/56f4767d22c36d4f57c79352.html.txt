@@ -1,0 +1,28 @@
+ Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+
+Americas
+
++1 212 318 2000
+
+Europe, Middle East, & Africa
+
++44 20 7330 7500
+
+Asia Pacific
+
++65 6212 1000
+
+Google was fined 100,000 euros ($112,000) by Franceâs data-protection authority for failing to remove âright-to-be-forgottenâ requests from global search results.
+
+The agency, CNIL, ordered Google to remove links after it got several complaints from people who wanted the search engine to delete search results that pointed to personal information about them. While Google removed links from its French ".fr" domain, it didnât take them off the ".com" domain visible to European web users.
+
+The right for people to have these links removed "must be carried out on all of the data processing and thus on all search engineâs domains," CNIL said in a statement on its website Thursday. "Contrary to what Google asserts, delisting on all domains doesnât limit the freedom of expression in that it doesnât involve any removal of Internet content."
+
+The fine follows a judgment by the EUâs highest court in May 2014 which created a right to be forgotten -- allowing people to seek the deletion of links on search engines if the information was outdated or irrelevant. The ruling provoked a furor, with Alphabet Inc.âs Google creating a special panel to advise it on implementing the law. The panel opposed applying the ruling beyond EU domains.
+
+Google disagrees "with the CNILâs assertion that it has the authority to control the content that people can access outside France," said Al Verney, a spokesman for the company in Brussels. "We plan to appeal their ruling."
+
+The company said earlier this month it would add geo-blocking technology to make it harder for users to find information, moving away from its practice of delisting links only on European domain names.
+
+Your browser is out-of-date. Please download one of these excellent browsers:Chrome, Firefox, Safari, Opera or Internet Explorer. 
+

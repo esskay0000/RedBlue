@@ -1,0 +1,187 @@
+
+
+A demonstrator carries a mock coffin, representing migrants who have died, outside of the Immigration and Customs Enforcement detention center in Eloy, Arizona on January 20, 2016. (AP Photo / Ricardo Arduengo, File)
+
+Last June, I wrote a letter to Attorney General Loretta Lynch calling for a Department of Justice investigation into the death of a man named José de Jesús Deniz-Sahagún. A Mexican national being held at Eloy Detention Center outside Phoenix, Deniz-Sahagún’s life came to an end under circumstances every bit as desolate and isolated as his imprisonment in the Arizona desert. The 31-year-old detainee took his own life the day after a mental-health worker placed him on constant watch for delusional thoughts and behavior. Less than 24 hours later, that evaluation was disregarded. Deniz-Sahagún was left unattended, and soon after, found dead.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210405-0','tn_politics_government_ros_halfpage_1','tn_politics_government_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+The sad reality is José de Jesús Deniz-Sahagún’s death is far from an isolated incident of medical neglect in an immigrant detention facility, as a recent report by the ACLU, Detention Watch Network, and National Immigrant Justice Center shows. “Fatal Neglect: How ICE Ignores Deaths in Detention” analyzes previously unpublished death reviews and demonstrates how egregious violations of medical standards by Immigration and Customs Enforcement (ICE) played a significant role in nearly half of the deaths for which the organizations were able to review documents. More alarmingly, ICE detention facility inspections before and after the deaths did not acknowledge, and sometimes even dismissed, the substandard medical care detainees were receiving.		
+In three-quarters of deaths attributed to substandard medical care, the victims were held in for-profit prisons. Their deaths are tragic proof that profit motives have perverse and harmful effects on our judicial system. Corporations have built a business model out of detaining as many people as they can for as long as possible. Desperate men, women and children fleeing poverty and violence in places like Honduras, Guatemala, and El Salvador are their unsuspecting prey. As Seth Freed Wessler documented in The Nation earlier this year, medical neglect was also likely a factor in many deaths at the privately run facilities the Bureau of Prisons uses to house immigrants caught crossing the border after deportation. In the saddest of ironies, these impoverished and meager asylum seekers form the basis for lavish and lucrative contracts.		
+Corrections Corporation of America (CCA)—the company that runs the Eloy facility where José de Jesús Deniz-Sahagún perished last year—saw a $49 million increase in their second-quarter earnings in 2015 as compared to the same time period in 2014. Just one of their facilities, in Dilley, Texas, generated $100 million in the first half of 2015 alone.		
+CCA and others like it maximize profits by minimizing concern for the people they ensnare. For considerations of food, clothing, medical and dental needs, education, and amenities, every dollar they spend is a dollar off their bottom line. Is it any wonder, then, that so many fatalities from medical neglect are taking place in for-profit facilities?		
+For its part, ICE has implemented reforms to reduce the number in-custody deaths, but those efforts have fallen far short. Despite detention facility inspections under the Office of Detention Oversight, occasional Enforcement and Removal Operations (ERO) inspections, the centralization of healthcare under the ICE Health Service Corps, and the introduction of the 2011 Performance-Based National Detention Standards, lives continue to be lost. The failures here are systemic, and exemplified by a 2009 Department of Homeland Security appropriations bill that explicitly states any facility that fails two ERO inspections will lose its funding. Many of these facilities have numerous violations on their track records, and yet they continue to be funded.						
+			.article-wrap .article-body aside.left.custom_background_210405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+The sad reality is José de Jesús Deniz-Sahagún’s death is far from an isolated incident of medical neglect in an immigrant detention facility, as a recent report by the ACLU, Detention Watch Network, and National Immigrant Justice Center shows. “Fatal Neglect: How ICE Ignores Deaths in Detention” analyzes previously unpublished death reviews and demonstrates how egregious violations of medical standards by Immigration and Customs Enforcement (ICE) played a significant role in nearly half of the deaths for which the organizations were able to review documents. More alarmingly, ICE detention facility inspections before and after the deaths did not acknowledge, and sometimes even dismissed, the substandard medical care detainees were receiving.		
+In three-quarters of deaths attributed to substandard medical care, the victims were held in for-profit prisons. Their deaths are tragic proof that profit motives have perverse and harmful effects on our judicial system. Corporations have built a business model out of detaining as many people as they can for as long as possible. Desperate men, women and children fleeing poverty and violence in places like Honduras, Guatemala, and El Salvador are their unsuspecting prey. As Seth Freed Wessler documented in The Nation earlier this year, medical neglect was also likely a factor in many deaths at the privately run facilities the Bureau of Prisons uses to house immigrants caught crossing the border after deportation. In the saddest of ironies, these impoverished and meager asylum seekers form the basis for lavish and lucrative contracts.		
+Corrections Corporation of America (CCA)—the company that runs the Eloy facility where José de Jesús Deniz-Sahagún perished last year—saw a $49 million increase in their second-quarter earnings in 2015 as compared to the same time period in 2014. Just one of their facilities, in Dilley, Texas, generated $100 million in the first half of 2015 alone.		
+CCA and others like it maximize profits by minimizing concern for the people they ensnare. For considerations of food, clothing, medical and dental needs, education, and amenities, every dollar they spend is a dollar off their bottom line. Is it any wonder, then, that so many fatalities from medical neglect are taking place in for-profit facilities?		
+For its part, ICE has implemented reforms to reduce the number in-custody deaths, but those efforts have fallen far short. Despite detention facility inspections under the Office of Detention Oversight, occasional Enforcement and Removal Operations (ERO) inspections, the centralization of healthcare under the ICE Health Service Corps, and the introduction of the 2011 Performance-Based National Detention Standards, lives continue to be lost. The failures here are systemic, and exemplified by a 2009 Department of Homeland Security appropriations bill that explicitly states any facility that fails two ERO inspections will lose its funding. Many of these facilities have numerous violations on their track records, and yet they continue to be funded.						
+			.article-wrap .article-body aside.left.custom_background_210405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+In three-quarters of deaths attributed to substandard medical care, the victims were held in for-profit prisons. Their deaths are tragic proof that profit motives have perverse and harmful effects on our judicial system. Corporations have built a business model out of detaining as many people as they can for as long as possible. Desperate men, women and children fleeing poverty and violence in places like Honduras, Guatemala, and El Salvador are their unsuspecting prey. As Seth Freed Wessler documented in The Nation earlier this year, medical neglect was also likely a factor in many deaths at the privately run facilities the Bureau of Prisons uses to house immigrants caught crossing the border after deportation. In the saddest of ironies, these impoverished and meager asylum seekers form the basis for lavish and lucrative contracts.		
+Corrections Corporation of America (CCA)—the company that runs the Eloy facility where José de Jesús Deniz-Sahagún perished last year—saw a $49 million increase in their second-quarter earnings in 2015 as compared to the same time period in 2014. Just one of their facilities, in Dilley, Texas, generated $100 million in the first half of 2015 alone.		
+CCA and others like it maximize profits by minimizing concern for the people they ensnare. For considerations of food, clothing, medical and dental needs, education, and amenities, every dollar they spend is a dollar off their bottom line. Is it any wonder, then, that so many fatalities from medical neglect are taking place in for-profit facilities?		
+For its part, ICE has implemented reforms to reduce the number in-custody deaths, but those efforts have fallen far short. Despite detention facility inspections under the Office of Detention Oversight, occasional Enforcement and Removal Operations (ERO) inspections, the centralization of healthcare under the ICE Health Service Corps, and the introduction of the 2011 Performance-Based National Detention Standards, lives continue to be lost. The failures here are systemic, and exemplified by a 2009 Department of Homeland Security appropriations bill that explicitly states any facility that fails two ERO inspections will lose its funding. Many of these facilities have numerous violations on their track records, and yet they continue to be funded.						
+			.article-wrap .article-body aside.left.custom_background_210405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+Corrections Corporation of America (CCA)—the company that runs the Eloy facility where José de Jesús Deniz-Sahagún perished last year—saw a $49 million increase in their second-quarter earnings in 2015 as compared to the same time period in 2014. Just one of their facilities, in Dilley, Texas, generated $100 million in the first half of 2015 alone.		
+CCA and others like it maximize profits by minimizing concern for the people they ensnare. For considerations of food, clothing, medical and dental needs, education, and amenities, every dollar they spend is a dollar off their bottom line. Is it any wonder, then, that so many fatalities from medical neglect are taking place in for-profit facilities?		
+For its part, ICE has implemented reforms to reduce the number in-custody deaths, but those efforts have fallen far short. Despite detention facility inspections under the Office of Detention Oversight, occasional Enforcement and Removal Operations (ERO) inspections, the centralization of healthcare under the ICE Health Service Corps, and the introduction of the 2011 Performance-Based National Detention Standards, lives continue to be lost. The failures here are systemic, and exemplified by a 2009 Department of Homeland Security appropriations bill that explicitly states any facility that fails two ERO inspections will lose its funding. Many of these facilities have numerous violations on their track records, and yet they continue to be funded.						
+			.article-wrap .article-body aside.left.custom_background_210405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+CCA and others like it maximize profits by minimizing concern for the people they ensnare. For considerations of food, clothing, medical and dental needs, education, and amenities, every dollar they spend is a dollar off their bottom line. Is it any wonder, then, that so many fatalities from medical neglect are taking place in for-profit facilities?		
+For its part, ICE has implemented reforms to reduce the number in-custody deaths, but those efforts have fallen far short. Despite detention facility inspections under the Office of Detention Oversight, occasional Enforcement and Removal Operations (ERO) inspections, the centralization of healthcare under the ICE Health Service Corps, and the introduction of the 2011 Performance-Based National Detention Standards, lives continue to be lost. The failures here are systemic, and exemplified by a 2009 Department of Homeland Security appropriations bill that explicitly states any facility that fails two ERO inspections will lose its funding. Many of these facilities have numerous violations on their track records, and yet they continue to be funded.						
+			.article-wrap .article-body aside.left.custom_background_210405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+For its part, ICE has implemented reforms to reduce the number in-custody deaths, but those efforts have fallen far short. Despite detention facility inspections under the Office of Detention Oversight, occasional Enforcement and Removal Operations (ERO) inspections, the centralization of healthcare under the ICE Health Service Corps, and the introduction of the 2011 Performance-Based National Detention Standards, lives continue to be lost. The failures here are systemic, and exemplified by a 2009 Department of Homeland Security appropriations bill that explicitly states any facility that fails two ERO inspections will lose its funding. Many of these facilities have numerous violations on their track records, and yet they continue to be funded.						
+			.article-wrap .article-body aside.left.custom_background_210405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+While the patterns of abuse and neglect continue, they are not going unnoticed. In July of 2015, California Federal District Court Judge Dolly Gee issued a sharply critical opinion on the detention of migrant families, arguing that these facilities violate a 1997 court-ordered settlement known as the Flores settlement. She ordered the federal government to release all mothers and children held in ICE facilities “without unnecessary delay.” Two months later, the US Commission on Civil Rights released a scathing report that found numerous DHS immigration detention centers were “not complying with federal mandates and agency policies regarding the treatment of detained immigrants and detained unaccompanied immigrant children.” Even more damning, the commission found evidence that the US government was “interfering with the constitutional rights afforded to detained immigrants.” The commission recommended that DHS act immediately to release families from detention, and urged Congress to end funding for family detention facilities.		
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+Sadly, neither the judge’s orders nor the commission’s recommendations have prevailed. In September of 2015, I joined forces with Senator Bernie Sanders to do our part in ending this shameful practice. We introduced the Justice Is Not For Sale Act, a bill that bans private prisons, ends family detention, and removes ICE’s daily mandate to fill 34,000 beds—an inhumane metric that prioritizes entrapment over any policy solution. Our bill would also require ICE to improve its lackluster monitoring system that continues to allow deaths like Mr. Deniz-Sahagún’s to occur without consequence.		
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+“Fatal Neglect” is an essential reminder that many of the most vulnerable people in our society are in our own custody. We have a responsibility not just to ensure their safety, but also their fair treatment. It is clear that neither of those conditions is met by immigrant detention facilities—it is long past time to end their use.		
+		
+
+ Raul Grijalva
+ Raul Grijalva, chair of the House Democratic Environmental Task Force,
+has represented Arizona's 7th District since 2003.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

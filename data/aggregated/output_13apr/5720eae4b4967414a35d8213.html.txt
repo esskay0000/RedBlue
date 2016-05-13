@@ -1,0 +1,561 @@
+
+
+A California parolee wears a GPS tracking device on his ankle as he speaks to his parole officer. (AP Photo / Rich Pedroncelli)
+
+After four decades of mass incarceration and over-criminalization in the United States, as many as one in three Americans now have some type of criminal record, and nearly half of US children now have a parent with a record.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210556-0','tn_society_law_ros_halfpage_1','tn_society_law_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+
+This article originally appeared atÂ TalkPoverty.org.
+
+On Monday, as part of the Department of Justiceâs inaugural National Reentry Week, Attorney General Loretta E. Lynch and Department of Housing and Urban Development Secretary JuliÃ¡n Castro visited Philadelphia to hear how brushes with the criminal-justice system have stood in the way of employment, housing, and moreâand how people have persevered.		
+Here are three stories told to Attorney General Lynch and Secretary Castroâthey are representative of the experiences of millions of Americans held back by a criminal record.		
+Ronald Lewis: âSo many doors have been closed in my face I know what wood tastes like.â
+More than 10 years ago, when I was 25, I was convicted of two misdemeanors. In one case, I was on the street with my brother when he was selling drugs, and I warned him that the police were coming. In the other, I tried to steal a pocketbook at Neiman Marcus. I did my probation for these cases, and have been a law-abiding citizen ever since.		
+I am a father, a husband, a son, a friend, and ambitious to get ahead in life. I got a building-engineering license in hopes of getting a good job. I am starting my own company so that I can give other people second chances working for me. I give freely of my time to be a role model to kids in my community and to younger men who are tempted by the streets. But to so many people, I am an âex-offender,â and nothing more.		
+Iâll never forget the first time I was turned down for a job because of my record. I had been on the job for about a month when my background check came back. I was called into Human Resources and told they had to fire me because of my record. Security was called to immediately remove me from the building. It was the worst feeling of my life. It was humiliating to tell my family, who had been so proud of me, that I had failed again.		
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+This article originally appeared atÂ TalkPoverty.org.
+
+On Monday, as part of the Department of Justiceâs inaugural National Reentry Week, Attorney General Loretta E. Lynch and Department of Housing and Urban Development Secretary JuliÃ¡n Castro visited Philadelphia to hear how brushes with the criminal-justice system have stood in the way of employment, housing, and moreâand how people have persevered.		
+Here are three stories told to Attorney General Lynch and Secretary Castroâthey are representative of the experiences of millions of Americans held back by a criminal record.		
+Ronald Lewis: âSo many doors have been closed in my face I know what wood tastes like.â
+More than 10 years ago, when I was 25, I was convicted of two misdemeanors. In one case, I was on the street with my brother when he was selling drugs, and I warned him that the police were coming. In the other, I tried to steal a pocketbook at Neiman Marcus. I did my probation for these cases, and have been a law-abiding citizen ever since.		
+I am a father, a husband, a son, a friend, and ambitious to get ahead in life. I got a building-engineering license in hopes of getting a good job. I am starting my own company so that I can give other people second chances working for me. I give freely of my time to be a role model to kids in my community and to younger men who are tempted by the streets. But to so many people, I am an âex-offender,â and nothing more.		
+Iâll never forget the first time I was turned down for a job because of my record. I had been on the job for about a month when my background check came back. I was called into Human Resources and told they had to fire me because of my record. Security was called to immediately remove me from the building. It was the worst feeling of my life. It was humiliating to tell my family, who had been so proud of me, that I had failed again.		
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+Here are three stories told to Attorney General Lynch and Secretary Castroâthey are representative of the experiences of millions of Americans held back by a criminal record.		
+Ronald Lewis: âSo many doors have been closed in my face I know what wood tastes like.â
+More than 10 years ago, when I was 25, I was convicted of two misdemeanors. In one case, I was on the street with my brother when he was selling drugs, and I warned him that the police were coming. In the other, I tried to steal a pocketbook at Neiman Marcus. I did my probation for these cases, and have been a law-abiding citizen ever since.		
+I am a father, a husband, a son, a friend, and ambitious to get ahead in life. I got a building-engineering license in hopes of getting a good job. I am starting my own company so that I can give other people second chances working for me. I give freely of my time to be a role model to kids in my community and to younger men who are tempted by the streets. But to so many people, I am an âex-offender,â and nothing more.		
+Iâll never forget the first time I was turned down for a job because of my record. I had been on the job for about a month when my background check came back. I was called into Human Resources and told they had to fire me because of my record. Security was called to immediately remove me from the building. It was the worst feeling of my life. It was humiliating to tell my family, who had been so proud of me, that I had failed again.		
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+More than 10 years ago, when I was 25, I was convicted of two misdemeanors. In one case, I was on the street with my brother when he was selling drugs, and I warned him that the police were coming. In the other, I tried to steal a pocketbook at Neiman Marcus. I did my probation for these cases, and have been a law-abiding citizen ever since.		
+I am a father, a husband, a son, a friend, and ambitious to get ahead in life. I got a building-engineering license in hopes of getting a good job. I am starting my own company so that I can give other people second chances working for me. I give freely of my time to be a role model to kids in my community and to younger men who are tempted by the streets. But to so many people, I am an âex-offender,â and nothing more.		
+Iâll never forget the first time I was turned down for a job because of my record. I had been on the job for about a month when my background check came back. I was called into Human Resources and told they had to fire me because of my record. Security was called to immediately remove me from the building. It was the worst feeling of my life. It was humiliating to tell my family, who had been so proud of me, that I had failed again.		
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+I am a father, a husband, a son, a friend, and ambitious to get ahead in life. I got a building-engineering license in hopes of getting a good job. I am starting my own company so that I can give other people second chances working for me. I give freely of my time to be a role model to kids in my community and to younger men who are tempted by the streets. But to so many people, I am an âex-offender,â and nothing more.		
+Iâll never forget the first time I was turned down for a job because of my record. I had been on the job for about a month when my background check came back. I was called into Human Resources and told they had to fire me because of my record. Security was called to immediately remove me from the building. It was the worst feeling of my life. It was humiliating to tell my family, who had been so proud of me, that I had failed again.		
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+Iâll never forget the first time I was turned down for a job because of my record. I had been on the job for about a month when my background check came back. I was called into Human Resources and told they had to fire me because of my record. Security was called to immediately remove me from the building. It was the worst feeling of my life. It was humiliating to tell my family, who had been so proud of me, that I had failed again.		
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+That was the first of many times that I was turned away from jobs I was qualified for because of my minor record. More times than I can count, companies have told me, âYouâll be great. Your skills are exactly what we are looking for.â But then that question about my background comes up. So many doors have been closed in my face, I know what wood tastes like. And because of my record, I canât even take my kids on school field trips. Do you know how devastating that is?		
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+I do not and will not give up. My family is depending on me. My children are depending on me. I hope that one day, my record can be cleared, reflecting who I am now. That is why I am speaking out to support the Clean Slate Act, a bill in the Pennsylvania legislature that would automatically seal nonviolent misdemeanor convictions after someone has remained crime-free for 10 years, as I have. This law would make a world of difference for people like meâand for our families and kids.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Helen Stokes: âI was denied from senior housing because of my arrest recordâ
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+The CIA Waterboarded the Wrong Man 83 Times in 1 Month
+
+African-American Voters Have an Understandable Reason to Support Hillary Clinton
+
+Brotherhood of Bullies: Bob Knight Endorses Donald Trump
+
+The Orange Rage Monster Acts Presidential
+
+Before âUnity,â Sanders Must Stay in the Fight
+
+I was 56 the first time I was ever arrested, in 2008. My husband, whom I later divorced, attacked me. When I called the police, he claimed that I had assaulted him. Can you imagine? Then two years later, after I took his ATM card for our joint account so that he wouldnât spend our money on drugs, I was arrested for theft. Both times, the charges were dropped. I have never been convicted of a crime in my whole life.		
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+After that, even though I had not been convicted, I got turned down for jobs because of my arrest record. Eventually, in 2014, I went to Community Legal Services for help. My lawyer got my cases expunged, and I thought that was the last I would hear of them.		
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+But about six months later, when I was trying to move into subsidized housing for seniors, I was denied admission because of the record that I wasnât supposed to have anymore. I couldnât believe it. I called the lawyer who had gotten my cases expunged, and she called the property managers and provided my expungement orders, but they still wouldnât let me in. I had tears in my eyes when I got the rejection letter. Even after I told RealPage, the company that had done the background check, about my expungements and filed a dispute, they again reported my expunged cases to another senior-housing facility, which also rejected me.		
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+By this point, I was panicked. My house was being foreclosed on, since I could no longer afford the mortgage payments after my divorce. I was worried that I would end up on the street or that I could no longer live on my own.		
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+Eventually, a social worker at Community Legal Services helped me find a senior apartment, where I will soon be moving. It is a huge relief. But I donât understand why senior housing would hold cases like this against me to begin with, given that I wasnât even convicted.		
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+Community Legal Services has since filed a class-action lawsuit against RealPage for illegally reporting expunged cases like mine. I am proud to be the main plaintiff in that case, because I think justice must be done for other people like me. Background-check companies like RealPage must learn that they cannot report expunged cases. But housing facilities should also give people like me a fair chance instead of turning people away just because of an arrest record.		
+Tyrone Peake: âEmployers werenât allowed to hire me because of my 30-year-old recordâ
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+When I was 18 years old, I was arrested with a friend for trying to steal a car. We had our girlfriends in town for the weekend. When one of the girlsâs mothers insisted that she come home, we tried to steal a car to take her back. Mind you, I couldnât even driveâand we werenât even able to get the car started. But we had broken open the ignition, and I ended up being convicted of attempted car theft. I did three years of probation, and I never got in trouble again.						
+			.article-wrap .article-body aside.left.custom_background_210556			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+I am now 53 years old. I raised three daughters who are now all grown up. All my life, Iâve had a passion to help people, so I decided to pursue an associateâs degree so I could do healthcare work, graduating from Community College of Philadelphia in 2014. I never dreamed that a mistake I made when I was 18 years old would follow me for the rest of my life. But until recently, my decades-old record kept me from getting a full-time job in the field Iâd gone to school to work in.		
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+After I got my degree, I learned that Pennsylvania had a law that prohibited me from working in long-term care jobs because of my record. Even though more than 30 years had passed without me getting into trouble again, employers that wanted to hire me were not allowed to because of the law. I eventually got a part-time job working as a recovery specialist, but the law prevented me from doing other jobs with the organization no matter how qualified I wasâand no matter how much time had passed since my conviction.		
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+Last year, Community Legal Services and pro bono lawyers challenged the law on behalf of me and other Pennsylvanians who had unfairly been stopped from working in jobs that we should be able to have. In December, Pennsylvaniaâs appellate court agreed with us and struck down the law.		
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+The problems that I had because of my record caused me to doubt myselfâand my futureâfor a long time. But I have a lot of joy knowing that this unfair law has been changed, there is a lot of hope and opportunity for me and others who come behind me and are trying to get ahead.		
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+Editorâs Note: All three of these individuals were represented by lawyers in Community Legal Servicesâ Employment Unit. They gave permission for CLS and TalkPoverty.org to share their stories to help shine a light on the lifelong barriers associated with having even a minor record.
+
+
+ Tyrone Peake
+ 
+
+ Helen Stokes
+ 
+
+ Ronald Lewis
+ Ronald Lewis is a resident of Philadelphia. He recently participated in a Center for American Progress event, âOne Strike and Youâre Out: How to Remove Barriers to Economic Mobility for Americans with Criminal Records.â
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+I can easily believe all three of these cases and find them to be even mild, compared to what many are going through.
+One reason this topic interests me is the entire creation of a huge problem that&apos;s been done that was never necessary in the first place.   It demonstrates a hard nosed dysfunctional streak on the part of much of the American public who voted for all of these people who made all these insane laws and regulations.  For lack of a better phrase, "Throwing the baby out with the bathwater."   A great portion of the "law abiding" American public looks ignorant in light of what they have been responsible for.  It&apos;s unlikely most of them actually do.  
+It is not likely to change in many areas for some time,  But it should be a federal priority to spend the money and revamp as many of these asinine regulations as possible.  That requires federal activism, something idiots like Reagan  conned people was a bad thing.  It won&apos;t be a bad thing when over time people see the books and see how much money could actually be saved, not forgetting the importance of precious human lives of people who have something to give.
+
+I should add;  It&apos;s unlikely many of the voters who over time created this have any idea that this is the reality for all of these people, sorry that&apos;s what I meant to say.
+
+When you read these stories, you see the importance of The New Jim Crow.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,839 @@
+
+
+The Al Jazeera America newsroom after the networkâs first broadcast in 2013. (AP Photo / Bebeto Matthews)
+
+Two Sundays ago, I sat on a panel discussion, moderated by former CBS newsman Randall Pinkston, on âthe future of journalism.â The panel was broadcast on Al Jazeera America, during one of its last live weekend shows. The two-and-a-half-year-old news network was, in effect, airing its own wake.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-209167-0','tn_society_media_ros_halfpage_1','tn_society_media_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+On Tuesday night, following a three-hour live celebration of its extraordinary but brief run, Al Jazeera America will die. Its vibrant website, which stopped production in February, sits with archives and eulogies testifying to AJAMâs claim that itâs a voice for the voiceless. (The international Al Jazeera English site is still very much alive.)		
+Ever since the Qatar-based Al Jazeera network launched its virtually all-American-staffed channel in August 2013, AJAM TV and its website have racked up an impressive series of Emmy and Peabody awardsâbut very few viewers. AJAM reported on, and often revisited, the sort of corporate-unfriendly stories the Big Three cable channels tend to ignoreâon labor, refugees, poverty, social justice, climate change, inequalityâa veritable feast for Nation readers. It reported on the lead crisis in Flint long before Rachel Maddow did. It regularly covered Native Americans, going far beyond âthe stereotypical âsad life on the rezââ stories, wrote AJAM producer Tristan Ahtone, who contributed to the siteâs dedicated vertical Indian Country. âThere was nothing like it at any other mainstream news outlet in the United States,â he said.		
+And they gave our crazy presidential campaign plenty of coverage without succumbing to the onanistic ratings jones that has consumed TV news in America. To place Al Jazeera America in todayâs cable-news landscape, look no further than this screenshot posted on Facebook by AJAM nighttime anchor Antonio Mora back in September:				
+ 
+On January 13, AJAM announced to its stunned staff that it would shutter the website and TV channel, laying off about 700 people across 12 US bureaus. Then, two weeks ago, the parent company, Al Jazeera Media Network, announced that an additional 500 people will be let go worldwide, most of them in the Qatari capital of Doha.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+Like it or not, some of the best fact-based, socially liberal TV reporting in the United States in recent years has been paid for by a tiny emirate that juts into the Persian Gulf just south of Iran. Qatar is a Western outpost, host to the US CENTCOM forward headquarters, from which many of our battles in that part of the world are launched. Made fantastically rich by an enormous natural-gas field off its coast, Qatar is the wealthiest nation per capita in the world. The royal family has been on an art-buying spreeâit paid more than a quarter of a billion dollars for Paul CÃ©zanneâs The Card Players, making it the most expensive painting in historyâfor more than a decade. And, beginning 20 years ago, Qatar created what has become one of the worldâs largest and most successful media companies: First, in 1996, the Arabic-language network Al Jazeera was launched; in 2006, the even larger Al Jazeera English (AJE) followed. Throw in its numerous sports and childrenâs channels and, all told, the company claims to reach â270 million households in more than 140 countries,â with more than 70 news bureaus around the world.		
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+On Tuesday night, following a three-hour live celebration of its extraordinary but brief run, Al Jazeera America will die. Its vibrant website, which stopped production in February, sits with archives and eulogies testifying to AJAMâs claim that itâs a voice for the voiceless. (The international Al Jazeera English site is still very much alive.)		
+Ever since the Qatar-based Al Jazeera network launched its virtually all-American-staffed channel in August 2013, AJAM TV and its website have racked up an impressive series of Emmy and Peabody awardsâbut very few viewers. AJAM reported on, and often revisited, the sort of corporate-unfriendly stories the Big Three cable channels tend to ignoreâon labor, refugees, poverty, social justice, climate change, inequalityâa veritable feast for Nation readers. It reported on the lead crisis in Flint long before Rachel Maddow did. It regularly covered Native Americans, going far beyond âthe stereotypical âsad life on the rezââ stories, wrote AJAM producer Tristan Ahtone, who contributed to the siteâs dedicated vertical Indian Country. âThere was nothing like it at any other mainstream news outlet in the United States,â he said.		
+And they gave our crazy presidential campaign plenty of coverage without succumbing to the onanistic ratings jones that has consumed TV news in America. To place Al Jazeera America in todayâs cable-news landscape, look no further than this screenshot posted on Facebook by AJAM nighttime anchor Antonio Mora back in September:				
+ 
+On January 13, AJAM announced to its stunned staff that it would shutter the website and TV channel, laying off about 700 people across 12 US bureaus. Then, two weeks ago, the parent company, Al Jazeera Media Network, announced that an additional 500 people will be let go worldwide, most of them in the Qatari capital of Doha.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+Like it or not, some of the best fact-based, socially liberal TV reporting in the United States in recent years has been paid for by a tiny emirate that juts into the Persian Gulf just south of Iran. Qatar is a Western outpost, host to the US CENTCOM forward headquarters, from which many of our battles in that part of the world are launched. Made fantastically rich by an enormous natural-gas field off its coast, Qatar is the wealthiest nation per capita in the world. The royal family has been on an art-buying spreeâit paid more than a quarter of a billion dollars for Paul CÃ©zanneâs The Card Players, making it the most expensive painting in historyâfor more than a decade. And, beginning 20 years ago, Qatar created what has become one of the worldâs largest and most successful media companies: First, in 1996, the Arabic-language network Al Jazeera was launched; in 2006, the even larger Al Jazeera English (AJE) followed. Throw in its numerous sports and childrenâs channels and, all told, the company claims to reach â270 million households in more than 140 countries,â with more than 70 news bureaus around the world.		
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+Ever since the Qatar-based Al Jazeera network launched its virtually all-American-staffed channel in August 2013, AJAM TV and its website have racked up an impressive series of Emmy and Peabody awardsâbut very few viewers. AJAM reported on, and often revisited, the sort of corporate-unfriendly stories the Big Three cable channels tend to ignoreâon labor, refugees, poverty, social justice, climate change, inequalityâa veritable feast for Nation readers. It reported on the lead crisis in Flint long before Rachel Maddow did. It regularly covered Native Americans, going far beyond âthe stereotypical âsad life on the rezââ stories, wrote AJAM producer Tristan Ahtone, who contributed to the siteâs dedicated vertical Indian Country. âThere was nothing like it at any other mainstream news outlet in the United States,â he said.		
+And they gave our crazy presidential campaign plenty of coverage without succumbing to the onanistic ratings jones that has consumed TV news in America. To place Al Jazeera America in todayâs cable-news landscape, look no further than this screenshot posted on Facebook by AJAM nighttime anchor Antonio Mora back in September:				
+ 
+On January 13, AJAM announced to its stunned staff that it would shutter the website and TV channel, laying off about 700 people across 12 US bureaus. Then, two weeks ago, the parent company, Al Jazeera Media Network, announced that an additional 500 people will be let go worldwide, most of them in the Qatari capital of Doha.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+Like it or not, some of the best fact-based, socially liberal TV reporting in the United States in recent years has been paid for by a tiny emirate that juts into the Persian Gulf just south of Iran. Qatar is a Western outpost, host to the US CENTCOM forward headquarters, from which many of our battles in that part of the world are launched. Made fantastically rich by an enormous natural-gas field off its coast, Qatar is the wealthiest nation per capita in the world. The royal family has been on an art-buying spreeâit paid more than a quarter of a billion dollars for Paul CÃ©zanneâs The Card Players, making it the most expensive painting in historyâfor more than a decade. And, beginning 20 years ago, Qatar created what has become one of the worldâs largest and most successful media companies: First, in 1996, the Arabic-language network Al Jazeera was launched; in 2006, the even larger Al Jazeera English (AJE) followed. Throw in its numerous sports and childrenâs channels and, all told, the company claims to reach â270 million households in more than 140 countries,â with more than 70 news bureaus around the world.		
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+And they gave our crazy presidential campaign plenty of coverage without succumbing to the onanistic ratings jones that has consumed TV news in America. To place Al Jazeera America in todayâs cable-news landscape, look no further than this screenshot posted on Facebook by AJAM nighttime anchor Antonio Mora back in September:				
+ 
+On January 13, AJAM announced to its stunned staff that it would shutter the website and TV channel, laying off about 700 people across 12 US bureaus. Then, two weeks ago, the parent company, Al Jazeera Media Network, announced that an additional 500 people will be let go worldwide, most of them in the Qatari capital of Doha.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+Like it or not, some of the best fact-based, socially liberal TV reporting in the United States in recent years has been paid for by a tiny emirate that juts into the Persian Gulf just south of Iran. Qatar is a Western outpost, host to the US CENTCOM forward headquarters, from which many of our battles in that part of the world are launched. Made fantastically rich by an enormous natural-gas field off its coast, Qatar is the wealthiest nation per capita in the world. The royal family has been on an art-buying spreeâit paid more than a quarter of a billion dollars for Paul CÃ©zanneâs The Card Players, making it the most expensive painting in historyâfor more than a decade. And, beginning 20 years ago, Qatar created what has become one of the worldâs largest and most successful media companies: First, in 1996, the Arabic-language network Al Jazeera was launched; in 2006, the even larger Al Jazeera English (AJE) followed. Throw in its numerous sports and childrenâs channels and, all told, the company claims to reach â270 million households in more than 140 countries,â with more than 70 news bureaus around the world.		
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+ 
+
+On January 13, AJAM announced to its stunned staff that it would shutter the website and TV channel, laying off about 700 people across 12 US bureaus. Then, two weeks ago, the parent company, Al Jazeera Media Network, announced that an additional 500 people will be let go worldwide, most of them in the Qatari capital of Doha.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+Like it or not, some of the best fact-based, socially liberal TV reporting in the United States in recent years has been paid for by a tiny emirate that juts into the Persian Gulf just south of Iran. Qatar is a Western outpost, host to the US CENTCOM forward headquarters, from which many of our battles in that part of the world are launched. Made fantastically rich by an enormous natural-gas field off its coast, Qatar is the wealthiest nation per capita in the world. The royal family has been on an art-buying spreeâit paid more than a quarter of a billion dollars for Paul CÃ©zanneâs The Card Players, making it the most expensive painting in historyâfor more than a decade. And, beginning 20 years ago, Qatar created what has become one of the worldâs largest and most successful media companies: First, in 1996, the Arabic-language network Al Jazeera was launched; in 2006, the even larger Al Jazeera English (AJE) followed. Throw in its numerous sports and childrenâs channels and, all told, the company claims to reach â270 million households in more than 140 countries,â with more than 70 news bureaus around the world.		
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+I Used to Support Bernie, but Then I Changed My Mind
+
+Bernie Rocks Buffalo. He Also Did Something Else.
+
+Hundreds of People Were Just Arrested Outside Congress
+
+Sanders Is for Schmucks
+
+We Asked 4 Prominent Bernie Supporters if Theyâd Vote for Hillary in November. Hereâs What They Told Us.
+
+Like it or not, some of the best fact-based, socially liberal TV reporting in the United States in recent years has been paid for by a tiny emirate that juts into the Persian Gulf just south of Iran. Qatar is a Western outpost, host to the US CENTCOM forward headquarters, from which many of our battles in that part of the world are launched. Made fantastically rich by an enormous natural-gas field off its coast, Qatar is the wealthiest nation per capita in the world. The royal family has been on an art-buying spreeâit paid more than a quarter of a billion dollars for Paul CÃ©zanneâs The Card Players, making it the most expensive painting in historyâfor more than a decade. And, beginning 20 years ago, Qatar created what has become one of the worldâs largest and most successful media companies: First, in 1996, the Arabic-language network Al Jazeera was launched; in 2006, the even larger Al Jazeera English (AJE) followed. Throw in its numerous sports and childrenâs channels and, all told, the company claims to reach â270 million households in more than 140 countries,â with more than 70 news bureaus around the world.		
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+While Al Jazeeraâs nonpartisanship cred has been recently tarnished, it is relatively enlightened and generally respected. In fact, itâs often compared with the BBC. But when Al Jazeera America was introduced, it was as though the network was all ready to play soccer, only to find itself on a baseball diamond.		
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+* * *				
+Related Articles
+
+I Want My Progressive TV! What If MSNBC Dumps the Left? 
+Leslie Savan
+
+
+Cairo: A Museum of Ghosts 
+Ursula Lindsey
+
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+Leslie Savan
+
+Ursula Lindsey
+
+Some US cable companies were loath to carry channels that were perceived as anti-American, and refused to air Al Jazeera English. So Al Jazeera created AJAM and staffed it with seasoned American journalists and familiar on-air faces from CNN, CBS, ABC, and NBC. Al Jazeera bought Al Goreâs Current TV for $500 million in 2013, which helped it enter some 50 million homes. Nonetheless, its average daily viewership, estimated in the low tens of thousands, was dismal. (MSNBC, the lowest-rated of the Big Three, averages 700,000 primetime viewers a day.)					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209167-2','tn_society_media_ros_halfpage_2','tn_society_media_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+âIt was doomed from the start,â Philip Seib, a professor of global journalism at the University of Southern California and author of The Al Jazeera Effect, told me. âHow do you build an audience starting from zero with so many news sources already out there?â The common wisdom is that AJAM was the victim of the collapse in oil and gas prices. After all, Qatar is cutting back on other ventures. But many observers, including some at AJAM, doubt that money alone was the deal breaker. At least as important was a generational change. âAl Jazeera was originally designed by the emir [Sheikh Hamad bin Khalifa Al Thani] not exclusively for its journalism, but as a diplomacy tool for Qatar. And it was very successful in doing that,â Seib said. Now the emirâs son âis in charge and heâs simply not as interested.â						
+			.article-wrap .article-body aside.left.custom_background_209167			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+On the other hand, the name and the logo alone may have doomed AJAM. For lots of people, Al Jazeera (it means âpeninsula,â which is what Qatar is) might as well have been âAl Qaeda.â In his faux conservative character, Stephen Colbert told AJAM primetime anchor John Seigenthaler, in 2014, that the stylized flame logo âis terrifying. That is not only Arabic, it looks like Arabic on fire. It looks like exploding Arabic. Why shouldnât I be afraid of Al Jazeera?â Seigenthaler laughed nervously.		
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+âAJAM was started as kind of a media machismo thing,â Seib said, on the principle that to be a real player, you have to play in the United States. âThe hope was perhaps if another huge story comes out of the Middle East on a continual basis, like the Arab Spring, the American audience would turn to AJAM. But that big story never happened.â		
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+Instead, as AJAM got up and running, the desperation of Middle Eastern politics began to put a real stress on Al Jazeeraâs reputation for impartiality. In July 2013, the Egyptian military overthrew president Mohamed Morsi of the Muslim Brotherhood. Qatar had supported Morsi, and for that, the general turned president Abdel Fattah al-Sisi threw three Al Jazeera journalists into prison on spurious allegations that they were broadcasting false news on behalf of the Brotherhood. The charges gained a resonance when one of the journalists, Mohamed Fahmy, sued Al Jazeera for $127 million, saying the network showed âepic negligenceâ by putting his and his two colleaguesâ lives in danger. Earlier this year, Al Jazeera refuted the charges, and sued the Egyptian government for $150 million.      
+      .cta.primary.CNQFDDDEMu{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.CNQFDDDEMu a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+Since then, Al Jazeera has been criticized for favoring Sunnis over Shia in the Syrian Civil War. Qatar is also the target of international protests for treating the migrants who are building its 2022 World Cup soccer facilities as indentured servants, if not as modern-day slaves. (The International Trade Union Confederation projected in 2014 that âat least 4,000 people will die beforeâ the games begin.) To their credit, Al Jazeera America and Al Jazeera English have covered this online; one 2014 AJAM headline read: âQatar migrant workers die by hundreds.â		
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+As the Arab Spring receded, Al Jazeera began to be seen, at least by The Economist, as less of a universal, just-the-facts-maâam, scientific presenter of current events and more as an extension of Qatari foreign policy. In the United States, where it stood out for its independence, especially among the other cable-news networks, AJAM was left as a sort of ghost limb, producing excellent journalism, on real issues, that nobody was really watching.		
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+* * *		
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+For all that, the shutdown was a complete surprise to many staff members. They had survived a long period of internal controversies within the American outpost itselfâcharges of sexism and anti-Semitism and a related $15 million lawsuit, high-profile resignations, and the eventual ouster of its first CEO, Ehab Al-Shibani. A year ago AJAM installed a new CEO, Al Anstey, who had been the managing director of Al Jazeera English. âEveryone felt better under Anstey. He was a newsman,â Randall Pinkston told me a few days after the panel. âMorale was up. Viewership was going up, not rapidly, but the trend line was up. No one saw a shutdown coming.â		
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+Although the rest of the Al Jazeera empire will survive, the end of its American venture doesnât bode well for American viewersâor for the future of journalism. Though it was officially nonpartisan, AJAM was deeply political, in the sense that it went âbeyond the banal polarities of political partisanship,â as Tony Karon, senior executive producer of digital news, wrote in a eulogy for the site. The goal was to âprovide the context, noting the tectonic shifts driving the dramas of the everyday news cycle.â¦ Poverty, violence and environmental degradation are not immutable forces of nature; they are the product of choices made by those in power.â		
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+Those former AJAM TV news pros who are lucky enough to find work in the industry know theyâll likely be thrown right back into mainstream shallows and the mind-numbing 2016 horse race, forced to recite poll numbers and field talking points they know by heart. âThat worries me if I have to go do that, especially after working here,â one person at AJAM told me. âI donât want to be asking questions that I know the answer to.â		
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+AJAMâs farewell celebration begins tonight at 6 EST.		
+		
+
+ Leslie Savan
+ Leslie Savan, author of Slam Dunks and No-Brainers, blogs for The Nation about media and politics.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+AJAM quickly became my go to news channel.  The news coverage as well as the features were always exceptional.  They were never able to attract better sponsors, though, or enough viewers, unfortunately.  The average American viewer was clueless, making assumptions without bothering to check it out for themselves.  My thanks to Tony Harris, Ray Suarez, and Tech Know especially.  Back to BBC, which isn&apos;t nearly as good.
+
+I enjoyed watching AJAM. They should have gone with another name, that probably would have attracted more viewers.
+
+I hate to see this go.  One of the few outposts of actual news.
+
+I feel like I&apos;m in a withdrawal scenario.  AJAM was head & shoulders above the rest of American media.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

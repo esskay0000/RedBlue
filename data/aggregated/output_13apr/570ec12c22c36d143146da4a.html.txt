@@ -1,0 +1,58 @@
+
+
+      recommended reading
+    
+
+
+
+
+          
+          
+            10 FACE/Shutterstock.com
+          
+        
+
+The Office of Personnel Management is preparing for a pilot program to automatically track public social media postings of people applying for security clearances.
+
+OPM is conducting market research to find companies that can perform automated social media tracking and other types of Web crawling as part of the background investigation process, according to an April 8 request for information posted online. Responses from interested companies are due by April 15.
+
+OPM is looking for companies that can automatically browse “publicly available electronic information,” which includes information posted to news and media sites; Facebook, Twitter and other social media postings; blog postings; online court records, updates to photo and video-sharing sites; and information gleaned from online e-commerce sites, such as Amazon and eBay.
+
+OPM is interested in companies that have fully automated capabilities -- “with no human intervention,” according to the RFI -- with the ability to search for information “in the parts of the World Wide Web whose contents are not indexed by standard search engines.”
+
+Companies should also have a “robust identity matching algorithm” that won’t get tricked by similar names and return irrelevant results.
+
+The pilot project tests the feasibility of obtaining social media tracking from commercial vendors and will be a joint effort between OPM, which is responsible for performing most federal employee background checks, and the Office of the Director of National Intelligence, according to an OPM spokesman.
+
+Testing of the new tech will be conducted on a population of 400 investigations, the spokesman said, although there’s still no word on when the pilot project is set to get underway.
+
+The new solicitation is the latest in a series of government initiatives to explore the use of social media in the background investigation process. Some of these efforts have been stymied by missed deadlines and unclear policy.
+
+Pentagon and intelligence officials are leading an effort to establish “continuous evaluation” of clearance-holders using automated data checks to replace periodic reinvestigations that currently occur only once every five or 10 years.
+
+Intelligence officials had planned to have a continuous evaluation capability in place for the most sensitive clearance holders by December 2014 but missed the deadline, according to progress updates posted on Performance.gov. Officials now plan to roll out the new program in phases, with at least 5 percent of top-secret clearance holders being continuously evaluated by March 2017. As of December, about 225,000 personnel undergo the automatic checks.
+
+A public-records continuous evaluation project is also currently underway at the State Department, according to the Performance.gov update.
+
+At a hearing in February, federal officials told lawmakers they were still working out the kinks in government policy for more widespread use of social media in the clearance process.
+
+Last June, OPM awarded a sole source contract to California-based tech company Social Intelligence for a preliminary pilot program examining social media in the clearance process.
+
+Under the terms of the contract, Social Intelligence, which has also participated in DOD social media pilots, was to provide 400 reports of publicly available online information over the following six to nine months.
+
+The security clearance process has been rocked by controversy in recent years.
+
+Last summer, OPM announced it had fallen victim to a massive data breach affecting millions of background investigation records. Even earlier, critics raised questions about OPM’s handling of background checks, pointing to potential missed red flags in the backgrounds of National Security Agency contractor Edward Snowden and other so-called “insider threats.”
+
+In January, the Obama administration announced plans to overhaul the process, establishing a new National Background Investigations Bureau and tasking the Defense Department with the responsibility for storing and securing sensitive files.
+
+
+      By using this service you agree not to post material that is obscene, harassing, defamatory, or
+      otherwise objectionable. Although Nextgov does not monitor comments posted to this site (and has
+      no obligation to), it reserves the right to delete, edit, or move any material that it deems to
+      be in violation of this rule.
+    
+
+© 2016 by National Journal Group, Inc. All rights reserved.
+            
+

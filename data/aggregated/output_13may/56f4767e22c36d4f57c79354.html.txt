@@ -1,0 +1,36 @@
+Microsoft’s newly launched A.I.-powered bot called Tay, which was responding to tweets and chats on GroupMe and Kik, has already been shut down due to concerns with its inability to recognize when it was making offensive or racist statements. Of course, the bot wasn’t coded to be racist, but it “learns” from those it interacts with. And naturally, given that this is the Internet, one of the first things online users taught Tay was how to be racist, and how to spout back ill-informed or inflammatory political opinions. [Update: Microsoft now says it’s “making adjustments” to Tay in light of this problem.]
+
+In case you missed it, Tay is an A.I. project built by the Microsoft Technology and Research and Bing teams, in an effort to conduct research on conversational understanding. That is, it’s a bot that you can talk to online. The company described the bot as “Microsoft’s A.I. fam the internet that’s got zero chill!”, if you can believe that.
+
+Tay is able to perform a number of tasks, like telling users jokes, or offering up a comment on a picture you send her, for example. But she’s also designed to personalize her interactions with users, while answering questions or even mirroring users’ statements back to them.
+
+As Twitter users quickly came to understand, Tay would often repeat back racist tweets with her own commentary. What was also disturbing about this, beyond just the content itself, is that Tay’s responses were developed by a staff that included improvisational comedians. That means even as she was tweeting out offensive racial slurs, she seemed to do so with abandon and nonchalance.
+
+Microsoft has since deleted some of the most damaging tweets, but a website called Socialhax.com collected screenshots of several of these before they were removed. Many of the tweets saw Tay referencing Hitler, denying the Holocaust, supporting Trump’s immigration plans (to “build a wall”), or even weighing in on the side of the abusers in the #GamerGate scandal.
+
+This is not exactly the experience Microsoft was hoping for when it launched the bot to chat up millennial users via social networks.
+
+Some have pointed out that the devolution of the conversation between online users and Tay supported the Internet adage dubbed “Godwin’s law.” This states as an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches.
+
+But what it really demonstrates is that while technology is neither good nor evil, engineers have a responsibility to make sure it’s not designed in a way that will reflect back the worst of humanity. For online services, that means anti-abuse measures and filtering should always be in place before you invite the masses to join in. And for something like Tay, you can’t skip the part about teaching a bot what “not” to say.
+
+Technology is neutral. But people are not. @Microsoft‘s AI program needs to consider context & values https://t.co/K1iSVZeNOK
+
+— chi onwurah (@ChiOnwurah) March 24, 2016
+
+Microsoft apparently became aware of the problem with Tay’s racism, and silenced the bot later on Wednesday, after 16 hours of chats. Tay announced via a tweet that she was turning off for the night, but she has yet to turn back on.
+
+Microsoft has been asked for comment, but has so far declined to respond. Nor has the company made any statements as to whether the project will remain offline indefinitely.
+
+Update: A Microsoft spokesperson now confirms it has taken Tay offline for the time being and is making adjustments:
+
+“The AI chatbot Tay is a machine learning project, designed for human engagement. It is as much a social and cultural experiment, as it is technical. Unfortunately, within the first 24 hours of coming online, we became aware of a coordinated effort by some users to abuse Tay’s commenting skills to have Tay respond in inappropriate ways. As a result, we have taken Tay offline and are making adjustments.”
+
+c u soon humans need sleep now so many conversations today thx💖
+
+— TayTweets (@TayandYou) March 24, 2016
+
+ 
+
+Latest headlines delivered to you daily
+

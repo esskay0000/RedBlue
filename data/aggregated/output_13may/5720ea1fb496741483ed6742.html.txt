@@ -1,0 +1,207 @@
+
+
+	By Andrew Joseph
+April 26, 2016 8:38 pm
+
+
+					Follow					@andyj0seph				
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+
+
+
+		By: Andrew Joseph		| April 26, 2016 8:38 pm		
+
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+
+		Follow @andyj0seph	
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+
+
+
+It’s often a risky game when politicians attempt to discuss sports because it opens themselves up to completely irrelevant scrutiny.
+
+But Ted Cruz made it too easy.
+
+During a rally at the Hoosier Gym Community Center in Knightstown, Ind., Cruz referred to a basketball hoop as a “basketball ring” right there in that famous gym.
+
+@DavidMacAnally Cruz reenact a famous HOOSIERS scene to reassure Indiana supporters. Remember this? pic.twitter.com/Hz7nW2lV3I
+
+— David MacAnally (@DavidMacAnally) April 26, 2016
+
+He was measuring the hoop in an attempt to recreate this scene from Hoosiers.
+
+
+
+It wasn’t referred to as a “ring” in the film, though.
+
+Cruz could have called the hoop a goal, rim, basket or a cylinder (weird, but correct), and nobody would have blinked an eye. But a ring?
+
+That isn’t right. That isn’t right at all.
+
+No one has ever called it a "basketball ring" before Cruz just now in the history of basketball, politics, or words.
+
+— luke oneil (@lukeoneil47) April 26, 2016
+
+
+
+Hoosiers, Politics, Ted Cruz, Politics
+
+
+		Andrew Joseph is a writer at For The Win. He's the proud owner of a Johnny Estrada bobblehead, and he once shared an elevator with Matthew McConaughey. 
+	
+
+
+
+				Men read terrible tweets to female sportswriters in eye-opening PSA			
+
+
+
+
+				Cheerleader appearance 'advice' sparks backlash at U. of Washington			
+
+
+
+
+				Ted Cruz commented on his resemblance to Grayson Allen: ‘I don’t have the hops'			
+
+
+
+April 27, 2016 12:24 pm 
+·
+
+Charlotte Wilder 
+
+
+Would you rather: A $75 million ring or a binding pro football contract?  
+
+
+April 27, 2016 11:49 am 
+·
+
+Luke Kerr-Dineen 
+
+
+Skip Bayless won’t officially leave ESPN’s First Take until the end of August (with Fox Sports his rumoured (…)
+
+
+April 27, 2016 11:12 am 
+·
+
+Nina Mandell 
+
+
+The former Browns quarterback was spotted in Cleveland. 
+
+
+April 27, 2016 10:57 am 
+·
+
+Luke Kerr-Dineen 
+
+
+This is a very sad story, though, on the bright side, it is only popcorn. But that’s little consolation to this sad Minnesota (…)
+
+
+April 27, 2016 10:56 am 
+·
+
+Charlotte Wilder 
+
+
+DO be physically fit, DON’T wear a shirt that covers your midriff.  
+
+
+April 27, 2016 10:55 am 
+·
+
+Charles Curtis 
+
+
+The 2016 NFL Draft is set to begin on Thursday, which means those prospects lucky enough to snag an invite are warming up to give their (…)
+
+
+April 27, 2016 10:08 am 
+·
+
+Nina Mandell 
+
+
+He used to watch Degrassi. 
+
+
+April 27, 2016 9:59 am 
+·
+
+Nate Scott 
+
+
+The Clippers never found a backup point guard. 
+
+
+April 27, 2016 9:45 am 
+·
+
+Charlotte Wilder 
+
+
+Did he really, though? 
+
+
+April 27, 2016 8:42 am 
+·
+
+Charlotte Wilder 
+
+
+The best kind of distraction.  
+
+
+				Thanks for signing up.
+				You'll be waking up a little more awesome tomorrow.
+			
+
+
+				Something went wrong.
+			
+
+Cheerleader appearance 'advice' sparks backlash at U. of Washington
+
+Men read terrible tweets to female sportswriters in eye-opening PSA
+
+Ted Cruz called a basketball hoop a ‘basketball ring’ while recreating a scene from ‘Hoosiers’
+
+Drew Brees on Deflategate, new receivers, and playing into his 40s
+
+Tiger Woods' injury comeback is shaping up to be a disaster
+
+Our favorite NBA impersonator has now roasted Matthew Dellavedova
+
+Skip Bayless tells Stephen A. Smith 'I love you' in emotional goodbye
+
+
+
+
+
+
+
+
+			Powered by WordPress.com VIP 
+
+
+
+			Show More Information		
+
+
+
+That isn’t right.  
+

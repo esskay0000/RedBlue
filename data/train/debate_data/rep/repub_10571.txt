@@ -1,0 +1,1 @@
+We have timing lights that are visible to the candidates. Those lights will warn them when their time is up. 

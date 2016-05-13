@@ -1,0 +1,585 @@
+
+
+Icelandic Prime Minister Sigmundur David Gunnlaugsson speaks about the Panama Papers at Parliament on April 4, 2016. (AP Photo / Brynjar Gunnarsson)
+
+Oh, were Mark Lombardi alive today! Two stories broke last weekâone by Bloomberg on how a right-wing Colombian hacker who, in league with a Miami-based political âconsultant,â worked to throw elections to conservative politicians throughout Latin America. The second is the year-long investigation by the German newspaper SÃ¼ddeutsche Zeitung and the International Consortium of Investigative Journalists into the Panama Papers, the leaked 2.6 tera trove of documents from the law firm Mossack Fonseca revealing the dark web of offshore finance.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208405-0','tn_economy_business_ros_halfpage_1','tn_economy_business_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+An artist, Lombardi is famous for trying to find ways to represent financial scandals and conspiracies. Take a look at some of his work found here and imagine what he would do with either the hacker who ran covert teams of coders to execute electronic âdirty warsâ or the information found in the Panama Papers. Lombardi was active through the 1980s and 1990s, and his work was focused on trying to synthesize the information piling up from investigations into scandals such as BCCI, Lincoln Savings, Charles Keating, Iran/Contra, and so on. We can now look back and see those crimes as birthing what we now call neoliberalismâa global political economy defined by deregulated finance and resource extraction and maintained by crime and corruption.		
+From a distance, Lombardiâs ânarrative structures,â as he called his art, look like beautiful constellations. Step closer and youâll see the names: Oliver North, Neil Bush, Manuel Noriega, John Connally, George Shultz, etc., etc. Lombardi coded the lines linking various nodesâsolid, dotted, or squiggly lines represented differing degrees of influence or capital flows, a struggle to ârender the invisible visible,â to ârepresent what cannot be represented.â		
+Born in the late 1950s near Syracuse, New York, Lombardiâs life seemed from an Umberto Eco novel. He first became interested in financial conspiracies when he worked as a reference librarian in the fine-arts department of the main branch of the Houston Public Library. This was in the 1980s, during Iran/Contra. Hereâs one 1991 description of that scandal, from Time magazine: âThe Iran-contra affair may be only part of a broader and previously undisclosed pattern of illegal activities by intelligence agencies during the tenure of Ronald Reagan and his CIA chief William Casey. Sources close to the unfolding investigation of the Bank of Credit & Commerce International told Time that U.S. intelligence agencies, including the CIA, maintained secret accounts with the globe-girdling financial empire, which has been accused of laundering billions of dollars in drug money, financing illegal arms deals and engaging in other crimesââincluding drug running, funding death squads, and running sophisticated psychological warfare operations on US citizens to create a sense of confusion regarding foreign policy.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+How to make sense of it without falling (as some did) down the rabbit hole? First, Lombardi began to compile a library of all those great post-Vietnam and post-Watergate books on corruption, conspiracy, and covert-ops: Theodore Draperâs A Very Thin Line: The Iran-Contra Affairs; Tim Weinerâs Blank Check: The Pentagonâs Black Budget; Alexander Cockburnâs Corruptions of Empire; Gary Hectyorâs Breaking the Bank: The Decline of Bankamerica; Steven Hellerâs Acid Dreams; Joseph E. Persicoâs The Lives and Secrets of William J. Casey from the OSS to the CIA; Peter Truellâs False Profits: The Inside Story of BCCI, The Worldâs Most Corrupt Financial Empire; Gerald Jamesâs In the Public Interest: A Devastating Account of the Thatcher Governmentâs Involvement in the Covert Arms Trade; Mark Hulbertâs Interlock: The Untold Story of American Banks, Oil Interests, the Shahâs Money, Debts, and the Astounding Connections Between Them; Gary Sickâs October Surprise; Tom Barry and Deb Preuschâs The Soft War: The Uses and Abuses of U.S. Economic Aid in Central America. On and on.		
+Then, in those pre-Internet days, he took the information gleaned from these books and began to compose 3×5 index cardsâthousands of them, covered with handwritten notations about various financial scandals, their perpetrators, and the people associated with them. Then he began to draw. The last three years of his life (at the age of 48, Lombardi, like so many others who stared deep into the entrails of empire and finance capital, committed suicide the on the evening of Wednesday, March 22, 2000, in his Williamsburg loft) saw his efforts receive increasing commercial success, and his work is now represented by the Pierogi Gallery.		
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+An artist, Lombardi is famous for trying to find ways to represent financial scandals and conspiracies. Take a look at some of his work found here and imagine what he would do with either the hacker who ran covert teams of coders to execute electronic âdirty warsâ or the information found in the Panama Papers. Lombardi was active through the 1980s and 1990s, and his work was focused on trying to synthesize the information piling up from investigations into scandals such as BCCI, Lincoln Savings, Charles Keating, Iran/Contra, and so on. We can now look back and see those crimes as birthing what we now call neoliberalismâa global political economy defined by deregulated finance and resource extraction and maintained by crime and corruption.		
+From a distance, Lombardiâs ânarrative structures,â as he called his art, look like beautiful constellations. Step closer and youâll see the names: Oliver North, Neil Bush, Manuel Noriega, John Connally, George Shultz, etc., etc. Lombardi coded the lines linking various nodesâsolid, dotted, or squiggly lines represented differing degrees of influence or capital flows, a struggle to ârender the invisible visible,â to ârepresent what cannot be represented.â		
+Born in the late 1950s near Syracuse, New York, Lombardiâs life seemed from an Umberto Eco novel. He first became interested in financial conspiracies when he worked as a reference librarian in the fine-arts department of the main branch of the Houston Public Library. This was in the 1980s, during Iran/Contra. Hereâs one 1991 description of that scandal, from Time magazine: âThe Iran-contra affair may be only part of a broader and previously undisclosed pattern of illegal activities by intelligence agencies during the tenure of Ronald Reagan and his CIA chief William Casey. Sources close to the unfolding investigation of the Bank of Credit & Commerce International told Time that U.S. intelligence agencies, including the CIA, maintained secret accounts with the globe-girdling financial empire, which has been accused of laundering billions of dollars in drug money, financing illegal arms deals and engaging in other crimesââincluding drug running, funding death squads, and running sophisticated psychological warfare operations on US citizens to create a sense of confusion regarding foreign policy.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+How to make sense of it without falling (as some did) down the rabbit hole? First, Lombardi began to compile a library of all those great post-Vietnam and post-Watergate books on corruption, conspiracy, and covert-ops: Theodore Draperâs A Very Thin Line: The Iran-Contra Affairs; Tim Weinerâs Blank Check: The Pentagonâs Black Budget; Alexander Cockburnâs Corruptions of Empire; Gary Hectyorâs Breaking the Bank: The Decline of Bankamerica; Steven Hellerâs Acid Dreams; Joseph E. Persicoâs The Lives and Secrets of William J. Casey from the OSS to the CIA; Peter Truellâs False Profits: The Inside Story of BCCI, The Worldâs Most Corrupt Financial Empire; Gerald Jamesâs In the Public Interest: A Devastating Account of the Thatcher Governmentâs Involvement in the Covert Arms Trade; Mark Hulbertâs Interlock: The Untold Story of American Banks, Oil Interests, the Shahâs Money, Debts, and the Astounding Connections Between Them; Gary Sickâs October Surprise; Tom Barry and Deb Preuschâs The Soft War: The Uses and Abuses of U.S. Economic Aid in Central America. On and on.		
+Then, in those pre-Internet days, he took the information gleaned from these books and began to compose 3×5 index cardsâthousands of them, covered with handwritten notations about various financial scandals, their perpetrators, and the people associated with them. Then he began to draw. The last three years of his life (at the age of 48, Lombardi, like so many others who stared deep into the entrails of empire and finance capital, committed suicide the on the evening of Wednesday, March 22, 2000, in his Williamsburg loft) saw his efforts receive increasing commercial success, and his work is now represented by the Pierogi Gallery.		
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+From a distance, Lombardiâs ânarrative structures,â as he called his art, look like beautiful constellations. Step closer and youâll see the names: Oliver North, Neil Bush, Manuel Noriega, John Connally, George Shultz, etc., etc. Lombardi coded the lines linking various nodesâsolid, dotted, or squiggly lines represented differing degrees of influence or capital flows, a struggle to ârender the invisible visible,â to ârepresent what cannot be represented.â		
+Born in the late 1950s near Syracuse, New York, Lombardiâs life seemed from an Umberto Eco novel. He first became interested in financial conspiracies when he worked as a reference librarian in the fine-arts department of the main branch of the Houston Public Library. This was in the 1980s, during Iran/Contra. Hereâs one 1991 description of that scandal, from Time magazine: âThe Iran-contra affair may be only part of a broader and previously undisclosed pattern of illegal activities by intelligence agencies during the tenure of Ronald Reagan and his CIA chief William Casey. Sources close to the unfolding investigation of the Bank of Credit & Commerce International told Time that U.S. intelligence agencies, including the CIA, maintained secret accounts with the globe-girdling financial empire, which has been accused of laundering billions of dollars in drug money, financing illegal arms deals and engaging in other crimesââincluding drug running, funding death squads, and running sophisticated psychological warfare operations on US citizens to create a sense of confusion regarding foreign policy.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+How to make sense of it without falling (as some did) down the rabbit hole? First, Lombardi began to compile a library of all those great post-Vietnam and post-Watergate books on corruption, conspiracy, and covert-ops: Theodore Draperâs A Very Thin Line: The Iran-Contra Affairs; Tim Weinerâs Blank Check: The Pentagonâs Black Budget; Alexander Cockburnâs Corruptions of Empire; Gary Hectyorâs Breaking the Bank: The Decline of Bankamerica; Steven Hellerâs Acid Dreams; Joseph E. Persicoâs The Lives and Secrets of William J. Casey from the OSS to the CIA; Peter Truellâs False Profits: The Inside Story of BCCI, The Worldâs Most Corrupt Financial Empire; Gerald Jamesâs In the Public Interest: A Devastating Account of the Thatcher Governmentâs Involvement in the Covert Arms Trade; Mark Hulbertâs Interlock: The Untold Story of American Banks, Oil Interests, the Shahâs Money, Debts, and the Astounding Connections Between Them; Gary Sickâs October Surprise; Tom Barry and Deb Preuschâs The Soft War: The Uses and Abuses of U.S. Economic Aid in Central America. On and on.		
+Then, in those pre-Internet days, he took the information gleaned from these books and began to compose 3×5 index cardsâthousands of them, covered with handwritten notations about various financial scandals, their perpetrators, and the people associated with them. Then he began to draw. The last three years of his life (at the age of 48, Lombardi, like so many others who stared deep into the entrails of empire and finance capital, committed suicide the on the evening of Wednesday, March 22, 2000, in his Williamsburg loft) saw his efforts receive increasing commercial success, and his work is now represented by the Pierogi Gallery.		
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+Born in the late 1950s near Syracuse, New York, Lombardiâs life seemed from an Umberto Eco novel. He first became interested in financial conspiracies when he worked as a reference librarian in the fine-arts department of the main branch of the Houston Public Library. This was in the 1980s, during Iran/Contra. Hereâs one 1991 description of that scandal, from Time magazine: âThe Iran-contra affair may be only part of a broader and previously undisclosed pattern of illegal activities by intelligence agencies during the tenure of Ronald Reagan and his CIA chief William Casey. Sources close to the unfolding investigation of the Bank of Credit & Commerce International told Time that U.S. intelligence agencies, including the CIA, maintained secret accounts with the globe-girdling financial empire, which has been accused of laundering billions of dollars in drug money, financing illegal arms deals and engaging in other crimesââincluding drug running, funding death squads, and running sophisticated psychological warfare operations on US citizens to create a sense of confusion regarding foreign policy.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+How to make sense of it without falling (as some did) down the rabbit hole? First, Lombardi began to compile a library of all those great post-Vietnam and post-Watergate books on corruption, conspiracy, and covert-ops: Theodore Draperâs A Very Thin Line: The Iran-Contra Affairs; Tim Weinerâs Blank Check: The Pentagonâs Black Budget; Alexander Cockburnâs Corruptions of Empire; Gary Hectyorâs Breaking the Bank: The Decline of Bankamerica; Steven Hellerâs Acid Dreams; Joseph E. Persicoâs The Lives and Secrets of William J. Casey from the OSS to the CIA; Peter Truellâs False Profits: The Inside Story of BCCI, The Worldâs Most Corrupt Financial Empire; Gerald Jamesâs In the Public Interest: A Devastating Account of the Thatcher Governmentâs Involvement in the Covert Arms Trade; Mark Hulbertâs Interlock: The Untold Story of American Banks, Oil Interests, the Shahâs Money, Debts, and the Astounding Connections Between Them; Gary Sickâs October Surprise; Tom Barry and Deb Preuschâs The Soft War: The Uses and Abuses of U.S. Economic Aid in Central America. On and on.		
+Then, in those pre-Internet days, he took the information gleaned from these books and began to compose 3×5 index cardsâthousands of them, covered with handwritten notations about various financial scandals, their perpetrators, and the people associated with them. Then he began to draw. The last three years of his life (at the age of 48, Lombardi, like so many others who stared deep into the entrails of empire and finance capital, committed suicide the on the evening of Wednesday, March 22, 2000, in his Williamsburg loft) saw his efforts receive increasing commercial success, and his work is now represented by the Pierogi Gallery.		
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.
+
+Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet
+
+Bernie Sanders Should Keep Runningâbut Not Like This
+
+Good News on Climate Changeâ¦ and Bad News
+
+Why Hillary Clinton Doesnât Deserve the Black Vote
+
+How to make sense of it without falling (as some did) down the rabbit hole? First, Lombardi began to compile a library of all those great post-Vietnam and post-Watergate books on corruption, conspiracy, and covert-ops: Theodore Draperâs A Very Thin Line: The Iran-Contra Affairs; Tim Weinerâs Blank Check: The Pentagonâs Black Budget; Alexander Cockburnâs Corruptions of Empire; Gary Hectyorâs Breaking the Bank: The Decline of Bankamerica; Steven Hellerâs Acid Dreams; Joseph E. Persicoâs The Lives and Secrets of William J. Casey from the OSS to the CIA; Peter Truellâs False Profits: The Inside Story of BCCI, The Worldâs Most Corrupt Financial Empire; Gerald Jamesâs In the Public Interest: A Devastating Account of the Thatcher Governmentâs Involvement in the Covert Arms Trade; Mark Hulbertâs Interlock: The Untold Story of American Banks, Oil Interests, the Shahâs Money, Debts, and the Astounding Connections Between Them; Gary Sickâs October Surprise; Tom Barry and Deb Preuschâs The Soft War: The Uses and Abuses of U.S. Economic Aid in Central America. On and on.		
+Then, in those pre-Internet days, he took the information gleaned from these books and began to compose 3×5 index cardsâthousands of them, covered with handwritten notations about various financial scandals, their perpetrators, and the people associated with them. Then he began to draw. The last three years of his life (at the age of 48, Lombardi, like so many others who stared deep into the entrails of empire and finance capital, committed suicide the on the evening of Wednesday, March 22, 2000, in his Williamsburg loft) saw his efforts receive increasing commercial success, and his work is now represented by the Pierogi Gallery.		
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+Then, in those pre-Internet days, he took the information gleaned from these books and began to compose 3×5 index cardsâthousands of them, covered with handwritten notations about various financial scandals, their perpetrators, and the people associated with them. Then he began to draw. The last three years of his life (at the age of 48, Lombardi, like so many others who stared deep into the entrails of empire and finance capital, committed suicide the on the evening of Wednesday, March 22, 2000, in his Williamsburg loft) saw his efforts receive increasing commercial success, and his work is now represented by the Pierogi Gallery.		
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+The danger with the Panama Papers is that the massive amount of dataâmuch of it still unreleasedâcould overwhelm, pushing the public to that place where the covert and the spectacular collapse into each other, creating not action and knowledge but paralysis and amnesia. The trees (that is, the data) will hide the forest (our conceptual understanding of how the data points relate to each other). As Noam Chomsky describes the paradox, âHow it is we have so much information, but know so little?â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-208405-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+Lombardiâs art, too, can be overwhelming in its subordination of detail to scale, threatening to render corruption as natural as the cosmos. Many of his drawings, from just a few feet away, could be mistaken for galaxies. But Lombardi hoped to explicate, not awe. He was the first artist to visualize not just what became known as neoliberalism but to explain neoliberalism by its relationship to covert activity, transnational crime, and right-wing reaction.						
+			.article-wrap .article-body aside.left.custom_background_208405			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSISÂ 
+
+
+
+
+
+
+As a moral system, capitalism has long been associated with the pursuit of self-interest, and thus necessarily with corruption. But Lombardiâs drawings captured a qualitative shift that had begun in the 1970s, as finance and resource extraction (especially oil) became ever more intertwined with both right-wing ideology, narcotics trafficking, and covert paramilitary activities. Lombardiâs is an effort to capture the totality of capitalism and empire: âOne of my goals is to explore the interaction of political, social, and economic forces in contemporary affairs.â¦ Working from syndicated news items and other published accounts, I begin each drawing by compiling large amounts of information about a specific bank, financial group, or set of individuals. After a careful review of the literature I then condense the essential points into an assortment of notations and other brief statements of fact, out of which an image begins to emerge.â¦ My purpose throughout is to interpret the material by juxtaposing and assembling the notations into a unified, coherent whole.â		
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+In addition to providing an important tool to those hoping to re-regulate money flows, the massive amount of information that will be released in Panama Papersâwhich is from just one law firmâcould help us understand what Mark Lombardiâs work has been saying all along, that financial crimes and political conspiracies arenât discrete events but the essence of neoliberalism. The leaked documents will provide not just a profile of a global elite, but an alternative global history of the tangled relationship between paramilitarism, crime, right-wing ideology, resource extraction, and finance.		
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+Panama, a small country, has played an outsized role in this history, from 1903, when the combined efforts of Washingtonâs Navy and J.P. Morganâs money created the nation from whole cloth, peeling it off from Colombia, though to the 1970s, when George H.W. Bush as head of the CIA ran Manuel Noriega as a paid agent, and the 1980s, when the CIA used the country to launch the Contra war against Nicaragua, up to the current moment (you can read John Lindsay-Polandâs excellent Emperors in the Jungle: The Hidden History of the U.S. in Panama).      
+      .cta.primary.SLYQhPJQCH{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.SLYQhPJQCH a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+Imagine the lines Lombardi would have drawn from the fact that the father of one of the founders of Mossack Fonseca âhad been a member of the Waffen-SS, the notorious armed wing of the Nazi Party during World War II, according to US Army intelligence files obtained by ICIJ. After the war the father offered his services to the US government as an informant, the files show, claiming âhe was about to join a clandestine organization, either of former Nazis now turned Communistâ¦or of unconverted Nazis cloaking themselves as Communists.â An Army intelligence officer wrote that the offer to spy for the US might simply be âa shrewd attempt to get out of an awkward situation.â Nevertheless, the old intelligence files indicate that Mossackâs father later ended up in Panama, where he offered to spy, this time for the CIA, on Communist activity in nearby Cuba.â¦â		
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+As of now, there is no known connection between Bloombergâs right-wing hacker story and the network partially revealed by the Panama Papers. The dots, however, are but two degrees separated. The hacker, AndrÃ©s SepÃºlveda, worked on behalf of candidates and parties that wanted to reverse Latin Americaâs leftward drift, to once again open the regionâs energy sector to US private capital and pay tribute to bond markets. Among his other achievements, SepÃºlveda helped Ãlvaro Uribe get reelected president of Colombia in 2006, Porfirio Lobo elected president of Honduras in 2009, and Enrique PeÃ±a Nieto president of Mexico in 2012. All three of these leaders are implicated in exactly the kind of para-politics and para-economics Lombardi drew about, of the kind that has been championed by the current front-runner in the Democratic primaries, Hillary Clinton, under the banner of âfree trade.â		
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+As secretary of state, Clinton successfully pushed for the passage of free-trade agreements with Colombia and Panama, which, as Clark Mindock and David Sirota point out, make the kind of offshore tax evasion revealed by the Panama Papers even more pervasive (more than 850 Colombians are named in what is so far released of the Panama Papers, including founders and financiers of death squads). Hillary and Bill Clinton are deeply embedded in Colombia, as Ken Silverstein, along with others, has reported (FYI: Silverstein wrote on Mossack Fonseca for Vice nearly a year and a half ago). Hillary counts Ãlvaro Uribe (who represented the death-squad wing of Colombian politics) as a close ally, with profits from Colombiaâs petroleum industry pouring into the Clinton Foundation. As to Honduras, Clintonâs role in legitimizing the 2009 elections that Lobo won (with an assist from SepÃºlveda) is well known, largely as a result of the recent murder of the environmentalist Berta CÃ¡ceres. And in Mexico, PeÃ±a Nieto has accelerated the privatization of the national oil industry, a project that, e-mails reveal, Clintonâs State Department helped make happen.		
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+When asked why none of the information so far seemed to implicate US-based individuals or businesses, the editor of SÃ¼ddeutsche Zeitung said, âJust wait for what is coming next.â Letâs see.		
+		
+
+ Greg Grandin
+Twitter
+ Greg Grandin teaches history at New York University and is the author ofÂ Kissingerâs Shadow.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Great article, can&apos;t wait to see a follow up from ï»¿ SÃ¼ddeutsche Zeitung, on "what is coming next."
+
+My questions are why is this progressive magazine falling in with this backwards nomenclature, and who is this âweâ that calls age old capitalism neoliberalism? 
+
+Wikipedia defines neoliberalism as the "resurgence of 19th century ideas associated with laissez-faire economic liberalism beginning in the 1970s and 1980s."  In the open journal systemsâ Studies in Political Economy,  Wendy Larner writes :
+
+âIn critical social science literatures, the term has usurped [nb] labels referring to specific political projects (Thatcherism, Regeanomics, Rogemomics), and is more widely used than its counterparts including, for example, economic rationalism, monetarism, neo-conservatism, managerialism and contractualism.&apos; Indeed, Jane Jenson recently used "neo-liberal" as a general descriptor for post-welfare state citizenship regimes. 
+
+Internationally, conservative and social democratic governments alike are involved in debates over welfare state processes. Whereas under Keynesian welfarism the state provision of goods and services to a national population was understood as a means
+of ensuring social well-being, neo-liberalism is associated with the preference for a minimalist state.â
+
+Larson names the consequence of this ideology as âthe ârolling backâ of welfare state activities, and a new emphasis on market provisioning of formerly âpublicâ goods and services.â  The rightâs manipulation of language to mask its true face has worked way too well for way too long. Liberalism has too many virtues and doesnât deserve this ongoing slur. Letâs call these practices by their true name: laissez-faire piracy.
+
+But I could have told you Vincent
+This world was never meant 
+For one as beautiful as you.
+
+You might want to try listening to some KRS-1 or Public Enemy or Pac in his non-gangsta mode (e.g. "Changes").  Don McClean is much too saccharine and soporific to ever be in any way linkable with the Left.  He is conservative to the core, and belongs to the fatalistic, Donna-Reed, Wonderful Life for us non-suicides group of artistes who argue things can&apos;t be other than as they are, however tragic.  As Pac said, "Keep my mind on my money, money on my mind, finger on the trigger baby, hand on my nine, smoking blunts of skunk, treatin hos like punks, and only underground funk pumpin outta my trunk."  A more reality based version of leftism in practice--just ask the IRA/Sinn Fein how they got Westminster to see reason.  The methods they used were appalling and in many ways indefensible, but nothing to do with Don McClean or your equally appalling record collection.  Sometimes oligarchies need to feel a little pressure from citizens who refuse to be treated as helots.
+
+Now Hillary has questions about whether Bernie really "is" a Democrat, rather like the period in which she couldn&apos;t say if Obama "is" a Christian and not a Muslim once she began losing to him.  What the Panama Papers, and her public career, make clear is that, regardless what she calls herself, she has worked very hard to be a neoliberal, kleptocratic tool of the oligarchy who chooses to call herself "Democrat," whatever that might mean to her.
+I suppose, to borrow one of her husband&apos;s musings as he faced some legal problems over a sexual harassment issue, it depends what the definition of "is" is.  Bernie "is" a champion of the working class, women, minorities, and the cast-offs and marginal people (the "takers" in Romney&apos;s phrase) from Hillary&apos;s corporate supporters.  Perhaps it actually is time to start debating who "is" and is not a Democrat.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

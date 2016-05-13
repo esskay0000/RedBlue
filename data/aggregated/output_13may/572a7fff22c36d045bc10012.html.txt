@@ -1,0 +1,152 @@
+
+	63
+      
+
+By
+
+Russ Swan For Mailonline
+
+
+
+Published:
+  11:01 EST, 4 May 2016
+
+ | 
+Updated:
+  11:12 EST, 4 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3573514',
+                    'title': 'Think you are acting on intuition? Think again!',
+                    'url': 'http://www.dailymail.co.uk/sciencetech/article-3573514/Think-acting-intuition-Think-brains-use-statistics-calculate-decision-make.html',
+                    'eTwitterStatus': ' http://dailym.ai/24qZC1b via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+63
+shares
+
+ 
+           9
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+           9
+
+View  comments
+
+
+
+The word confidence is used both for the human feeling that a decision is correct and for the mathematical reliability of a calculated answer.
+
+Now it seems these two meanings are more similar than expected.
+
+Even though you don't know it, most of your decisions are actually based on statistics rather than intuition.
+
+The word confidence is used both for the human feeling that a decision is correct and for the mathematical reliability of a calculated answer. Now it seems these meanings are more similar than thought. Even though you don't know it, your decisions (like whether to play or fold) are based on statistics rather than intuition
+
+Adam Kepecs, professor of neuroscience at Cold Spring Harbor Laboratory  said the subjective feeling of confidence is actually based on secret objective calculations performed by the brain.
+
+'The feeling ultimately relies on the same statistical computations a computer would make,' he says.
+
+Writing in the journal Cell, Professor Kepecs describes a series of experiments that prove that confidence in a decision is based on number-crunching rather than guesswork.
+
+He and graduate student Joshua Sanders created video games to compare human and computer performance.
+
+Human volunteers listened to streams of clicks to determine which were faster, and then rated their confidence their decision.
+
+Volunteers listened to streams of clicks to determine which were faster, and then rated their confidence their decision. The scientists found that human responses were similar to statistical calculations
+
+In a follow-on experiment, people were asked questions comparing the populations of countries. This was more complex, because it included each participant's individual knowledge. Even with 'human foibles' such as being overconfident with poor data or under-confident with easy decisions, decisions were consistent with the model
+
+The scientists found that human responses were similar to statistical calculations.
+
+In a follow-on experiment, people were asked questions comparing the populations of various countries. This was more complex, because it included each participant's individual knowledge.
+
+Volunteers listened to streams of clicks to determine which were faster, and then rated their confidence their decision. 
+
+The scientists found that human responses were similar to statistical calculations. 
+
+The scientists found human responses were similar to statistical calculations.
+
+In a follow-on experiment, people were asked questions comparing the populations of various countries. 
+
+This was more complex, because it included each participant's individual knowledge.
+
+Even with 'human foibles' such as being overconfident with poor data or under-confident with easy decisions, decisions were consistent with the model.
+
+Even so, what Kepecs calls the 'human foibles' such as being overconfident with poor data or under-confident with easy decisions, were shown to be consistent with the model.
+
+'Whenever we make decisions, we need confidence. If we did not have an accurate mechanism for confidence that is usually right, we would have difficulties in correcting decisions or placing bets.'
+
+Previous studies had mostly concluded that feelings of confidence came from guesswork and heuristics - the use of mental short-cuts based on experience, or rules of thumb.
+
+This would mean that feelings of confidence have some objectivity, but are still error-prone shortcuts.
+
+Kepecs argues that if confidence were error-prone, simple tasks such as deciding to make a turn while driving would be difficult.
+
+In fact, he says, human responses are very similar to statistical calculations. The brain produces feelings of confidence in the same way statistics pulls patterns out of noisy data.
+
+'This subjective feeling of confidence relies on a statistical computation,' Kepecs says. 'Confidence is not a heuristic or a shortcut.' 
+
+ 
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+
+
+
+      The science of the Borrowers: Tiny people would have been 'blind, deaf and very cold' if they did exist, study reveals
+    
+
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

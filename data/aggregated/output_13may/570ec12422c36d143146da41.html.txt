@@ -1,0 +1,249 @@
+
+	672
+      
+
+By
+
+Ellie Zolfagharifard For Dailymail.com
+
+
+
+
+Published:
+  17:44 EST, 12 April 2016
+
+ | 
+Updated:
+  19:23 EST, 12 April 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3536787',
+                    'title': 'Incredible eclipse image reveals the sun in unprecedented detail',
+                    'url': 'http://www.dailymail.co.uk/sciencetech/article-3536787/The-eye-universe-Incredible-eclipse-image-reveals-sun-unprecedented-detail.html',
+                    'eTwitterStatus': ' http://dailym.ai/1SedbLF via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+672
+shares
+
+ 
+          11
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          11
+
+View  comments
+
+The incredible images that emerged from the March 9th total solar eclipse were impressive enough.
+
+But now Nasa has gone one better by creating a composite view of the eclipse that makes the sun look like the Eye of Sauron in Lord of the Rings.
+
+The composite image shows the solar corona, which is an aura of plasma that surrounds the sun and extends millions of miles into space, as seen during the solar eclipse from both Earth and space.  
+
+Scroll down for video 
+
+The composite image shows the solar corona, which is an aura of plasma that surrounds the sun and extends millions of miles into space. The blue part of the image shows the total eclipse from the ground, with the central pupil created by the bright sun covered by a comparatively dark moon. The red section was viewed from space, acquired by the sun-orbiting Solar and Heliospheric Observatory
+
+The corona is the sun's outer atmosphere.
+
+It is visible during total eclipses of the sun as a pearly white crown surrounding the sun.
+
+The corona displays a variety of features including streamers, plumes, and loops. 
+
+These features change from eclipse to eclipse and the overall shape of the corona changes with the sunspot cycle.
+
+The blue part of the image shows the total eclipse from the ground, with the central pupil created by the bright sun covered by a comparatively dark moon.
+
+Surrounding the blocked solar disk is the tenuous corona of sun imaged in white light.
+
+The red section was viewed from space, acquired by the sun-orbiting Solar and Heliospheric Observatory (SOHO) spacecraft. 
+
+The corona is easily visible from the ground only during an eclipse. 
+
+Normally, this corona is hard to track far from the sun, but the featured montage matches it to false-colored observations of the sun using space probes. 
+
+
+
+Images like this allow the study of the constantly changing magnetic activity both near and far from the sun - the same activity that ultimately drives Earth's auroras.
+
+Last month, thousands of tourists and astronomy enthusiasts flocked to Indonesia to catch the country's first solar eclipse in nearly 33 years.
+
+The eclipse, which took place on March 9, was also visible in parts of Australia and south-east Asia.
+
+However, only some parts of the country got to see the sun totally eclipsed by the moon, which happened almost immediately after the sun rose.
+
+Because the moon's shadow crossed the international date line, it appeared in the afternoon of the 8th in some regions, despite being visible from the morning of the 9th in others. 
+
+A solar eclipse happens when the moon casts a shadow on the Earth as it passes between the earth and the sun. At least twice a year, the orbits of the moon and Earth block the sun to cause a shadow on Earth.
+
+The incredible images that emerged from the March 9th total solar eclipse were impressive enough. But now Nasa has gone one better by creating a composite view of the eclipse that makes the sun look like the Eye of Sauron in Lord of the Rings (pictured)
+
+Thousands of tourists and astronomy enthusiasts flocked to Indonesia last month to catch the country's first solar eclipse in nearly 33 years. The eclipse was also visible in parts of Australia and south-east Asia. The total solar eclipse as seen from the beach on Ternate island, Indonesia is pictured
+
+A partial solar eclipse is pictured above a cloud formation at dawn in Singapore on March 9. The eclipse was also visible around the region in Indonesia and Malaysia. However, only some parts of the country got to see the sun totally eclipsed by the moon, which happened almost immediately after the sun rose
+
+The composite image shows the solar corona, which is an aura of plasma that surrounds the sun and extends millions of miles into space.
+
+The blue part of the image shows the total eclipse from the ground, with the central pupil created by the bright sun covered by a comparatively dark moon.
+
+The red section was viewed from space, acquired by the sun-orbiting Solar and Heliospheric Observatory (SOHO) spacecraft. 
+
+Most eclipses are partial, but when the moon is in close to the earth, it results in a total eclipse.
+
+The last total solar eclipse was in March 2015, and the one before that was in November 2012.
+
+The total eclipse last month was visible within a roughly 62 to 93-mile (100-150km) wide path that started in the Indian Ocean and sliced across parts of Indonesia including Sumatra, Kalimantan and Sulawesi before ending in the northern Pacific Ocean.
+
+The sun itself was entirely obscured from between 90 seconds and five minutes, depending on the viewer's location.
+
+The point at which the total eclipse lasted the longest - four minutes and nine seconds - was in the Pacific Ocean east of the Philippines.
+
+Palembang was the first city to see the total eclipse, at about 7:20 am local time on March 9.
+
+The total eclipse then occurred from midnight GMT, 7pm ET to 4 am G.M.T (11pm ET).
+
+Those is Sydney, Brisbane, Adelaide and Hobart missed the eclipse, but those in far north Queensland could see it from about 11am local time.
+
+It happened in the Northern Territory by 10am and Western Australia caught a glimpse of a partial eclipse from 8am.
+
+And for people who missed it in the west, a total solar eclipse will pass through the US and over Europe in August 2017, with the longest visible viewing spot in Tennessee and Kentucky.  
+
+'Though only people along the narrow path of totality will see the total eclipse, millions more will see some degree of a partial solar eclipse in Asia and the Pacific, including Hawaii, Guam and parts of Alaska,' Nasa said in a statement.  
+
+Cruel brothers convince little sister of zombie apocalypse
+
+Outrageously rude passenger is booted from Jet Blue flight
+
+A broken frisbee makes this poor pup terribly sad
+
+Russian jet is seen flying within 30 feet of USS Donald Cook
+
+Terror from the deep! Marine Iguana resembles 'Godzilla'
+
+Justin Bieber uses Post Malone's arm as an ashtray in club
+
+Scantily-clad Coco twerks with baby in tow during photo shoot
+
+Kate and Will laugh together as they enjoy safari in India
+
+Justin Bieber holds a beer bong tube as he parties in Houston
+
+Little boy mesmerises Wills and Kate with dancing in Assam
+
+Dancing boy enthrals Wills and Kate at fire festival in Assam
+
+Scene following police shooting of Chicago teen Pierre Loury
+
+This combined photo shows the moon passing in front of the sun (top left to bottom right) during a total solar eclipse in the city of Ternate, in Indonesia's Maluku Islands, on March 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A woman was pictured watch the eclipse along the banks of the Musi River in Palembang, Indonesia. Most eclipses are partial, but when the moon is in close to the earth, it results in a total eclipse. The last total solar eclipse was in March 2015, and the one before that was in November 2012
+
+Cruel brothers convince little sister of zombie apocalypse
+
+Outrageously rude passenger is booted from Jet Blue flight
+
+A broken frisbee makes this poor pup terribly sad
+
+Russian jet is seen flying within 30 feet of USS Donald Cook
+
+Terror from the deep! Marine Iguana resembles 'Godzilla'
+
+Justin Bieber uses Post Malone's arm as an ashtray in club
+
+Scantily-clad Coco twerks with baby in tow during photo shoot
+
+Kate and Will laugh together as they enjoy safari in India
+
+Justin Bieber holds a beer bong tube as he parties in Houston
+
+Little boy mesmerises Wills and Kate with dancing in Assam
+
+Dancing boy enthrals Wills and Kate at fire festival in Assam
+
+Scene following police shooting of Chicago teen Pierre Loury
+
+ 
+
+
+
+Pretty cool.
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+We are no longer accepting comments on this article.
+
+
+
+
+      Close-up images show the devastating effect of coral bleaching on the Great Barrier Reef - leaving huge stretches of the natural wonder with ghostly skeletons covered by swampy algae
+    
+
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

@@ -1,0 +1,255 @@
+
+	483
+      
+
+By
+
+Corey Charlton for MailOnline
+
+
+and 
+Simon Caldwell for the Daily Mail
+
+
+
+Published:
+  04:27 EST, 8 April 2016
+
+ | 
+Updated:
+  18:14 EST, 8 April 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3529686',
+                    'title': 'Pope Francis rejects gay marriage in \'Joy of Love\' report',
+                    'url': 'http://www.dailymail.co.uk/news/article-3529686/Pope-Francis-set-release-Catholic-Church-guidelines-today-love-sex-marriage-landmark-report-define-legacy.html',
+                    'eTwitterStatus': ' http://dailym.ai/1SUju3K via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+483
+shares
+
+ 
+         129
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+         129
+
+View  comments
+
+Pope Francis has encouraged married couples to enjoy 'erotic' sex and claimed sexual desire is essential to developing 'self-mastery' of one's own body.
+
+Excerpts from his 260-age 'Joy of Love' text reveal Francis' belief that the pursuit of sexual pleasures helps life become 'good and happy' and should be considered a 'gift from god'.
+
+But despite shedding many of the stuffy euphemisms common among his predecessors, he would not budge on the Church's longstanding refusal to endorse gay marriage.
+
+As was expected, he did relax guidance regarding how the Church should deal with cohabitation and divorcees who remarry.
+
+
+
+
+
+Pope Francis this morning released new guidelines determining the Church's stance on historically conservative issues such as homosexuality, marriage and divorce, and the family
+
+However, liberals within the Church will be left disappointed after Francis decided to keep the status quo regarding same-sex marriages
+
+Released at noon today, the 'Joy of Love' was one of the most highly anticipated moments of the 79-year-old Argentinian's tenure and is expected to define his legacy. 
+
+The Pope told married couples to welcome 'with sincere and joyful gratitude the physical expressions of love found in a caress, an embrace, a kiss and sexual union'.
+
+'A healthy sexual desire, albeit closely joined to a pursuit of pleasure, always involves a sense of wonder, and for that very reason can humanise the impulses,' he said.
+
+'In no way, then, can we consider the erotic dimension of love simply as a permissible evil or a burden to be tolerated for the good of the family. Rather, it must be seen as gift from God that enriches the relationship of the spouses.
+
+'As a passion sublimated by a love respectful of the dignity of the other, it becomes a pure, unadulterated affirmation revealing the marvels of which the human heart is capable.
+
+'In this way, even momentarily, we can feel that life has turned out good and happy.'
+
+It was also important for young couples to understand that married life was a process of growth which led them to mellow with age, the Pope continued.
+
+He noted that 'unduly high expectations' of constantly great sex was among the reasons why marriages sometimes failed.
+
+He explained that sexual desires of spouses usually receded over decades only to be replaced by 'the pleasure of mutual belonging and the knowledge that neither of them is alone but has a partner with whom everything in life is shared'.
+
+This satisfaction in older couples, the Pope said, was itself 'part of the affection proper to conjugal love'.
+
+
+
+Meanwhile, maintaining the status quo, Francis said homosexuals should be able to live free from discrimination, but the institute of marriage remained a sacred bond between a man and a woman.
+
+While not unexpected, no changes to his stance on gay marriage will come as a disappointment for Catholics who had been encouraged to hope for real change by Francis's famous 'Who am I to judge?' remark about homosexuality early in his papacy.
+
+Cardinal Lorenzo Baldisseri and Cardinal Christoph Schonborn hold up a copy of Pope Francis' 'The Joy of Love' at the Holy See Press Office today
+
+
+
+
+
+In the absence of any new language on gay believers, official Church teaching defaults to the controversial formula that same-sex relationships are 'intrinsically disordered'.
+
+The area in which the missive arguably signals the biggest change is in its recognition of the values embodied in the relationships of people once severely condemned as 'living in sin'.
+
+He also said the situation for families with gay relatives was 'not easy for parents or for children', and said the Church must avoid 'every sign of unjust discrimination' towards homosexuals.
+
+Officially referred to as an 'apostolic exhortation', the massive text targets a huge swathe of issues related to family life.
+
+He says that individual conscience should be the guiding principle for Catholics negotiating the complexities of sex, marriage and family life.
+
+However, it also rejects the Church's emphasis on inflexible black and white rules for its faithful.
+
+He makes no change in church doctrine, but in selectively citing his predecessors and emphasising his own teachings, he makes clear that he wants a revolution in the way priests accompany Catholics.
+
+He says the church must no longer sit in judgment and 'throw stones' against those who fail to live up to the Gospel's ideals of marriage and family life.
+
+He said: 'We have been called to form consciences, not replace to them. I understand those who prefer a more rigorous pastoral care which leaves no room for confusion.
+
+'But I sincerely believe that Jesus wants a church attentive to the goodness which the Holy Spirit sows in the midst of human weakness.'
+
+Pope Francis slammed the door shut on proposals to empower gay unions, saying they were 'not analogous to God's plan for family'
+
+HOMOSEXUALITY:Francis slaps down proposals to place gay unions on the same level as marriage, saying bishops found 'there are absolutely no grounds for considering homosexual unions to be in any way similar or even remotely analogous to God's plan for marriage and family'.
+
+He offered sympathy to those families with gay relatives, 'a situation not easy for parents or for children', and said the Church must avoid 'every sign of unjust discrimination' towards homosexuals.
+
+COHABITATION: Francis says couples who live together outside of marriage 'need to be welcomed and guided, patiently and discreetly', and the choice to cohabit may be based on external factors such as financial difficulties or cultural situations.
+
+REMARRIED DIVORCED PEOPLE: 'They are not excommunicated and should not be treated as such', and should be made to feel part of the Church 'while avoiding any occasion of scandal'. The pope says the Christian community caring for such people 'is not to be considered a weakening of its faith' but a sign of 'its charity'.
+
+BROKEN MARRIAGES:Pastors should judge situations on a case-by-case basis: 'we know that no "easy recipes" exist'.
+
+CHILDREN: Offspring should be taught to say 'please', 'thank you' and 'sorry, they should be punished for misbehaviour, cured of the vice of 'wanting it all now' and prevented from watching television programmes which undercut family values.
+
+CHURCH SELF-CRITICISM: 'We need a healthy dose of self-criticism', said the pope, admitting that until now the Church has 'proposed a far too abstract and almost artificial theological ideal of marriage' and struggles to present marriage as more than 'a lifelong burden'. 
+
+CONTRACEPTION: The Church sanctioned family planning method of abstaining from sex should be 'promoted' - not that other methods are forbidden - and children must receive sex education, albeit without focusing on 'safe sex'.
+
+On thorny issues such as contraception, he stressed that a couple's individual conscience - not dogmatic rules imposed across the board - must guide their decisions and the church's pastoral practice.
+
+He insisted the church's aim is to reintegrate and welcome all its members. He called for a new language to help Catholic families cope with today's problems, and said pastors must take into account mitigating factors - fear, ignorance, habits and duress - in counselling Catholics who are not perfect.
+
+'It can no longer simply be said that all those in any irregular situations are living in a state of mortal sin and are deprived of sanctifying grace,' he wrote.
+
+Even those in an 'objective situation of sin' can be in a state of grace, and can even be more pleasing to God by trying to improve, he said.
+
+The document's release marks the culmination of a divisive two-year consultation of ordinary Catholics and the church hierarchy that Francis initiated in hopes of understanding the problems facing Catholic families today and providing them with better pastoral care.
+
+The most divisive issue was whether Francis would loosen the Vatican's strict position on whether Catholics who divorce and remarry can receive Communion.
+
+Church teaching holds that unless these Catholics receive an annulment, or a church decree that their first marriage was invalid, they are committing adultery and cannot receive Communion.
+
+Francis's image as a progressive Pope had many liberals hoping he would announce changes to the Church's stance on homosexuality. They are likely to be disappointed in his decision to maintain the status quo
+
+Conservatives had insisted the rules were fixed and there was no way around Christ's teaching on marriage. Progressives had sought to balance doctrine with mercy and look at each couple on a case-by-case basis, accompanying them on a path of reconciliation that could lead to them eventually receiving the sacraments.
+
+Francis took a unilateral step last year in changing church law to make it easier to get an annulment.
+
+Today he said the rigorous response proposed by the conservatives was inconsistent with Jesus's message of mercy.
+
+'By thinking that everything is black and white, we sometimes close off the way of grace and of growth and discourage paths of sanctification which give glory to God.
+
+'Let us remember that a small step in the midst of great human limitations can be more pleasing to God than a life which appears outwardly in order but moves through the day without confronting great difficulties.'
+
+Francis did not endorse the 'penitential path' of bringing such civilly remarried Catholics to Communion that was advocated by leading progressives such as Cardinal Walter Kasper.
+
+But he repeated what the synod had endorsed the need for pastors to help individual Catholics over the course of spiritual direction to ascertain what God is asking of them.
+
+And he went further by explicitly linking such discussions of conscience with having access to the sacraments.
+
+In footnotes, Francis cited his previous document The Joy Of The Gospel in saying that the Eucharist 'is not a prize for the perfect but a powerful medicine and nourishment for the weak'.
+
+While Francis frequently cited John Paul, whose papacy was characterised by a hardline insistence on doctrine and sexual morals, he did so selectively.
+
+Francis referenced certain parts of John Paul's 1981 Familius Consortio, the guiding Vatican document on family life until Friday, but he omitted any reference to its divisive paragraph 83, which explicitly forbids the sacraments for the divorced and civilly remarried.
+
+In fact, Francis went further than mere omission and squarely rejected John Paul's call in that document for people in civil second marriages to live as brother and sister, abstaining from sex so they can still receive the sacraments.
+
+In a footnote, Francis said many people offered such a solution by the church 'point out that if certain expressions of intimacy are lacking it often happens that faithfulness is endangered and the good of children suffer'.
+
+Similarly, in discussing the need for 'responsible parenthood' and regulating the number of children, Francis made no mention of the church's opposition to artificial contraception. He squarely rejected abortion as 'horrendous' and cited the 1968 encyclical Humanae Vitae, which deals with the issue.
+
+But Francis made no mention of the 'unlawful birth control methods' rejected in Humanae Vitae. Instead he focused on the need for couples in their conscience to make decisions about their family size.
+
+He also condemned at length the 'verbal, physical and sexual violence' many women endure in marriages, rejects 'sexual submission' and the 'reprehensible' practice of genital mutilation.
+
+And he says the belief that feminism is to blame for the crisis in families today is completely invalid.
+
+A group of LGBT activists celebrate outside the Justice Palace in Bogota following the court's decision
+
+Colombia's highest court is paving the way for same-sex couples to marry in the conservative Roman Catholic nation.
+
+Gay couples in Colombia were already allowed to form civil unions, with many benefits of marriage including inheritance, pensions and health benefits. But the symbolically important right to wed was something that so far has been denied.
+
+On Thursday, the Constitutional Court took a giant step in settling the controversy, rejecting by a 6-3 vote a justice's opinion that would have prevented public notaries from registering the unions as marriages.
+
+In the coming weeks, a new ruling reflecting the majority opinion that such practice is discriminatory is expected to be approved, legalizing same-sex marriage.
+
+'Love triumphed,' said 25-year-old David Alonso, one of a few dozen LGBTI activists who gathered outside the court to celebrate the ruling. 'This is a historical debt that is finally being settled.'
+
+Only a handful of nations in Latin America allow gay and lesbian couples to marry, including Argentina, Brazil and Uruguay.
+
+Colombia's progressive court had already shown its willingness to expand the rights of same-sex couples when it ruled last year that gay couples can adopt children. In 2011, it also ordered congress to design rules to record civil unions between same-sex couples in a way that ensured they weren't discriminated against.
+
+When congress failed to act, many public notaries began registering the civil unions as marriages while some rejected the term outright, giving rise to the dispute now at the court.
+
+President Juan Manuel Santos' government supported activists in reaffirming the right to marry, taking on opposition from the powerful Catholic church and the country's independent Inspector General.
+
+Congresswoman Angelica Lozano said that with the legal dispute near resolution Colombia's gay community must now focus on ending discrimination.
+
+'Today we've won our constitutional rights, now we need to fight on the streets and inside people's homes,' she said.
+
+
+
+
+                                	Share what you think
+                                
+
+The comments below have been moderated in advance.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

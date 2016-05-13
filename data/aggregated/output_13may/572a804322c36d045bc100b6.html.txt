@@ -1,0 +1,1061 @@
+
+
+Anthony Weiner. (Courtesy of Sundance Selects)
+
+The outstanding political film of the 2016 presidential season is about the 2013 New York City mayoral race. Like many of the best documentaries, it brings you so close to people in their unguarded moments that you marvel at the trust, or complicity, that grew between the filmmakers and their subjects. Unlike most, it shows some of these people wondering how the film has even come to exist—an inescapable question, given that the intrusion into its chosen candidate’s life is extreme, and the candidate’s urge to self-broadcast has led to his extremity.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211247-0','tn_culture_arts_and_entertainment_ros_halfpage_1','tn_culture_arts_and_entertainment_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+“Shit. This is the worst: doing a documentary on my scandal,” mutters An­thony Weiner—seven-time US congressman, two-time New York mayoral candidate, and twice-exposed enthusiast of cell-phone flirtation—­as seen at the beginning of Weiner. At the conclusion, after this second mayoral bid has ended in humiliation, an off-camera Josh Kriegman (who codirected with Elyse Steinberg) rounds out the theme by asking the obvious: “Why have you let me film this?”		
+“This” amounts to everything: from Weiner’s home life and the boisterous early days of his 2013 campaign (before the emergence of another round of cybersex messages) to his sudden drop into an abyss of shame and mockery. You see it all: the behind-the-scenes maneuvering of his increasingly grim staff, Weiner’s principled (or perhaps near-delusional) determination to press on, and the cold fury of his wife—the poised, beautiful, and highly accomplished political operative Huma Abedin—who can neither abide the public role into which she’s been thrust nor fully evade it, and so takes to standing silently in doorways, staring darkly at her husband with a downward gaze while clutching her elbows as if they were weapons that needed to be kept in check.		
+Past a certain point, why didn’t Weiner send Kriegman and Steinberg packing? Why didn’t he at least limit what they could film? (Not only did they go on recording the campaign team in its dismal flailing, but they also continued to have access to the family’s apartment, where they could wait in the kitchen to ask Abedin how she felt as she came in for breakfast. “Living in a nightmare,” she says.) Fairly early in the movie, in a scene shot on the street, a curious passerby asks Weiner “Why are they filming you?” and gets this reply: “Most of the time, I don’t know.” At the end, confronted by the riddle of his cooperation, he still has no answer.		
+So it’s up to you to make the connections—although Weiner, being sharp-tongued and contentious but also smart and not without self-knowledge—does offer some reflections. During a quiet moment, he speaks about the “superficial and transactional” relationships that politicians enter into, which might give rise to a habit of sexting, he says speculatively, or perhaps could be the very reason that an emotionally needy person goes into politics in the first place. In the film’s most buoyant scenes, you get plenty of evidence to back up the latter theory. Kriegman and Steinberg show the former congressman as a natural politician—the opposite, you might say, of Abedin’s boss, Hillary Clinton. Weiner enjoys nothing more than waving giant flags from atop parade floats, except for bounding off those floats so he can hug random onlookers. This lean-framed man comes off as someone who lives on adrenaline boosted from strangers. If they cheer, great; if they jeer, he still gets the rush. If he catches a group’s ear in public, he can promote his policies (many of which might appeal to Nation readers). If he engages a female voter singly, in the pseudo-privacy of the digital realm, he can advance his more corporeal agenda.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Why Bernie Didn’t Get My Vote5This Is What Happens When Republican Voters Get What They Want
+Does one expression of Weiner’s character invalidate the other? He argues that the answer should be no—and when you see him valiantly carrying on about housing in the Bronx or volunteer services, before a press corps that wants to ask about nothing but his underwear, you might feel he has a point. You might even sympathize when he predicts that Kriegman and Steinberg’s film, despite their best efforts, is fated to become just another blip in the entertainment cycle.		
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+“Shit. This is the worst: doing a documentary on my scandal,” mutters An­thony Weiner—seven-time US congressman, two-time New York mayoral candidate, and twice-exposed enthusiast of cell-phone flirtation—­as seen at the beginning of Weiner. At the conclusion, after this second mayoral bid has ended in humiliation, an off-camera Josh Kriegman (who codirected with Elyse Steinberg) rounds out the theme by asking the obvious: “Why have you let me film this?”		
+“This” amounts to everything: from Weiner’s home life and the boisterous early days of his 2013 campaign (before the emergence of another round of cybersex messages) to his sudden drop into an abyss of shame and mockery. You see it all: the behind-the-scenes maneuvering of his increasingly grim staff, Weiner’s principled (or perhaps near-delusional) determination to press on, and the cold fury of his wife—the poised, beautiful, and highly accomplished political operative Huma Abedin—who can neither abide the public role into which she’s been thrust nor fully evade it, and so takes to standing silently in doorways, staring darkly at her husband with a downward gaze while clutching her elbows as if they were weapons that needed to be kept in check.		
+Past a certain point, why didn’t Weiner send Kriegman and Steinberg packing? Why didn’t he at least limit what they could film? (Not only did they go on recording the campaign team in its dismal flailing, but they also continued to have access to the family’s apartment, where they could wait in the kitchen to ask Abedin how she felt as she came in for breakfast. “Living in a nightmare,” she says.) Fairly early in the movie, in a scene shot on the street, a curious passerby asks Weiner “Why are they filming you?” and gets this reply: “Most of the time, I don’t know.” At the end, confronted by the riddle of his cooperation, he still has no answer.		
+So it’s up to you to make the connections—although Weiner, being sharp-tongued and contentious but also smart and not without self-knowledge—does offer some reflections. During a quiet moment, he speaks about the “superficial and transactional” relationships that politicians enter into, which might give rise to a habit of sexting, he says speculatively, or perhaps could be the very reason that an emotionally needy person goes into politics in the first place. In the film’s most buoyant scenes, you get plenty of evidence to back up the latter theory. Kriegman and Steinberg show the former congressman as a natural politician—the opposite, you might say, of Abedin’s boss, Hillary Clinton. Weiner enjoys nothing more than waving giant flags from atop parade floats, except for bounding off those floats so he can hug random onlookers. This lean-framed man comes off as someone who lives on adrenaline boosted from strangers. If they cheer, great; if they jeer, he still gets the rush. If he catches a group’s ear in public, he can promote his policies (many of which might appeal to Nation readers). If he engages a female voter singly, in the pseudo-privacy of the digital realm, he can advance his more corporeal agenda.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Why Bernie Didn’t Get My Vote5This Is What Happens When Republican Voters Get What They Want
+Does one expression of Weiner’s character invalidate the other? He argues that the answer should be no—and when you see him valiantly carrying on about housing in the Bronx or volunteer services, before a press corps that wants to ask about nothing but his underwear, you might feel he has a point. You might even sympathize when he predicts that Kriegman and Steinberg’s film, despite their best efforts, is fated to become just another blip in the entertainment cycle.		
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+“This” amounts to everything: from Weiner’s home life and the boisterous early days of his 2013 campaign (before the emergence of another round of cybersex messages) to his sudden drop into an abyss of shame and mockery. You see it all: the behind-the-scenes maneuvering of his increasingly grim staff, Weiner’s principled (or perhaps near-delusional) determination to press on, and the cold fury of his wife—the poised, beautiful, and highly accomplished political operative Huma Abedin—who can neither abide the public role into which she’s been thrust nor fully evade it, and so takes to standing silently in doorways, staring darkly at her husband with a downward gaze while clutching her elbows as if they were weapons that needed to be kept in check.		
+Past a certain point, why didn’t Weiner send Kriegman and Steinberg packing? Why didn’t he at least limit what they could film? (Not only did they go on recording the campaign team in its dismal flailing, but they also continued to have access to the family’s apartment, where they could wait in the kitchen to ask Abedin how she felt as she came in for breakfast. “Living in a nightmare,” she says.) Fairly early in the movie, in a scene shot on the street, a curious passerby asks Weiner “Why are they filming you?” and gets this reply: “Most of the time, I don’t know.” At the end, confronted by the riddle of his cooperation, he still has no answer.		
+So it’s up to you to make the connections—although Weiner, being sharp-tongued and contentious but also smart and not without self-knowledge—does offer some reflections. During a quiet moment, he speaks about the “superficial and transactional” relationships that politicians enter into, which might give rise to a habit of sexting, he says speculatively, or perhaps could be the very reason that an emotionally needy person goes into politics in the first place. In the film’s most buoyant scenes, you get plenty of evidence to back up the latter theory. Kriegman and Steinberg show the former congressman as a natural politician—the opposite, you might say, of Abedin’s boss, Hillary Clinton. Weiner enjoys nothing more than waving giant flags from atop parade floats, except for bounding off those floats so he can hug random onlookers. This lean-framed man comes off as someone who lives on adrenaline boosted from strangers. If they cheer, great; if they jeer, he still gets the rush. If he catches a group’s ear in public, he can promote his policies (many of which might appeal to Nation readers). If he engages a female voter singly, in the pseudo-privacy of the digital realm, he can advance his more corporeal agenda.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Why Bernie Didn’t Get My Vote5This Is What Happens When Republican Voters Get What They Want
+Does one expression of Weiner’s character invalidate the other? He argues that the answer should be no—and when you see him valiantly carrying on about housing in the Bronx or volunteer services, before a press corps that wants to ask about nothing but his underwear, you might feel he has a point. You might even sympathize when he predicts that Kriegman and Steinberg’s film, despite their best efforts, is fated to become just another blip in the entertainment cycle.		
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Past a certain point, why didn’t Weiner send Kriegman and Steinberg packing? Why didn’t he at least limit what they could film? (Not only did they go on recording the campaign team in its dismal flailing, but they also continued to have access to the family’s apartment, where they could wait in the kitchen to ask Abedin how she felt as she came in for breakfast. “Living in a nightmare,” she says.) Fairly early in the movie, in a scene shot on the street, a curious passerby asks Weiner “Why are they filming you?” and gets this reply: “Most of the time, I don’t know.” At the end, confronted by the riddle of his cooperation, he still has no answer.		
+So it’s up to you to make the connections—although Weiner, being sharp-tongued and contentious but also smart and not without self-knowledge—does offer some reflections. During a quiet moment, he speaks about the “superficial and transactional” relationships that politicians enter into, which might give rise to a habit of sexting, he says speculatively, or perhaps could be the very reason that an emotionally needy person goes into politics in the first place. In the film’s most buoyant scenes, you get plenty of evidence to back up the latter theory. Kriegman and Steinberg show the former congressman as a natural politician—the opposite, you might say, of Abedin’s boss, Hillary Clinton. Weiner enjoys nothing more than waving giant flags from atop parade floats, except for bounding off those floats so he can hug random onlookers. This lean-framed man comes off as someone who lives on adrenaline boosted from strangers. If they cheer, great; if they jeer, he still gets the rush. If he catches a group’s ear in public, he can promote his policies (many of which might appeal to Nation readers). If he engages a female voter singly, in the pseudo-privacy of the digital realm, he can advance his more corporeal agenda.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Why Bernie Didn’t Get My Vote5This Is What Happens When Republican Voters Get What They Want
+Does one expression of Weiner’s character invalidate the other? He argues that the answer should be no—and when you see him valiantly carrying on about housing in the Bronx or volunteer services, before a press corps that wants to ask about nothing but his underwear, you might feel he has a point. You might even sympathize when he predicts that Kriegman and Steinberg’s film, despite their best efforts, is fated to become just another blip in the entertainment cycle.		
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+So it’s up to you to make the connections—although Weiner, being sharp-tongued and contentious but also smart and not without self-knowledge—does offer some reflections. During a quiet moment, he speaks about the “superficial and transactional” relationships that politicians enter into, which might give rise to a habit of sexting, he says speculatively, or perhaps could be the very reason that an emotionally needy person goes into politics in the first place. In the film’s most buoyant scenes, you get plenty of evidence to back up the latter theory. Kriegman and Steinberg show the former congressman as a natural politician—the opposite, you might say, of Abedin’s boss, Hillary Clinton. Weiner enjoys nothing more than waving giant flags from atop parade floats, except for bounding off those floats so he can hug random onlookers. This lean-framed man comes off as someone who lives on adrenaline boosted from strangers. If they cheer, great; if they jeer, he still gets the rush. If he catches a group’s ear in public, he can promote his policies (many of which might appeal to Nation readers). If he engages a female voter singly, in the pseudo-privacy of the digital realm, he can advance his more corporeal agenda.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Why Bernie Didn’t Get My Vote5This Is What Happens When Republican Voters Get What They Want
+Does one expression of Weiner’s character invalidate the other? He argues that the answer should be no—and when you see him valiantly carrying on about housing in the Bronx or volunteer services, before a press corps that wants to ask about nothing but his underwear, you might feel he has a point. You might even sympathize when he predicts that Kriegman and Steinberg’s film, despite their best efforts, is fated to become just another blip in the entertainment cycle.		
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+Why Bernie Didn’t Get My Vote
+
+This Is What Happens When Republican Voters Get What They Want
+
+Does one expression of Weiner’s character invalidate the other? He argues that the answer should be no—and when you see him valiantly carrying on about housing in the Bronx or volunteer services, before a press corps that wants to ask about nothing but his underwear, you might feel he has a point. You might even sympathize when he predicts that Kriegman and Steinberg’s film, despite their best efforts, is fated to become just another blip in the entertainment cycle.		
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+It’s entertaining, all right; but it’s also more than that. Thanks to the evident persistence and persuasiveness of the codirectors as well as the invaluable writing and editing of Eli B. Despres, Weiner takes you deep into one of the fundamental mysteries of democratic life: the dangers and benefits of the emotions that drive our true political animals, whether they’re Anthony Weiner or (in a prominent guest appearance) Bill Clinton.		
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+It’s something worth thinking about as we face the rise, apparently irresistible, of you-know-who.		
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+* * *		
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Think of the most definitive ways in which filmmakers have introduced their characters, from Rita Hayworth tossing back her curtain of hair in Gilda to Orson Welles materializing from the shadows in The Third Man, and you’ll get some idea of the trick that Terence Davies pulls off in the opening shot of Sunset Song. He has you float uphill, skimming a few feet above a field of sunstruck grain, until a young woman suddenly breaks the surface, sitting upright as if she’d been waiting to germinate, and lifts her shining face to the sky.		
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+It’s not only the unexpectedness of the woman’s appearance but the wholeness of the moment that makes your heart leap with surprise: The character, the rural setting (northeast Scotland), and the movement of the filmmaker’s mind spring up together in so complete and final a form that they might have been lying there all along, waiting for an audience to find them. From this moment through the end of Sunset Song, everything that happens comes to you with the freshness of discovery and the certainty of knowledge.		
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Based on the 1932 Scottish novel by Lewis Grassic Gibbon, Sunset Song dramatizes the maturation of Chris Guthrie (Agyness Deyn) from a promising scholarship student, training for a career as a schoolteacher, to a young war widow and hardworking farmer. The elements of the story are almost a compendium of the themes that Davies has pursued throughout his career, from childhood poverty and the brutality of an overbearing father to the falseness of religion and the succor of popular song. But I don’t believe he has ever before chosen so hopeful a heroine—one who, despite everything, takes charge of her affairs with quiet gaiety, clings to the joy of sexual love, and, after the worst blows, still sees the world illuminated by the lamp that flickers in her heart.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211247-2','tn_culture_arts_and_entertainment_ros_halfpage_2','tn_culture_arts_and_entertainment_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+If those terms, offered by a narrator in voice-over, seem to threaten sentimentality, I can assure you that’s not how the film plays. There is a heart in Sunset Song, in Davies’s impeccable direction. There is light, not just glowing but palpable, in the Caravaggio effects of cinematographer Michael McDonough. And there is a world, which Deyn seems to experience in its fullness with every breath.		
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Because I seized the opportunity to avoid Clash of the Titans (in which she played Aphrodite) and may have blinked when she appeared in Hail, Caesar! (as “Woman in Cab”), Deyn is new to me. Apparently, she’s best known as a fashion model; Davies has certainly found her easy to pose. At one notable moment, when she’s at rest in an armchair, her long, thin left hand, curled back on itself, looks as if it’s been copied from a Mannerist painting. But the ultimate wonder of Sunset Song is that Deyn never seems to notice herself posing, nor does she ever stoop to acting. Davies has asked her to be as abiding as the land itself—as Gibbon says of Chris Guthrie—and that’s all she does.						
+			.article-wrap .article-body aside.left.custom_background_211247			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+That’s everything.		
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+* * *		
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Jacques Audiard’s Dheepan is a wide-screen film that likes to peer through doors left ajar. Outside the horizontal format lies a world that burns with civil wars and teems with refugees. What do most of us see of it? Only a sliver, glimpsed through a vertical crack.		
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Ignorance drives the plot. Soon after the introductory sequence has ended, French officials grant asylum to a man who claims to have fled Sri Lanka with his wife and 9-year-old daughter; and so, with blinkered magnanimity, the Republic welcomes a former guerrilla commander of the Tamil Tigers, who is traveling under the assumed name of Dheepan with an unrelated woman and random child he’s picked up as cover. As for the fictitious family’s new neighbors in an isolated housing project on the outskirts of Paris—a place where the police are too discreet to intrude on the governing drug gangs—they seldom look beyond their own busy affairs. One young gang boss does ask the woman about her origins, but his attention flags when the answer turns out to involve geography. That leaves the three playacting Tamils alone in their secret. Only the man knows—though the woman suspects—­how dangerous he can be.      
+      .cta.primary.URQLUOywOT{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.URQLUOywOT a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+In the American blaxploitation films of the ’70s, the Vietnam War came home to Harlem or Watts in the person of a combat veteran who detonated when pushed too far. Something similar keeps threatening to happen in Dheepan, with the difference that nobody except the Tamils has heard of their war. Nor can that distant conflict be said to have come home to France. Audiard is keenly aware of the legacy of French colonialism—see his breathtaking, hair-raising A Prophet—but he also knows that the culpable Europeans in this case are English. The protagonist in Dheepan bears no grudge against France for his violent past and in fact seems eager to clean up his adopted country, literally, having been given the job of caretaker at the housing project. Humble and soft-spoken in the demeanor that’s been forced on him, evidently patient and hardworking by nature, he is Audiard’s living argument for a generous immigration policy—except, of course, that he might be a ticking bomb.		
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+But, more than that, he’s an initially reluctant but increasingly willing father figure to a bright young orphan, and a fake husband with real desire for a woman who just wants to run off on her own. Figure in the domestic story in Dheepan, and the kinds of tension that Audiard deploys add up to three: suspense about whether the man will explode, anxiety over the fraud being exposed, and yearning (yours, and some of the characters’) for this trio of strangers to grow into a family.		
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+The most affecting scenes, the ones that linger, draw out this yearning: Mere proximity starts to melt into mutual reliance, and mutual reliance into something like love. Even this movement requires some willful ignorance, though. When it seems that a new life might be possible for the man, he takes out a photograph of his wife and children, killed in the war, and embeds the picture in a gilded frame. He builds it with a pair of little doors that he can close over the photo, protecting the memory and shutting it away.		
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Scenes like that, and the occasional interpolation of enigmatic images such as a tight close-up of an elephant in the jungle—­perhaps a dream, or a memory, or a vision of the god Ganesha—make Dheepan uncommonly languorous and moody for a suspense film full of crime and social conflict.		
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Audiard has all but incarnated this paradoxical tone through the casting of a nonprofessional actor in the title role: the French-based Tamil author Antonythasan Jesuthasan. Slightly chubby, fortyish, round-faced, and heavily bearded, he’s a man who projects studiousness and practical skill rather than the coiled menace of a guerrilla in hiding. Only the intensity of his narrow-eyed gaze suggests that Jesuthasan was, in fact, a teenage soldier with the Tamil Tigers long ago. I don’t doubt that this background lends his remarkably nuanced performance some of its weight; but he seems most credible not in the character’s rougher moments, but in his tender, patient, exasperated, frustrated, shy, aroused, and loving interactions with his supposed wife and daughter.		
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+Then again, maybe those characters don’t need him very much. To me, the most affecting scenes in Dheepan belong to the young girl (the solemnly pretty scene-stealer Claudine Vinasithamby), who struggles to acculturate in school as well as to coach her false mother into making a slightly better show of being a real one. Almost as good, though marred by a tendency toward melodrama that intrudes more and more, are Kalieaswari Srinivasan’s scenes as the pretend wife, who takes a housekeeping job for a drug lord and starts feeling a fearful attraction to him.		
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+What do these strands of Dheepan contribute to the explosive climax? Not enough, unfortunately. The spark of life they have in themselves dies out quickly, as Audiard presses them into the service of his purpose: to redeem his main character through self-abnegation and, at the same time, push him toward bloody heroism. Sorry to say, this movement isn’t paradoxical: It’s just self-contradictory, and ultimately self-defeating, as you see when Dheepan concludes with the phoniest epilogue since Taxi Driver.		
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+This isn’t to say that Dheepan is a failure. It’s just a disappointment by Audiard’s high standards. It isn’t hair-raising and breathtaking like A Prophet, or fiercely elemental like Rust and Bone, or fevered and perverse like The Beat That My Heart Skipped. The sad truth is that it’s a little soft, a little too reluctant to kick open its characters’ doors.		
+		
+
+ Stuart Klawans
+ Stuart Klawans is the film critic for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

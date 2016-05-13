@@ -1,0 +1,2663 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script>
+var articlereadbyUser = 0;
+var pageCounterPaywall = 0; 
+      function getCookie(name)
+      {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+      }
+      var checkCookie = getCookie('SESSchecknc');
+      if (checkCookie!='undefined' && checkCookie==1)
+      { 
+         var currentUrl = document.URL;
+         if (currentUrl.indexOf("?nc=1") > -1){ }
+         else
+         {
+            if (currentUrl.indexOf("?") > -1)
+            {
+               if (currentUrl.indexOf("&nc=1") > -1) {}
+               else{
+                  window.location.href = currentUrl+"&nc=1";                  
+               }            
+            }
+            else
+            {
+            window.location.href = currentUrl+"/?nc=1"; 
+			
+            }
+            //document.open('text/javascript');
+            //document.write('<script type="text/undefined">');
+         }
+      }
+</script>
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	 <meta charset="utf-8">
+		<!-- Always force latest IE rendering engine or request Chrome Frame -->
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+		<!-- Use title if it's in the page YAML frontmatter -->			
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’ | The Nation</title>
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="">
+			<!-- Facebook META -->
+			<!--<meta property="fb:app_id" content="">-->
+			<meta property="og:site_name" content="The Nation">
+			<meta property="og:title" content="Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’">
+			<meta property="og:description" content="Platform fights have always mattered.">
+			<!--<meta property="og:url" content="">-->
+			<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img-1440x756.jpg">
+			<meta property="og:type" content="website">
+			<!-- Twitter META -->
+			<meta name="twitter:title" content="Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’">
+			<meta name="twitter:description" content="Platform fights have always mattered.">
+			<meta name="twitter:url" content="http://www.thenation.com/article/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen/">
+			<meta name="twitter:image" content="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img-1440x756.jpg">
+						<!-- Fav Icon -->
+			<!--<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />--->
+			<link rel="icon" type="image/ico" href="http://www.thenation.com/wp-content/themes/thenation/images/favicon.ico" />
+	<meta name="sailthru.image.full" content="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img-680x430.jpg" /> 
+<meta name="sailthru.image.thumb" content="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img-275x173.jpg" />
+<meta name="sailthru.title" content="Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’" />
+<meta name="sailthru.date" content="April 29th, 2016" />
+<meta name="sailthru.content_id" content="210896" />
+<meta name="sailthru.description" content="Platform fights have always mattered." />
+<meta name="sailthru.tags" content="Campaigns and Elections,Democrats,Election 2016,Elections,Politics,The Left," />
+<meta name="keywords" content="Bernie Sanders,Jesse Jackson" />
+<meta name="sailthru.author" content="John Nichols" />
+<script type="text/javascript">
+    (function() 
+	{
+        function loadHorizon() 
+		{
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+        	}
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+		{
+            	if (typeof oldOnLoad === 'function') 
+			{
+                	oldOnLoad();
+          		}
+            	Sailthru.setup({
+                	domain: 'horizon.thenation.com'
+            		});
+        	};
+    	})();
+</script>
+<!--Advertisements-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//kilomonj.net/adBlockDetector/12257" async defer></script>
+<!--<script class="kxct" data-id="JDkN7kNL" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN7kNL"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>-->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20564932" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20564932&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+<link href="http://www.thenation.com/wp-content/themes/thenation/stylesheets/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="As he continues to campaign for Democratic primary votes from Indiana to Oregon, Bernie Sanders has begun to detail a vision for where the movement that has developed to support his candidacy might move the Democratic Party." />
+<meta name="keywords" content="campaigns and elections, democrats, election 2016, elections, politics, the left, bernie sanders, jesse jackson" />
+<meta property="fb:app_id" content="192399944158735" />
+<meta property="og:site_name" content="The Nation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’" />
+<meta property="og:url" content="http://www.thenation.com/article/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen/" />
+<meta property="og:description" content="As he continues to campaign for Democratic primary votes from Indiana to Oregon, Bernie Sanders has begun to detail a vision for where the movement that has developed to support his candidacy might move the Democratic Party." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2016-05-01T11:03:30+00:00" />
+<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="907" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2016-04-29T15:29:33+00:00" />
+<meta property="article:modified_time" content="2016-05-01T11:03:30+00:00" />
+<meta property="article:author" content="http://www.thenation.com/author/JohnNichols/" />
+<meta property="article:publisher" content="https://www.facebook.com/TheNationMagazine" />
+<meta property="article:tag" content="campaigns and elections" />
+<meta property="article:tag" content="democrats" />
+<meta property="article:tag" content="election 2016" />
+<meta property="article:tag" content="elections" />
+<meta property="article:tag" content="politics" />
+<meta property="article:tag" content="the left" />
+<meta property="article:tag" content="bernie sanders" />
+<meta property="article:tag" content="jesse jackson" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TheNation" />
+<meta name="twitter:title" content="Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’" />
+<meta name="twitter:description" content="As he continues to campaign for Democratic primary votes from Indiana to Oregon, Bernie Sanders has begun to detail a vision for where the movement that has developed to support his candidacy might move the Democratic Party." />
+<meta name="twitter:image:src" content="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img.jpg" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="907" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Feed" href="http://www.thenation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Comments Feed" href="http://www.thenation.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’ Comments Feed" href="http://www.thenation.com/article/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thenation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='defaultbasic-css'  href='http://www.thenation.com/wp-content/themes/thenation/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='thenation-stylesheet-all-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/all.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='basicfonts-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/fonts.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_calendar-jos-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_frontend-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style_submissions-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tn_stf_style-css'  href='http://www.thenation.com/wp-content/plugins/tn-sailthruforms/admin/assets/tn_sailthruforms_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.thenation.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/tn-customeditor//tinymce-dropcap.js?ver=4.2.4'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thenation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.13" />
+<link rel='canonical' href='http://www.thenation.com/article/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen/' />
+<link rel='shortlink' href='http://www.thenation.com/?p=210896' />
+<link rel="stylesheet" href="http://www.thenation.com/wp-content/plugins/solr-for-wordpress-on-pantheon/template/autocomplete.css" type="text/css" media="screen" />
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          //  $("#s").suggest("?method=autocomplete", {});
+          //  $("#search-value").suggest("?method=autocomplete", {});
+        });
+    </script>
+    <script type='text/javascript'>var pageCounterPaywall = 0; var scrollHolderPaywall = {};var maxarticlePaywall = 0; var current_articlePaywall = 0; var maxdaysPaywall = 0; var accesseddaysPaywall = 0; </script>				<!-- WordPress Popular Posts v3.2.1 -->
+				<script type="text/javascript">//<![CDATA[
+
+					// Create XMLHttpRequest object and set variables
+					var xhr = ( window.XMLHttpRequest )
+					  ? new XMLHttpRequest()
+					  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+					url = 'http://www.thenation.com/wp-admin/admin-ajax.php',
+					params = 'action=update_views_ajax&token=f0938a70bd&id=210896';
+					// Set request method and target URL
+					xhr.open( "POST", url, true );
+					// Set request header
+					xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+					// Hook into onreadystatechange
+					xhr.onreadystatechange = function() {
+						if ( 4 == xhr.readyState && 200 == xhr.status ) {
+							if ( window.console && window.console.log ) {
+								window.console.log( xhr.responseText );
+							}
+						}
+					}
+					// Send request
+					xhr.send( params );
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.1 -->
+				<script src="http://www.thenation.com/wp-content/plugins/tn-paywall/inc/paywall-script.php?nc=1&paywallid=MjEwODk2&display=YmxvY2s="></script><script>
+jQuery(document).ready(function(){
+   jQuery('#search').submit(function(event){
+      if (jQuery('#search input:text').eq(0).val().length<1){
+	 return false;
+      }
+   });
+   jQuery('#searchbox').submit(function(event){
+      if (jQuery('#searchbox input:text').eq(0).val().length<1){
+	 return false;
+	 }
+   });
+});
+</script>
+</head>
+<!-- Quantcast Tag -->  <script type="text/javascript">  var _qevents = _qevents || [];    (function() {  var elem = document.createElement('script');  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";  elem.async = true;  elem.type = "text/javascript";  var scpt = document.getElementsByTagName('script')[0];  scpt.parentNode.insertBefore(elem, scpt);  })();    _qevents.push({  qacct:"p-krSvyk7fmpe57"  });  </script>    <noscript>  <div style="display:none;">  <img src="//pixel.quantserve.com/pixel/p-krSvyk7fmpe57.gif" border="0" height="1" width="1" alt="Quantcast"/>  </div>  </noscript>  <!-- End Quantcast tag -->
+<body>
+<!-- Google Analytics Code -->
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63392420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- Live Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code End -->
+<!-- Chartbeat code starts here -->
+<script type="text/javascript">
+  var _sf_async_config = { uid: 7841, domain: 'thenation.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.insertBefore(e, document.body.firstChild);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Chartbeat code ends here -->
+<!-- Google Mobile Interstitial Starts here -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script> 
+  (adsbygoogle = window.adsbygoogle || []).push({ 
+    google_ad_client: 'ca-pub-4976568202552923', 
+    enable_page_level_ads: true, 
+    interstitials: {google_ad_channel: 'ca-pub-4976568202552923'} 
+  }); 
+</script>
+<!-- Google Mobile Interstitial Ends here -->
+<!-- Advertisements -->
+<!---- Moat Script starts here -------->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/thenationcontent252XZzP54/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!---- Moat Script ends here --------->
+<script async="async" data-client-id="hBpPprgSpyyiDmn" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/esf.js"></script><script>
+    var pageCounterPaywall ;
+	var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+</script>
+<!-- Function to call Advertisements on entire website-->
+<script type='text/javascript'>
+   function call_ad(ad_type,ad_div,ad_name_desktop,ad_name_mobile,custom_targeting,key,values) {
+      if (typeof custom_targeting === 'undefined') { custom_targeting = false; }
+      if (typeof key === 'undefined') { key = null; }
+      if (typeof values === 'undefined') { values = null; }
+      var w,h,w1,h1;
+      var ad_name='';
+      if (ad_type == "leaderboard")
+	  {
+		 w = 728;
+		 h = 90;
+		 w1=970;
+		 h1=90;
+		 ad_name = ad_name_desktop;
+		 if (isMobile.any())
+		 {
+			 w = 320;
+			 h = 50;
+			 ad_name = ad_name_mobile;
+		 }
+      }
+      else if (ad_type == "halfpage")
+	  {
+		w = 300;
+		h = 250;
+		w1 = 300;
+		h1 = 600;
+		ad_name = ad_name_desktop;
+		if(isMobile.any())
+		{
+			w = 300;
+			h = 250;
+			w1 = 300;
+			h2 = 250;
+			ad_name = ad_name_mobile;
+		}		
+      }
+      else if (ad_type == "halfpage250") {
+	 w = 300;
+	 h = 250;
+	 ad_name = ad_name_desktop;
+      }
+      else if (ad_type == "pixel")
+	  {
+		var ad_pixel_name1 = "_pixel_2";
+		var ad_pixel_name_final=ad_name_desktop.indexOf(ad_pixel_name1);
+		//alert(ad_pixel_name_final);
+		if(articlereadbyUser!=0)
+		{
+		if(ad_pixel_name_final<=-1)
+		{
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===true) {
+			  return;
+			}
+		}
+		}
+		/*for hiding meterpaywall popups when pixel ads call ends here*/
+		
+		if(isMobile.any())
+		{
+		ad_name = ad_name_mobile;
+		}
+		else
+		{
+		ad_name = ad_name_desktop;
+		}
+		
+						w = 1;
+		h = 1;
+      }
+      //alert('ad_name: '+ad_name+'  div: '+ad_div+'  key: '+key+'  values: '+values);
+      googletag.cmd.push(function() {
+      var ad_slot = null;
+	  if(ad_type == "halfpage" || ad_type == "leaderboard") {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [[w, h],[w1,h1]], ad_div);
+	  }
+	  else {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [w, h], ad_div);
+	  }
+      if (custom_targeting==true && key && values)
+	  {
+		 for(i=0;i<key.length;i++) {
+			ad_slot = ad_slot.setTargeting(key[i], [values[i]]);
+		 }
+      }
+      ad_slot = ad_slot.addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      	  googletag.pubads().refresh([ad_slot]); // Since same ad unit might get repeated
+	  //setInterval(function(){googletag.pubads().refresh([ad_slot]);}, 10000);
+            googletag.enableServices();
+      });
+		googletag.cmd.push(function() {
+		googletag.display(ad_div);		
+      });
+   }
+</script>
+<div id="ad-pixel"></div>
+<div id="ad-pixel-2"></div>
+<div id="ad-leaderboard" class="push ad full-width leaderboard"></div>
+<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="desktop">
+	<div class="header-bar utility">
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="actions">
+			<li><a class="social-link fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"><span>Facebook</span></a></li>
+			<li><a class="social-link tw" href="https://twitter.com/thenation" target="_blank"><span>Twitter</span></a></li>
+						<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage" class="btn btn-yellow donate">Donate</a>
+			</li>
+									<li id="login_status">
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        <div class="lightbox-form">
+			<div class="lightbox-inner login_popup">
+				<div class="listing__hero row">
+					<div class="listing_form small-12 columns">
+						<!--<div class="closebutton"></div>-->
+                        <div class="login_top_msz">If you are a current Subscriber and are unable to log in, you may have to create a NEW username and password.  To do so, <a href="https://ssl.palmcoastd.com/06601/apps/LOGINSSO" target="_blank">click here</a> and use the “NEW USER” sign-up option.</div>
+						<h1>Log In</h1>
+						<div class="row primaryError" id="primaryError"  style="display: none">
+						 <div class="field form-field text-field small-12 columns error">
+									<p class="errormsg"></p>
+						 </div>
+						 </div>
+						<form action="index.html" class="search__form" onsubmit="return trigClick();"  name="lightboxform" id="lightboxform">
+								<div class="row">
+								<div class="field form-field e_mail_field_con text-field small-12 columns valid">
+									<input type="text" tabindex="1" name="e_mail" class="pcd_email" value="" id="e_mail" placeholder="" autocapitalize="off">
+									<label for="e_mail">Email *</label>
+															
+								</div>
+							</div>
+							<div class="row">
+								<div class="field form-field text-field pwd_field_con small-12 columns error">
+									<input type="password" tabindex="2" name="pwd" class="pcd_pwd" value="" id="pwd" placeholder="" minlength="2">
+									<label for="last_name">Password *</label>
+									             
+								</div>
+							</div>
+							
+							
+							<div class="row checkbox-row">
+								<div class="field form-field checkbox-field small-7 partsec columns">
+									<div class="checkbox">
+										<input type="checkbox" tabindex="4" value="None" id="box03" class="check_input" name="checkbox3" >
+										<label for="box03"></label>
+									</div>
+									<label for="box03">Remember Me</label>
+									 </div>
+								<div class="field form-field checkbox-field small-5 partsec columns pull-right"> <a tabindex="5" href="https://ssl.palmcoastd.com/06601/apps/-222532" style="padding: 0px !Important;">Forgot Your Password?</a></div>
+							</div>
+ 
+							<div class="row">
+								<div class="field form-field small-12 medium-6 partsec columns">
+									<div class="form-button" id="form-loading">
+									    <button class="primary-button pcdLoginButton" tabindex="3" type="submit" id="loginBut">Log In</button>
+									    <img class="loaderImg" src='http://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF' style="display: none" id="loader" alt="loader">
+								    </div>
+								</div>
+						        </div>
+							<div class="row">
+								<div class="field form-field small-12 medium-12 columns Subscriber_btn">									
+								If you are not a Subscriber, <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO" target="_blank">Subscribe</a> Now!<br />Back to <a href="http://m.facebook.com/" >site</a>								
+								</div>
+						      </div>
+						</form>
+					</div>
+				</div>
+			</div>
+</div>					
+						</div>
+						
+									  <a href="http://www.thenation.com/login/" class="btn btn-yellow login">Log In</a>
+				 				</li>
+					</ul>
+		<!-- /.actions -->
+		<nav class="trending">
+						<div class="menu-keyword-menu-container"><ul id="menu-keyword-menu" class="menu"><li id="menu-item-199269" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-199269"><a href="http://www.thenation.com/subject/election-2016/">Election 2016</a></li>
+<li id="menu-item-210827" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210827"><a href="http://www.thenation.com/keyword/flint-water-crisis/">Flint Water Crisis</a></li>
+<li id="menu-item-211074" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-211074"><a href="http://www.thenation.com/keyword/black-lives-matter/">Black Lives Matter</a></li>
+<li id="menu-item-210718" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210718"><a href="http://www.thenation.com/keyword/donald-trump/">Donald Trump</a></li>
+<li id="menu-item-207209" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207209"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>
+</ul></div>		</nav>
+	</div>
+	</div>
+		<!-- /.trending -->
+	</div>
+	<!-- /.header-bar.utility -->
+
+	<div class="header-bar main" id="'navbar'">
+	<div class="row">
+		<nav role="navigation" class="primary small-12 columns">
+			<ul>
+				<li class="home">
+						<h1 class="logo">
+							<a href="http://www.thenation.com">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation" class="non-sticky">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation" class="sticky"/>
+							</a>
+						</h1>
+					</li>
+				<li class="news-links">
+									<div class="menu-subject-menu-container"><ul id="menu-subject-menu" class="menu"><li id="menu-item-186986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-201145" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li id="menu-item-201148" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li id="menu-item-116709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>				</li>
+				 
+				
+				<li class="article-meta">
+													 <h3 class="tophead_subject"><a href="http://www.thenation.com/subject/democrats/">
+					Democrats</a></h3>
+											<h2>Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’</h2>
+				</li>
+								<li class="quick-links">
+					<ul>
+														<li class="current-issue"><a href="http://www.thenation.com/issue/may-9-16-2016/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+								<a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a>								</li>
+														<li class="search-toggle"><a href="#">Search</a></li>
+					</ul>
+				</li>
+				 
+				<li class="article-social">
+						<ul>
+							<li><a href="javascript:void(0)" class="social-article social-share fb"><span>Facebook</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share tw"><span>Twitter</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share email"><span>Email</span></a></li>
+						</ul>
+					</li>
+								</ul>
+		</nav>
+		</div>
+	<!-- /.primary -->
+	</div>
+
+	<!-- /.header-bar.main -->
+	<div class="header-bar search searchbardrop">
+	<div class="row">
+		<form action="http://www.thenation.com/" role="search" method="get" id="search" name="search">
+			<input type="text" placeholder="Search" name="ssearch">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		</div>
+	</div>
+</header>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+		$(".landing ul>li.news-links, .landing ul>li.quick-links").attr('style','display:inline !important');
+	});
+	</script>
+<!-- /#desktop -->
+<header id="mobile" class="push">
+	<div class="header-bar">
+		<a href="#mobile-menu" class="nav-toggle">
+			<span>Toggle Menu</span>
+		</a>
+		<h1 class="logo">
+			<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation"/></a>
+		</h1>
+						
+								  <a href="http://www.thenation.com/login/" class="my-profile"><span>Log In</span></a>
+				 							 
+	 	</div>
+	<!-- /.header-bar -->
+	<div id="mobile-menu" role="navigation">
+	<div class="mobile-scroll">
+	
+		<nav class="primary">
+			<ul>
+				<div class="menu-subject-menu-container"><ul id="menu-subject-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>			</ul>
+		</nav>
+		<nav class="utility">
+			<ul>
+												<li class="subscribe">
+								<a class="alert" href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**MOB">Subscribe</a>								</li>
+																					<li class="current-issue"><a href="http://www.thenation.com/issue/may-9-16-2016/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+																</li>
+															<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a>
+			</li>
+			<!-- Login/Logout -->
+							<li>
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        					
+						</div>
+						
+									  
+				 <li id="login_status_mob_account"><a href="http://www.thenation.com/login/">Log In</a></li>
+				 				</li>
+							</ul>
+		</nav>
+		<div class="social">
+			<a class="social-icon icon-fb" target="_blank" href="https://www.facebook.com/TheNationMagazine">
+			<span>Facebook</span>
+			</a>
+			<a class="social-icon icon-tw" target="_blank" href="https://twitter.com/thenation">
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="search">
+			<form id="mobile-search" action="http://www.thenation.com/" role="search" method="get" name="search">
+			<!--<input type="text" placeholder="Search" class="clearable" name="s">-->
+			<input type="text" id="q" class="clearable" name="ssearch" placeholder="Search">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		
+		</div>
+		</div>
+	</div>
+	<!-- /#mobile-menu -->
+</header>
+	<div class="container push"><script type= "text/javascript">
+var preventLoad_article = false;
+var check_comment = false;
+jQuery(document).ready(function(){
+		});
+</script>
+
+
+<div class="article-wrap article-page " id="wrap">
+	<!-- Advertisements -->
+<script type="text/javascript">
+	var key = [];
+	var values = [];
+</script>
+		<script type="text/javascript">
+			key.push("tn_keyword");
+			values.push("'bernie-san', 'jesse-jack'");
+		</script>
+				<script type="text/javascript">
+			key.push("tn_author");
+			values.push("'john-n'");
+		</script>
+			<!-- Calling Header, Footer Leaderboards and Pixel Ads -->
+	<script type="text/javascript">
+		jQuery( document ).ready(function($) {
+			custom_targeting = false;
+			if (key.length > 0 && values.length > 0) {
+				custom_targeting = true;
+			}
+			call_ad('leaderboard','ad-leaderboard','tn_politics_campaigns_and_elections_ros_leaderboard_1','tn_politics_campaigns_and_elections_article_leaderboard_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel','tn_politics_campaigns_and_elections_article_pixel_1','tn_politics_campaigns_and_elections_article_pixel_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel-2','tn_politics_campaigns_and_elections_article_pixel_2','tn_politics_campaigns_and_elections_article_pixel_mobile_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_test_pixel','tn_test_pixel',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_test_pixel_2','tn_test_pixel_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_politics_campaigns_and_elections_article_pixel_1','tn_politics_campaigns_and_elections_article_pixel_1',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_politics_campaigns_and_elections_article_pixel_2','tn_politics_campaigns_and_elections_article_pixel_2',custom_targeting,key,values);
+			call_ad('leaderboard','div-gpt-ad-1428494597034-0','tn_politics_campaigns_and_elections_ros_leaderboard_1','tn_politics_campaigns_and_elections_article_leaderboard_mobile_1',custom_targeting,key,values);
+		});
+	</script>
+	<div class="postid-210896 scrolltrace " articlelisttitle="Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’" articlelistlinks="http://www.thenation.com/article/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen/" article-post-id="210896">
+	<article id="url-title">
+	<!-- Banner Image -->  
+			<header class="article-header">
+		<div class="article-header-content">
+					<ul class="article-info">
+				<li class="category"><a href="http://www.thenation.com/subject/democrats/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/democrats/">Democrats</a></li><li class="category"><a href="http://www.thenation.com/subject/election-2016/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/election-2016/">Election 2016</a></li><li class="subcategory"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>				</ul>
+		
+			<h1 class="title">Sanders Fights On for ‘the Strongest Progressive Agenda That Any Political Party Has Ever Seen’</h1>
+			<h2 class="subtitle">Platform fights have always mattered. </h2>
+			<div class="byline">
+							<h2 class="author_name">By <a class="author" href="http://www.thenation.com/authors/john-nichols/">John Nichols</a><a class="author-twitter" href="https://twitter.com/@NicholsUprising" target="blank"><span>Twitter</span></a></h2>					<!--<h2>By </h2>-->
+								
+		
+				<h4 class="time is_date article_pub_time">April 29, 2016<!--<span><a href="" class="click_comment"></span><span>43 Comments</span></a>-->
+								
+				</h4>
+
+							</div>
+			<ul class="article-share">
+			<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+			</ul>
+			</div>
+		</header>
+					
+		
+		<section class="article-body  abody-210896">
+		<aside class="left full-width-mobile image wide indent">
+										<a class="gallery imgHover" href="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img.jpg" title="Senator Bernie Sanders speaks during a rally in Springfield, Oregon, on Thursday, April 28, 2016.  (AP Photo / Ryan Kang)"><img src="http://www.thenation.com/wp-content/uploads/2016/04/sanders_oregon_rally_ap_img.jpg" alt="Sanders Oregon Rally"></a>
+										<p class="caption">Senator Bernie Sanders speaks during a rally in Springfield, Oregon, on Thursday, April 28, 2016.  <span class="credits">(AP Photo / Ryan Kang)</span></p>
+							</aside>
+							<div style="clear:both"></div>		
+							
+					
+					<p>As he continues to campaign for Democratic primary votes from Indiana to Oregon, Bernie Sanders has begun to detail a vision for where the movement that has developed to support his candidacy might move the Democratic Party.<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210896-0" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>					<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210896-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					</script>
+									
+					
+					
+<p>After winning only the <a href="http://www.csmonitor.com/USA/Politics/2016/0427/Why-Bernie-Sanders-s-Rhode-Island-win-is-more-than-a-tiny-victory" target="_blank">Rhode Island primary</a> on a Tuesday that saw front-runner <a href="http://www.philly.com/philly/news/politics/presidential/20160427_Trump__Clinton_take_Pennsylvania.html" target="_blank">Hillary Clinton</a> win Pennsylvania, Maryland, Delaware, and Connecticut—and, with those wins, a substantial boost in her delegate-race advantage—the Vermont senator released a primary-night statement that anticipated a way forward even if he does not win the party’s nomination at the Democratic National Convention in Philadelphia.				
+					
+					
+<p>Sanders made it clear that his campaign—which has won <a href="http://www.nytimes.com/interactive/2016/us/elections/primary-calendar-and-results.html?_r=0" target="_blank">18 contests and 1,355 delegates</a> and has the potential to win more primaries and delegates—would go on. “The people in every state in this country should have the right to determine who they want as president and what the agenda of the Democratic Party should be. That’s why we are in this race until the last vote is cast,” <a href="https://berniesanders.com/press-release/sanders-statement-primary-elections/" target="_blank">said the senator</a>. Then he offered a framework for how that campaign might influence the direction not just of the party but of politics in the years to come. “[This] campaign,” <a href="https://berniesanders.com/press-release/sanders-statement-primary-elections/" target="_blank">said Sanders</a>, “is going to the Democratic National Convention in Philadelphia with as many delegates as possible to fight for a progressive party platform that calls for a $15 an hour minimum wage, an end to our disastrous trade policies, a Medicare-for-all health care system, breaking up Wall Street financial institutions, ending fracking in our country, making public colleges and universities tuition free and passing a carbon tax so we can effectively address the planetary crisis of climate change.”				
+					
+					
+<p>Sanders has expanded on these themes on the campaign trail in recent days, in appearances in the key primary states of <a href="http://www.indystar.com/story/news/2016/04/27/sanders-urges-indiana-supporters-think-big-despite-bleaker-prospects/83624898/" target="_blank">Indiana</a> (which votes on May 3) <a href="http://registerguard.com/rg/news/local/34313766-75/bernie-sanders-will-hold-rally-in-springfield-on-thursday.html.csp" target="_blank">and Oregon</a> (which votes on May 17). On Wednesday, Sanders drew a cheering crowd of 2,200 people to a town-hall meeting on the campus of Purdue University, where he added new material to the stump speech he has delivered from the start of a presidential run that has challenged Clinton and the Democratic Party to move left on a host of issues.<aside class="right hidden-on-mobile most-popular-plus-ad"><div class="most-popular hover_b_remove">
+									<h3>Most Popular</h3><div class="popular-article"><h4>1</h4><p><a href="http://www.thenation.com/article/bernies-philadelphia-challenge/">A Contested Convention Is Exactly What the Democratic Party Needs</a></p></div><div class="popular-article"><h4>2</h4><p><a href="http://www.thenation.com/article/nfl-player-stands-up-to-rape-and-gives-a-lesson-in-consent/">An NFL Player Stands Up to Rape and Gives a Lesson in Consent</a></p></div><div class="popular-article"><h4>3</h4><p><a href="http://www.thenation.com/article/as-the-religious-right-forces-its-gospel-into-public-schools-some-secular-parents-are-opting-to-homeschool/">As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool</a></p></div><div class="popular-article"><h4>4</h4><p><a href="http://www.thenation.com/article/why-bernie-didnt-get-my-vote/">Why Bernie Didn’t Get My Vote</a></p></div><div class="popular-article"><h4>5</h4><p><a href="http://www.thenation.com/article/this-is-what-happens-when-republican-voters-get-what-they-want/">This Is What Happens When Republican Voters Get What They Want</a></p></div></aside>				
+					
+					
+<p>“Let me make this clear, so there is no confusion: We are in this campaign to win, and become the Democratic nominee,” <a href="http://www.politico.com/story/2016/04/what-bernie-sanders-wants-222561" target="_blank">Sanders told the students in Indiana</a>. “We are in this campaign to win, but if we do not win, we intend to win every delegate that we can so that when we go to Philadelphia in July, we are going to have the votes to put together the strongest progressive agenda that any political party has ever seen.”				
+					
+					
+<p>On Thursday in Eugene, Oregon, and again on Friday <a href="http://www.wthr.com/story/31841877/bernie-sanders-to-attend-carrier-rally-in-indianapolis-friday" target="_blank">at the Indiana statehouse</a>, where he rallied with steelworkers whose plants are threatened with closure as part of a corporate relocation to Mexico, Sanders made trade policy central to his demand for a new politics that champions working families over CEOs.				
+			<aside class="left twitter-quote indent">
+						<p>
+							Bernie Sanders says he and his delegates will &ldquo;fight for a progressive party platform.&rdquo;
+						<a target="_blank" class="tw span_article_tweet" href="http://twitter.com/intent/tweet?text=Bernie+Sanders+says+he+and+his+delegates+will+%E2%80%9Cfight+for+a+progressive+party+platform.%E2%80%9D http://thenat.in/1pLoQEj"><span></span></a>
+
+						</p>	</aside>	
+					
+					
+<p>“The Democratic Party, up to now, has not been clear about which side they are on, on the major issues facing this country. You cannot be on the side of those workers who have lost their jobs, because of disastrous trade agreements, and support those corporations who have thrown millions of our workers out on the street,” <a href="http://abcnews.go.com/Politics/bernie-sanders-stump-speech-campaign/story?id=38759813" target="_blank">Sanders told the crowd of 8,000 in Oregon</a>.				
+					
+					
+<p>“The Democratic Party has to reach a fundamental conclusion: Are we on the side of working people or big money interests?” the senator thundered. “Do we stand with the elderly, the children, the sick and the poor or Wall Street speculators and the drug companies and the insurance companies?”				
+					
+					
+<p>Political and media elites, whose default position is to focus on the horse race (and the personalities associated with it), are quick to dismiss fights over agendas and platforms. With no sense of history, they imagine politics as little more than a progression from one dominant figure to the next. Movements, and the political trends and progressions that extend from movement-oriented campaigns, are invariably dismissed.				
+					
+					
+<p>But it was a movement, and a movement politics, that forced the Democratic Party to embrace <a href="http://www.npr.org/templates/story/story.php?storyId=94011842" target="_blank">a more muscular civil-rights platform</a> than Harry Truman wanted in 1948; it was a movement, and movement politics, <a href="http://www.americanrhetoric.com/speeches/fannielouhamercredentialscommittee.htm" target="_blank">that began to open up the Democratic Party</a> in ways that Lyndon Johnson had resisted in 1964. And it was the dismissal of movements, and movement politics, <a href="https://en.wikipedia.org/wiki/1968_Democratic_National_Convention" target="_blank">that proved to be disastrous for the Democratic Party in 1968</a>.					<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210896-2" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>							<script type="text/javascript">
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210896-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						</script>
+										
+					
+					
+<p>This is not 1968. The issues are different and the political processes are different. Conventions are more managed. And parties have come to see their quadrennial gatherings less as opportunities to frame their own future and that of the country and more as marketing moments.				
+			<aside class="left twitter-quote indent">
+						<p>
+							&ldquo;Issues are negotiable. We could not afford to avoid raising the right questions.&rdquo;
+&mdash; the Rev. Jesse Jackson
+						<a target="_blank" class="tw span_article_tweet" href="http://twitter.com/intent/tweet?text=%E2%80%9CIssues+are+negotiable.+We+could+not+afford+to+avoid+raising+the+right+questions.%E2%80%9D%0D%0A%E2%80%94+the+Rev.+Jesse+Jackson http://thenat.in/1pLoQEj"><span></span></a>
+
+						</p>	</aside>	
+					
+					
+<p>But 2016 is the most volatile political year since 1968. And the responses of the parties to it will define not just political organizations but the politics of this year and the years to come.				
+					
+					
+<p>So what Bernie Sanders is talking about matters. It does not mean that he will get what he wants at the convention. It does not mean that Hillary Clinton, who has her own vision and her own strategies, should accept every proposal that Sanders or broader movements make. There are no guarantees that the Democratic Party can or will run in 2016 on “the strongest progressive agenda that any political party has ever seen.”				
+					
+					
+<p>But no one should buy into the fantasy that this discussion is inconsequential. Platform debates always matter. That’s why the candidates (front-runners and challengers) always take them seriously; that’s why key players in political parties (governor, mayors, legislators, union leaders) participate in them; that’s why interest groups try so hard to influence them.				
+					
+									<style>
+			.article-wrap .article-body aside.left.custom_background_210896			 {
+			 background:#5000b2 !important;
+			 }
+			 </style>
+				<aside class="left takeaction indent custom_background_210896">
+					<div class="action_tout_heading"><p><p class="p1">LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS</p></p></div>
+					<form action="" name="sailthru_action_tout_form" method="post">
+					<input type="email" name="email" id="take_action_sailthru_email_210896" class="take_action_sailthru_email" Placeholder="Enter Email">
+									<input type="hidden" name="take_action_sailthru_list_final" id="take_action_sailthru_list_final_210896" value="daily_tout,master,daily">
+					<div class="cta"><p>
+										<input type="button" class="take_action_sailthru_submit" name="submit_sailthru" value="SIGN UP! " onclick="add_action_tout_sailthru(210896)"></p></div>
+					</form>
+				<p id="action_tout_response_210896"></p>
+				</aside>
+				
+<p>Platforms define parties, not just for the purposes of a campaign but for the future. It mattered when the Democratic Party embraced civil rights in a meaningful way in 1948, and in a more meaningful way in 1960 and 1964. It mattered in the 1980s when the Democratic Party moved (at the behest of the Rev. Jesse Jackson and his “Rainbow Coalition” campaigns) <a href="http://www.bloombergview.com/articles/2015-08-26/jesse-jackson-created-the-modern-democratic-party" target="_blank">toward more aggressive opposition to South African apartheid</a>, and when it moved (at the behest of the Jackson and Gary Hart campaigns of 1984) <a href="http://www.upi.com/Archives/1984/07/17/The-Democratic-National-Convention-approving-its-1984-platform-Tuesday/6617458884800/" target="_blank">toward an embrace of the principle</a> that the United States should work with allies rather than engage in unilateral military action. It mattered when the Democratic Party began to embrace LGBTQ rights in a meaningful way in its 1980 platform, <a href="http://www.advocate.com/politics/election/2012/09/04/democrats-approve-marriage-equality-platform" target="_blank">and when it embraced marriage equality in 2012</a>.				
+					
+					
+<p>And it matters, now, that Sanders is talking about “put[ting] together the strongest progressive agenda that any political party has ever seen.”				
+					
+					
+<p>For Sanders and his allies, along with progressives who have backed Clinton, the effort itself is consequential—not just in terms of framing the party&#8217;s immediate agenda but also in terms of framing the future of our politics.				
+					
+					
+<p>“We could afford to lose the vote,” explained the Rev. Jesse Jackson, after waging critical platform fights in 1984. “Issues are negotiable. We could not afford to avoid raising the right questions. Our self-respect and our moral integrity were at stake. Our heads are perhaps bloody, but unbowed. Our back is straight and our vision is clear.”				
+					
+					
+<p>What was true three decades ago remains true now: Platform fights on issues of conscience and consequence, inspired by insurgent campaigns and insurgent movements, are always worth waging.				
+					
+					
+		</section>
+		<footer class="article-footer narrow">
+
+			   		<div class="footer-module comments">
+			<!-- Comments count function -->
+				<a class="click_comment" href="">43 Comments</a>
+			</div>
+						<div class="footer-module">
+				<ul class="article-share">
+					<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+				</ul>
+			</div>
+			<!--<div class="footer-module narrow supplemental-info">
+							</div>-->
+			
+			<div class="footer-module narrow author-bio">
+									<p><span><a href="http://www.thenation.com/authors/john-nichols/"> John Nichols</a>
+												 <a class="author-twitter" href="https://twitter.com/@NicholsUprising" target="blank"><span>Twitter</span></a>
+						 						</span> John Nichols is <em>The Nation</em>’s national affairs correspondent. He is the co-author, with Robert W. McChesney, of <em><a href="http://www.amazon.com/People-Get-Ready-Citizenless-Democracy/dp/1568585217" target="_blank">People Get Ready: The Fight Against a Jobless Economy and a Citizenless Democracy (Nation Books)</a></em>, published in March 2016 by Nation Books.</em></p><br/>
+						</div>
+							<div class="footer-module narrow contact-us">
+					<p>To submit a correction for our consideration, click <a target=_blank href=/corrections>here.</a>										</p>
+					<p>For Reprints and Permissions, click <a target="_blank" href="http://www.thenationreprints.com/services/reprints/">here.</a></p>
+				</div>
+				
+			<div id="comments_210896" class="commentContainer" style="display:none">
+			<div id="comments" class="comments-area">
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/article/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">In order to comment, you must be logged in as a paid subscriber. <a href="#TB_inlinepcd_login?width=600&height=550&inlineId=login-content-id-pcd_login" class="thickbox comment_login_link"> Click here to log in</a> or subscribe.</p>												</div><!-- #respond -->
+						<!--<h2 class="comments-title">
+					</h2>-->
+		<div class="comment_sorting_setting_outer">
+    <div class="sort_com_label">Sort comments By:</div>
+				<select id="comment_sorting_setting" name="comment_sorting_setting" class="comment_sorting_setting" comment_postid="210896" my-ajax-url="http://www.thenation.com/wp-admin/admin-ajax.php">
+					<option sort-attr="1"  selected=selected>Chronological Order</option>
+					<option sort-attr="2"  >Most Liked</option>
+				</select>
+			</div>
+<div class="clear"></div>
+		<ol class="comment-list custom_comments">
+			   <li id="comment-2109912617" class="comment byuser comment-author-600117584 even thread-even depth-1">
+   <article id="div-comment-2109912617" commentIDVal="2109912617" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Charles K Black</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T16:00:46+00:00">
+								May 3, 2016 at 4:00 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Usually, the fight is one by the angriest contestant or participant. Trump has evidently one the Republican nomination by giving voice to that anger (just an observation). You can bet that these people will vote. Sanders has excited many who are first-time participants and others who had given up. This is the most emotionally charged political contest I have witnessed since 1968 (I was in Grant Park). I just cannot see Clinton arousing any excitement. There are a lot of pissed-off people in this country who are hurting and fed-up with the warm, yellow &quot;trickle down&quot; of incremental change.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912617,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>3</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912617,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912607" class="comment byuser comment-author-600110159 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912607" commentIDVal="2109912607" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Doug Barr</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T14:04:02+00:00">
+								May 3, 2016 at 2:04 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Fights on any platform are ways we try to fill the void that are destroying us all. http://thelastwhy.ca/poems/2015/6/25/life-a-reaction-to-the-void</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912607,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912607,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912569" class="comment byuser comment-author-600220057 even thread-even depth-1 parent">
+   <article id="div-comment-2109912569" commentIDVal="2109912569" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Fred Caruso</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T00:29:32+00:00">
+								May 3, 2016 at 12:29 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Nothing succeeds like success - or failure.  The Party elite will never let Sanders win in any way.  The platform changes proposed by Sanders will be  virtually ignored.  Sanders and his supporters will walk out of the convention.  The rise of the recent <br />
+Democratic Party elitism - starting in the 1990&apos;s - will not fall to the trash bin of history, unless there is a Republican party presidential victory in November .  That is the elephant in the living room every progressive pretends is not there.  Think 2020.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912569,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>2</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912569,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>3</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912578" class="comment byuser comment-author-600230171 odd alt depth-2 parent">
+   <article id="div-comment-2109912578" commentIDVal="2109912578" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Brigitte Meier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T02:09:22+00:00">
+								May 3, 2016 at 2:09 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>One cannot always reach the final outcome in one go or even in one generation. Bernie was for gay marriage in the 80&apos;s but it didn&apos;t materialize till 2012 - 32 years later. <br />
+<br />
+What is important is to make that beginning which Bernie made: to show that these issues which everybody really wants, are not impossible to pay for, are not utopias, but are very well realizable. It is that realization that the desirable is possible, which will keep Bernie&apos;s issues alive - until some day the will be instituted. <br />
+<br />
+Bernie&apos;s greatness will one day be recognized. History will be his judge and his friend.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912578,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>10</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912578,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912592" class="comment byuser comment-author-600220057 even depth-3">
+   <article id="div-comment-2109912592" commentIDVal="2109912592" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Fred Caruso</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T11:23:55+00:00">
+								May 3, 2016 at 11:23 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>My criticism of the current system and primary outcome, should not be interpreted as criticism of Bernie Sanders, a person for whom I have the most profound respect and love.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912592,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>4</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912592,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912577" class="comment byuser comment-author-600230171 odd alt depth-2 parent">
+   <article id="div-comment-2109912577" commentIDVal="2109912577" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Brigitte Meier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T02:03:24+00:00">
+								May 3, 2016 at 2:03 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>The fact that not the entire platform of Bernie will be accepted by the Democratic party does not prevent that a beginning towards it was made. Yes. it will take many years of repeated fighting to get some of his issues to take root. But it will come. For the simple reason that people know that it would well be possible: Bernie has shown that in the details he gives on his website. How it will be possible to pay for the measures and that it will not increase taxes excessively. In addition, he wants to rebuild the infrastructure. That would create scores of well-paid jobs. They will increase the tax basis, which will make payment for Bernie&apos;s issues even more easy.<br />
+<br />
+What you say, that the Dem Party will adopt a socialist platform only if a Republican wins the presidency - maybe so. But in this case the opponent is Trump, who largely advocates similar changes as Bernie, accomplished with different means. That would then be ideal in forcing the Dem party into Bernie&apos;s issues.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912577,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>3</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912577,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>3</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912601" class="comment byuser comment-author-600220057 even depth-3">
+   <article id="div-comment-2109912601" commentIDVal="2109912601" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Fred Caruso</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T11:54:06+00:00">
+								May 3, 2016 at 11:54 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>We should not be so concerned about Trump, as much as we should be concerned about the &quot;handlers&quot; he chooses.  (i.e.: Dick Cheney &amp; Co. with &quot;party boy&quot; G.W. Bush.)</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912601,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912601,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912566" class="comment byuser comment-author-600233589 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912566" commentIDVal="2109912566" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Ronald Holch</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T23:51:49+00:00">
+								May 2, 2016 at 11:51 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Thank you John.  I always enjoy listening to you and reading you.  I have followed Bernie Sanders since he started his campaign on the Thom Hartmann show many years ago.  As any good political strategist knows you always make a move or a movement for more than just one reason. <br />
+ In my opinion, Bernie is right to take his agenda to the floor of the convention and work hard to make it stick.  Bernie understands that he is fighting for the soul of the Democratic party, of democracy and of the nation itself.  Our constitution starts with, &quot;We the people&quot;, not we the CEOs.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912566,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>5</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912566,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912558" class="comment byuser comment-author-005370192 even thread-even depth-1 parent">
+   <article id="div-comment-2109912558" commentIDVal="2109912558" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Joel Magid</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T16:29:59+00:00">
+								May 2, 2016 at 4:29 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Time for Bernie to step up and walk the talk by pledging $25 million of the $186 million he&apos;s raised so far to supporting 25 progressive candidates for the Senate and 25 progressive candidates for the House.  By campaigning for other progressives he can rise above the ego gratification of being the talking revolution by becoming a true leader who can really transform American politics.  Party platforms can be wonderful words, but electing progressives is the only way to trnaform the Congress and, hopefully, get some important thongs done.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912558,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>8</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912558,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>12</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912570" class="comment byuser comment-author-600220057 odd alt depth-2">
+   <article id="div-comment-2109912570" commentIDVal="2109912570" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Fred Caruso</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T00:34:57+00:00">
+								May 3, 2016 at 12:34 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>It is not &quot;his money&quot; to give away.  It belongs to his contributors.  They intended it for him and/or the political revolution.  If you had your money on him, you would understand.  The only &quot;progressive&quot; endorsement supporting his revolution in the Senate is Merkley (D-OR)</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912570,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>5</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912570,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912560" class="comment byuser comment-author-004650040 even depth-2 parent">
+   <article id="div-comment-2109912560" commentIDVal="2109912560" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Thomas Link-oberstar</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T20:02:01+00:00">
+								May 2, 2016 at 8:02 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>I agree except he doesn&apos;t have it. He is spending almost every $$$ he raises trying to keep his own campaign going. That&apos;s the soft underbelly of the small donor campaign he is running, and shows why, as remarkable as it has been, that it isn&apos;t a winning strategy.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912560,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912560,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>9</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912622" class="comment byuser comment-author-600220057 odd alt depth-3">
+   <article id="div-comment-2109912622" commentIDVal="2109912622" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Fred Caruso</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T18:11:20+00:00">
+								May 3, 2016 at 6:11 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>No, genius. Do you live in a bubble?<br />
+If Sanders had the media hoopla that Trump enjoyed, it would be a Sanders landslide-strategy.  I&apos;m sure there is &quot;buyer&apos;s remorse&quot; today among voters in the early primary &quot;Hillbilly Heaven&quot;  States that voted for Clinton, because they had never heard of Sanders at the time they voted.  Sanders has done incredible well for someone with virtually No MS media exposure (until he started winning) and treated like a pariah by the very party in which he is a candidate.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912622,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912622,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912547" class="comment byuser comment-author-600118848 even thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912547" commentIDVal="2109912547" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Wesley Decker</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T15:52:22+00:00">
+								May 2, 2016 at 3:52 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Simone Weil worked out what happens to our institutions with mathematical precision.  By partaking in the nature of social reality, they come to belong – not to the ultimate good – but to the realm of the necessary.  Precisely what the alternative is, isn&apos;t specified.  However we could stop kidding ourselves.  The choice we&apos;re making is to perpetuate systems of power and oppression.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912547,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>6</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912547,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912524" class="comment byuser comment-author-003076171 odd alt thread-even depth-1">
+   <article id="div-comment-2109912524" commentIDVal="2109912524" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Bertram Miller</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T13:16:47+00:00">
+								May 2, 2016 at 1:16 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>1. Hillary is ahead by 337 (pledged) delegates, not 800. The larger  figure includes superdelegates who have stated their fealty to the Clintons. They could change their vote at any time up to the moment they cast their ballot at the convention. But the corporate media has been counting them as though they are pledged, elected delegates who are required to vote for the candidate they represent. This has clearly been an attempt by the corporate media since early in the campaign to demoralize &amp; demobilize Bernie supporters into giving up, thinking the race is over. It is NOT.  2. While platform fights should not be ignored, they should not be overestimated either. Remember that Obama ran on the Public Option but gave us the Individual Mandate Heritage Foundation Health Care Plan. Similarly, Clinton was explicitly opposed to NAFTA - until he got in office, pushed it through Congress &amp; signed it. Does anyone seriously believe that Hillary will stand by anything placed in the platform that seriously harms the interests of the Clintons&apos; corporate backers?</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912524,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>26</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912524,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>3</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912522" class="comment byuser comment-author-600027502 even thread-odd thread-alt depth-1 parent">
+   <article id="div-comment-2109912522" commentIDVal="2109912522" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Gabriel Hanson</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T13:13:08+00:00">
+								May 2, 2016 at 1:13 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Two enormous craters undermine the Democratic Party and the viability of democracy in this country: first, the party is corrupt and dead set against the voters who one way and another are protesting its positions and procedures, and second, surveying the fifty state scene, the voter registration procedures that are a shambles preventing more political participation  were implemented and are defended in large part by state Democratic parties.<br />
+In the good America, election days would be celebrations of empowerment, locally run, fully transparent, with paper ballots and honest, bipartisan scrutiny of the vote count. They would follow campaigns open to all comers, with free and equal media access, so that, as Martin Luther King Jr. wanted, even a garbage collector could mount a competitive campaign for local office: in short, Democracy!</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912522,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>20</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912522,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>2</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912527" class="comment byuser comment-author-003076171 odd alt depth-2 parent">
+   <article id="div-comment-2109912527" commentIDVal="2109912527" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Bertram Miller</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T13:24:24+00:00">
+								May 2, 2016 at 1:24 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>The President of the United States, Governor of New York State, &amp; Mayor of New York City are all Democrats. Yet in the recent primary, 125,000 Democratic voter were crossed off the rolls FROM BERNIE SANDERS HOME BOROUGH - Brooklyn! This was the only county of the 60+ in New York State that lost voters. It is no longer possible to attribute voter suppression &amp; fraud to the GOP alone.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912527,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>20</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912527,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912584" class="comment byuser comment-author-600174114 even depth-3">
+   <article id="div-comment-2109912584" commentIDVal="2109912584" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Michael Currier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T07:20:54+00:00">
+								May 3, 2016 at 7:20 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Do you see a conspiracy in every tea pot?  Voter rolls are maintained by individual districts.  Every district works and cleans up its rolls.  Brooklyn is one of the biggest places for dem votes in the state: perhaps the biggest. It wasn&apos;t a conspiracy against voters or against Bernie: it was workers trying to groom their rolls, keep them up to date.<br />
+Yes they may have made mistakes, but assigning malice to it is absurd.  NYC like many urban areas has considerable mobility: people move a great deal. Because where you vote is based on where you live, if you move then you are no longer lawfully registered.  It is up to folks to update their registration. Folks who move, who aren&apos;t at the addresses they registered at, and folks who have not voted in two presidential cycles are understandably cleaned from the system.  <br />
+Did some folks get scrubbed by mistake?  Did some folks not send back their notification cards?  Did some people&apos;s notification cards come back undeliverable?  <br />
+But was there a conspiracy to disenfranchise?  That is where your accusation falls apart as whooly made up and completely absurd.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912584,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>1</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912584,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>3</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912521" class="comment byuser comment-author-600093264 odd alt thread-even depth-1">
+   <article id="div-comment-2109912521" commentIDVal="2109912521" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Linda Meyer</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T12:58:12+00:00">
+								May 2, 2016 at 12:58 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>I was puzzled and bewildered by reading that Hillary Clinton has kept for her campaign much of the money she allegedly raised for down ballot candidates.  It seems as if she has shamelessly  violated the campaign financing laws, weak as they are.  I want to vote for a Democrat, but I can&apos;t support someone who seems to be corrupt in this manner.  I hope she can somehow contradict the statements made in today&apos;s Politico article.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912521,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>13</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912521,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912520" class="comment byuser comment-author-001766203 even thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912520" commentIDVal="2109912520" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Amalie Callahan</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T12:55:17+00:00">
+								May 2, 2016 at 12:55 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>The political revolution needs to keep going.  I hope Bernie will keep reminding and leading us.  We will see what a charged-up group of citizens can do.  We will stay informed.  We will vote.  We will write and petition.  We will march in the streets.  Enough of us have already voted for Bernie to change things IF WE KEEP UP THE FIGHT.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912520,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>18</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912520,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912509" class="comment byuser comment-author-600145478 odd alt thread-even depth-1">
+   <article id="div-comment-2109912509" commentIDVal="2109912509" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">David Hunsicker</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:56:37+00:00">
+								May 2, 2016 at 11:56 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>The Democratic establishment has underestimated the anger which exists within the party.  I am voting for Sanders, period.  I think many others in the party feel the same.  I am tired of the Establishment feeding corruption to its members as being normal.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912509,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>25</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912509,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912504" class="comment byuser comment-author-001199421 even thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912504" commentIDVal="2109912504" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Peter White</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:44:31+00:00">
+								May 2, 2016 at 11:44 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Perhaps platform fights are worth waging but not because they result in important policies being put in party platforms. They are almost invariably not accepted by the party and its front-runner and only outside forces turn the tide and eventually decide the issues as matters of national policy and law.  Party platforms are just rhetoric. And in 2016, if Clinton wins, there will be none of Bernie&apos;s planks to any significant degree if at all. Read Ralph Nader&apos;s take on this here: http://www.huffingtonpost.com/ralph-nader/the-long-distance-rebound_b_9811888.html?utm_hp_ref=politics</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912504,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>6</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912504,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912502" class="comment byuser comment-author-003920030 odd alt thread-even depth-1">
+   <article id="div-comment-2109912502" commentIDVal="2109912502" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Andy Moursund</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:32:44+00:00">
+								May 2, 2016 at 11:32 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Good article, and good advice.  I expect no less from John Nichols, and he rarely if ever disappoints.<br />
+<br />
+But as for the usual torrent of Hillary Derangement Syndrome comments that attach themselves to every Nation campaign article:  I look forward to reading the comments of these people when Sanders goes out on the campaign trail for Clinton after the convention.  It wouldn&apos;t surprise me a bit if these same people would then re-direct their wrath at Bernie the &quot;sellout&quot;!  Thank God for the future of this country that Bernie Sanders, rightly determined as he is to carry his campaign to the finish, doesn&apos;t share the dangerous illusion that Hillary is nothing but GOP Lite.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912502,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>10</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912502,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>17</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912493" class="comment byuser comment-author-600174114 even thread-odd thread-alt depth-1 parent">
+   <article id="div-comment-2109912493" commentIDVal="2109912493" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Michael Currier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T07:28:20+00:00">
+								May 2, 2016 at 7:28 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>A convention fight empowers Trump.  Bernie wants his agenda to triumph but he (and Nichols) miss the fact that a more moderate agenda triumphed already.  They also miss that Hillary in 2008 was so much closer in delegates but still got nothing in the platform.<br />
+Sanders lost and lost badly.  It wasn&apos;t close.  <br />
+The Sanders campaign is in disarray, changing its message and goals every newscycle, contradicting itself endlessly.  He&apos;ll be lucky to get an afternoon speaking slot at the convention right now.<br />
+His campaign engaged in a process and lost.  He was able to outspend his opponent in almost every state, opted for tons of advertising instead of really organizing almost every state, and still lost.  He picked small caucus states he could win for the optics rather than fighting in the big states that mattered and he lost almost every debate by using his huge chunks of his stump speech for almost every answer.  <br />
+He was un-electable at the start of the primary contest and he remains un-electable now.<br />
+If he decided to go third party we will know by May 9, the deadline for an important state.  As a third party candidate he will lose, and cause Hillary to lose, thus causing Trump to win.  <br />
+That will be some legacy: Nader to the tenth power.<br />
+Nichols is talking nonsense here again.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912493,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>5</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912493,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>77</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912508" class="comment byuser comment-author-600215529 odd alt depth-2">
+   <article id="div-comment-2109912508" commentIDVal="2109912508" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Chris Burrow</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:56:19+00:00">
+								May 2, 2016 at 11:56 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>You spread tripe like peanut butter.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912508,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>15</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912508,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>4</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912495" class="comment byuser comment-author-600160881 even depth-2 parent">
+   <article id="div-comment-2109912495" commentIDVal="2109912495" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Nannette Croce</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T08:30:24+00:00">
+								May 2, 2016 at 8:30 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>I&apos;m wondering where you get your news. Sanders isn&apos;t &quot;losing big.&quot;  It now looks very unlikely that Clinton will not reach the decisive number of pledged delegates to make her the clear winner. Even if she does, she has hardly had a clean sweep. But all this playground talk aside, it never seems to occur to staunch Democrats that the reason for their losing might not be a &quot;divided party,&quot; per se, but the reason those divisions occurred in the first place. That narrative of Nader/Gore ignores some important facts, like how, in the few debates between Al Gore and Bill Bradley -- whose primary attempt was shut down early -- Gore ran from the issues of abortion rights and gun legislation and touted his support of the first Gulf War. It&apos;s a false assumption, but a convenient one for Democrats, that Nader&apos;s supporters would have voted for Gore in Nader&apos;s absence. They probably wouldn&apos;t have voted at all. Given the platforms of a conservative Democrat and a &quot;compassionate conservative&quot; 50-50 is exactly how you would have expected the vote to come down. Another impotant oversight of the divided party narrative in 2016 is that Sanders was not peeling off Clinton voters, he brought in new independents and brought back many disenchanted Reagan Democrats from middle America. The party ignores that at their own peril.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912495,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>56</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912495,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>4</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912525" class="comment byuser comment-author-600071609 odd alt depth-3">
+   <article id="div-comment-2109912525" commentIDVal="2109912525" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Elizabeth Whitehouse</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T13:19:11+00:00">
+								May 2, 2016 at 1:19 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Nader did not make much difference.  Gore received more popular votes than Bush country wide.  We all know what happened in Florida.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912525,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>7</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912525,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>2</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912500" class="comment byuser comment-author-600174114 even depth-3 parent">
+   <article id="div-comment-2109912500" commentIDVal="2109912500" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Michael Currier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:23:51+00:00">
+								May 2, 2016 at 11:23 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Nannette,  Why would I say Bernie has lost big?  He is behind by 800 delegates.  He can&apos;t win, and most reasonable people have seen that since South Carolina, after which he was down by 181 pledged delegates- a margin we all know from living through 2008&apos;s fight is not winnable.  Since then he has fallen further behind, winning mostly just small caucus states.  <br />
+Calling me a staunch democrat doesn&apos;t change the math in any way.  Bernie brought back Reagan democrats?  I have yet to see any evidence at all.  Half of all registered independents lean left and vote democratic, where as half of all independents lean right and vote loyally for republicans, so are you sure that Bernie brought new voters in?  Are you saying that Bill Clinton didn&apos;t get independents and that Barack didn&apos;t?  They both got a great many.  Are you sure Bernie got new voters?  voting is down by 30 percent since 2008 in many states on the democratic side: it sounds as though not too many new voters showed up at all.<br />
+Hillary is ahead by three million voters: that is quite a beating by any standard: that would make a good margin of victory in a general election, even!</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912500,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>4</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912500,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>36</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912528" class="comment byuser comment-author-600071609 odd alt depth-4">
+   <article id="div-comment-2109912528" commentIDVal="2109912528" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Elizabeth Whitehouse</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T13:25:45+00:00">
+								May 2, 2016 at 1:25 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>You are exaggerating by t least half a million (http://www.politifact.com/truth-o-meter/statements/2016/apr/05/hillary-clinton/does-clinton-really-have-25-million-more-votes-san/) and overlooking the fact that so many Democratic primaries are closed.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912528,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>8</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912528,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912526" class="comment byuser comment-author-600145841 even depth-4 parent">
+   <article id="div-comment-2109912526" commentIDVal="2109912526" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Tanya Renelt</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T13:21:54+00:00">
+								May 2, 2016 at 1:21 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>First of all you&apos;re counting super delegates, which shouldn&apos;t be counted yet. Secondly, Without all the closed primaries, voter suppression, and election fraud, Hillary most likely would not be ahead.  I have no idea how you can say Bernie has changed his stance on issues. He&apos;s had the same message throughout this election. You must be confusing him with Hillary who constantly flip flops and adopts Bernie&apos;s messages when she sees it will attract voters. If she gets into the White House, she&apos;ll abandon these new positions and revert back to her Republican lite stances, while serving her many donors as she always has.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912526,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>16</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912526,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912585" class="comment byuser comment-author-600174114 odd alt depth-5">
+   <article id="div-comment-2109912585" commentIDVal="2109912585" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Michael Currier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-03T07:35:58+00:00">
+								May 3, 2016 at 7:35 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Tanya,<br />
+<br />
+Super delegates are part of the math for the democratic nomination.  They were for Obama in 2008 and they are now, however inconvenient that is to Bernie&apos;s fantasies and yours.  They count just as much as pledged delegates, and they make clear who will win and who will lose.  Your shoulda-coulda-woulda suppositions about &apos;Bernie would have won if only...&apos; are really a non-factor in deciding the next few weeks.  Bernie lost.  <br />
+As for whether it is 3 million or 2 and a half million, it hardly matters which is correct but CNN and 538 in recent days have said it was 3 million: the point remains that Bernie is millions behind in total votes and leaning on polls to counter real votes and real delegates is pretty silly and transparent.<br />
+My point about Bernie changing his campaigns message in recent days was that he and Tad and his wife and Weaver are all saying contradictory things about the race now, their aims and intentions, and that these constant changes indicate they have no path forward and can&apos;t agree on goals.<br />
+Mostly it seems very clear that they are determined to try and bluff their way through the next few weeks, to pretend that they are trying to win to keep people voting for them and top keep that rented plane in the air and mostly just to avoid going back to his seat in the senate and doing his job.  His campaign failed.   It ended.  He just won&apos;t admit it.  Supporters like you are arguing whether he should admit he lost yet or whether he is down by 2 and a half million or three million votes.  <br />
+If Hillary gets into the White House, she will be flexible and move the democratic progressive ball forward.  I bet flexibility is a hall mark of your relationships and your work life but amazingly Bernie fans and Hillary Haters have cast it as a horrible quality for Hillary or the party to have.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912585,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>2</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912585,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912506" class="comment byuser comment-author-600136758 even depth-4">
+   <article id="div-comment-2109912506" commentIDVal="2109912506" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Tyson Moore</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:48:28+00:00">
+								May 2, 2016 at 11:48 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Unfortunately you can&apos;t keep independents and republicans from voting in a general election.  The closed primary system is hardly representative of broader voter will.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912506,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>15</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912506,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912492" class="comment byuser comment-author-600115117 odd alt thread-even depth-1 parent">
+   <article id="div-comment-2109912492" commentIDVal="2109912492" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Charlie Price</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T07:22:08+00:00">
+								May 2, 2016 at 7:22 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>If Bernie wants to get Progressive policies on a platform, he&apos;ll have better luck with Trump than Hillary.  Does he want warmongering, or war as an absolute last resort?  Does he want war with Russia, or to normalize relations with Russia (as argued for by Katrina vanden Heuvel and Stephen F. Cohen)?  Does he want more regime change, or does he want actual change?  All of Bernie&apos;s eloquent words about trade, and the disastrous nature of the TPP/TTIP/TiSA have been echoed by Trump, but not by Hillary.  War, Trade, Wall Street, Money in Politics - are those the things that are important, or is it just identity politics as usual?</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912492,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>13</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912492,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>10</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912507" class="comment byuser comment-author-600136758 even depth-2">
+   <article id="div-comment-2109912507" commentIDVal="2109912507" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Tyson Moore</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T11:49:36+00:00">
+								May 2, 2016 at 11:49 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>This is just one reason that HRC will have real trouble in the General.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912507,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>10</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912507,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912432" class="comment byuser comment-author-003762929 odd alt thread-odd thread-alt depth-1 parent">
+   <article id="div-comment-2109912432" commentIDVal="2109912432" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Steve Muratore</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-30T23:46:56+00:00">
+								April 30, 2016 at 11:46 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Yes, platform fights are worth waging... but,<br />
+&quot;It does not mean that he [Bernie] will get what he wants at the convention [regarding the platform]. It does not mean that Hillary Clinton, who has her own vision and her own strategies, should [would] accept every [any] proposal that Sanders or broader movements make. There are no guarantees that the Democratic Party can or will run in 2016 on “the strongest progressive agenda that any political party has ever seen.” <br />
+<br />
+This is a significant reason we should not nominate Clinton.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912432,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>103</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912432,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>15</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912443" class="comment byuser comment-author-600223259 even depth-2 parent">
+   <article id="div-comment-2109912443" commentIDVal="2109912443" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Mikki Couch</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-01T08:24:09+00:00">
+								May 1, 2016 at 8:24 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>I hope the stars align for Bernie to run as an Independent presidential candidate.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912443,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>66</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912443,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>19</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912481" class="comment byuser comment-author-600145601 odd alt depth-3 parent">
+   <article id="div-comment-2109912481" commentIDVal="2109912481" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Dennis Ditullio</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-01T23:35:54+00:00">
+								May 1, 2016 at 11:35 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>I agree I want my vote to count on where I want to see America go.  I&apos;ll be holding my breath for Bernie to win the nomination but if not he should consider going Green.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912481,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>25</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912481,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>11</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912483" class="comment byuser comment-author-600240725 even depth-4 parent">
+   <article id="div-comment-2109912483" commentIDVal="2109912483" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Nancy Tronsgard</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T00:59:26+00:00">
+								May 2, 2016 at 12:59 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Dennis and Steve, I completely agree that votes should count and that Clinton is the lesser candidate.  Senator Sanders has caused an earthquake, by speaking truth to power.  However, he is not so naive, after holding electoral office for decades, to imagine that magical thinking will result in perfect results in the wave of a wand.  That is why his comments as reported here have such resonance.  <br />
+<br />
+The situation is complex, but not immune to change.  If Senator Sanders is not the nominee, and he has admitted that possibility , but not lost hope; he is asking those who agree with his agenda to work in the long haul.<br />
+<br />
+The analogies made here to the civil rights movement are correct.  They did not happen overnight.  But they did happen, the vision of those who worked for decades was achieved in legislation, and that is all a politician can really do.  <br />
+<br />
+President Trump?  That horrible possibility, along with the SCOTUS nominees he will appoint,  seems to be closer, if those who oppose his views choose not to vote for the only remaining viable opposition, or not vote at all.  <br />
+<br />
+I don&apos;t like HRC, but I like the vision of the bible clobbered, brain dead, infantile narcissists with no or an evil plan, who will be running in opposition to her far less.   <br />
+<br />
+HRC, if she ascends to the throne, will have done so with a vision that is opaque, but I don&apos;t think she wants her implementation to go down in history as the first woman president who helped destroy the country.<br />
+<br />
+The Republicans have a faint hope that disillusionment will keep you at home or writing a candidate in a lost cause.  Don&apos;t give them that opportunity.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912483,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>27</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912483,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>7</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109912515" class="comment byuser comment-author-600163596 odd alt depth-5">
+   <article id="div-comment-2109912515" commentIDVal="2109912515" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Nina Davis</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-02T12:15:12+00:00">
+								May 2, 2016 at 12:15 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>The Queen of England, an actual queen, has very little power; her position is largely ceremonial.  The Brits like their monarchy... up to a point.  Unlike so many of her predecessors, she no longer has the power to bring the country down around everyone&apos;s ears through the blowback of her ill considered decisions.  &apos;Make it so&apos;.  <br />
+<br />
+<br />
+Hillary, on the other hand, could bring destruction upon us all, if she got enough of her cabinet to comply.  But I envision her doing exactly what so many who support her hope she will do -- maintain the status quo of the meritocracy, and the inequality that goes with it.  Neo-liberalism has been very, very good for them.  She won&apos;t reign in the political and financial excesses of the billionaires; she won&apos;t break up the banks; she won&apos;t raise the minimum wage to $15; she won&apos;t fight for universal medicare; and her stands on Saudi Arabia, Israel, and the Middle East will remain exacting the same.  <br />
+<br />
+<br />
+So we&apos;ll have another 4-8 years of &apos;more of the same&apos;, and that&apos;s going to be destructive in and of itself.  It&apos;s so much harder to affix responsibility on to a president for doing nothing, plausible deniability is built in.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912515,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>12</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912515,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>1</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912426" class="comment byuser comment-author-600236038 even thread-even depth-1">
+   <article id="div-comment-2109912426" commentIDVal="2109912426" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Mike De Martino</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-30T21:50:08+00:00">
+								April 30, 2016 at 9:50 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>The progressive left or social liberal wing of the Democratic party has a leader. I am willing to follow his lead and move on to the convention with even more delegates in the bag. I am relishing a huge fight in and out of the convention. Yippee!</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912426,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>109</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912426,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>11</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912320" class="comment byuser comment-author-005207816 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912320" commentIDVal="2109912320" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Walter Pewen</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-30T13:54:00+00:00">
+								April 30, 2016 at 1:54 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Does anyone sincerely believe that Hillary Clinton can do any of the things Sanders suggests?  Or that she is even willing to try?<br />
+The one thing people should have taken away from watching Clinton over a couple decades now is how she insists on offering crumbs to her constituents under the guise of &quot;working within the system&quot; e.g. Walmart.  She has done so little for women (her main constituency) I really wish women who rally for her would wake up and realize-she is NOT who she purports to be.<br />
+As to the platform, over the years they&apos;ve mattered less and less.  And always remember Hillary&apos;s words at the 96 convention:  &quot;A leaner, meaner, Democrat party.&quot;  She has no intention of bucking anyone, even for women&apos;s causes.  Look what Walmart is today.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912320,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>127</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912320,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>11</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912210" class="comment byuser comment-author-600121388 even thread-even depth-1">
+   <article id="div-comment-2109912210" commentIDVal="2109912210" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">David Broer-leroux</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-30T03:52:27+00:00">
+								April 30, 2016 at 3:52 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>In the 1980&apos;s Wal Mart had an ad campaign touting how they buy American made first, &quot;If it&apos;s made in America&quot;. <br />
+I have followed them and their shelf stock since. What I noticed was that yes many products, clothing in particular were made in America. But, there was something missing from the labels. &quot;Union Made&quot;. HRC was on the board back then &quot;fighting for women&apos;s and children&apos;s rights in the boardroom. So we are told. What was not told was as Sam Walton and Co was promoting this, Sam was dictating to his suppliers that they had to move production to China in order to sell to Wal Mart the low price leader. DWS, HRC and the DNC will have us believe HRC was not privy to this. I don&apos;t buy that.<br />
+I also don&apos;t buy HRC as a progressive, not with her track record both public and private. <br />
+As senator Sanders pointed out; You can not stand for and with the oppressed while being financed by the oppressors.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912210,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>130</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912210,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>8</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912188" class="comment byuser comment-author-002799500 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912188" commentIDVal="2109912188" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Edward M Protas</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-29T20:57:03+00:00">
+								April 29, 2016 at 8:57 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>The voices from the HRC side of the road seem to indicate that they have already moved (too) far to the left and that they are going to resist further movement. This is a clear indication that the DLC still holds sway, and that the centrist/incrementalist is still the perfect Clinton.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912188,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>80</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912188,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>7</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912183" class="comment byuser comment-author-600205124 even thread-even depth-1">
+   <article id="div-comment-2109912183" commentIDVal="2109912183" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Phil Johnson</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-04-29T18:51:23+00:00">
+								April 29, 2016 at 6:51 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>As usual, Mr. Nichols strikes the right consonant notes. I hope the DNC&apos;s DWS, who is also running for her political life, reads this. And the accompanying pair of articles by Steve Phillips drives home the point that JFK made decades ago (I paraphrase): &quot;If not us, who? if not now, when?&quot;<br />
+<br />
+Watching and listening to all the sturm und drang for the past year, I hope it is I, and everyone else who gives a damn about this country&apos;s future, and that the time is now.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912183,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>129</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912183,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>6</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+					
+</div><!-- #comments -->			</div>
+					</footer>
+		<footer class="article-footer recirc-block">
+			<div class="footer-module full-width-mobile recirc-block">
+					<div class="recirc column" id="recirccol-210896">
+					<ul class="tag-browser">
+					 
+							<li><a name="democrats" class="other" href="#">Democrats</a></li>
+						 
+							<li><a name="election-2016" class="other" href="#">Election 2016</a></li>
+						 
+							<li><a name="bernie-sanders" class="other" href="#">Bernie Sanders</a></li>
+										
+					</ul>
+					<div class="recirc-carousel" id="recirccar-210896">
+														<ul id="democrats" class="article-list">
+																		<li>
+										<time>Today 9:06 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/indiana-tells-bernie-sanders-to-stay-in-the-race-and-keep-talking-about-trade/">Indiana Tells Bernie Sanders to Stay in the Race, and Keep Talking About Trade</a> <span class="author">
+																	By John Nichols																		</span></h2>
+									</li>
+																		<li>
+										<time>Yesterday 5:00 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/bernies-philadelphia-challenge/">A Contested Convention Is Exactly What the Democratic Party Needs</a> <span class="author">
+																	By John Nichols																		</span></h2>
+									</li>
+																	</ul>
+																<ul id="election-2016" class="article-list">
+																		<li>
+										<time>Today 2:11 pm</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/why-bernie-didnt-get-my-vote/">Why Bernie Didn’t Get My Vote</a> <span class="author">
+																	By Katha Pollitt																		</span></h2>
+									</li>
+																		<li>
+										<time>Today 11:23 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/this-is-what-happens-when-republican-voters-get-what-they-want/">This Is What Happens When Republican Voters Get What They Want</a> <span class="author">
+																	By Joan Walsh																		</span></h2>
+									</li>
+																	</ul>
+														<ul id="bernie-sanders" class="article-list">
+														<li>
+								<time>Today 2:11 pm</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/why-bernie-didnt-get-my-vote/">Why Bernie Didn’t Get My Vote</a> <span class="author">									By Katha Pollitt								</span></h2>
+							</li>
+														<li>
+								<time>Today 10:00 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/rescuing-appalachia-from-coals-demise/">Just Because Big Coal Is Collapsing Doesn’t Mean Appalachia Has to Follow</a> <span class="author">									By Michelle Chen								</span></h2>
+							</li>
+													</ul>
+												
+					</div>
+				</div>
+				<style>
+.tout.footer.donate.dvKDJaJCtt{
+background: #cc0e0e !important;
+}
+.tout.footer.donate p{color: #ffffff !important;}
+.tout.footer.donate .btn{
+   border:3px solid #ffffff !important;
+   color: #ffffff !important;
+   background: #cc0e0e !important;
+}
+.tout.footer.donate .btn:hover{
+   background:#ffffff !important;
+   color:#cc0e0e !important;
+}
+</style>
+<div class="tout footer donate column dvKDJaJCtt">
+   <div class="donate-wrapper">
+             <p>“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+</p>
+            <div class="donate-grid"><a href="https://ssl.palmcoastd.com/06601/apps/ANNIVERSARY2?ikey=I**RR2" target="_blank" class="btn">Subscribe to The Nation</a></div>   </div>
+</div>
+							</div>
+		</footer>
+		</article>
+
+
+<script type="text/javascript">
+  //  googletag.cmd.push(function() {
+  //  googletag.defineSlot('/1004953/tn_article_leaderboard_2', [728, 90], 'div-gpt-ad-1428494597034-0').
+  //  setTargeting("test","infinitescroll").
+  //  addService(googletag.pubads());
+  //
+  // // Infinite scroll requires SRA
+  // googletag.pubads().enableSingleRequest();
+  //
+  // // Disable initial load, we will use refresh() to fetch ads.
+  // // Calling this function means that display() calls just
+  // // register the slot as ready, but do not fetch ads for it.
+  // googletag.pubads().disableInitialLoad();
+  //
+  // // Enable services
+  // googletag.enableServices();
+  //});
+    
+  
+ // Function to generate unique names for slots
+ var nextSlotId = 1;
+ function generateNextSlotName() {
+   var id = nextSlotId++;
+   return 'adslot' + id;
+ }
+	var nextSlotIdSide = 1;
+	function generateNextSlotNameSide() {
+	  var idSide = nextSlotIdSide++;
+	  return 'slotSide' + idSide;
+	}
+
+</script>
+	
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+   //googletag.display('div-gpt-ad-1428494597034-0');
+});
+</script>
+	 <div id="ad-interarticle"   class="ad full-width interarticle position-relative">
+		<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+		<div id="div-gpt-ad-1428494597034-0"> 
+<!--     <script>
+        // Call display() to register the slot as ready
+        // and refresh() to fetch an ad.
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-1428494597034-0');
+          googletag.pubads().refresh();
+        });
+     </script> 
+--> </div>
+	</div>
+	 <!--<div id='div-gpt-ad-1428494597034-0' class="push ad full-width leaderboard"></div>-->
+	
+	<a class="inifiniteLoader"><img src="http://www.thenation.com/wp-content/themes/thenation/images/infi_loader.gif" /></a>
+	</div>
+					</div><!-- article wrap -->
+	<!--<a class="goTop" title="Scroll Top"><img src="http://www.thenation.com/wp-content/themes/thenation/images/scroll_arrow.png" /></a>-->
+<!-- Including  Body content image in gallery -->
+	<!-- Including  Body content image in  gallery -->
+	<script>
+	       function runSlider(ele)
+	    {   
+			 ele.bxSlider({
+  adaptiveHeight: true,
+ adaptiveHeightSpeed: 500,
+  infiniteLoop: false,
+  hideControlOnEnd: false,
+  pager: false
+});
+return false;
+		}
+
+	   
+		 jQuery(document).ready(function(){
+		 var flag = false;
+		 $('section.article-body img').each(function() {
+		   
+			 if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 {
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+             if(flag)
+			{
+			 runSlider($('.gallery-2'));
+			}
+	});
+	</script>
+	<script>	
+jQuery(document).ready(function(){
+  $e = $('.article-body').children().last();   
+   $t = $e.prop("tagName");
+   var tagsArray = ['FORM','ASIDE'];
+   var anothertagsArray = {'UL':'li','OL':'li','BLOCKQUOTE':'p'};
+   if(jQuery.inArray($t, tagsArray )!='-1')
+   {} 
+   else
+   {    
+      if($t in anothertagsArray)
+      {
+         $('.article-body > p:last-of-type').toggleClass('changed');
+         $e.find(anothertagsArray[$t]+':last').addClass('redotclass');         
+      }    
+   }
+});
+jQuery(document).ready(function(){
+$('figure').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+   if($(this).hasClass('alignright')||$(this).hasClass('alignleft') || $(this).hasClass('aligncenter'))
+   { 
+     $(this).after('<div class="clear"></div>');
+	}
+	});
+
+	//jQuery('.click_comment').click(function(){
+	//			console.log("called     "+'#comments_210896' );
+	//		$( '#comments_210896' ).toggle();
+	//		$('html, body').animate({
+	//			scrollTop: $('#comments_210896').offset().top
+	//		},2000);
+	//		return false;
+	//	});
+});
+</script>
+	<script>// Scroll IF # id exist in URL
+	jQuery(document).ready(function($){
+	var url_id = window.location.hash.substr(1);
+	if(url_id!='')
+	{
+	var s = url_id;
+	var n = s.indexOf('/');
+	if(n!=''&& typeof n!= 'undefined')
+	{
+		var id_var = s.substring(0, n != -1 ? n : s.length);
+		//alert(id_var);
+		
+				$('html, body').animate({
+					scrollTop: $('#'+id_var).offset().top
+				},2000);
+				return false;
+			
+		}
+	}
+	});
+	</script>
+	
+	<script type="text/javascript">
+/*script to handle Back Button Event */
+var pageChange = 1;
+jQuery.noConflict();
+if(window.attachEvent) {
+    window.attachEvent('onpopstate', datHash);
+}
+function datHash(event)
+{
+	//event.preventDefault();
+	var str = $('#goback').val();
+	if(str=='')
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	else
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	return false;
+}
+/*script to handle Back Button Event */
+
+</script>
+<!--Alternate Popup code start-->
+<!--Alternate Popup code End--> 
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+	$('.post-edit-link').attr('href', function( _, action){
+    return action.replace('https', 'http');
+});
+    });
+
+jQuery(document).ready(function($) {
+	
+//	(function(window, undefined) {
+//    // Define variables
+//    var History = window.History,
+//        State = History.getState();
+//
+//    // Bind statechange event
+//    History.Adapter.bind(window, 'statechange', function() {
+//        var State = History.getState();
+//    });
+//	})(window);
+	
+	$('a.inifiniteLoader').hide();
+	var count = 1;
+	var loagAgn = false;
+	/*Script to handle Article Load Ajax*/
+	function loadArticle(pageNumber){
+		$('a.inifiniteLoader').show('fast');
+		$.ajax({
+		    url: "http://www.thenation.com/wp-admin/admin-ajax.php",
+		    type:'POST',
+			cache: false,
+			dataType: 'json',
+		    data: {action:'infinite_scroll',page_no: pageNumber, loop_file: 'articleload',slug:'campaigns-and-elections,democrats,election-2016,elections,politics,the-left',curr_post_id:'210896',baseInfo:'{"SERVER_SOFTWARE":"nginx\/1.8.1","REQUEST_URI":"\/article\/sanders-fights-on-for-the-strongest-progressive-agenda-that-any-political-party-has-ever-seen\/","USER":"84aeaae17181473c9bfbd77d1ba6705a","HOME":"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a","FCGI_ROLE":"RESPONDER","QUERY_STRING":"","REQUEST_METHOD":"GET","CONTENT_TYPE":"","CONTENT_LENGTH":"","SCRIPT_NAME":"\/index.php","DOCUMENT_URI":"\/index.php","DOCUMENT_ROOT":"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/code","SERVER_PROTOCOL":"HTTP\/1.1","GATEWAY_INTERFACE":"CGI\/1.1","REMOTE_ADDR":"76.189.162.58","REMOTE_PORT":"51912","SERVER_ADDR":"10.223.144.188","SERVER_PORT":"11753","SERVER_NAME":"endpointcc74b591.chios.panth.io","REDIRECT_STATUS":"200","PATH_INFO":"","PATH_TRANSLATED":"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/code","HTTPS":"OFF","SCRIPT_FILENAME":"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/code\/\/index.php","HTTP_HOST":"www.thenation.com","HTTP_USER_AGENT":"Mozilla\/5.0 (Linux; Android 5.0; SM-G900V Build\/LRX21T; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/50.0.2661.86 Mobile Safari\/537.36","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/webp,*\/*;q=0.8","HTTP_ACCEPT_ENCODING":"gzip","HTTP_COOKIE":"has_js=1","HTTP_REFERER":"http:\/\/m.facebook.com\/","HTTP_SURROGATE_CAPABILITY":"styx=\\\"ESI\/1.0\\\"","HTTP_USER_AGENT_HTTPS":"OFF","HTTP_VIA":"HTTP\/1.1 ECS (iad\/18D7), HTTP\/1.1 ECS (ord\/4CDF)","HTTP_X_FB_HTTP_ENGINE":"Liger","HTTP_X_FB_NET_HNI":"311480","HTTP_X_FB_NET_SID":"32","HTTP_X_FB_SIM_HNI":"311480","HTTP_X_FORWARDED_FOR":"76.189.162.58, 198.7.24.215, 46.22.76.223, 46.22.76.223","HTTP_X_FORWARDED_PROTO":"http","HTTP_X_GATEWAY_LIST":"ord1","HTTP_X_HOST":"www.thenation.com","HTTP_X_PANTHEON_CLIENT_IP":"76.189.162.58","HTTP_X_PANTHEON_STYX":"1","HTTP_X_PROTO":"http:\/\/","HTTP_X_PURPOSE":"preview","HTTP_X_VARNISH":"239438185","PHP_SELF":"\/index.php","REQUEST_TIME_FLOAT":"1462398191.6667","REQUEST_TIME":"1462398191","PRESSFLOW_SETTINGS":"{\\\"conf\\\":{\\\"pressflow_smart_start\\\":true,\\\"pantheon_binding\\\":\\\"84aeaae17181473c9bfbd77d1ba6705a\\\",\\\"pantheon_site_uuid\\\":\\\"672ae238-dede-44f4-9243-89a591c2cc46\\\",\\\"pantheon_environment\\\":\\\"live\\\",\\\"pantheon_tier\\\":\\\"live\\\",\\\"pantheon_index_host\\\":\\\"18f9ce30-8984-49c6-a353-771e7a1a88ef-private.panth.io\\\",\\\"pantheon_index_port\\\":449,\\\"redis_client_host\\\":\\\"10.223.242.45\\\",\\\"redis_client_port\\\":10000,\\\"redis_client_password\\\":\\\"f7862bd887a04097b9c0c40dd322708a\\\",\\\"file_public_path\\\":\\\"sites\/default\/files\\\",\\\"file_private_path\\\":\\\"sites\/default\/files\/private\\\",\\\"file_directory_path\\\":\\\"sites\/default\/files\\\",\\\"file_temporary_path\\\":\\\"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/tmp\\\",\\\"file_directory_temp\\\":\\\"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/tmp\\\",\\\"css_gzip_compression\\\":false,\\\"js_gzip_compression\\\":false,\\\"page_compression\\\":false,\\\"error_level\\\":0},\\\"databases\\\":{\\\"default\\\":{\\\"default\\\":{\\\"host\\\":\\\"10.223.144.42\\\",\\\"port\\\":10000,\\\"username\\\":\\\"pantheon\\\",\\\"password\\\":\\\"b35cb8c7d81b4ff0a54a7af315773f96\\\",\\\"database\\\":\\\"pantheon\\\",\\\"driver\\\":\\\"mysql\\\"}}},\\\"drupal_hash_salt\\\":\\\"b444002d80740b3d94cc5e42e4945dbc224fd3134e65b580da60215ffe4c8bf3\\\",\\\"config_directory_name\\\":\\\"config\\\"}","FRAMEWORK":"wordpress","DOCROOT":"\/","FILEMOUNT":"wp-content\/uploads","AUTH_KEY":"VHpmJoHTr14kv2qyk4zD6NrSc3IqAUmZxtz0nUnwkNA=","SECURE_AUTH_KEY":"zuloHYH0e\/uwY8+VFQ\/rgob0NrMXhmIsg9ymhQ4uBTg=","LOGGED_IN_KEY":"2m+ff0Ly0rHeTX0y0XQjPbiJWgk2aCET7rTjb+zMW5c=","NONCE_KEY":"JMqPWPpuEU03WW4UaqSzKy1gkcWsavf\/LHKLgHKzusc=","AUTH_SALT":"Q7pT2rIMICgULXTEtMwYfknUKfI0Yaog3PBcoVMI7F8=","SECURE_AUTH_SALT":"a3AFHfpntT3bMHQ5x\/6oFBL2AUyT\/sRYoO2W8Zz5hws=","LOGGED_IN_SALT":"+gVdi3DCKSVclyPORyNbSyHp2Gx9F81RWiMAwMV3hGg=","NONCE_SALT":"JcwHG4IRUl\/DsS0Va2+Z15HXCQKQmnIsDS8mbPoP8w4=","PANTHEON_INDEX_HOST":"10.223.96.36","PANTHEON_INDEX_PORT":"449","REPLICA_DB_HOST":"10.223.240.192","REPLICA_DB_PORT":"10000","REPLICA_DB_USER":"pantheon","REPLICA_DB_PASSWORD":"51bc58f755ba453a9c36b3f5794b3513","REPLICA_DB_NAME":"pantheon","DB_HOST":"10.223.144.42","DB_PORT":"10000","DB_USER":"pantheon","DB_PASSWORD":"b35cb8c7d81b4ff0a54a7af315773f96","DB_NAME":"pantheon","CACHE_HOST":"10.223.242.45","CACHE_PORT":"10000","CACHE_PASSWORD":"f7862bd887a04097b9c0c40dd322708a","PANTHEON_SITE":"672ae238-dede-44f4-9243-89a591c2cc46","PANTHEON_SITE_NAME":"thenation","PANTHEON_ENVIRONMENT":"live","PANTHEON_INFRASTRUCTURE_ENVIRONMENT":"live","PATH":"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/bin:\/usr\/local\/bin:\/bin:\/usr\/bin:\/srv\/bin","PHPRC":"\/srv\/bindings\/84aeaae17181473c9bfbd77d1ba6705a\/php.ini"}'},
+		    success: function(receivedHTML){
+			if (typeof receivedHTML == 'object') 
+			{
+				if(typeof receivedHTML.html!=='undefined' && receivedHTML.html!='')
+				{
+					html = receivedHTML.html;
+				}
+			}
+			else
+			{
+				$('a.inifiniteLoader').hide();
+				$("#single_article_footer").show();
+			}
+			//html = receivedHTML.html;
+			$('a.inifiniteLoader').hide('1000');
+			$("#wrap").append(html);    // This will be the div where our content will be loaded
+			var postID = $($.parseHTML(html)).filter(".scrolltrace").attr('article-post-id');
+			
+			$('.abody-'+postID).children('p:first-of-type').html(function (i, html) {
+if ($('.abody-'+postID).children('img').length == "0") {
+var text = $('.abody-'+postID).children('p:first-of-type').html();
+$('.abody-'+postID).children('p:first-of-type').html(text.replace(/^(<.?>)?([A-Za-z0-9])/g,'$1<span class="dropcap">$2</span>'));
+}
+});        
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===false) 
+			{		  
+				/*for hiding meterpaywall popups when pixel ads call ends here*/
+				/****Alternate Popup code start*********/
+				var enable_alterpopup_check;
+				enable_alterpopup_check ='';
+				if(typeof(enable_alterpopup_check) != "undefined" && enable_alterpopup_check == 1) 
+				{ 
+					var alternate_article_no;
+					alternate_article_no = '';
+					if(pageCounterPaywall % alternate_article_no == 0 && pageCounterPaywall!=0)
+					{
+						show_lightbox('','');
+					}
+				}
+				/******Alternate Popup code End********/
+			}
+			pageCounterPaywall++;
+			ajaxCarousel(postID);
+			/** Slider Content **/
+			var flag = false;
+			$('section.article-body:last img').each(function() {
+			if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 { 
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+
+			 if(flag){
+			var k = $('section.article-body:last').find('.gallery-2').bxSlider({
+				  adaptiveHeight: true,
+				 adaptiveHeightSpeed: 500,
+				  infiniteLoop: false,
+				  hideControlOnEnd: false,
+				  pager: false
+				});
+			 k.reloadSlider();
+			 }
+			 /* Slider Content End */
+			 
+			 
+			 var usera = navigator.userAgent.toLowerCase(); 
+				if ($('.article-page').length) { 
+				var slickWidth = $('.article-list.slick-slide').width(); 
+				if ($('.ie9').length) 
+				{ slickWidth = $('.recirc-carousel.slick-initialized.slick-slider').width(); } 
+				$('.slick-list.draggable').css( 
+				{'width' : slickWidth} 
+				); 
+				if (!/android|webos|iphone|ipad|ipod|blackberry/i.test(usera)) { 
+				$('.article-list.slick-slide').children('li').css( 
+				{'width' : slickWidth} 
+				); 
+				$('.slick-list').css( 
+				{'width' : slickWidth} 
+				); 
+				} 
+				} 
+			 
+			 
+			 
+			 
+			 
+			 
+		    }
+		});
+	    return false;
+	}
+	
+
+	/*Script to handle Scroll*/
+	 $(window).bind('scroll', function() {
+		
+			$('.scrolltrace').each(function() {
+			   var post = $(this);
+			   var topp = post.position().top;
+			   var bott = post.position().top + post.height();
+			   var pos = $(window).scrollTop();
+			    if (pos>=topp && pos<=bott) {
+			       $(this).addClass('currentScr');
+			       if($('.currentScr').attr("articlelistlinks")!=window.location.href)
+				   {
+						var ua = window.navigator.userAgent;
+						var msie = ua.indexOf("MSIE ");
+
+						if (msie > 0){ 
+							
+						}else{
+								window.history.pushState({}, "", $('.currentScr').attr('articlelistlinks'));
+								load_article_ads();
+						}
+				   // Google Analytics  for Infinite Scroll
+					 ga('send', 'pageview', {
+								'page': $('.currentScr').attr('articlelistlinks'),
+								'title': $('.currentScr').attr('articlelisttitle')
+							});
+
+				    pSUPERFLY.virtualPage($('.currentScr').attr('articlelistlinks'), $('.currentScr').attr('articlelisttitle'));
+				$("nav.primary ul li.article-meta h2").html($('.currentScr').attr('articlelisttitle').substring(0,100));
+			       $("title").html($('.currentScr').attr('articlelisttitle'));
+						 
+						 
+						 var linktext = $('.currentScr').find(".anchor_subject").html();
+						 if (linktext!='') {
+						 var linkredirectval =$('.currentScr').find(".anchor_subject").attr('subjectlink');
+						 if(typeof linkredirectval!='undefined')
+						 {
+								var subject_head_link = "<a href='"+linkredirectval+"'>"+linktext+"</a>";
+								$('.tophead_subject').html(subject_head_link);
+						 }
+						 else
+						 {
+							 var subject_head_link = "";
+							$('.tophead_subject').html(subject_head_link);
+						 }
+							
+						 }
+			       
+			       pageChange = parseInt(pageChange) + 1;
+				   }
+				  /****** First ad beside title starts here ************/
+				   
+						   $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+							  if (i === 0 ) {
+								 if (isMobile.any()===null || isMobile.any()===undefined)
+								{
+									var mq = window.matchMedia( "(min-width: 1365px)" );
+								//console.log(mq.matches);
+									if (mq.matches===true) 
+									{ 
+											$(this).addClass('first-ad');
+											var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+											  $(this).css({
+												'top' : fullscreenPos,
+												'position': 'absolute',
+												'right': 85
+											  });
+										}
+								}
+							  }
+						});
+						$(window).bind('resize', function(e)
+							{
+						 $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+						  if (i === 0) 
+						  {
+
+						  if (isMobile.any()===null || isMobile.any()===undefined)
+						{ 
+									$(this).removeClass('first-ad');
+									var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+									  $(this).css({
+										 'top': 'inherit',
+										'position': 'relative',
+										'right': 0
+									  });
+								
+							}
+							}
+						});
+						});	
+						 /****** First ad beside title ends here ************/
+				 }
+			   else
+			   {
+			       $(this).removeClass('currentScr');
+			   }
+		       });
+			
+		if ( typeof PaywallWorking !== 'undefined' && PaywallWorking == 'on' )
+     {
+        var loadPoint = false;
+        var loadPointElement = $('.scroll_handler:eq('+pageCounterPaywall+')').position();      
+        if (typeof loadPointElement!=="undefined")
+        {
+           loadPoint = loadPointElement.top;
+        }
+     }
+     else
+     {
+        //var loadPoint = $('.footer-module .article-share:last').position().top; 
+        //var loadPoint = $('footer.recirc-block:last').position().top;	
+        var loadPoint = $('.article-header .article-share:last').position().top;
+        //var loadPoint = $('section.article-body:last').position().top;
+     }
+	
+		if  (loadPoint!=false && $(window).scrollTop() > loadPoint)
+		{ if($('.scrolltrace').length==count)
+		  { { loagAgn = true;
+		      if(loagAgn)
+			  {
+			count++;
+		 if (count < 6) {
+			 if(preventLoad_article==false){
+								loadArticle(count);//code
+				
+				}		
+		 }
+		 if (count==6) {
+			$('a.inifiniteLoader').hide();
+			$("#single_article_footer").show();
+		 }
+		 loagAgn = false;
+			  }
+		   }
+		  
+		  }
+		}
+		
+//		 if($(this).scrollTop() > 100){
+//            $('.goTop').stop().animate({
+//                bottom: '20px'    
+//                }, 500);
+//        }
+//        else{
+//            $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//            }, 500);
+//        }
+	});
+	
+	/*Script to handle Scroll close*/	
+	 
+//	$('.goTop').click(function() {
+//        $('html, body').stop().animate({
+//           scrollTop: 0
+//        }, 500, function() {
+//           $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//           }, 500);
+//        });
+//    });
+	
+	 // Script for Comment Sec
+	 $('body').on('click','.click_comment',function(event){
+	   event.preventDefault();
+	   $(this).closest('.article-footer').find('.commentContainer').slideToggle('slow', function() {
+         if ($(this).css('display')=='none') {
+           check_comment = false;//condition added for print
+         }
+         else{
+            check_comment = true;//condition added for print
+         }			
+		});
+		 $('html, body').animate({
+				scrollTop: $($(this).closest('.article-footer').find('.commentContainer')).offset().top
+			},2000);
+	 });
+	 
+	var list;
+	$('body').on('click','a.comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	var comment_link_respond = $(this);		
+	comment_link_respond.closest('.comment-form').find('.comment-status').html('');
+	list = $(this).closest('article').attr('id');
+
+	var PIDS = list.split('-');
+	$(this).closest('.comments-area').find('.comment-respond').find('#comment_parent').val(PIDS[PIDS.length-1]);
+	
+	});
+	
+	$('body').on('click','.cancel-comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	list=null;
+	});
+	
+	
+	$('body').on('click','.submit',function(event){
+		event.preventDefault();
+		$( ".comment-status" ).remove();
+	var commentform=$(this).closest('.comment-form'); // find the comment  form
+	    commentform.prepend('<div class="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+        var statusdiv=commentform.find('.comment-status'); // define the infopanel
+				var checkspace = $(this).closest('.comment-form').find("textarea#comment").val();
+		if (checkspace.replace(/\s/g, '').length && $(this).closest('.comment-form').find("textarea#comment").val()!='') {
+			statusdiv.html(' ');
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Add a status message
+			//Extract action URL from commentform
+			var formurl=commentform.attr('action');
+			
+				statusdiv.html('<p>Processing...</p>');
+				 $(this).attr('disabled','disabled');
+				var e = $(this);
+				$.ajax({
+						type: 'post',
+						url: formurl,
+						data: formdata,
+					  error: function(XMLHttpRequest, textStatus, errorThrown)
+						{
+							statusdiv.html(' ');
+							 $('.submit').removeAttr('disabled');
+							statusdiv.html('<p class="error_cmnt" >You might have left one of the fields blank, or be posting too quickly</p>');
+						},
+						success: function(data, textStatus){
+							var chkstatus_comment = $($.parseHTML(data)).filter(".chk_comment_class").attr('comment-status');
+							
+								if (chkstatus_comment=='spam') {
+									statusdiv.html('<p class="error_cmnt" >You have been blocked from commenting by <i>The Nation\'s</i> moderators.</p>');
+								}
+								else{
+									$('.submit').removeAttr('disabled'); 
+									$("textarea#comment").val('');
+									statusdiv.html('<p class="success_cmnt" ></p>');
+									if(e.closest(".comments-area").has("ol.comment-list").length > 0){
+										if(list != null){
+											e.closest(".comments-area").find('#'+list).after(data);
+										}
+										else{
+											e.closest(".comments-area").find('ol.comment-list').prepend(data);
+										}
+									}
+									else{
+										e.closest(".comments-area").prepend('<ol class="comment-list custom_comments"> </ol>');
+										e.closest(".comments-area").find('ol.comment-list').html(data);
+									}
+							}
+						}
+						
+				});
+				return false;
+			statusdiv.html('');
+		}else{
+			statusdiv.html('<p class="error_cmnt" >Please enter text in comment box.</p>');
+		}
+        }); 
+});
+// Print functionality
+function tn_print_fn()
+{            
+    var tn_current_url=window.location.href;
+    if (check_comment == true) {
+       window.open(tn_current_url+'?print=1&comment=1','_blank');
+    }
+    else{
+       window.open(tn_current_url+'?print=1','_blank');
+    }
+    
+    return false;
+}
+</script>
+ 
+<script>
+function add_action_tout_sailthru(post_id)
+{
+ var ajaxurl=ajax_object.ajax_url;
+	var sailthru_email_take_action = document.getElementById('take_action_sailthru_email_'+post_id).value;
+	if(sailthru_email_take_action!='')
+	{
+			var take_action_sailthru_list_final = document.getElementById('take_action_sailthru_list_final_'+post_id).value;
+			var action_tout_sailthru='action_tout_sailthru';
+			jQuery.ajax({
+			url:ajaxurl,
+			type:"POST",
+			data:"sailthru_email_take_action="+sailthru_email_take_action+"&take_action_sailthru_list_final="+take_action_sailthru_list_final+"&action="+action_tout_sailthru,
+			success:function(data){
+			//alert(data);
+			document.getElementById('action_tout_response_'+post_id).innerHTML=data;
+			document.getElementById('take_action_sailthru_email_'+post_id).value='';
+			}
+			});
+	}
+	else
+	{
+	var error_msg='<span style="color:#cc0e0e">Please Enter Email</span>';
+	document.getElementById('action_tout_response_'+post_id).innerHTML=error_msg;
+	}
+}
+jQuery(document).ready(function(){
+jQuery( ".action_tout_remove_gallery a" ).removeClass( "gallery imgHover" ).delay( 1000 );
+});
+/**************** First ad beside title starts here ************/
+jQuery(document).ready(function(){
+jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+var mq = window.matchMedia( "(min-width: 1365px)" );
+if (mq.matches===true) 
+	{
+			$(this).addClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  $(this).css({
+				'top' : fullscreenPos,
+				'position': 'absolute',
+				'right': 85
+			  });
+		}
+	}
+	}
+});
+});
+jQuery(window).bind('resize', function(e)
+{
+ jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+			jQuery(this).removeClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  jQuery(this).css({
+				 'top': 'inherit',
+				'position': 'relative',
+				'right': 0
+			  });
+		
+	}
+	}
+});
+});
+/**************** First ad beside title end here ************/
+</script>
+
+  <div id="show_light_box">
+</div>
+	</div>
+	</div>
+	<div id="single_article_footer" style="display: none">	<footer class="push">
+	<div class="row">
+	<div class="sitemap small-12 columns">
+		<div class="block home">
+			<h1 class="logo">
+					<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation"></a>
+				</h1>
+		</div>
+		<div class="block social">
+			<h2>Follow The Nation</h2>
+			<ul>
+				<li><a class="fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"></a></li>
+				<li><a class="tw" href="https://twitter.com/thenation" target="_blank"></a></li>
+				<li><a class="rs" href=" http://www.thenation.com/all-rss" target="_blank"></a></li>
+			</ul>
+			<h2>Get Email Updates</h2>
+			<p>Stay connected with everything Nation by signing up for our free daily newsletter. </p>
+			<div class="newsletter-signup">
+					<input type="email" class="newsletter-signup__email" id="newsletter_email" name="newsletter_email" required="required" placeholder="Email address">
+					<input type="button" id="newsletter_submit" value="" class="newsletter-signup__submit" />
+			</div>
+			
+			<div id="subscribe_newsletter"></div>
+		</div>
+		<div class="">
+			<aside id="nav_menu-5" class="widget widget_nav_menu block nation nav"><h2  class="expander"><a href="#">Sections</a></h2><div class="menu-footer-sections-container"><ul id="menu-footer-sections" class="menu"><li id="menu-item-119851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119851"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-119852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119852"><a href="http://www.thenation.com/world/">World</a></li>
+<li id="menu-item-119853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119853"><a href="http://www.thenation.com/economy/">Economy</a></li>
+<li id="menu-item-119850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119850"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115792" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-115792"><a href="http://www.thenation.com/subject/society/">Society</a></li>
+<li id="menu-item-116577" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-116577"><a href="http://www.thenation.com/subject/environment/">Environment</a></li>
+<li id="menu-item-119854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119854"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			   <aside id="nav_menu-4" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">The Nation</a></h2><div class="menu-footer-the-nation-container"><ul id="menu-footer-the-nation" class="menu"><li id="menu-item-116578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116578"><a title="About-us-and-contact" href="http://www.thenation.com/about-us-and-contact/">About</a></li>
+<li id="menu-item-178918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178918"><a href="http://www.thenation.com/advertise/">Advertise</a></li>
+<li id="menu-item-180633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180633"><a href="http://www.thenation.com/ebooks/">Books</a></li>
+<li id="menu-item-116581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116581"><a href="http://www.thenation.com/community-guidelines/">Comments Policy</a></li>
+<li id="menu-item-131108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131108"><a href="http://www.thenation.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-116583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116583"><a href="http://www.thenation.com/help/">Help</a></li>
+<li id="menu-item-178899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178899"><a href="http://www.thenation.com/jobs/">Jobs and Internships</a></li>
+<li id="menu-item-134910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134910"><a href="http://www.thenation.com/nation-builders/">Nation Builders</a></li>
+<li id="menu-item-179840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179840"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			  <aside id="nav_menu-3" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">Magazine</a></h2><div class="menu-footer-magazine-container"><ul id="menu-footer-magazine" class="menu"><li id="menu-item-134664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134664"><a href="http://www.thenation.com/issue/">Current Issue</a></li>
+<li id="menu-item-134728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134728"><a href="http://www.thenation.com/masthead/">Masthead</a></li>
+<li id="menu-item-116587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116587"><a href="http://www.thenation.com/archive/">Archive</a></li>
+<li id="menu-item-134846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134846"><a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a></li>
+<li id="menu-item-134847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134847"><a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a></li>
+<li id="menu-item-134727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134727"><a href="http://www.thenation.com/subscription-services/">Subscription Services</a></li>
+<li id="menu-item-134733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134733"><a href="http://www.thenation.com/events/">Events</a></li>
+<li id="menu-item-179839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179839"><a href="http://www.thenationreprints.com/">Reprints</a></li>
+</ul></div></div></aside>		</div>
+	</div>
+		<div class="copyright row">
+		<div class="small-12 columns">
+			<p>Copyright (c) 2016 The Nation Company LLC</p>
+		</div>
+	</div>
+	</footer>
+</div>
+
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script src='http://www.thenation.com/wp-content/plugins/tn-paywall/inc/js/paywall.js'></script><link rel='stylesheet' id='dashicons-css'  href='http://www.thenation.com/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.thenation.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.thenation.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/Magzine_issue_ajax.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/light_box.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/all.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/modernizr.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/comments_js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.thenation.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/pcd_login_popup.js?ver=4.2.4'></script>
+<script>
+function susbcribe_sailthru(form_value){        
+   var newsletterArray = new Array();var firstname ='';var lastname ='';var zippostal ='';var user_email ='';
+   jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         firstname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         lastname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         zippostal = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="email") {
+         user_email = jQuery(this).val();
+      }     
+   });
+   
+   jQuery(form_value).closest("form").find("input[name^='sft_newssletter_variables']").each(function() {
+      newsletterArray.push(jQuery(this).attr("id"));         
+   });      
+   var newsletter_variable=newsletterArray.join(",");
+   var origin_host=document.location.origin;
+  // console.log(firstname);
+   //console.log(lastname);
+  // console.log(zippostal);
+   //console.log(user_email);
+  //myWindow= window.open(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,"form_popup","width=400,height=400");
+ PopupCenter(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,'xtf','300','300');
+   //console.log(newsletterArray.join(","));
+  jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="email") {
+         jQuery(this).val('');
+      }     
+   });
+}  
+function PopupCenter(url, title, w, h) {
+    // Fixes dual-screen position                         Most browsers      Firefox
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    // Puts focus on the newWindow
+    if (window.focus) {
+        newWindow.focus();
+    }
+	setTimeout(function () { newWindow.close();}, 5000);
+}
+
+</script>
+<script type="text/javascript"  src="http://www.thenation.com/wp-content/themes/thenation/js/jquery.bxslider.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"442438c9d9","applicationID":"5436353","transactionName":"Z1JSYkYACEsAV0cKXV4YZURdTklRD1BWGxxAX0A=","queueTime":0,"applicationTime":2186,"ttGuid":"","agentToken":"","atts":"SxVRFA4aG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

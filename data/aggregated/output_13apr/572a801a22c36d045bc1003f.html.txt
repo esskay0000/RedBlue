@@ -1,0 +1,26 @@
+A newly developed robot is capable of performing soft-tissue surgery, and indeed performed better on tests than a human surgeon.
+
+STAR performs in vivo bowel surgery on a pig, supervised by postdoctoral fellow Azad Shademan and senior engineer Ryan Decker.
+
+We're not saying that one day your surgeon might look like Johnny Five, but it's looking more and more possible that the fingers getting all up in your guts will be metal, rather than flesh and bone. A team of scientists with the Children's National Medical Center in Washington, DC has created a robot capable of performing surgery on soft tissue.
+
+Designed and programmed by Azad Shademan, Peter Kim and their team, the Smart Tissue Autonomous Robot proved even more adept at soft-tissue surgery than experienced human surgeons, at least in this particular test surgery, according to a paper published today in Science Translational Medicine.
+
+To improve on current technology to a point where this was possible, the team worked on improving the robot's vision.
+
+To make what the robot sees more in line with what a human sees, they gave the robot a panoptic camera that allows it to determine where things are in three-dimensional space, and added a similar near-infrared night-vision technology to what the military uses. With the added use of fluorescent markers, this allows the robot to see and follow the movement of soft tissue, which previously was too unpredictable for a robot to work with.
+
+Tweaking the robot's dexterity, equipping it with the best and least invasive tools, and programming it with the best surgical techniques based on consensus, allows the robot to effectively conduct surgery. There is no AI involved, although that might come in the future.
+
+The test case was what is known as an anastomotic surgery, connecting two structures together. In this case, it was two pieces of pig intestine. This is actually fairly difficult to perform, since it involves precisely guiding tools through delicate tissue. To accomplish such a complex task, the robot has seven degrees of freedom and an articulated suturing tool, as well as a sensor that can gauge suture tension. This combines with the vision system to accurately place sutures. 
+
+STAR was compared to expert surgeons performing the same task; laparoscopy; and robot-assisted surgery using the Da Vinci system. In all cases, under the supervision of human surgeons, STAR performed more consistently than any other method in both ex vivo and in vivo surgery (all of the pigs lived).
+
+STAR on its own still needs a lot of work, but the team has taken out several patents, and expects the technology, such as the vision system could be intergrated into other surgical robots in the coming years. 
+
+What they hope to see is a future, not where humans are eradicated, but where humans assist robots rather than the other way around.
+
+"We are following aviation and automobiles, you have driver-less cars coming into our lives; it starts with self-parking and now you have the technology that tells you not go to into wrong lanes," Kim said at a press conference. "Within the next couple of years I expect that as surgical tools become smarter, it will inform and work with surgeons in supporting better outcome."
+
+Conversation powered by Livefyre
+

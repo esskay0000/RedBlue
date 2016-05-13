@@ -1,0 +1,193 @@
+By
+
+Ian Halperin For Dailymail.com
+
+
+
+Published:
+  07:23 EST, 13 May 2016
+
+ | 
+Updated:
+  07:24 EST, 13 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3587561',
+                    'title': 'Kardashian author: Why Caitlyn\'s faith could make her Bruce again',
+                    'url': 'http://www.dailymail.co.uk/news/article-3587561/The-real-reason-Caitlyn-Jenner-considering-returning-man-Kardashian-biographer-reveals-Christian-belief-sinful-date-women-gender-struggle.html',
+                    'eTwitterStatus': ' http://dailym.ai/1rJFRjZ via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+ 
+           5
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+           5
+
+View  comments
+
+Caitlyn Jenner's transition from Bruce has been the most high-profile the world has ever seen.
+
+From the dramatic television interview with Diane Sawyer in which Jenner revealed herself for the first time, to the series of appearances in which she has been hailed as an inspirational figure, billions now know that Bruce Jenner has become Caitlyn.
+
+But behind the scenes, I can reveal, is a far more subtle process - and one, multiple sources have told me, with which Caitlyn is struggling.
+
+Her doubts center not on her identity as a woman, but her devout Christian beliefs about sexuality.
+
+Caitlyn remains attracted to women but as a Christian believes same-sex relationships are sinful.
+
+SCROLL DOWN FOR VIDEO 
+
+Inner struggle: Caitlyn Jenner, seen earlier this week in Malibu, is dealing with the conflict between being a woman, being attracted to women, and believing as a Christian that same-sex relationships are sinful
+
+Open about faith: Caitlyn is a devout Christian who has made no secret of her faith. In December last year she prayed at the Fellowship Church in Dallas, Texas
+
+Prayer: Caitlyn Jenner's Christian beliefs and desire to find love as a woman are not in harmony, reveals author Ian Halperin
+
+It is that struggle, I can disclose, which has prompted her to confide in friends - and the reason why they have told me that she may detransition in the future.
+
+Despite her representative's denial yesterday of my first revelation that she may detransition as 'idiotic', the truth is that Jenner has confided her doubts to friends - and that the Kardashian family are well aware of those doubts.
+
+My book Kardashian Dynasty has already made a series of revelations about the latest state of the world's most high-profile family.
+
+I revealed that Blac Chyna was trying to become pregnant by Rob Kardashian - and of course now, she has succeeded, a development which has sent shockwaves through the family.
+
+And I revealed how Kris Jenner was integral to Kim Kardashian's sex tape becoming a sensation.
+
+But there is no doubt what has been the biggest storyline ever for the Kardashian clan: the transition of Bruce to Caitlyn.
+
+My sources tell me that the family are keen for the final stages of the transition to take place. It is worth remembering that Caitlyn retains male genitalia.
+
+It is that operation which is at the center of her struggle.
+
+One friend of the family told me: 'She should have the final surgery or go back to being Bruce.'
+
+Another of my Kardashian sources used language which hints at the increasing tensions about the transition and said bluntly: 'P*** or get off the pot.'
+
+That level of concern, however, needs to be understood in the complexity of Caitlyn's own beliefs.
+
+There is no doubt that she is proud of what she has achieved since her dramatic public disclosure that Bruce Jenner was no more.
+
+'She's thrilled she has raised awareness about how transgender people have long been discriminated against,' a longtime friend told me.
+
+But the same friend said: 'It hasn't been easy for Caitlyn; it's been very hard. It has been much harder than she anticipated.
+
+'I think there's a chance she'll detransition in the next couple years. I don't think it would surprise anybody in her inner circle.'
+
+What has made it hard is that Caitlyn is a devout Christian who believes that if she were to have same-sex relationships, it would be sinful.
+
+She has been crystal clear that she is not gay, which means that reconciling her new gender with her religious views, and with her desire to find love, is a struggle - and one which friends believe could lead to detransition.
+
+Transition stopped: Jenner told how early in his relationship with the then Kris Kardashian he had to tell her about his moves towards being a woman, and had breasts removed.
+
+Precipitate? Friends say that they believe Jenner may have rushed the transition to Caitlyn after involvement in this fatal car crash in Malibu in February 2015
+
+And there is no doubt that Jenner does not want to be alone.
+
+'She's still into women and wants to meet the right one,' one friend said.
+
+Jenner, of course, has taken no active steps to detransition, which explains how Jenner's representative could say: 'Not worth commenting on such an idiotic report. Of course it's not true.'
+
+What the representative didn't say either was that Jenner has been here before - and has discussed it herself.
+
+As Bruce, she attempted to transition 30 years ago, taking hormones for almost five years and growing 36B breasts.
+
+Caitlyn told Diane Sawyer how she embarked on hormone therapy and electrolysis to remove her beard and the hairs on her chest within 10 years of becoming an Olympic champion in 1976.
+
+The process of detransitioning varies drastically from person to person based on the hormones they have taken and surgeries they have undergone, if any. 
+
+In the case of a person who has transitioned from male to female a doctor would most likely take them off of estrogen and put them on testosterone. 
+
+The individual would also be encouraged to receive therapy during this time to work through any possible trauma or mental health problems caused by the switch in hormones. 
+
+A MtF individual can reverse their breast augmentation by having their implants removed.
+
+If a person wants to reverse a vaginoplasty their pelvic space would be closed and a neo-phallus created.
+
+At one point she considered fleeing to Denmark for reassignment surgery, before returning to America as her children's Aunt Heather.
+
+However, fear drove her to stop the process and continue giving motivational speeches as a man, Jenner said.
+
+'I felt like a liar,' she told Sawyer, reflecting that as Bruce, he told people to 'find the champion inside you' while wearing a suit.
+
+Jenner told Us Weekly that dating Kris in the 1990s led her to reverse the transitions she had previously made to her body.
+
+'We hit it off from day one,' Caitlyn said. 'I was very honest with her - I had to be, I was a 36B!
+
+'Everything was heading in the right direction. I made this decision to kind of move on in my life - Kris and I together, and this family. OK, I’ve got to get rid of these gender things and get off hormones and this and that.'
+
+‘I actually had my boobs removed,’ she added. ‘I never told anybody that.’
+
+Public transition: The dramatic revelation by Jenner of becoming Caitlyn is in stark contrast to when Bruce secretly moved towards being a woman in the late 1980s
+
+There is no suggestion, of course, that Jenner now feels 'like a liar' - but what she said about how love reversed Bruce's first journey towards transition offers some insight into the struggle she is feeling inside.
+
+Certainly, she, been 'miserable' in the last couple of months.
+
+Those months have coincided with her being lauded for her public transition and her courage. But at the same time some of her friends believe that she rushed the transition from Bruce to Caitlyn as a result of the fatal car crash in which Bruce was involved.
+
+It is the presence of those friends, however, which suggest a happier outcome than the last transition-detransition.
+
+Unlike the secret life of Bruce, Jenner's journey could hardly be more visible to the world.
+
+Whether that strengthens her resolve to fully become a woman - the outcome the Kardashian family, my sources say, want - or has the opposite effect is unclear.
+
+But this time she will have friends on her side.
+
+As one told me: 'My heart goes out to her and I know her true friends will be there to support her on whatever path she chooses.' 
+
+Ian Halperin is author of Kardashian Dynasty, which is available on Amazon. 
+
+
+                                	Share what you think
+                                
+
+The comments below have been moderated in advance.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

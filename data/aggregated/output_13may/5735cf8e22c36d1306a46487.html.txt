@@ -1,0 +1,42 @@
+How scientists are harnessing the ice-making powers of bacteria
+
+The first major debate over genetically modified organisms, in the late 1980s, was not over tomatoes, salmon, or corn, but instead a type of bacteria that can raise the freezing point of water. Opponents feared that the modified version, able to instead lower the freezing point of water, would spread into the wild and wreak havoc, possibly even altering the global climate system.
+
+Thanks to the public uproar, we'll never know whether the "ice-minus" bacteria would've have wrought catastrophe or simply protected strawberries from frost, as its creators intended. But scientists remained interested in harnessing the ability to manipulate ice. Recently, a group of researchers uncovered what they believe is the secret to its special talent, which they hope will enable them to create nanotechnologies that mimic it — ice-minus, minus the supposed risk.
+
+Pseudomonas syringae and other species of bacteria that induce ice to form around them (thus "ice-nucleating" bacteria) are found all over the world, and cause significant crop damage. Impurities in water usually prevent it from freezing until about 25 degrees Fahrenheit, but the bacteria can push the freezing point back toward 32 degrees Fahrenheit (zero degrees Celsius). The ice crystals that form in turn burst plant cell walls, letting the bacteria feed on nutrients from inside the cells. Wind carries the bacteria into the atmosphere, spreading it to new sources of food.
+
+Ice-nucleating bacteria are pretty much everywhere: in the air, water, plants, mountains, valleys, Antarctica. Scientists think its ability to encourage ice growth may also play a significant role in the weather, providing nuclei for cloud formation, raindrops, and snowflakes, and could be a big part of why the Amazon is so rainy.
+
+A better understanding of the bacteria's role could lead to its eventual inclusion in more accurate climatic models. The bacteria outperforms artificial cloud-seeding chemicals, suggesting its possible use as a rain-maker. So far, though, it's of most use to skiers and snowboarders. Since the late 1980s, a company called Snowmax has supplied resorts with a P. syringae-derived additive that allows snowmaking machines to powder the slopes at temperatures much higher than would otherwise be possible.
+
+Tobias Weidner, a bioengineer at the Max Planck Institute for Polymer Research in Mainz, Germany, led the team of researchers who believe they've figured out how the bacteria does it. They looked at P. syringae's molecular structure through a spectrometer, which allowed them to see how the bacteria's surface interacts with water molecules. Previously, Weidner says, many scientists thought that the bacteria's surface mimicked the structure of ice crystals, encouraging free-roaming water molecules to fall into an icy lattice. Instead, they found, the bacteria's surface forms a pattern of water-attracting (hydrophilic) and water-repelling (hydrophobic) areas. These push and pull on the water molecules they touch, creating high- and low-density zones that prompt the molecules to arrange themselves into a crystal pattern.
+
+From a technological point of view, that's good news. Artificially mimicking the molecular structure of ice would be difficult, Weidner says, but creating tiny striped hydrophobic and –phyllic strips using an artificial polymer might be doable. "That's something we could mimic in a nanofabrication lab," he says. "It's maybe just as simple as mimicking these patchy surfaces."
+
+The ability to precisely control the formation of ice could have many useful applications, Weidner says — everything from refrigerators and frozen food processing to improved cryogenics.
+
+Some varieties of P. syringae — including the modified "ice-minus" version — lower the freezing point of water, and it might be possible to mimic that type, too, Weidner says. "Maybe if we get lucky, it goes both ways." This could be even more useful, perhaps leading to anti-ice coatings for things like airplane propellers or telephone lines.
+
+Because P. syringae's molecular structure promotes ice formation, the bacteria itself doesn't have to be alive to be useful; Snowmax kills the bacteria that are used to make artificial snow to prevent possible environmental harm.
+
+The bacteria has another trick, though, Weidner's team found. When water molecules rearrange into ice, they release energy, or heat. "All this latent heat is not helping to nucleate ice," he says. Somehow — and the researchers don't yet understand exactly how it works — the bacteria are able to shuttle away the heat. The bacteria likely has to be alive for this part of the process. Figuring out exactly how it sheds heat could suggest other technological improvements, like better artificial snow.
+
+So far, says Weidner, a snowboarder, the oldest use for ice-nucleating bacteria is his favorite. "Snowmaking would be the most fun application," he says.
+
+Using pork chops to design a better pacemaker
+
+Innovation of the week: A better breast pump
+
+Can cloning save the American elm?
+
+How we're prepping for a mission to Mars
+
+How scientists are designing a new material to harness the power of condensation
+
+The contemptuous certainty of Barack Obama
+
+How to identify any language at a glance
+
+Release the Franken!
+

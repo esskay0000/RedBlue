@@ -1,0 +1,100 @@
+
+	The U.S. military's uncrewed X-37B space plane is nearing one year in orbit on its latest secret mission.
+
+
+	The robotic space plane launched atop a United Launch Alliance Atlas V rocket on May 20, 2015, kicking off the X-37B program's fourth flight. This mission, dubbed OTV-4 (short for Orbital Test Vehicle-4), remains a clandestine affair.
+
+
+	"I can confirm the fourth OTV mission is approaching one year on orbit," Air Force spokeswoman Capt. Annmarie Annicelli said in response to Space.com's inquiry about the X-37B's activities. [The X-37B's Fourth Mystery Mission in Photos]
+
+
+	Annicelli had nothing further to add.
+
+
+	The X-37B looks like a miniature adaptation of NASA's now-retired space shuttle orbiter. The military space plane is 29 feet (8.8 meters) long and 9.6 feet (2.9 m) tall, and has a wingspan of nearly 15 feet (4.6 m). For comparison, the space shuttle was 122 feet (37 m) long, with a wingspan of 78 feet (24 m).
+
+
+	The X-37B spacecraft has a payload bay about the size of a pickup-truck bed. It has a launch weight of 11,000 lbs. (4,990 kilograms) and is powered on orbit by gallium arsenide solar cells with lithium-ion batteries.
+
+
+	Two reusable vehicles are known to constitute the X-37B fleet. This current OTV-4 mission marks the second flight of the second X-37B vehicle, which Boeing built for the Air Force.
+
+
+	Boeing's involvement in the program dates back to 1999. The X-37B vehicle development falls under Boeing's Defense, Space and Security division in El Segundo, California, the firm's center for all space and experimental systems and government and commercial satellites.
+
+
+	Most of the X-37B's payloads and specific activities are classified, which has led to some speculation that the space plane could be a weapon of some sort. Air Force officials have always denied this claim, maintaining that they use the X-37B to explore reusable space vehicle technologies in support of long-term objectives, such as risk reduction and operations development. [The X-37B Military Space Plane Explained (Infographic)] The Air Force Rapid Capabilities Office is leading the Department of Defense's OTV initiative, by direction of the Under Secretary of Defense for Acquisition, Technology and Logistics and the secretary of the Air Force.
+
+
+	To date, the program has chalked up an impressive flight record.
+
+
+	According to an Air Force fact sheet, starting with the program's first launch on April 22, 2010, the first three OTV missions have spent a total of 1,367 days in orbit, "successfully checking out the X-37B's reusable flight, re-entry and landing technologies."
+
+
+	All three missions ended successfully with a tarmac touchdown at Vandenberg Air Force Base in California, gliding onto a landing strip on autopilot.
+              
+
+
+                  var player = OO.Player.create('ooyalaplayerBoYnN5djooY2efl2cUULd0ERiV1ef23H', 'BoYnN5djooY2efl2cUULd0ERiV1ef23H', {
+                    height: 352,
+                    width: 540,
+                    autoplay: false,
+                    'google-ima-ads-manager': {
+              'adTagUrl':'http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&cust_params=frmt%3D0%26frmt%3D1%26frmt%3D22%26plID%3D91ac0f6dcbdf466c84659dbc54039487%26ttID%3DBoYnN5djooY2efl2cUULd0ERiV1ef23H%26pos%3Dpreroll%26cue%3Dpre%26cgm%3D0&cmsid=1849&iu=%2F10518929%2Ftmn.sdc&ciu_szs=728x90,300x250&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]&overlay=1&vid=[oo_embedcode]'
+            },
+                  });
+                
+
+
+
+	A few payloads on board the OTV-4 craft have been identified.
+
+
+	For example, Aerojet Rocketdyne announced that its XR-5A Hall Thruster had completed initial on-orbit validation testing on board the X-37B space plane. It is also known that the vehicle carries a NASA advanced materials investigation, as well as an experimental propulsion system developed by the Air Force.
+
+
+	"While no more specifics have been offered about the X-37B by the Air Force since it began flying the orbital technology test bed in 2010, the overall mission seems clear: Lengthy missions allow time for seeing what such a vehicle has to offer in terms of capabilities," Joan Johnson-Freese, a professor of national security affairs at the U.S. Naval War College in Newport, Rhode Island, told Space.com. "The military likes to have lots of arrows in its quiver."
+
+
+	However, Mark Gubrud, a physicist and adjunct professor in the peace, war and defense curriculum at the University of North Carolina, offered a different take on the program.
+
+
+	"Now that the novelty has worn off, it might be time for the Air Force to look over whatever results they've been getting from its use, and assess whether that couldn't be accomplished at lower cost with conventional rockets, satellites, maneuvering satellites, recovery capsules, etc.," Gubrud said.
+
+
+	"If the Air Force won't do that, maybe the Office of the Secretary of Defense or Congress should," Gubrud told Space.com. "If you send something up and leave it there for years at a time, that's basically a satellite, and if X-37B has become a workhorse, the question is still whether it's cost-effective."
+              
+
+
+                  var player = OO.Player.create('ooyalaplayerptN3FhdTrkirXoEGAxJZMQFAcDtkOVkN', 'ptN3FhdTrkirXoEGAxJZMQFAcDtkOVkN', {
+                    height: 352,
+                    width: 540,
+                    autoplay: false,
+                    'google-ima-ads-manager': {
+              'adTagUrl':'http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&cust_params=frmt%3D0%26frmt%3D1%26frmt%3D22%26plID%3D91ac0f6dcbdf466c84659dbc54039487%26ttID%3DptN3FhdTrkirXoEGAxJZMQFAcDtkOVkN%26pos%3Dpreroll%26cue%3Dpre%26cgm%3D0&cmsid=1849&iu=%2F10518929%2Ftmn.sdc&ciu_szs=728x90,300x250&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]&overlay=1&vid=[oo_embedcode]'
+            },
+                  });
+                
+
+
+
+	As in the past, it's not known how many days the current OTV-4 mission will orbit the Earth. It's also unclear where OTV-4 will land.
+
+
+	Boeing Defense, Space and Security has been making progress on consolidating its space plane operations, including the possibility of using NASA's Kennedy Space Center (KSC) in Florida as a landing site for the X-37B by mid- to late 2016. (KSC is right next door to Cape Canaveral Air Force Station, the space plane's launch site.)
+
+
+	Under the Boeing plan, a former KSC space shuttle facility known as Orbiter Processing Facility (OPF-1) was converted into a structure that will enable the Air Force "to efficiently land, recover, refurbish and relaunch the X-37B Orbital Test Vehicle (OTV)," according to Boeing.
+
+
+	Work has been ongoing to get KSC ready as a landing site for the X-37B, but Vandenberg is still being maintained as a landing location, with Edwards Air Force Base in California serving as a backup site, Air Force officials have said.
+
+
+Leonard David is author of "Mars: Our Future on the Red Planet," to be published by National Geographic this October. The book is a companion to the National Geographic Channel six-part series coming in November. A longtime writer for Space.com, David has been reporting on the space industry for more than five decades. Follow us @Spacedotcom, Facebook or Google+. Originally published on Space.com.
+
+Copyright ©
+									document.write(new Date().getFullYear());
+									All Rights Reserved.
+							
+

@@ -1,0 +1,242 @@
+
+
+Americorps volunteer John Harris III fills out documents for applicants at a jobs fair, Washington, DC. (AP Photo / Manuel Balce Ceneta)
+
+Ever wish your name didn’t sound so “ethnic”? Or ever been advised to “lose the accent” or “talk whiter” when applying for that dream job? Despite the focus in academia and corporate culture on “diversity” and “equal opportunity,” racial otherness remains the wild card in any assessment process. A new study disrupts the conventional notion of “meritocracy” in the hiring process, revealing how hidden bias colors the way employers evaluate individuals’ credentials, by looking at how race is read—“all other things being equal.”
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-207086-0','tn_economy_labor_ros_halfpage_1','tn_economy_labor_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+According to a controlled study on the experiences of job applicants of color, applicants who “whitened” their résumés did get an edge. University of Toronto researchers measured the effects of racial coding in the initial stages of the employment process—getting selected for the call-back round—by focusing on two groups: non-white job-seekers and companies. In the experiment, job applicants of Asian or black heritage sent fictitious resumes to employers, who were separated according to whether they identified as pro-diversity firms or not (for instance, by advertising that “minorities are strongly encouraged to apply”). Researchers measured the outcomes for different tactics people use to “whiten” their résumés: such as making a name look whiter (anglicizing an African-influenced or Asian-language name into something more EuroAmerican-seeming), or perhaps hiding racially or ethnically themed extracurricular activities in college, like co-founding an Asian or African American student support group on campus.		
+So, all else being equal, does whitening work? When researchers isolated the effects of whitened versus non-whitened applications in terms of the rate of callbacks, whitening up paid off. For the baseline applicant group, the outcomes for callbacks for the original, unbleached resume were about 10 percent. Those who whitened their first names (e.g., turning “Lei Zhang” into “Luke Zhang”) had a slightly higher callback rate of 13 percent. Similarly, those who “whitened” their work experience credentials did even better: 18 percent. And whitening both the name and experience saw their prospects roughly double with a 25 percent callback rate. Overall, the black job-seeker who “whitened both his first name and the experiences…would receive 2.5 times as many callbacks.” Researchers concluded, “two equally qualified racial minority job seekers might fare very differently in the labor market, depending on how effectively they prevent their race from ‘sticking out.’”		
+Researchers also found that the supposedly pro-diversity “equal opportunity” employers displayed the same subsurface hiring biases that other employers did. In other words, don’t be comforted by the declaration on glossy HR brochures—they apparently don’t “value diversity” enough to avoid subconsciously favoring the white candidate. Corporations are marketing themselves to job seekers as well, so they may often oversell their social consciousness credentials and, in day-to-day operations, fall short of their own ethical standards.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+Interviews with applicants showed that typically, opting to bleach names and credentials is a flexible choice. As University of Toronto researcher Sonia Kang points out, “Not all of them are whitening, and a lot of them actually were very much against whitening. Some even did the opposite and played up their race.”		
+The labor market’s racial dialectic is fraught with misinterpretation on both ends. Though whitening can be an initial boost to the interview stage, Kang notes, the tactic “can also force you to keep off some information from your résumés that could be really helpful. So if you have really great achievements that are tied to your racial group and you choose to not put them on there, then your résumé might look more sparse” compared to someone with comparable credentials without the racial connotations.						
+			.article-wrap .article-body aside.left.custom_background_207086			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+According to a controlled study on the experiences of job applicants of color, applicants who “whitened” their résumés did get an edge. University of Toronto researchers measured the effects of racial coding in the initial stages of the employment process—getting selected for the call-back round—by focusing on two groups: non-white job-seekers and companies. In the experiment, job applicants of Asian or black heritage sent fictitious resumes to employers, who were separated according to whether they identified as pro-diversity firms or not (for instance, by advertising that “minorities are strongly encouraged to apply”). Researchers measured the outcomes for different tactics people use to “whiten” their résumés: such as making a name look whiter (anglicizing an African-influenced or Asian-language name into something more EuroAmerican-seeming), or perhaps hiding racially or ethnically themed extracurricular activities in college, like co-founding an Asian or African American student support group on campus.		
+So, all else being equal, does whitening work? When researchers isolated the effects of whitened versus non-whitened applications in terms of the rate of callbacks, whitening up paid off. For the baseline applicant group, the outcomes for callbacks for the original, unbleached resume were about 10 percent. Those who whitened their first names (e.g., turning “Lei Zhang” into “Luke Zhang”) had a slightly higher callback rate of 13 percent. Similarly, those who “whitened” their work experience credentials did even better: 18 percent. And whitening both the name and experience saw their prospects roughly double with a 25 percent callback rate. Overall, the black job-seeker who “whitened both his first name and the experiences…would receive 2.5 times as many callbacks.” Researchers concluded, “two equally qualified racial minority job seekers might fare very differently in the labor market, depending on how effectively they prevent their race from ‘sticking out.’”		
+Researchers also found that the supposedly pro-diversity “equal opportunity” employers displayed the same subsurface hiring biases that other employers did. In other words, don’t be comforted by the declaration on glossy HR brochures—they apparently don’t “value diversity” enough to avoid subconsciously favoring the white candidate. Corporations are marketing themselves to job seekers as well, so they may often oversell their social consciousness credentials and, in day-to-day operations, fall short of their own ethical standards.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+Interviews with applicants showed that typically, opting to bleach names and credentials is a flexible choice. As University of Toronto researcher Sonia Kang points out, “Not all of them are whitening, and a lot of them actually were very much against whitening. Some even did the opposite and played up their race.”		
+The labor market’s racial dialectic is fraught with misinterpretation on both ends. Though whitening can be an initial boost to the interview stage, Kang notes, the tactic “can also force you to keep off some information from your résumés that could be really helpful. So if you have really great achievements that are tied to your racial group and you choose to not put them on there, then your résumé might look more sparse” compared to someone with comparable credentials without the racial connotations.						
+			.article-wrap .article-body aside.left.custom_background_207086			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+So, all else being equal, does whitening work? When researchers isolated the effects of whitened versus non-whitened applications in terms of the rate of callbacks, whitening up paid off. For the baseline applicant group, the outcomes for callbacks for the original, unbleached resume were about 10 percent. Those who whitened their first names (e.g., turning “Lei Zhang” into “Luke Zhang”) had a slightly higher callback rate of 13 percent. Similarly, those who “whitened” their work experience credentials did even better: 18 percent. And whitening both the name and experience saw their prospects roughly double with a 25 percent callback rate. Overall, the black job-seeker who “whitened both his first name and the experiences…would receive 2.5 times as many callbacks.” Researchers concluded, “two equally qualified racial minority job seekers might fare very differently in the labor market, depending on how effectively they prevent their race from ‘sticking out.’”		
+Researchers also found that the supposedly pro-diversity “equal opportunity” employers displayed the same subsurface hiring biases that other employers did. In other words, don’t be comforted by the declaration on glossy HR brochures—they apparently don’t “value diversity” enough to avoid subconsciously favoring the white candidate. Corporations are marketing themselves to job seekers as well, so they may often oversell their social consciousness credentials and, in day-to-day operations, fall short of their own ethical standards.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+Interviews with applicants showed that typically, opting to bleach names and credentials is a flexible choice. As University of Toronto researcher Sonia Kang points out, “Not all of them are whitening, and a lot of them actually were very much against whitening. Some even did the opposite and played up their race.”		
+The labor market’s racial dialectic is fraught with misinterpretation on both ends. Though whitening can be an initial boost to the interview stage, Kang notes, the tactic “can also force you to keep off some information from your résumés that could be really helpful. So if you have really great achievements that are tied to your racial group and you choose to not put them on there, then your résumé might look more sparse” compared to someone with comparable credentials without the racial connotations.						
+			.article-wrap .article-body aside.left.custom_background_207086			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+Researchers also found that the supposedly pro-diversity “equal opportunity” employers displayed the same subsurface hiring biases that other employers did. In other words, don’t be comforted by the declaration on glossy HR brochures—they apparently don’t “value diversity” enough to avoid subconsciously favoring the white candidate. Corporations are marketing themselves to job seekers as well, so they may often oversell their social consciousness credentials and, in day-to-day operations, fall short of their own ethical standards.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+Interviews with applicants showed that typically, opting to bleach names and credentials is a flexible choice. As University of Toronto researcher Sonia Kang points out, “Not all of them are whitening, and a lot of them actually were very much against whitening. Some even did the opposite and played up their race.”		
+The labor market’s racial dialectic is fraught with misinterpretation on both ends. Though whitening can be an initial boost to the interview stage, Kang notes, the tactic “can also force you to keep off some information from your résumés that could be really helpful. So if you have really great achievements that are tied to your racial group and you choose to not put them on there, then your résumé might look more sparse” compared to someone with comparable credentials without the racial connotations.						
+			.article-wrap .article-body aside.left.custom_background_207086			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act
+
+Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives
+
+Global Warming’s Terrifying New Chemistry
+
+Fear and Hate Drove Arizona’s Republican Primary
+
+What’s Wrong With Bernie Sanders’s Strategy
+
+Interviews with applicants showed that typically, opting to bleach names and credentials is a flexible choice. As University of Toronto researcher Sonia Kang points out, “Not all of them are whitening, and a lot of them actually were very much against whitening. Some even did the opposite and played up their race.”		
+The labor market’s racial dialectic is fraught with misinterpretation on both ends. Though whitening can be an initial boost to the interview stage, Kang notes, the tactic “can also force you to keep off some information from your résumés that could be really helpful. So if you have really great achievements that are tied to your racial group and you choose to not put them on there, then your résumé might look more sparse” compared to someone with comparable credentials without the racial connotations.						
+			.article-wrap .article-body aside.left.custom_background_207086			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+The labor market’s racial dialectic is fraught with misinterpretation on both ends. Though whitening can be an initial boost to the interview stage, Kang notes, the tactic “can also force you to keep off some information from your résumés that could be really helpful. So if you have really great achievements that are tied to your racial group and you choose to not put them on there, then your résumé might look more sparse” compared to someone with comparable credentials without the racial connotations.						
+			.article-wrap .article-body aside.left.custom_background_207086			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Whitening could work as a strategy to make a “good first impression,” but, on balance, the risk is that you end up downplaying real achievements, compromising your identity more than gaming the system. And there’s the question of how this code-switching shapes the way applicants see themselves. If “weird” names or identity-based activities and groups aren’t as “marketable” to prospective bosses, that could diminish your incentive to engage in those cultural practices, leading to a self-fulfilling prophecy in which perception of prestige shapes the material reality people live and work in. But at what cost? Consider the forgone opportunities—all the campaigns and organizations young, ambitious people may avoid participating in just because they’re not “white” enough to put on a CV. And outside of work, there’s the deeper societal dilemma of workers of color getting into the habit of devaluing racial or ethnic identity to the extent that it leads to alienation from their own community and heritage.		
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+The real “lesson” here may not be how to boost employability but, rather, the revelation that both workers and employers are pressured to distort reality through racial representation.		
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+When navigating the job market, Kang says, “I don’t think it’s the job of minorities to figure out how to not be discriminated against. I think the bigger message about this [is] that employers who are…saying that they’re not going to discriminate are actually discriminating just as much employers who don’t mention diversity at all.”		
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+A brutally imbalanced, economically stratified labor market inevitably gives powerful institutions outsized authority to set the norm and thus maintain inequality. But turning a critical eye to the social dynamics of the hiring process can point to methods of correcting bias, too. This can be done through regulations or technology that counter racial bias, like a screening algorithm coded to conceal biasing factors. An emerging system in the UK, for example, known as “blind recruitment,” uses programs to automatically deracinate résumés during initial screening to remove racially coded bias factors.		
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+Of course, changing institutional and workplace culture is a longer process that could involve political advocacy, community organizing, and perhaps years of social and demographic transition across society.		
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+The bottom line is that using a single, rigid yardstick to measure “merit” and “qualification” doesn’t quite work in a multifaceted world. The canard of corporate “diversity” has hollowed out the original meaning of affirmative action. Diversity wasn’t supposed to be about forcing “minorities” to jump through more hoops to reaffirm stereotypes; it should be about building a more inclusive social structure to correct the systemic at the root, not just on paper.		
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+How about hair style too?
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,1988 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script>
+var pageCounterPaywall = 0; 
+      function getCookie(name)
+      {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+      }
+      var checkCookie = getCookie('SESSchecknc');
+      if (checkCookie!='undefined' && checkCookie==1)
+      { 
+         var currentUrl = document.URL;
+         if (currentUrl.indexOf("?nc=1") > -1){ }
+         else
+         {
+            if (currentUrl.indexOf("?") > -1)
+            {
+               if (currentUrl.indexOf("&nc=1") > -1) {}
+               else{
+                  window.location.href = currentUrl+"&nc=1";                  
+               }            
+            }
+            else
+            {
+            window.location.href = currentUrl+"/?nc=1"; 
+			
+            }
+            //document.open('text/javascript');
+            //document.write('<script type="text/undefined">');
+         }
+      }
+</script>
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	 <meta charset="utf-8">
+		<!-- Always force latest IE rendering engine or request Chrome Frame -->
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(e,t){function n(){}function r(e){function t(e){return e&&e instanceof n?e:e?a(e,i,o):o()}function s(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,f=0;u>f;f++)a[f].apply(i,r);var s=c[w[n]];return s&&s.push([h,n,r,i]),i}function p(e,t){g[e]=l(e).concat(t)}function l(e){return g[e]||[]}function d(e){return f[e]=f[e]||r(s)}function v(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in c||(c[t]=[])})}var g={},w={},h={on:p,emit:s,get:d,listeners:l,context:t,buffer:v};return h}function o(){return new n}var i="nr@context",a=e("gos"),u=e(1),c={},f={},s=t.exports=r();s.backlog=c},{1:12,gos:"7eSDFh"}],ee:[function(e,t){t.exports=e("QJf3ax")},{}],3:[function(e,t){function n(e,t){return function(){r(e,[(new Date).getTime()].concat(i(arguments)),null,t)}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],c="api-";o(a,function(e,t){newrelic[t]=n(c+t,"api")}),o(u,function(e,t){newrelic[t]=n(c+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),r("err",[e,(new Date).getTime()])}},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,t){t.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,t){function n(e,t,n){if(r.call(e,t))return e[t];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=n},{}],handle:[function(e,t){t.exports=e("D5DuLP")},{}],D5DuLP:[function(e,t){function n(e,t,n,o){r.buffer([e],o),r.emit(e,t,n)}var r=e("ee").get("handle");t.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(e,t){function n(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");t.exports=n},{gos:"7eSDFh"}],id:[function(e,t){t.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,t){function n(){if(!v++){var e=d.info=NREUM.info,t=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){u(p,function(t,n){e[t]||(e[t]=n)});var n="https"===s.split(":")[0]||e.sslForHttp;d.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=d.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=e("handle"),u=e(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),d=t.exports={offset:i(),origin:s,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,t){t.exports=e("G9z0Bl")},{}],12:[function(e,t){function n(e,t){var n=[],o="",i=0;for(o in e)r.call(e,o)&&(n[i]=t(o,e[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;t.exports=n},{}],13:[function(e,t){function n(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=n},{}]},{},["G9z0Bl"]);</script>
+		<!-- Use title if it's in the page YAML frontmatter -->			
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth? | The Nation</title>
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="">
+			<!-- Facebook META -->
+			<!--<meta property="fb:app_id" content="">-->
+			<meta property="og:site_name" content="The Nation">
+			<meta property="og:title" content="How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?">
+			<meta property="og:description" content="Any child born now could, by midlife, see massive storms inundate coastal cities and the Great Plains turn to dust. Could I have one, knowing I might not be able to keep her safe?">
+			<!--<meta property="og:url" content="">-->
+			<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img-1440x756.jpg">
+			<meta property="og:type" content="website">
+			<!-- Twitter META -->
+			<meta name="twitter:title" content="How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?">
+			<meta name="twitter:description" content="Any child born now could, by midlife, see massive storms inundate coastal cities and the Great Plains turn to dust. Could I have one, knowing I might not be able to keep her safe?">
+			<meta name="twitter:url" content="http://www.thenation.com/article/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth/">
+			<meta name="twitter:image" content="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img-1440x756.jpg">
+						<!-- Fav Icon -->
+			<!--<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />--->
+			<link rel="icon" type="image/ico" href="http://www.thenation.com/wp-content/themes/thenation/images/favicon.ico" />
+	<meta name="sailthru.image.full" content="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img-680x430.jpg" /> 
+<meta name="sailthru.image.thumb" content="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img-275x173.jpg" />
+<meta name="sailthru.title" content="How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?" />
+<meta name="sailthru.date" content="March 24th, 2016" />
+<meta name="sailthru.content_id" content="206991" />
+<meta name="sailthru.description" content="Any child born now could, by midlife, see massive storms inundate coastal cities and the Great Plains turn to dust. Could I have one, knowing I might not be able to keep her safe?" />
+<meta name="sailthru.tags" content="Climate Change,Environmental Activism,Environmental Issues,Health and Disease,Society,Feature" />
+<meta name="keywords" content="Child care,Children" />
+<meta name="sailthru.author" content="Madeline Ostrander" />
+<script type="text/javascript">
+    (function() 
+	{
+        function loadHorizon() 
+		{
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+        	}
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+		{
+            	if (typeof oldOnLoad === 'function') 
+			{
+                	oldOnLoad();
+          		}
+            	Sailthru.setup({
+                	domain: 'horizon.thenation.com'
+            		});
+        	};
+    	})();
+</script>
+<!--Advertisements-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//kilomonj.net/adBlockDetector/12257" async defer></script>
+<!--<script class="kxct" data-id="JDkN7kNL" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN7kNL"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>-->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20564932" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20564932&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+<link href="http://www.thenation.com/wp-content/themes/thenation/stylesheets/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="The librarian was nondescript in the way that everyone standing behind a counter is, probably in her 30s, with straight, fox-colored hair. When she took my stack of books, I noticed the way her sweater draped over a conspicuous melon-shaped belly, and I felt a tug in my chest and warmth rise in my s..." />
+<meta name="keywords" content="feature, climate change, environmental activism, environmental issues, health and disease, society, child care, children" />
+<meta property="fb:app_id" content="192399944158735" />
+<meta property="og:site_name" content="The Nation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?" />
+<meta property="og:url" content="http://www.thenation.com/article/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth/" />
+<meta property="og:description" content="The librarian was nondescript in the way that everyone standing behind a counter is, probably in her 30s, with straight, fox-colored hair. When she took my stack of books, I noticed the way her sweater draped over a conspicuous melon-shaped belly, and I felt a tug in my chest and warmth rise in my s..." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2016-03-24T14:18:47+00:00" />
+<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="907" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2016-03-24T08:00:43+00:00" />
+<meta property="article:modified_time" content="2016-03-24T14:18:47+00:00" />
+<meta property="article:author" content="http://www.thenation.com/author/smccroskey/" />
+<meta property="article:publisher" content="https://www.facebook.com/TheNationMagazine" />
+<meta property="article:tag" content="feature" />
+<meta property="article:tag" content="climate change" />
+<meta property="article:tag" content="environmental activism" />
+<meta property="article:tag" content="environmental issues" />
+<meta property="article:tag" content="health and disease" />
+<meta property="article:tag" content="society" />
+<meta property="article:tag" content="child care" />
+<meta property="article:tag" content="children" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TheNation" />
+<meta name="twitter:title" content="How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?" />
+<meta name="twitter:description" content="The librarian was nondescript in the way that everyone standing behind a counter is, probably in her 30s, with straight, fox-colored hair. When she took my stack of books, I noticed the way her sweater draped over a conspicuous melon-shaped belly, and I felt a tug in my chest and warmth rise in my s..." />
+<meta name="twitter:image:src" content="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img.jpg" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="907" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Feed" href="http://www.thenation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Comments Feed" href="http://www.thenation.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth? Comments Feed" href="http://www.thenation.com/article/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thenation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='defaultbasic-css'  href='http://www.thenation.com/wp-content/themes/thenation/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='thenation-stylesheet-all-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/all.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='basicfonts-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/fonts.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_calendar-jos-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_frontend-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style_submissions-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tn_stf_style-css'  href='http://www.thenation.com/wp-content/plugins/tn-sailthruforms/admin/assets/tn_sailthruforms_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.thenation.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/tn-customeditor//tinymce-dropcap.js?ver=4.2.4'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thenation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.13" />
+<link rel='canonical' href='http://www.thenation.com/article/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth/' />
+<link rel='shortlink' href='http://www.thenation.com/?p=206991' />
+<link rel="stylesheet" href="http://www.thenation.com/wp-content/plugins/solr-for-wordpress-on-pantheon/template/autocomplete.css" type="text/css" media="screen" />
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          //  $("#s").suggest("?method=autocomplete", {});
+          //  $("#search-value").suggest("?method=autocomplete", {});
+        });
+    </script>
+    <script type='text/javascript'>var pageCounterPaywall = 0; var scrollHolderPaywall = {};var maxarticlePaywall = 0; var current_articlePaywall = 0; var maxdaysPaywall = 0; var accesseddaysPaywall = 0; </script>				<!-- WordPress Popular Posts v3.2.1 -->
+				<script type="text/javascript">//<![CDATA[
+
+					// Create XMLHttpRequest object and set variables
+					var xhr = ( window.XMLHttpRequest )
+					  ? new XMLHttpRequest()
+					  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+					url = 'http://www.thenation.com/wp-admin/admin-ajax.php',
+					params = 'action=update_views_ajax&token=e82713215c&id=206991';
+					// Set request method and target URL
+					xhr.open( "POST", url, true );
+					// Set request header
+					xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+					// Hook into onreadystatechange
+					xhr.onreadystatechange = function() {
+						if ( 4 == xhr.readyState && 200 == xhr.status ) {
+							if ( window.console && window.console.log ) {
+								window.console.log( xhr.responseText );
+							}
+						}
+					}
+					// Send request
+					xhr.send( params );
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.1 -->
+				<script src="http://www.thenation.com/wp-content/plugins/tn-paywall/inc/paywall-script.php?nc=1&paywallid=MjA2OTkx&display=YmxvY2s="></script><script>
+jQuery(document).ready(function(){
+   jQuery('#search').submit(function(event){
+      if (jQuery('#search input:text').eq(0).val().length<1){
+	 return false;
+      }
+   });
+   jQuery('#searchbox').submit(function(event){
+      if (jQuery('#searchbox input:text').eq(0).val().length<1){
+	 return false;
+	 }
+   });
+});
+</script>
+</head>
+<!-- Quantcast Tag -->  <script type="text/javascript">  var _qevents = _qevents || [];    (function() {  var elem = document.createElement('script');  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";  elem.async = true;  elem.type = "text/javascript";  var scpt = document.getElementsByTagName('script')[0];  scpt.parentNode.insertBefore(elem, scpt);  })();    _qevents.push({  qacct:"p-krSvyk7fmpe57"  });  </script>    <noscript>  <div style="display:none;">  <img src="//pixel.quantserve.com/pixel/p-krSvyk7fmpe57.gif" border="0" height="1" width="1" alt="Quantcast"/>  </div>  </noscript>  <!-- End Quantcast tag -->
+<body>
+<!-- Google Analytics Code -->
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63392420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- Live Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code End -->
+<!-- Chartbeat code starts here -->
+<script type="text/javascript">
+  var _sf_async_config = { uid: 7841, domain: 'thenation.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.insertBefore(e, document.body.firstChild);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Chartbeat code ends here -->
+<!-- Google Mobile Interstitial Starts here -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script> 
+  (adsbygoogle = window.adsbygoogle || []).push({ 
+    google_ad_client: 'ca-pub-4976568202552923', 
+    enable_page_level_ads: true, 
+    interstitials: {google_ad_channel: 'ca-pub-4976568202552923'} 
+  }); 
+</script>
+<!-- Google Mobile Interstitial Ends here -->
+<!-- Advertisements -->
+<!---- Moat Script starts here -------->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/thenationcontent252XZzP54/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!---- Moat Script ends here --------->
+<script async="async" data-client-id="hBpPprgSpyyiDmn" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/esf.js"></script><script>
+    var pageCounterPaywall ;
+	var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+</script>
+<!-- Function to call Advertisements on entire website-->
+<script type='text/javascript'>
+   function call_ad(ad_type,ad_div,ad_name_desktop,ad_name_mobile,custom_targeting,key,values) {
+      if (typeof custom_targeting === 'undefined') { custom_targeting = false; }
+      if (typeof key === 'undefined') { key = null; }
+      if (typeof values === 'undefined') { values = null; }
+      var w,h,w1,h1;
+      var ad_name='';
+      if (ad_type == "leaderboard")
+	  {
+		 w = 728;
+		 h = 90;
+		 w1=970;
+		 h1=90;
+		 ad_name = ad_name_desktop;
+		 if (isMobile.any())
+		 {
+			 w = 320;
+			 h = 50;
+			 ad_name = ad_name_mobile;
+		 }
+      }
+      else if (ad_type == "halfpage")
+	  {
+		w = 300;
+		h = 250;
+		w1 = 300;
+		h1 = 600;
+		ad_name = ad_name_desktop;
+		if(isMobile.any())
+		{
+			w = 300;
+			h = 250;
+			w1 = 300;
+			h2 = 250;
+			ad_name = ad_name_mobile;
+		}		
+      }
+      else if (ad_type == "halfpage250") {
+	 w = 300;
+	 h = 250;
+	 ad_name = ad_name_desktop;
+      }
+      else if (ad_type == "pixel")
+	  {
+		var ad_pixel_name1 = "_pixel_2";
+		var ad_pixel_name_final=ad_name_desktop.indexOf(ad_pixel_name1);
+		//alert(ad_pixel_name_final);
+		if(ad_pixel_name_final<=-1)
+		{
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===true) {
+			  return;
+			}
+		}
+		/*for hiding meterpaywall popups when pixel ads call ends here*/
+		
+		if(isMobile.any())
+		{
+		ad_name = ad_name_mobile;
+		}
+		else
+		{
+		ad_name = ad_name_desktop;
+		}
+		
+						w = 1;
+		h = 1;
+      }
+      //alert('ad_name: '+ad_name+'  div: '+ad_div+'  key: '+key+'  values: '+values);
+      googletag.cmd.push(function() {
+      var ad_slot = null;
+	  if(ad_type == "halfpage" || ad_type == "leaderboard") {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [[w, h],[w1,h1]], ad_div);
+	  }
+	  else {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [w, h], ad_div);
+	  }
+      if (custom_targeting==true && key && values)
+	  {
+		 for(i=0;i<key.length;i++) {
+			ad_slot = ad_slot.setTargeting(key[i], [values[i]]);
+		 }
+      }
+      ad_slot = ad_slot.addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      	  googletag.pubads().refresh([ad_slot]); // Since same ad unit might get repeated
+	  //setInterval(function(){googletag.pubads().refresh([ad_slot]);}, 10000);
+            googletag.enableServices();
+      });
+		googletag.cmd.push(function() {
+		googletag.display(ad_div);		
+      });
+   }
+</script>
+<div id="ad-pixel"></div>
+<div id="ad-pixel-2"></div>
+<div id="ad-leaderboard" class="push ad full-width leaderboard"></div>
+<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="desktop">
+	<div class="header-bar utility">
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="actions">
+			<li><a class="social-link fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"><span>Facebook</span></a></li>
+			<li><a class="social-link tw" href="https://twitter.com/thenation" target="_blank"><span>Twitter</span></a></li>
+						<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage" class="btn btn-yellow donate">Donate</a>
+			</li>
+									<li id="login_status">
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        <div class="lightbox-form">
+			<div class="lightbox-inner login_popup">
+				<div class="listing__hero row">
+					<div class="listing_form small-12 columns">
+						<!--<div class="closebutton"></div>-->
+                        <div class="login_top_msz">If you are a current Subscriber and are unable to log in, you may have to create a NEW username and password.  To do so, <a href="https://ssl.palmcoastd.com/06601/apps/LOGINSSO" target="_blank">click here</a> and use the “NEW USER” sign-up option.</div>
+						<h1>Log In</h1>
+						<div class="row primaryError" id="primaryError"  style="display: none">
+						 <div class="field form-field text-field small-12 columns error">
+									<p class="errormsg"></p>
+						 </div>
+						 </div>
+						<form action="index.html" class="search__form" onsubmit="return trigClick();"  name="lightboxform" id="lightboxform">
+								<div class="row">
+								<div class="field form-field e_mail_field_con text-field small-12 columns valid">
+									<input type="text" tabindex="1" name="e_mail" class="pcd_email" value="" id="e_mail" placeholder="" autocapitalize="off">
+									<label for="e_mail">Email *</label>
+															
+								</div>
+							</div>
+							<div class="row">
+								<div class="field form-field text-field pwd_field_con small-12 columns error">
+									<input type="password" tabindex="2" name="pwd" class="pcd_pwd" value="" id="pwd" placeholder="" minlength="2">
+									<label for="last_name">Password *</label>
+									             
+								</div>
+							</div>
+							
+							
+							<div class="row checkbox-row">
+								<div class="field form-field checkbox-field small-7 partsec columns">
+									<div class="checkbox">
+										<input type="checkbox" tabindex="4" value="None" id="box03" class="check_input" name="checkbox3" >
+										<label for="box03"></label>
+									</div>
+									<label for="box03">Remember Me</label>
+									 </div>
+								<div class="field form-field checkbox-field small-5 partsec columns pull-right"> <a tabindex="5" href="https://ssl.palmcoastd.com/06601/apps/-222532" style="padding: 0px !Important;">Forgot Your Password?</a></div>
+							</div>
+ 
+							<div class="row">
+								<div class="field form-field small-12 medium-6 partsec columns">
+									<div class="form-button" id="form-loading">
+									    <button class="primary-button pcdLoginButton" tabindex="3" type="submit" id="loginBut">Log In</button>
+									    <img class="loaderImg" src='http://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF' style="display: none" id="loader" alt="loader">
+								    </div>
+								</div>
+						        </div>
+							<div class="row">
+								<div class="field form-field small-12 medium-12 columns Subscriber_btn">									
+								If you are not a Subscriber, <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO" target="_blank">Subscribe</a> Now!<br />Back to <a href="https://t.co/OMpO5LmzX1" >site</a>								
+								</div>
+						      </div>
+						</form>
+					</div>
+				</div>
+			</div>
+</div>					
+						</div>
+						
+									  <a href="http://www.thenation.com/login/" class="btn btn-yellow login">Log In</a>
+				 				</li>
+					</ul>
+		<!-- /.actions -->
+		<nav class="trending">
+						<div class="menu-keyword-menu-container"><ul id="menu-keyword-menu" class="menu"><li id="menu-item-206959" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-206959"><a href="http://www.thenation.com/keyword/isis/">ISIS</a></li>
+<li id="menu-item-199269" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-199269"><a href="http://www.thenation.com/subject/election-2016/">Election 2016</a></li>
+<li id="menu-item-207209" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207209"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>
+<li id="menu-item-207210" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207210"><a href="http://www.thenation.com/keyword/voting-rights/">Voting Rights</a></li>
+<li id="menu-item-207352" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-207352"><a href="http://www.thenation.com/subject/climate-change/">Climate Change</a></li>
+</ul></div>		</nav>
+	</div>
+	</div>
+		<!-- /.trending -->
+	</div>
+	<!-- /.header-bar.utility -->
+
+	<div class="header-bar main" id="'navbar'">
+	<div class="row">
+		<nav role="navigation" class="primary small-12 columns">
+			<ul>
+				<li class="home">
+						<h1 class="logo">
+							<a href="http://www.thenation.com">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation" class="non-sticky">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation" class="sticky"/>
+							</a>
+						</h1>
+					</li>
+				<li class="news-links">
+									<div class="menu-subject-menu-container"><ul id="menu-subject-menu" class="menu"><li id="menu-item-186986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-201145" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li id="menu-item-201148" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li id="menu-item-116709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>				</li>
+				 
+				
+				<li class="article-meta">
+													 <h3 class="tophead_subject"><a href="http://www.thenation.com/subject/climate-change/">
+					Climate Change</a></h3>
+											<h2>How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?</h2>
+				</li>
+								<li class="quick-links">
+					<ul>
+														<li class="current-issue"><a href="http://www.thenation.com/issue/april-11-18-2016-issue/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+								<a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a>								</li>
+														<li class="search-toggle"><a href="#">Search</a></li>
+					</ul>
+				</li>
+				 
+				<li class="article-social">
+						<ul>
+							<li><a href="javascript:void(0)" class="social-article social-share fb"><span>Facebook</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share tw"><span>Twitter</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share email"><span>Email</span></a></li>
+						</ul>
+					</li>
+								</ul>
+		</nav>
+		</div>
+	<!-- /.primary -->
+	</div>
+
+	<!-- /.header-bar.main -->
+	<div class="header-bar search searchbardrop">
+	<div class="row">
+		<form action="http://www.thenation.com/" role="search" method="get" id="search" name="search">
+			<input type="text" placeholder="Search" name="ssearch">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		</div>
+	</div>
+</header>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+		$(".landing ul>li.news-links, .landing ul>li.quick-links").attr('style','display:inline !important');
+	});
+	</script>
+<!-- /#desktop -->
+<header id="mobile" class="push">
+	<div class="header-bar">
+		<a href="#mobile-menu" class="nav-toggle">
+			<span>Toggle Menu</span>
+		</a>
+		<h1 class="logo">
+			<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation"/></a>
+		</h1>
+						
+								  <a href="http://www.thenation.com/login/" class="my-profile"><span>Log In</span></a>
+				 							 
+	 	</div>
+	<!-- /.header-bar -->
+	<div id="mobile-menu" role="navigation">
+	<div class="mobile-scroll">
+	
+		<nav class="primary">
+			<ul>
+				<div class="menu-subject-menu-container"><ul id="menu-subject-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>			</ul>
+		</nav>
+		<nav class="utility">
+			<ul>
+												<li class="subscribe">
+								<a class="alert" href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**MOB">Subscribe</a>								</li>
+																					<li class="current-issue"><a href="http://www.thenation.com/issue/april-11-18-2016-issue/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+																</li>
+															<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a>
+			</li>
+			<!-- Login/Logout -->
+							<li>
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        					
+						</div>
+						
+									  
+				 <li id="login_status_mob_account"><a href="http://www.thenation.com/login/">Log In</a></li>
+				 				</li>
+							</ul>
+		</nav>
+		<div class="social">
+			<a class="social-icon icon-fb" target="_blank" href="https://www.facebook.com/TheNationMagazine">
+			<span>Facebook</span>
+			</a>
+			<a class="social-icon icon-tw" target="_blank" href="https://twitter.com/thenation">
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="search">
+			<form id="mobile-search" action="http://www.thenation.com/" role="search" method="get" name="search">
+			<!--<input type="text" placeholder="Search" class="clearable" name="s">-->
+			<input type="text" id="q" class="clearable" name="ssearch" placeholder="Search">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		
+		</div>
+		</div>
+	</div>
+	<!-- /#mobile-menu -->
+</header>
+	<div class="container push"><script type= "text/javascript">
+var preventLoad_article = false;
+var check_comment = false;
+jQuery(document).ready(function(){
+		});
+</script>
+
+
+<div class="article-wrap article-page " id="wrap">
+	<!-- Advertisements -->
+<script type="text/javascript">
+	var key = [];
+	var values = [];
+</script>
+		<script type="text/javascript">
+			key.push("tn_keyword");
+			values.push("'child-care', 'children'");
+		</script>
+				<script type="text/javascript">
+			key.push("tn_author");
+			values.push("'madeline-o'");
+		</script>
+			<!-- Calling Header, Footer Leaderboards and Pixel Ads -->
+	<script type="text/javascript">
+		jQuery( document ).ready(function($) {
+			custom_targeting = false;
+			if (key.length > 0 && values.length > 0) {
+				custom_targeting = true;
+			}
+			call_ad('leaderboard','ad-leaderboard','tn_environment_environmental_issues_ros_leaderboard_1','tn_environment_environmental_issues_article_leaderboard_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel','tn_environment_environmental_issues_article_pixel_1','tn_environment_environmental_issues_article_pixel_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel-2','tn_environment_environmental_issues_article_pixel_2','tn_environment_environmental_issues_article_pixel_mobile_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_test_pixel','tn_test_pixel',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_test_pixel_2','tn_test_pixel_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_environment_environmental_issues_article_pixel_1','tn_environment_environmental_issues_article_pixel_1',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_environment_environmental_issues_article_pixel_2','tn_environment_environmental_issues_article_pixel_2',custom_targeting,key,values);
+			call_ad('leaderboard','div-gpt-ad-1428494597034-0','tn_environment_environmental_issues_ros_leaderboard_1','tn_environment_environmental_issues_article_leaderboard_mobile_1',custom_targeting,key,values);
+		});
+	</script>
+	<div class="postid-206991 scrolltrace " articlelisttitle="How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?" articlelistlinks="http://www.thenation.com/article/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth/" article-post-id="206991">
+	<article id="url-title">
+	<!-- Banner Image -->  
+			<header class="article-header">
+		<div class="article-header-content">
+					<ul class="article-info">
+				<li class="category"><a href="http://www.thenation.com/subject/climate-change/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/climate-change/">Climate Change</a></li><li class="subcategory"><a href="http://www.thenation.com/keyword/children/">Children</a></li><li class="subcategory"><a href="http://www.thenation.com/admin-taxonomy/feature/">Feature</a></li>								<li class="issue">
+									<a href="http://www.thenation.com/issue/april-11-18-2016-issue/">April 11-18, 2016 Issue</a>
+								</li>
+									</ul>
+		
+			<h1 class="title">How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?</h1>
+			<h2 class="subtitle">Any child born now could, by midlife, see massive storms inundate coastal cities and the Great Plains turn to dust. Could I have one, knowing I might not be able to keep her safe? </h2>
+			<div class="byline">
+							<h2 class="author_name">By <a class="author" href="http://www.thenation.com/authors/madeline-ostrander/">Madeline Ostrander</a><a class="author-twitter" href="https://twitter.com/@madelinevo" target="blank"><span>Twitter</span></a></h2>					<!--<h2>By </h2>-->
+								
+		
+				<h4 class="time is-today article_pub_time">Today 8:00 am<!--<span><a href="" class="click_comment"></span><span>5 Comments</span></a>-->
+								
+				</h4>
+
+							</div>
+			<ul class="article-share">
+			<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+			</ul>
+			</div>
+		</header>
+					
+		
+		<section class="article-body  abody-206991">
+		<aside class="left full-width-mobile image wide indent">
+										<a class="gallery imgHover" href="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img.jpg" title="Illustration by Karl-Raphael Blanchard "><img src="http://www.thenation.com/wp-content/uploads/2016/03/Ostrander-Opener_img.jpg" alt="Ostrander-Opener_img"></a>
+										<p class="caption">Illustration by Karl-Raphael Blanchard </p>
+							</aside>
+							<div style="clear:both"></div>		
+							
+					
+					<p>The librarian was nondescript in the way that everyone standing behind a counter is, probably in her 30s, with straight, fox-colored hair. When she took my stack of books, I noticed the way her sweater draped over a conspicuous melon-shaped belly, and I felt a tug in my chest and warmth rise in my stomach. It took a moment to recognize this sensation as envy. Then came another feeling: shock. I had never been jealous of any woman for carrying what looked like an uncomfortable load, or for what would come next: the messy, exhausting job of mothering an infant. Something unfamiliar had come over me.<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-206991-0" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>					<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206991-0','tn_environment_environmental_issues_ros_halfpage_1','tn_environment_environmental_issues_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					</script>
+									
+					
+					
+<p>In my late 20s and early 30s, I was terrified of becoming the sort of woman who was “baby crazy,” afraid motherhood would circumscribe my life. I politely admired but didn’t gush over my friends’ new babies. Compared with many women, I was under little pressure to procreate; neither my nor my husband’s parents had ever expressed more than a tentative longing for grandchildren. But six years ago, when I first held my 2-month-old niece, wrapped in a flower-print onesie and murmuring delicious baby noises, I felt a rush of joy, an indescribable feeling of human closeness.				
+					
+					
+<p>My husband and I had made a home in Seattle for several years, and my friends of childbearing age tended to be writers and activists, scientists and scholars. When considering kids, they weighed not only their desires and finances but the state of the world. Many of them had read grim prognoses of what climate change would do to life on Earth. Even in the restrained language of science, the future holds unprecedented difficulties and disasters. For many people, these problems were an abstraction, but as an environmental journalist, I knew enough to imagine them in front of me. Driving across the bridge to my house, I pictured city beaches drowned by the rising sea. Watching the news, I wondered when the next colossal hurricane would strike the Gulf of Mexico or the mid-Atlantic. These thoughts are not paranoid. According to scientists’ predictions, if society keeps pumping out carbon dioxide at current rates, any child born now could, by midlife, watch <a href="http://www.nydailynews.com/new-york/weather/scientists-predict-higher-temps-rising-sea-levels-city-article-1.2119490" target="_blank">Superstorm Sandy–size disasters</a> regularly inundate New York City. She could see the wheat fields of the Great Plains turn to dust and parts of California gripped by decades of drought. She may see world food prices soar and water in the American West become even scarcer. By 2050, when still in her 30s, she could witness global wars waged over food and land. “It does make me wonder if maybe I shouldn’t have kids,” one of my friends whispered to me. A year later, she was pregnant. What had changed her mind?				
+			<aside class="left twitter-quote indent">
+						<p>
+							Any child born now could, by midlife, watch Superstorm Sandy&ndash;size disasters regularly inundate New York City.
+						<a target="_blank" class="tw span_article_tweet" href="http://twitter.com/intent/tweet?text=Any+child+born+now+could%2C+by+midlife%2C+watch+Superstorm+Sandy%E2%80%93size+disasters+regularly+inundate+New+York+City. http://thenat.in/1S3JmY6"><span></span></a>
+
+						</p>	</aside>	
+					
+					
+<p>I heard a lot of stray comments like this as I sat on the fence between motherhood and childlessness. A male musician I knew wondered when I might have a baby, then mused that most people he knew thought the world was too screwed up for children. A literary agent who took me to lunch asked if my reporting on climate change left me so gloomy that I didn’t want to have kids at all.				
+					
+					
+<p>Sometimes when I considered the question, the sadness nearly suffocated me. Still, in the months after I saw the librarian, some kind of maternal sensibility was switched on in my mind, and I tuned in to the presence of children the way a bird-watcher is alert to avian activity. Grinning girls with micro-braids on bikes, the kids who left popsicle-stick art strung from trees near my house, my friends’ photographs of their newborns on Facebook—they struck me with a plaintive ache. On a flight back from a conference, I gave my window seat to a bespectacled 10-year-old girl traveling alone. She looked so shy that I had an urge to find out where was she going and if she was safe, though I said nothing.<aside class="right hidden-on-mobile most-popular-plus-ad"><div class="most-popular hover_b_remove">
+									<h3>Most Popular</h3><div class="popular-article"><h4>1</h4><p><a href="http://www.thenation.com/article/there-were-five-hour-lines-to-vote-in-arizona-because-the-supreme-court-gutted-the-voting-rights-act/">There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act</a></p></div><div class="popular-article"><h4>2</h4><p><a href="http://www.thenation.com/article/heres-what-a-man-who-studied-every-suicide-attack-in-the-world-says-about-isiss-motives/">Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives</a></p></div><div class="popular-article"><h4>3</h4><p><a href="http://www.thenation.com/article/global-warming-terrifying-new-chemistry/">Global Warming’s Terrifying New Chemistry</a></p></div><div class="popular-article"><h4>4</h4><p><a href="http://www.thenation.com/article/fear-and-hate-drove-arizonas-republican-primary/">Fear and Hate Drove Arizona’s Republican Primary</a></p></div><div class="popular-article"><h4>5</h4><p><a href="http://www.thenation.com/article/whats-wrong-with-bernie-sanderss-strategy/">What’s Wrong With Bernie Sanders’s Strategy</a></p></div></aside>				
+					
+					
+<p>One evening I confided to a friend, as her 4-year-old son ran toy trucks through the adjacent room, that I thought about having a baby, but I worried how to keep a child safe in a future wracked by global warming. “I know,” she said, her face tightening with fear. “I don’t know what to do about it. I feel so helpless.” For a moment, we both were silent.				
+					
+					
+<p align="center">* * *				
+					
+					
+<p>In 1970, the biologist Paul Ehrlich leaned over a podium at Northwestern University and declared, “The American woman of the year is the sterile woman who adopts two children.” It was the beginning of a half-century of ambivalence among environmentalists over the nature of motherhood. Two years before his Northwestern speech, Ehrlich and his wife, Anne, had unleashed the best seller <em>The Population Bomb</em> (though the publisher insisted on removing Anne’s name from the byline). The book popularized the notion that the world was headed for a population explosion with catastrophic consequences: Too many people and too few resources would mean horrifying famine and world wars.				
+					
+					
+<p>The Ehrlichs were willing to entertain <a href="http://www.visionandvalues.org/2011/04/sterilizing-those-pesky-humans-earth-day-with-paul-ehrlich/" target="_blank">extreme solutions</a>, such as “the addition of temporary sterilants to water supplies or staple food.” For some, their ideas conjured up America’s repugnant history of eugenics—in which medical authorities coerced thousands of men and women, especially women of color and the poor and disabled, to get surgically sterilized, a practice that began at the turn of the 20th century and continued through at <a href="http://www.ourbodiesourselves.org/health-info/forced-sterilization/" target="_blank">least the 1970s</a>. The Ehrlichs and other population-control advocates <a href="http://www.motherjones.com/environment/2014/07/white-black-environmentalism-racism" target="_blank">alienated</a> a number of audiences of color—though Paul was also active in the civil-rights movement, and the couple has insisted that there was <a href="http://www.populationmedia.org/wp-content/uploads/2009/07/Population-Bomb-Revisited-Paul-Ehrlich-20096.pdf" target="_blank">no racial bias</a> in their case for population control. But at the dawn of the sexual revolution and the modern environmental movement, the book generated a groundswell of enthusiasm. With scientist Charles Remington and lawyer Richard Bowers, the Ehrlichs founded the organization Zero Population Growth; in just over a year, it grew to 102 chapters in 30 states. The popularity of these ideas helped stoke the public sentiment that led to the <a href="https://books.google.com/books?id=R07WaGjsNDAC&amp;pg=PA273&amp;lpg=PA273&amp;dq=%22population+bomb%22+roe+v.+wade&amp;source=bl&amp;ots=zNFrHmX0ck&amp;sig=fYmGmZtbPv3wXLn4ntpRWupruwk&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwipzcyoprXLAhVOw2MKHQ6ACCsQ6AEIJzAB#v=onepage&amp;q=%22population%20bomb%22%20roe%20v.%20wade&amp;f=false" target="_blank">legalization of abortion</a>. But the threat of overpopulation also became a cover for attacks on immigrants and the poor. Ellen Peck, founder of a 1970s anti-overpopulation group called the National Organization for Non-Parents, faulted government housing and welfare programs for bailing “irresponsible baby-breeders out of their partially self-created financial responsibilities.” As recently as 2004, white-supremacist and anti-immigration groups tried to vie for seats on the Sierra Club’s board in an effort to push the conservation group to oppose immigration to the United States.				      <style>
+      .cta.primary.NPDQjAyJwd{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.NPDQjAyJwd a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      </style>
+      <aside class="siderail__item full cta primary right article_action_right NPDQjAyJwd">
+   <div class="item__content">
+            <h3>GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+</h3>
+            <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**ARL" target="_blank" class="btn">Subscribe</a>   
+   </div>   
+</aside>
+ 
+
+									
+					
+					
+<p>Mothers carried moral heft in some environmental fights. Among the most iconic eco-heroes are women like Hazel Johnson, the mother of seven who, from the late 1970s through the 1990s, pushed city and federal officials to clean up asbestos and filter cyanide out of the tap water of some of Chicago’s mostly African-American neighborhoods. Lois Gibbs, mother of four, fought for the cleanup of Love Canal, a neighborhood in Niagara Falls, New York, built on a dumping ground for toxic chemicals. But today, having even one child can pose a moral quandary for some environmentalists. In a <a href="http://blog.oregonlive.com/environment_impact/2009/07/carbon%20legacy.pdf" target="_blank">2009 report</a>, statisticians at Oregon State University determined that giving birth to one more American “adds about 9,441 metric tons of carbon dioxide to the carbon legacy of an average female.” Factoring in grandchildren and great-grandchildren, it multiplies her “lifetime emissions” by a factor of nearly six.				
+					
+					
+<p>The OSU study is one of many recent attempts to quantify the environmental impact of parenthood. But it didn’t make sense, I thought, to filter the world’s most pressing environmental dilemma through the private choices of an individual woman. That analysis left out significant pieces of the puzzle. The average woman couldn’t, by herself, wrench billions of barrels of oil and tons of coal out of North American soil and sell them overseas, or stonewall policies that might have steered the US economy away from fossil fuels years ago.				
+					
+					
+<p align="center">* * *				
+					
+										<aside class="left full-width-mobile image indent">
+							
+										<a href="http://www.thenation.com/wp-content/uploads/2016/03/Meghan_Kallman_otu_img.jpg"  title="Conceivable Future founder Meghan Kallman.&nbsp(Steve Ahlquist)" class="gallery"><img src="http://www.thenation.com/wp-content/uploads/2016/03/Meghan_Kallman_otu_img.jpg" alt=""></a>
+										<p class="caption">Conceivable Future founder Meghan Kallman. <span class="credits">(Steve Ahlquist)</span></p>
+							</aside>
+								
+<p>As a child, Meghan Kallman used to announce: “I don’t want to have kids.” She wasn’t sure it was really true, but she relished the look of confusion that would appear on grown-ups’ faces. Now in her early 30s, Kallman is a doctoral student in sociology at Brown University. In the fall of 2014, she and a former Occupy activist named Josephine Ferorelli launched the Conceivable Future project, which seeks a more compassionate way to talk about the decision to have—or not have—children in an era marked by climate change. The project’s mission statement is a kind of manifesto: “The climate crisis is a reproductive crisis…. As we consider having families, it becomes clear that the perils of climate change have made this a terrifying time to make such choices…. We now have to worry that the planet won’t support our children.” So far, the project consists of living-room-style forums, more than a dozen events held to date in places like Chicago, Boston, Seattle, Salt Lake City, New York City, and rural New England. Each event offers men and women space to share their feelings on children and climate change in small groups, sometimes on camera for the video statements collected on the project’s website.				
+					
+					
+<p>I first glimpsed Kallman last June in Seattle, playing trumpet in an activist ensemble called the Extraordinary Rendition Band and dressed in a performance get-up of frothy tulle skirt, white fedora with a gold scarf twirled around the brim, combat boots, and torn fishnet stockings. I watched as the band honked out a set that was mostly boisterous and loud at an urban park near an abandoned gas plant. But their last number was a somber Mexican funeral march, and in the middle of the tune, Kallman—who also teaches in Rhode Island’s state prisons—held up a megaphone and recited lines adapted from <em>The New Jim Crow</em>: “We have not done away with racial injustice in the United States. We have merely redesigned it.” “That’s the truth!” hollered a man in the audience, and the crowd shrieked with enthusiasm.<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-206991-3" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>						<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206991-3','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					</script>
+									
+					
+										<aside class="left full-width-mobile image indent">
+							
+										<a href="http://www.thenation.com/wp-content/uploads/2016/03/conceivable_future_logo_otu_img.jpg"  title="Conceivable Future’s logo.&nbsp(Artwork: Josephine Ferorelli)" class="gallery"><img src="http://www.thenation.com/wp-content/uploads/2016/03/conceivable_future_logo_otu_img.jpg" alt=""></a>
+										<p class="caption">Conceivable Future’s logo. <span class="credits">(Artwork: Josephine Ferorelli)</span></p>
+							</aside>
+								
+<p>A few hours earlier, I’d been sitting with Kallman outside a bagel shop, both of us shivering in the chilly morning air. The daughter of a public-school teacher and a builder from rural New England, Kallman started attending protests when she was in college. In 2011, she was arrested in a Washington, DC, demonstration against the Keystone XL pipeline. She told me haltingly that she’d had an abortion two years before. “It would be disingenuous for me to say the whole reason I had an abortion was climate change,” she added. For one thing, she hadn’t yet found the right person to start a family with. “But there was also this lingering doubt about whether I feel like it’s fair to create new life in the face of this mess.”				
+					
+					
+<p>In 2014, she met Tim DeChristopher, an activist who’d spent two years in prison for posing as a bidder to block the auction of drilling leases on public lands in Utah. On his release, he relocated to the Northeast, and the two had begun dating that summer. The following spring, they had moved in together, and now, Kallman asked herself the question again: Given global warming, could she consider having a child, even with someone she loved?				
+					
+										<aside class="left full-width-mobile image indent">
+							
+										<a href="http://www.thenation.com/wp-content/uploads/2016/03/Josephine_Ferorelli_otu_img.jpg"  title="Conceivable Future cofounder Josephine Ferorelli.&nbsp(Christopher Salveter)" class="gallery"><img src="http://www.thenation.com/wp-content/uploads/2016/03/Josephine_Ferorelli_otu_img.jpg" alt=""></a>
+										<p class="caption">Conceivable Future cofounder Josephine Ferorelli. <span class="credits">(Christopher Salveter)</span></p>
+							</aside>
+								
+<p>It was a question she didn’t feel comfortable asking out loud until she met Ferorelli, who had wrestled with similar feelings. Every time Ferorelli heard a piece of positive news about the environment—such as President Obama’s announcement of a climate deal with China—she would be seized by optimism, thinking: “Maybe I could have a baby.” The next piece of bad news would send her back into despair. To both women, this was the heart of the climate-change crisis: not melting ice sheets or crashing oil prices, but the impact on the people you love and the life you could imagine for yourself.				
+					
+					
+<p>As far as Kallman knew, no one had ever talked about climate change and childbearing choices this way before. In the 1980s and ’90s, scientists had assumed that world leaders would take action to curb the impact of global warming. But by the mid-2000s, emissions were still rising and the worst-case scenarios were playing out, setting the world up for heat waves that could devastate food supplies and rising seas that could drown coastal areas and island nations. So the Conceivable Future parties were a form of consciousness-raising: Kallman didn’t know exactly where the project would lead, but she pictured such conversations happening across the country and helping to create a political platform.				
+			<aside class="left twitter-quote indent">
+						<p>
+							&ldquo;The climate crisis is a reproductive crisis&hellip;. We now have to worry that the planet won&rsquo;t support our children.&rdquo; &mdash;Conceivable Future mission statement
+						<a target="_blank" class="tw span_article_tweet" href="http://twitter.com/intent/tweet?text=%E2%80%9CThe+climate+crisis+is+a+reproductive+crisis%E2%80%A6.+We+now+have+to+worry+that+the+planet+won%E2%80%99t+support+our+children.%E2%80%9D+%E2%80%94Con http://thenat.in/1S3JmY6"><span></span></a>
+
+						</p>	</aside>	
+					
+					
+<p>She asked about my own views, and I found myself making a confession. “The part of me that wants to have a child is very much about joy and love,” I said. “I’m not sure that it’s reasonable to try to tamp those feelings down, but I still have these thoughts like, ‘Is it right thing to do?’”				
+					
+					
+<p>“Who the hell knows?” Kallman replied. “We’re not pushing any single idea. We’re just trying to make a space where people can have their feelings.”				
+					
+					
+<p>Kallman was still wrestling with her own emotions. “I’m with you on the love thing,” she added. “When I think about the possibility of not having kids, that’s what I would miss the most.”<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-206991-4" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>						<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206991-4','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					</script>
+									
+					
+					
+<p align="center">* * *				
+					
+					
+<p>“Whenever I talk about having children, climate comes up,” said a buoyant 23-year-old woman named Morgan. “And whenever women I know talk about climate change, the subject of having kids comes up.”				
+					
+					
+<p>I sat beside her in a room buzzing with the conversations of some two dozen people. We had all assembled on a hot day in July for Conceivable Future’s Seattle meeting, hosted by a local health-food store. Two women in their 20s led the event; both had met Kallman at a conference in April. The participants, ranging from their early 20s to 60s, made a round of introductions. Natalie had recently flip-flopped from never wanting kids to fiercely desiring them. Yin was a first-generation immigrant whose grandparents had raised eight children in Taiwan and didn’t understand why she was deferring having her own family. Frederica, the mother of a toddler and pregnant with a second child, said she was searching for ways to raise kids who would know how to handle themselves even if life in general became less hospitable.				
+					
+					
+<p>The attendees were a group deeply involved with the environmental movement; several worked for local environmental organizations. That didn’t make them complete anomalies—40 percent of Americans fear that climate change will harm their family members, and a majority under the age of 40 believe it will affect them over the course of their lives. But for the people in the room, the problem was immediate and tangible, and it influenced decisions big and small.				
+			<aside class="left twitter-quote indent">
+						<p>
+							&ldquo;Whenever we talk about climate change, the subject of having kids 
+comes up.&rdquo; &mdash;Morgan, 23
+						<a target="_blank" class="tw span_article_tweet" href="http://twitter.com/intent/tweet?text=%E2%80%9CWhenever+we+talk+about+climate+change%2C+the+subject+of+having+kids+%0D%0Acomes+up.%E2%80%9D+%E2%80%94Morgan%2C+23 http://thenat.in/1S3JmY6"><span></span></a>
+
+						</p>	</aside>	
+					
+					
+<p>Morgan and I joined a discussion group at the edge of the room. Beside us were two veterans of environmental campaigns in the ’70s. Richard introduced himself as a baby boomer with stepkids but no biological children; Shannon was a former nanny who’d read Ehrlich early in her life and become convinced that it was “completely wrong to have kids—I took a pretty hard stand on it.” But the two were sympathetic toward Morgan, who was born in the early ’90s and could have been the same age as the daughters they’d never had. Morgan said that she had never known a time when global warming didn’t consume her thoughts. “I can’t turn it off,” she added. “I think that gives you permission to do whatever you want as a survivor,” Richard offered kindly. “Yes!” Shannon chimed in.				
+					
+					
+<p>The tone of these conversations reflected an openness and a lack of judgment that I’d never experienced before on a topic so charged and personal. No one claimed they had the best answer. Instead, we shared a collective grappling with questions of how to cope with the future.				
+					
+										<aside class="left full-width-mobile image indent">
+							
+										<a href="http://www.thenation.com/wp-content/uploads/2016/03/conceivable_future_otu_img.jpg"  title="Conceivable Future hosts its first house party in Chicago.&nbsp(Marya Spont)" class="gallery"><img src="http://www.thenation.com/wp-content/uploads/2016/03/conceivable_future_otu_img.jpg" alt=""></a>
+										<p class="caption">Conceivable Future hosts its first house party in Chicago. <span class="credits">(Marya Spont)</span></p>
+							</aside>
+								
+<p>Even much of the population movement no longer takes a hard line on such questions. I asked John Seager, head of Population Connection, the organization once known as Zero Population Growth, if he would offer advice for a project like Conceivable Future. I could almost hear him recoil over the phone: “No, I absolutely wouldn’t,” he replied. “These are the most personal and private decisions.” In the years since the publication of <em>The Population Bomb</em>, his group went through an identity crisis, followed by a profound shift in message, when study after study showed birth rates dropping on their own once women had access to contraception, education, healthcare, and legal abortion. (The American birth rate decreased after birth control became easily accessible in the 1970s. Millennials now have dramatically lower fertility rates than any previous generation.) The global population is still surging, and it’s predicted to reach 9.6 billion by 2050. But to Seager’s group, the solutions looked more systemic. “If I could [boil] the whole issue down to two words, it’s ‘Trust women,’” Seager said. “If women are empowered to lead the lives they want to lead, the problem just evaporates.”				
+					
+					
+<p align="center">* * *				
+					
+					
+<p>“Becoming a mother is like walking through a door,” a writer friend in her 50s told me. “There’s a whole set of experiences that you can’t understand until you’re on the other side.”				
+					
+					
+<p>By last fall, I’d finally decided to open that door. My pregnancy arrived in October like a sickness. I wanted to work but lay in bed while my stomach churned; I tried to energize myself by jogging down the street, but afterward, I collapsed on the couch. I alternated between moments of all-encompassing pessimism and moments of unbridled joy. I followed the development of the creature in my abdomen on websites that gave facts about its size: as big as a lentil and then a blueberry, built like a delicate tadpole or a brine shrimp.				
+					
+					
+<p>Then, after 10 weeks, I began to miscarry. I knew the early weeks of pregnancy were fragile; I had told myself that I would be rational if this happened. But the grief welled up from a part of my psyche that I’d never been aware of before, like an unused muscle. The sadness was deep and physical, torrential and uncontrollable. For weeks, I was embarrassed by all the ways that my body had left me raw. Yet, at times, the grief was like a strange new power—I was as sensitive to the world around me as a barometer. I cried for parents who had to bury children killed by bombings in Syria. I wept for a friend who lost her mother to cancer. I felt like I finally understood what was at stake in these conversations about the future of the planet: the value of what we create and of those we choose to love.				
+					
+									<style>
+			.article-wrap .article-body aside.left.custom_background_206991			 {
+			 background:#5000b2 !important;
+			 }
+			 </style>
+				<aside class="left takeaction indent custom_background_206991">
+					<div class="action_tout_heading"><p><p>LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS</p></p></div>
+					<form action="" name="sailthru_action_tout_form" method="post">
+					<input type="email" name="email" id="take_action_sailthru_email_206991" class="take_action_sailthru_email" Placeholder="Enter Email">
+									<input type="hidden" name="take_action_sailthru_list_final" id="take_action_sailthru_list_final_206991" value="daily_tout,master,daily">
+					<div class="cta"><p>
+										<input type="button" class="take_action_sailthru_submit" name="submit_sailthru" value="SIGN UP! " onclick="add_action_tout_sailthru(206991)"></p></div>
+					</form>
+				<p id="action_tout_response_206991"></p>
+				</aside>
+				
+<p>Throughout the winter, I sank deeper into my grief. I slept fitfully and clenched my teeth as I dreamed. I still worked, but barely, as if in a kind of daze. Then I awoke one morning in February to the opening of plum-tree blossoms in my backyard and walked among the decayed remains of last year’s leaves. In the woods nearby, the salmonberries had begun to open their green buds. Last year, spring came early and warm, followed by a summer of record-breaking heat that lit the Pacific Northwest’s forests on fire. Now that it was spring again, I wondered if I would try once more to conceive. I imagined my hypothetical child walking alongside me. What would I say about this place, the renewal of faith, the seasons of life, and whether we could rely on them as we always had? Would I know how to prepare someone for what lay ahead? There was no calculation I could make to tell me the right thing to do. There was only this moment, and the knowledge that everything we choose in it creates or forecloses possibilities for those who live after us.				
+					
+					
+		</section>
+		<footer class="article-footer narrow">
+
+			   		<div class="footer-module comments">
+			<!-- Comments count function -->
+				<a class="click_comment" href="">5 Comments</a>
+			</div>
+						<div class="footer-module">
+				<ul class="article-share">
+					<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+				</ul>
+			</div>
+			<!--<div class="footer-module narrow supplemental-info">
+							</div>-->
+			
+			<div class="footer-module narrow author-bio">
+									<p><span><a href="http://www.thenation.com/authors/madeline-ostrander/"> Madeline Ostrander</a>
+												 <a class="author-twitter" href="https://twitter.com/@madelinevo" target="blank"><span>Twitter</span></a>
+						 						</span> Madeline Ostrander is a contributing editor to <em>YES! Magazine</em> and a freelance writer based in Seattle.
+</em></p><br/>
+						</div>
+							<div class="footer-module narrow contact-us">
+					<p>To submit a correction for our consideration, click <a target=_blank href=/corrections>here.</a>										</p>
+					<p>For Reprints and Permissions, click <a target="_blank" href="http://www.thenationreprints.com/services/reprints/">here.</a></p>
+				</div>
+				
+			<div id="comments_206991" class="commentContainer" style="display:none">
+			<div id="comments" class="comments-area">
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/article/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">In order to comment, you must be logged in as a paid subscriber. <a href="#TB_inlinepcd_login?width=600&height=550&inlineId=login-content-id-pcd_login" class="thickbox comment_login_link"> Click here to log in</a> or subscribe.</p>												</div><!-- #respond -->
+						<!--<h2 class="comments-title">
+					</h2>-->
+		<div class="comment_sorting_setting_outer">
+    <div class="sort_com_label">Sort comments By:</div>
+				<select id="comment_sorting_setting" name="comment_sorting_setting" class="comment_sorting_setting" comment_postid="206991" my-ajax-url="http://www.thenation.com/wp-admin/admin-ajax.php">
+					<option sort-attr="1"  selected=selected>Chronological Order</option>
+					<option sort-attr="2"  >Most Liked</option>
+				</select>
+			</div>
+<div class="clear"></div>
+		<ol class="comment-list custom_comments">
+			   <li id="comment-2109909165" class="comment byuser comment-author-600215701 even thread-even depth-1">
+   <article id="div-comment-2109909165" commentIDVal="2109909165" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Elizabeth Loula</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-03-24T13:47:55+00:00">
+								March 24, 2016 at 1:47 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>What are we mother&apos;s to do?  I&apos;ve been an environmentalist my whole life- now with three children ages 12-19.  Beautiful girls who love our earth and the people in their lives. Girls who are socially conscious and aware of what is happening to our environment. Having children IS like walking through a door into another universe. A universe in which I would throw myself in front of a train to save my children. Yet what can each of us individuals do now - right now - about climate change. We CAN form a movement-- change occurs only through the pressure of large social movements. Mothers Out Front is an organization of mothers and others that is putting pressure on the system and is fighting to protect our environment from climate change for our children and their children.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909165,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909165,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109909163" class="comment byuser comment-author-600110159 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109909163" commentIDVal="2109909163" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Doug Barr</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-03-24T13:25:14+00:00">
+								March 24, 2016 at 1:25 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>I am working on a project a small part of which is about using sex as an anesthetic reaction to the void but I had to acknowledge the procreative as well as the recreative purpose of sex. While formulating a plan I thought of relating the number of abortions per day to recreative sex and the number of births per day to procreative sex. From real time abortion and population counters, which were mesmerizing by the way, I found the ratio of procreative sex to recreative sex is roughly 4:1. On top of this base I will add stats on the increases in the consumption of porn, sexual crimes, prostitution and anything else that come to mind that will create an accurate impression of  our failing effort to fill the void with sex. This is separate from using procreative sex to have babies we believe can fill the void. They can&apos;t, and this is another belief that will bring humanity to its dead end. So  choose wisely. http://thelastwhy.ca/poems/2015/6/25/life-a-reaction-to-the-void</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909163,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909163,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109909162" class="comment byuser comment-author-000576108 even thread-even depth-1">
+   <article id="div-comment-2109909162" commentIDVal="2109909162" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Rosemary Agonito</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-03-24T13:22:40+00:00">
+								March 24, 2016 at 1:22 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Important article. The environmental movement needs to come to grips with the urge to mother as profoundly conditioned in girls and women from the moment of birth and that first doll. The glorification of motherhood is everywhere and is contrary to the reality of actual motherhood. THE LAST TABOO: Saying No to Motherhood, my latest book, presents the other side - how motherhood can harm women, their relationships, their work/careers, as well as unwanted children and the environment. Until we grapple with the ubiquitous glorification of motherhood and the conditioning to mother, we will never deal with the catastrophic issue of overpopulation.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909162,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>1</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909162,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109909160" class="comment byuser comment-author-600091656 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109909160" commentIDVal="2109909160" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Randy Lyman</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-03-24T13:12:41+00:00">
+								March 24, 2016 at 1:12 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>What a beautiful and profound story. If my memory serves correctly, in the 1970s the &quot;women&apos;s lib&quot; movement used to say &quot;the personal is political.&quot; It seems that hasn&apos;t changed, just the issues are different. How we live as individuals affects the world we live in, and vice versa. I am reminded of a woman I know, a life-long social justice activist who one day felt it was simply time to have kids, and now has two. For her, motherhood is like a different form of activism, a way to pass on practices and teachings to make the world a better place. I can certainly sympathize with the reluctance to bring children into today&apos;s calamitous world, but it is also possible those children are among the ones who will do something positive about it. Maybe in the end we tell ourselves the stories we want to hear, that tell us to do what we know we&apos;re going to do anyway, and that&apos;s the &quot;right&quot; choice after all. As a man I&apos;ve considered the questions you pose too, but I appreciate hearing your woman&apos;s perspective. Thank you for a very thoughtful and moving article.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909160,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>0</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909160,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109909159" class="comment byuser comment-author-600155949 even thread-even depth-1">
+   <article id="div-comment-2109909159" commentIDVal="2109909159" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Dianne Kocer</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-03-24T13:09:55+00:00">
+								March 24, 2016 at 1:09 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Intelligent, aware women will always grapple with this conundrum. It is a battle of logic and reason against biology. Humans are no different from animals in regards to the latter. Look at a chimp cradling its offspring, a sea otter clutching its baby to its chest, an elephant mom, and aunts, nuzzling and cuddling in the only way they can, an infant elephant. 
+
+Animals don&apos;t have, as far as we know, the ability to overcome the biological urge to procreate, but humans do. It is somewhat like making the decision to not have that wonderful piece chocolate cake when you are a diabetic, or not following the desire to hop in bed with a gorgeous stranger when you have a loving husband at home.
+
+I grew up in the ZPG era and made a decision over 50 years ago to not bring a child of mine into the world I could see coming. If I had overcome reason with a natural desire to procreate, a desire that nature instills so powerfully in females of any species, my grandchildren would be facing the coming nightmare. I have never regretted that decision, and still don&apos;t. Instead I spent 25 years in the classroom and loved my students.  Look around, there are many ways to share maternal feelings and many children whose mothers&apos; maternal feelings were short-lived. Even in the animal kingdom over-population triggers mechanisms to bring the population in line with the food supply. I would hate to live long enough to witness even more starvation and dwindling potable water than we already have. Sure it might not be your child, or mine, but it is someone&apos;s, and it is the animal world that also pays the price as habitat is destroyed to make way for ever-increasing numbers of humans. We were given reason for a purpose.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909159,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>2</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109909159,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+					
+</div><!-- #comments -->			</div>
+					</footer>
+		<footer class="article-footer recirc-block">
+			<div class="footer-module full-width-mobile recirc-block">
+					<div class="recirc column" id="recirccol-206991">
+					<ul class="tag-browser">
+					 
+							<li><a name="climate-change" class="other" href="#">Climate Change</a></li>
+						 
+							<li><a name="children" class="other" href="#">Children</a></li>
+				 
+							<li><a name="feature" class="other" href="#">Feature</a></li>
+										<li><a name="April 11-18, 2016 Issue" class="other" href="#">April 11-18, 2016 Issue</a></li>
+												
+					</ul>
+					<div class="recirc-carousel" id="recirccar-206991">
+														<ul id="climate-change" class="article-list">
+																		<li>
+										<time>Yesterday 5:30 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/global-warming-terrifying-new-chemistry/">Global Warming’s Terrifying New Chemistry</a> <span class="author">
+																	By Bill McKibben																		</span></h2>
+									</li>
+																		<li>
+										<time>Mar 22, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/big-coal-mess/">Big Coal Is Bankrupt. Who Will Pay to Clean Up Its Mess?</a> <span class="author">
+																	By Zoë Carpenter																		</span></h2>
+									</li>
+																	</ul>
+														<ul id="children" class="article-list">
+														<li>
+								<time>Mar 21, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/as-abortion-restrictions-ramp-up-more-women-weigh-taking-matters-into-their-own-hands/">As Abortion Restrictions Ramp Up, More Women Weigh Taking Matters Into Their Own Hands</a> <span class="author">									By Dani McClain								</span></h2>
+							</li>
+														<li>
+								<time>Mar 17, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/black-kids-in-mississippi-are-being-systematically-denied-the-services-they-are-entitled-to/">Black Kids in Mississippi Are Being Systematically Denied the Services They Are Entitled To</a> <span class="author">									By Michelle Chen								</span></h2>
+							</li>
+													</ul>
+												<ul id="feature" class="article-list">
+														<li>
+								<time>Yesterday 5:30 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/global-warming-terrifying-new-chemistry/">Global Warming’s Terrifying New Chemistry</a> <span class="author">									By Bill McKibben								</span></h2>
+							</li>
+														<li>
+								<time>Mar 17, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/america-the-unaffordable/">America, the Unaffordable</a> <span class="author">									By DW Gibson								</span></h2>
+							</li>
+													</ul>
+												<ul id="April 11-18, 2016 Issue" class="article-list">
+														<li>
+								<time>Today 9:46 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/joseph-brodsky-darker-and-brighter/">Joseph Brodsky, Darker and Brighter</a> <span class="author">
+																	By Cynthia Haven								</span></h2>
+							</li>
+														<li>
+								<time>Today 9:45 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/keep-on-running-bernie/">Keep On Running, Bernie!</a> <span class="author">
+																	By D.D. Guttenplan								</span></h2>
+							</li>
+													</ul>
+												
+					</div>
+				</div>
+				<style>
+.tout.footer.donate.fXrptbFYLx{
+background: #cc0e0e !important;
+}
+.tout.footer.donate p{color: #ffffff !important;}
+.tout.footer.donate .btn{
+   border:3px solid #ffffff !important;
+   color: #ffffff !important;
+   background: #cc0e0e !important;
+}
+.tout.footer.donate .btn:hover{
+   background:#ffffff !important;
+   color:#cc0e0e !important;
+}
+</style>
+<div class="tout footer donate column fXrptbFYLx">
+   <div class="donate-wrapper">
+             <p>“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+</p>
+            <div class="donate-grid"><a href="https://ssl.palmcoastd.com/06601/apps/ANNIVERSARY2?ikey=I**RR2" target="_blank" class="btn">Subscribe to The Nation</a></div>   </div>
+</div>
+							</div>
+		</footer>
+		</article>
+
+
+<script type="text/javascript">
+  //  googletag.cmd.push(function() {
+  //  googletag.defineSlot('/1004953/tn_article_leaderboard_2', [728, 90], 'div-gpt-ad-1428494597034-0').
+  //  setTargeting("test","infinitescroll").
+  //  addService(googletag.pubads());
+  //
+  // // Infinite scroll requires SRA
+  // googletag.pubads().enableSingleRequest();
+  //
+  // // Disable initial load, we will use refresh() to fetch ads.
+  // // Calling this function means that display() calls just
+  // // register the slot as ready, but do not fetch ads for it.
+  // googletag.pubads().disableInitialLoad();
+  //
+  // // Enable services
+  // googletag.enableServices();
+  //});
+    
+  
+ // Function to generate unique names for slots
+ var nextSlotId = 1;
+ function generateNextSlotName() {
+   var id = nextSlotId++;
+   return 'adslot' + id;
+ }
+	var nextSlotIdSide = 1;
+	function generateNextSlotNameSide() {
+	  var idSide = nextSlotIdSide++;
+	  return 'slotSide' + idSide;
+	}
+
+</script>
+	
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+   //googletag.display('div-gpt-ad-1428494597034-0');
+});
+</script>
+	 <div id="ad-interarticle"   class="ad full-width interarticle position-relative">
+		<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+		<div id="div-gpt-ad-1428494597034-0"> 
+<!--     <script>
+        // Call display() to register the slot as ready
+        // and refresh() to fetch an ad.
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-1428494597034-0');
+          googletag.pubads().refresh();
+        });
+     </script> 
+--> </div>
+	</div>
+	 <!--<div id='div-gpt-ad-1428494597034-0' class="push ad full-width leaderboard"></div>-->
+	
+	<a class="inifiniteLoader"><img src="http://www.thenation.com/wp-content/themes/thenation/images/infi_loader.gif" /></a>
+	</div>
+					</div><!-- article wrap -->
+	<!--<a class="goTop" title="Scroll Top"><img src="http://www.thenation.com/wp-content/themes/thenation/images/scroll_arrow.png" /></a>-->
+<!-- Including  Body content image in gallery -->
+	<!-- Including  Body content image in  gallery -->
+	<script>
+	       function runSlider(ele)
+	    {   
+			 ele.bxSlider({
+  adaptiveHeight: true,
+ adaptiveHeightSpeed: 500,
+  infiniteLoop: false,
+  hideControlOnEnd: false,
+  pager: false
+});
+return false;
+		}
+
+	   
+		 jQuery(document).ready(function(){
+		 var flag = false;
+		 $('section.article-body img').each(function() {
+		   
+			 if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 {
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+             if(flag)
+			{
+			 runSlider($('.gallery-2'));
+			}
+	});
+	</script>
+	<script>	
+jQuery(document).ready(function(){
+  $e = $('.article-body').children().last();   
+   $t = $e.prop("tagName");
+   var tagsArray = ['FORM','ASIDE'];
+   var anothertagsArray = {'UL':'li','OL':'li','BLOCKQUOTE':'p'};
+   if(jQuery.inArray($t, tagsArray )!='-1')
+   {} 
+   else
+   {    
+      if($t in anothertagsArray)
+      {
+         $('.article-body > p:last-of-type').toggleClass('changed');
+         $e.find(anothertagsArray[$t]+':last').addClass('redotclass');         
+      }    
+   }
+});
+jQuery(document).ready(function(){
+$('figure').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+   if($(this).hasClass('alignright')||$(this).hasClass('alignleft') || $(this).hasClass('aligncenter'))
+   { 
+     $(this).after('<div class="clear"></div>');
+	}
+	});
+
+	//jQuery('.click_comment').click(function(){
+	//			console.log("called     "+'#comments_206991' );
+	//		$( '#comments_206991' ).toggle();
+	//		$('html, body').animate({
+	//			scrollTop: $('#comments_206991').offset().top
+	//		},2000);
+	//		return false;
+	//	});
+});
+</script>
+	<script>// Scroll IF # id exist in URL
+	jQuery(document).ready(function($){
+	var url_id = window.location.hash.substr(1);
+	if(url_id!='')
+	{
+	var s = url_id;
+	var n = s.indexOf('/');
+	if(n!=''&& typeof n!= 'undefined')
+	{
+		var id_var = s.substring(0, n != -1 ? n : s.length);
+		//alert(id_var);
+		
+				$('html, body').animate({
+					scrollTop: $('#'+id_var).offset().top
+				},2000);
+				return false;
+			
+		}
+	}
+	});
+	</script>
+	
+	<script type="text/javascript">
+/*script to handle Back Button Event */
+var pageChange = 1;
+jQuery.noConflict();
+if(window.attachEvent) {
+    window.attachEvent('onpopstate', datHash);
+}
+function datHash(event)
+{
+	//event.preventDefault();
+	var str = $('#goback').val();
+	if(str=='')
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	else
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	return false;
+}
+/*script to handle Back Button Event */
+
+</script>
+<!--Alternate Popup code start-->
+<!--Alternate Popup code End--> 
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+	$('.post-edit-link').attr('href', function( _, action){
+    return action.replace('https', 'http');
+});
+    });
+
+jQuery(document).ready(function($) {
+	
+//	(function(window, undefined) {
+//    // Define variables
+//    var History = window.History,
+//        State = History.getState();
+//
+//    // Bind statechange event
+//    History.Adapter.bind(window, 'statechange', function() {
+//        var State = History.getState();
+//    });
+//	})(window);
+	
+	$('a.inifiniteLoader').hide();
+	var count = 1;
+	var loagAgn = false;
+	/*Script to handle Article Load Ajax*/
+	function loadArticle(pageNumber){
+		$('a.inifiniteLoader').show('fast');
+		$.ajax({
+		    url: "http://www.thenation.com/wp-admin/admin-ajax.php",
+		    type:'POST',
+			cache: false,
+			dataType: 'json',
+		    data: {action:'infinite_scroll',page_no: pageNumber, loop_file: 'articleload',slug:'climate-change,environmental-activism,environmental-issues,health-and-disease,society',curr_post_id:'206991',baseInfo:'{"SERVER_SOFTWARE":"nginx\/1.8.1","REQUEST_URI":"\/article\/how-do-you-decide-to-have-a-baby-when-climate-change-is-remaking-life-on-earth\/","USER":"50452d78eaa74dddbd08014ddf0629ea","HOME":"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea","FCGI_ROLE":"RESPONDER","QUERY_STRING":"","REQUEST_METHOD":"GET","CONTENT_TYPE":"","CONTENT_LENGTH":"","SCRIPT_NAME":"\/index.php","DOCUMENT_URI":"\/index.php","DOCUMENT_ROOT":"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/code","SERVER_PROTOCOL":"HTTP\/1.1","GATEWAY_INTERFACE":"CGI\/1.1","REMOTE_ADDR":"68.9.223.99","REMOTE_PORT":"18466","SERVER_ADDR":"10.223.145.138","SERVER_PORT":"12102","SERVER_NAME":"endpoint97c37765.chios.panth.io","REDIRECT_STATUS":"200","PATH_INFO":"","PATH_TRANSLATED":"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/code","HTTPS":"OFF","SCRIPT_FILENAME":"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/code\/\/index.php","HTTP_HOST":"www.thenation.com","HTTP_USER_AGENT":"Mozilla\/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit\/601.1.46 (KHTML, like Gecko) Mobile\/13D15 Twitter for iPhone","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8","HTTP_ACCEPT_ENCODING":"gzip","HTTP_ACCEPT_LANGUAGE":"en-us","HTTP_COOKIE":"has_js=1; SESSpaywallcandy=ae79b5bedaa02eefe7e9a690e4bbd2dc","HTTP_REFERER":"https:\/\/t.co\/OMpO5LmzX1","HTTP_SURROGATE_CAPABILITY":"styx=\\\"ESI\/1.0\\\"","HTTP_USER_AGENT_HTTPS":"OFF","HTTP_VIA":"HTTP\/1.1 ECS (iad\/198A)","HTTP_X_BYPASS_CACHE":"1","HTTP_X_FORWARDED_FOR":"68.9.223.99, 198.7.25.138, 198.7.25.138","HTTP_X_FORWARDED_PROTO":"http","HTTP_X_HOST":"www.thenation.com","HTTP_X_PANTHEON_CLIENT_IP":"68.9.223.99","HTTP_X_PANTHEON_STYX":"1","HTTP_X_PROTO":"http:\/\/","HTTP_X_VARNISH":"410361365","PHP_SELF":"\/index.php","REQUEST_TIME_FLOAT":"1458843604.7259","REQUEST_TIME":"1458843604","PRESSFLOW_SETTINGS":"{\\\"conf\\\":{\\\"pressflow_smart_start\\\":true,\\\"pantheon_binding\\\":\\\"50452d78eaa74dddbd08014ddf0629ea\\\",\\\"pantheon_site_uuid\\\":\\\"672ae238-dede-44f4-9243-89a591c2cc46\\\",\\\"pantheon_environment\\\":\\\"live\\\",\\\"pantheon_tier\\\":\\\"live\\\",\\\"pantheon_index_host\\\":\\\"18f9ce30-8984-49c6-a353-771e7a1a88ef-private.panth.io\\\",\\\"pantheon_index_port\\\":449,\\\"redis_client_host\\\":\\\"10.223.144.11\\\",\\\"redis_client_port\\\":10739,\\\"redis_client_password\\\":\\\"59b174d1fe414ed9850a8e14eb2d6be3\\\",\\\"file_public_path\\\":\\\"sites\/default\/files\\\",\\\"file_private_path\\\":\\\"sites\/default\/files\/private\\\",\\\"file_directory_path\\\":\\\"sites\/default\/files\\\",\\\"file_temporary_path\\\":\\\"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/tmp\\\",\\\"file_directory_temp\\\":\\\"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/tmp\\\",\\\"css_gzip_compression\\\":false,\\\"js_gzip_compression\\\":false,\\\"page_compression\\\":false,\\\"error_level\\\":0},\\\"databases\\\":{\\\"default\\\":{\\\"default\\\":{\\\"host\\\":\\\"10.223.145.135\\\",\\\"port\\\":22193,\\\"username\\\":\\\"pantheon\\\",\\\"password\\\":\\\"674fcd3a95584c40ad4f55b530c10c30\\\",\\\"database\\\":\\\"pantheon\\\",\\\"driver\\\":\\\"mysql\\\"}}},\\\"drupal_hash_salt\\\":\\\"b444002d80740b3d94cc5e42e4945dbc224fd3134e65b580da60215ffe4c8bf3\\\",\\\"config_directory_name\\\":\\\"config\\\"}","FRAMEWORK":"wordpress","DOCROOT":"\/","FILEMOUNT":"wp-content\/uploads","AUTH_KEY":"VHpmJoHTr14kv2qyk4zD6NrSc3IqAUmZxtz0nUnwkNA=","SECURE_AUTH_KEY":"zuloHYH0e\/uwY8+VFQ\/rgob0NrMXhmIsg9ymhQ4uBTg=","LOGGED_IN_KEY":"2m+ff0Ly0rHeTX0y0XQjPbiJWgk2aCET7rTjb+zMW5c=","NONCE_KEY":"JMqPWPpuEU03WW4UaqSzKy1gkcWsavf\/LHKLgHKzusc=","AUTH_SALT":"Q7pT2rIMICgULXTEtMwYfknUKfI0Yaog3PBcoVMI7F8=","SECURE_AUTH_SALT":"a3AFHfpntT3bMHQ5x\/6oFBL2AUyT\/sRYoO2W8Zz5hws=","LOGGED_IN_SALT":"+gVdi3DCKSVclyPORyNbSyHp2Gx9F81RWiMAwMV3hGg=","NONCE_SALT":"JcwHG4IRUl\/DsS0Va2+Z15HXCQKQmnIsDS8mbPoP8w4=","CACHE_HOST":"10.223.144.11","CACHE_PORT":"10739","CACHE_PASSWORD":"59b174d1fe414ed9850a8e14eb2d6be3","PANTHEON_INDEX_HOST":"10.223.96.36","PANTHEON_INDEX_PORT":"449","REPLICA_DB_HOST":"10.223.144.46","REPLICA_DB_PORT":"14542","REPLICA_DB_USER":"pantheon","REPLICA_DB_PASSWORD":"fad390d6196d44d3abc24a0e14433020","REPLICA_DB_NAME":"pantheon","DB_HOST":"10.223.145.135","DB_PORT":"22193","DB_USER":"pantheon","DB_PASSWORD":"674fcd3a95584c40ad4f55b530c10c30","DB_NAME":"pantheon","PANTHEON_SITE":"672ae238-dede-44f4-9243-89a591c2cc46","PANTHEON_SITE_NAME":"thenation","PANTHEON_ENVIRONMENT":"live","PANTHEON_INFRASTRUCTURE_ENVIRONMENT":"live","PATH":"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/bin:\/usr\/local\/bin:\/bin:\/usr\/bin:\/srv\/bin","PHPRC":"\/srv\/bindings\/50452d78eaa74dddbd08014ddf0629ea\/php.ini"}'},
+		    success: function(receivedHTML){
+			if (typeof receivedHTML == 'object') 
+			{
+				if(typeof receivedHTML.html!=='undefined' && receivedHTML.html!='')
+				{
+					html = receivedHTML.html;
+				}
+			}
+			else
+			{
+				$('a.inifiniteLoader').hide();
+				$("#single_article_footer").show();
+			}
+			//html = receivedHTML.html;
+			$('a.inifiniteLoader').hide('1000');
+			$("#wrap").append(html);    // This will be the div where our content will be loaded
+			var postID = $($.parseHTML(html)).filter(".scrolltrace").attr('article-post-id');
+			
+			$('.abody-'+postID).children('p:first-of-type').html(function (i, html) {
+if ($('.abody-'+postID).children('img').length == "0") {
+var text = $('.abody-'+postID).children('p:first-of-type').html();
+$('.abody-'+postID).children('p:first-of-type').html(text.replace(/^(<.?>)?([A-Za-z0-9])/g,'$1<span class="dropcap">$2</span>'));
+}
+});        
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===false) 
+			{		  
+				/*for hiding meterpaywall popups when pixel ads call ends here*/
+				/****Alternate Popup code start*********/
+				var enable_alterpopup_check;
+				enable_alterpopup_check ='';
+				if(typeof(enable_alterpopup_check) != "undefined" && enable_alterpopup_check == 1) 
+				{ 
+					var alternate_article_no;
+					alternate_article_no = '';
+					if(pageCounterPaywall % alternate_article_no == 0 && pageCounterPaywall!=0)
+					{
+						show_lightbox('','');
+					}
+				}
+				/******Alternate Popup code End********/
+			}
+			pageCounterPaywall++;
+			ajaxCarousel(postID);
+			/** Slider Content **/
+			var flag = false;
+			$('section.article-body:last img').each(function() {
+			if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 { 
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+
+			 if(flag){
+			var k = $('section.article-body:last').find('.gallery-2').bxSlider({
+				  adaptiveHeight: true,
+				 adaptiveHeightSpeed: 500,
+				  infiniteLoop: false,
+				  hideControlOnEnd: false,
+				  pager: false
+				});
+			 k.reloadSlider();
+			 }
+			 /* Slider Content End */
+			 
+			 
+			 var usera = navigator.userAgent.toLowerCase(); 
+				if ($('.article-page').length) { 
+				var slickWidth = $('.article-list.slick-slide').width(); 
+				if ($('.ie9').length) 
+				{ slickWidth = $('.recirc-carousel.slick-initialized.slick-slider').width(); } 
+				$('.slick-list.draggable').css( 
+				{'width' : slickWidth} 
+				); 
+				if (!/android|webos|iphone|ipad|ipod|blackberry/i.test(usera)) { 
+				$('.article-list.slick-slide').children('li').css( 
+				{'width' : slickWidth} 
+				); 
+				$('.slick-list').css( 
+				{'width' : slickWidth} 
+				); 
+				} 
+				} 
+			 
+			 
+			 
+			 
+			 
+			 
+		    }
+		});
+	    return false;
+	}
+	
+
+	/*Script to handle Scroll*/
+	 $(window).bind('scroll', function() {
+		
+			$('.scrolltrace').each(function() {
+			   var post = $(this);
+			   var topp = post.position().top;
+			   var bott = post.position().top + post.height();
+			   var pos = $(window).scrollTop();
+			    if (pos>=topp && pos<=bott) {
+			       $(this).addClass('currentScr');
+			       if($('.currentScr').attr("articlelistlinks")!=window.location.href)
+				   {
+						var ua = window.navigator.userAgent;
+						var msie = ua.indexOf("MSIE ");
+
+						if (msie > 0){ 
+							
+						}else{
+								window.history.pushState({}, "", $('.currentScr').attr('articlelistlinks'));
+						}
+				   // Google Analytics  for Infinite Scroll
+					 ga('send', 'pageview', {
+								'page': $('.currentScr').attr('articlelistlinks'),
+								'title': $('.currentScr').attr('articlelisttitle')
+							});
+
+				    pSUPERFLY.virtualPage($('.currentScr').attr('articlelistlinks'), $('.currentScr').attr('articlelisttitle'));
+				$("nav.primary ul li.article-meta h2").html($('.currentScr').attr('articlelisttitle').substring(0,100));
+			       $("title").html($('.currentScr').attr('articlelisttitle'));
+						 
+						 
+						 var linktext = $('.currentScr').find(".anchor_subject").html();
+						 if (linktext!='') {
+						 var linkredirectval =$('.currentScr').find(".anchor_subject").attr('subjectlink');
+						 if(typeof linkredirectval!='undefined')
+						 {
+								var subject_head_link = "<a href='"+linkredirectval+"'>"+linktext+"</a>";
+								$('.tophead_subject').html(subject_head_link);
+						 }
+						 else
+						 {
+							 var subject_head_link = "";
+							$('.tophead_subject').html(subject_head_link);
+						 }
+							
+						 }
+			       
+			       pageChange = parseInt(pageChange) + 1;
+				   }
+				}
+			   else
+			   {
+			       $(this).removeClass('currentScr');
+			   }
+		       });
+			
+		if ( typeof PaywallWorking !== 'undefined' && PaywallWorking == 'on' )
+     {
+        var loadPoint = false;
+        var loadPointElement = $('.scroll_handler:eq('+pageCounterPaywall+')').position();      
+        if (typeof loadPointElement!=="undefined")
+        {
+           loadPoint = loadPointElement.top;
+        }
+     }
+     else
+     {
+        //var loadPoint = $('.footer-module .article-share:last').position().top; 
+        //var loadPoint = $('footer.recirc-block:last').position().top;	
+        var loadPoint = $('.article-header .article-share:last').position().top;
+        //var loadPoint = $('section.article-body:last').position().top;
+     }
+	
+		if  (loadPoint!=false && $(window).scrollTop() > loadPoint)
+		{ if($('.scrolltrace').length==count)
+		  { { loagAgn = true;
+		      if(loagAgn)
+			  {
+			count++;
+		 if (count < 6) {
+			 if(preventLoad_article==false){
+										loadArticle(count);//code
+				
+				}		
+		 }
+		 if (count==6) {
+			$('a.inifiniteLoader').hide();
+			$("#single_article_footer").show();
+		 }
+		 loagAgn = false;
+			  }
+		   }
+		  
+		  }
+		}
+		
+//		 if($(this).scrollTop() > 100){
+//            $('.goTop').stop().animate({
+//                bottom: '20px'    
+//                }, 500);
+//        }
+//        else{
+//            $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//            }, 500);
+//        }
+	});
+	/*Script to handle Scroll close*/	
+	 
+//	$('.goTop').click(function() {
+//        $('html, body').stop().animate({
+//           scrollTop: 0
+//        }, 500, function() {
+//           $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//           }, 500);
+//        });
+//    });
+	
+	 // Script for Comment Sec
+	 $('body').on('click','.click_comment',function(event){
+	   event.preventDefault();
+	   $(this).closest('.article-footer').find('.commentContainer').slideToggle('slow', function() {
+         if ($(this).css('display')=='none') {
+           check_comment = false;//condition added for print
+         }
+         else{
+            check_comment = true;//condition added for print
+         }			
+		});
+		 $('html, body').animate({
+				scrollTop: $($(this).closest('.article-footer').find('.commentContainer')).offset().top
+			},2000);
+	 });
+	 
+	var list;
+	$('body').on('click','a.comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	var comment_link_respond = $(this);		
+	comment_link_respond.closest('.comment-form').find('.comment-status').html('');
+	list = $(this).closest('article').attr('id');
+
+	var PIDS = list.split('-');
+	$(this).closest('.comments-area').find('.comment-respond').find('#comment_parent').val(PIDS[PIDS.length-1]);
+	
+	});
+	
+	$('body').on('click','.cancel-comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	list=null;
+	});
+	
+	
+	$('body').on('click','.submit',function(event){
+		event.preventDefault();
+		$( ".comment-status" ).remove();
+	var commentform=$(this).closest('.comment-form'); // find the comment  form
+	    commentform.prepend('<div class="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+        var statusdiv=commentform.find('.comment-status'); // define the infopanel
+				var checkspace = $(this).closest('.comment-form').find("textarea#comment").val();
+		if (checkspace.replace(/\s/g, '').length && $(this).closest('.comment-form').find("textarea#comment").val()!='') {
+			statusdiv.html(' ');
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Add a status message
+			//Extract action URL from commentform
+			var formurl=commentform.attr('action');
+			
+				statusdiv.html('<p>Processing...</p>');
+				 $(this).attr('disabled','disabled');
+				var e = $(this);
+				$.ajax({
+						type: 'post',
+						url: formurl,
+						data: formdata,
+					  error: function(XMLHttpRequest, textStatus, errorThrown)
+						{
+							statusdiv.html(' ');
+							 $('.submit').removeAttr('disabled');
+							statusdiv.html('<p class="error_cmnt" >You might have left one of the fields blank, or be posting too quickly</p>');
+						},
+						success: function(data, textStatus){
+							var chkstatus_comment = $($.parseHTML(data)).filter(".chk_comment_class").attr('comment-status');
+							
+								if (chkstatus_comment=='spam') {
+									statusdiv.html('<p class="error_cmnt" >You have been blocked from commenting by <i>The Nation\'s</i> moderators.</p>');
+								}
+								else{
+									$('.submit').removeAttr('disabled'); 
+									$("textarea#comment").val('');
+									statusdiv.html('<p class="success_cmnt" ></p>');
+									if(e.closest(".comments-area").has("ol.comment-list").length > 0){
+										if(list != null){
+											e.closest(".comments-area").find('#'+list).after(data);
+										}
+										else{
+											e.closest(".comments-area").find('ol.comment-list').prepend(data);
+										}
+									}
+									else{
+										e.closest(".comments-area").prepend('<ol class="comment-list custom_comments"> </ol>');
+										e.closest(".comments-area").find('ol.comment-list').html(data);
+									}
+							}
+						}
+						
+				});
+				return false;
+			statusdiv.html('');
+		}else{
+			statusdiv.html('<p class="error_cmnt" >Please enter text in comment box.</p>');
+		}
+        }); 
+});
+// Print functionality
+function tn_print_fn()
+{            
+    var tn_current_url=window.location.href;
+    if (check_comment == true) {
+       window.open(tn_current_url+'?print=1&comment=1','_blank');
+    }
+    else{
+       window.open(tn_current_url+'?print=1','_blank');
+    }
+    
+    return false;
+}
+</script>
+ 
+<script>
+function add_action_tout_sailthru(post_id)
+{
+ var ajaxurl=ajax_object.ajax_url;
+	var sailthru_email_take_action = document.getElementById('take_action_sailthru_email_'+post_id).value;
+	if(sailthru_email_take_action!='')
+	{
+			var take_action_sailthru_list_final = document.getElementById('take_action_sailthru_list_final_'+post_id).value;
+			var action_tout_sailthru='action_tout_sailthru';
+			jQuery.ajax({
+			url:ajaxurl,
+			type:"POST",
+			data:"sailthru_email_take_action="+sailthru_email_take_action+"&take_action_sailthru_list_final="+take_action_sailthru_list_final+"&action="+action_tout_sailthru,
+			success:function(data){
+			//alert(data);
+			document.getElementById('action_tout_response_'+post_id).innerHTML=data;
+			document.getElementById('take_action_sailthru_email_'+post_id).value='';
+			}
+			});
+	}
+	else
+	{
+	var error_msg='<span style="color:#cc0e0e">Please Enter Email</span>';
+	document.getElementById('action_tout_response_'+post_id).innerHTML=error_msg;
+	}
+}
+jQuery(document).ready(function(){
+jQuery( ".action_tout_remove_gallery a" ).removeClass( "gallery imgHover" ).delay( 1000 );
+});
+</script>
+
+  <div id="show_light_box">
+</div>
+	</div>
+	</div>
+	<div id="single_article_footer" style="display: none">	<footer class="push">
+	<div class="row">
+	<div class="sitemap small-12 columns">
+		<div class="block home">
+			<h1 class="logo">
+					<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation"></a>
+				</h1>
+		</div>
+		<div class="block social">
+			<h2>Follow The Nation</h2>
+			<ul>
+				<li><a class="fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"></a></li>
+				<li><a class="tw" href="https://twitter.com/thenation" target="_blank"></a></li>
+				<li><a class="rs" href=" http://www.thenation.com/all-rss" target="_blank"></a></li>
+			</ul>
+			<h2>Get Email Updates</h2>
+			<p>Stay connected with everything Nation by signing up for our free daily newsletter. </p>
+			<div class="newsletter-signup">
+					<input type="email" class="newsletter-signup__email" id="newsletter_email" name="newsletter_email" required="required" placeholder="Email address">
+					<input type="button" id="newsletter_submit" value="" class="newsletter-signup__submit" />
+			</div>
+			
+			<div id="subscribe_newsletter"></div>
+		</div>
+		<div class="">
+			<aside id="nav_menu-5" class="widget widget_nav_menu block nation nav"><h2  class="expander"><a href="#">Sections</a></h2><div class="menu-footer-sections-container"><ul id="menu-footer-sections" class="menu"><li id="menu-item-119851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119851"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-119852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119852"><a href="http://www.thenation.com/world/">World</a></li>
+<li id="menu-item-119853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119853"><a href="http://www.thenation.com/economy/">Economy</a></li>
+<li id="menu-item-119850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119850"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115792" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-115792"><a href="http://www.thenation.com/subject/society/">Society</a></li>
+<li id="menu-item-116577" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor menu-item-116577"><a href="http://www.thenation.com/subject/environment/">Environment</a></li>
+<li id="menu-item-119854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119854"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			   <aside id="nav_menu-4" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">The Nation</a></h2><div class="menu-footer-the-nation-container"><ul id="menu-footer-the-nation" class="menu"><li id="menu-item-116578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116578"><a title="About-us-and-contact" href="http://www.thenation.com/about-us-and-contact/">About</a></li>
+<li id="menu-item-178918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178918"><a href="http://www.thenation.com/advertise/">Advertise</a></li>
+<li id="menu-item-180633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180633"><a href="http://www.thenation.com/ebooks/">Books</a></li>
+<li id="menu-item-116581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116581"><a href="http://www.thenation.com/community-guidelines/">Comments Policy</a></li>
+<li id="menu-item-131108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131108"><a href="http://www.thenation.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-116583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116583"><a href="http://www.thenation.com/help/">Help</a></li>
+<li id="menu-item-178899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178899"><a href="http://www.thenation.com/jobs/">Jobs and Internships</a></li>
+<li id="menu-item-134910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134910"><a href="http://www.thenation.com/nation-builders/">Nation Builders</a></li>
+<li id="menu-item-179840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179840"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			  <aside id="nav_menu-3" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">Magazine</a></h2><div class="menu-footer-magazine-container"><ul id="menu-footer-magazine" class="menu"><li id="menu-item-134664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134664"><a href="http://www.thenation.com/issue/">Current Issue</a></li>
+<li id="menu-item-134728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134728"><a href="http://www.thenation.com/masthead/">Masthead</a></li>
+<li id="menu-item-116587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116587"><a href="http://www.thenation.com/archive/">Archive</a></li>
+<li id="menu-item-134846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134846"><a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a></li>
+<li id="menu-item-134847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134847"><a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a></li>
+<li id="menu-item-134727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134727"><a href="http://www.thenation.com/subscription-services/">Subscription Services</a></li>
+<li id="menu-item-134733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134733"><a href="http://www.thenation.com/events/">Events</a></li>
+<li id="menu-item-179839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179839"><a href="http://www.thenationreprints.com/">Reprints</a></li>
+</ul></div></div></aside>		</div>
+	</div>
+		<div class="copyright row">
+		<div class="small-12 columns">
+			<p>Copyright (c) 2016 The Nation Company LLC</p>
+		</div>
+	</div>
+	</footer>
+</div>
+
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script src='http://www.thenation.com/wp-content/plugins/tn-paywall/inc/js/paywall.js'></script><link rel='stylesheet' id='dashicons-css'  href='http://www.thenation.com/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.thenation.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.thenation.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/Magzine_issue_ajax.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/light_box.js?nc=1'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/all.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/modernizr.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/comments_js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.thenation.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/pcd_login_popup.js?ver=4.2.4'></script>
+<script>
+function susbcribe_sailthru(form_value){        
+   var newsletterArray = new Array();var firstname ='';var lastname ='';var zippostal ='';var user_email ='';
+   jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         firstname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         lastname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         zippostal = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="email") {
+         user_email = jQuery(this).val();
+      }     
+   });
+   
+   jQuery(form_value).closest("form").find("input[name^='sft_newssletter_variables']").each(function() {
+      newsletterArray.push(jQuery(this).attr("id"));         
+   });      
+   var newsletter_variable=newsletterArray.join(",");
+   var origin_host=document.location.origin;
+  // console.log(firstname);
+   //console.log(lastname);
+  // console.log(zippostal);
+   //console.log(user_email);
+  //myWindow= window.open(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,"form_popup","width=400,height=400");
+ PopupCenter(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,'xtf','300','300');
+   //console.log(newsletterArray.join(","));
+  jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="email") {
+         jQuery(this).val('');
+      }     
+   });
+}  
+function PopupCenter(url, title, w, h) {
+    // Fixes dual-screen position                         Most browsers      Firefox
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    // Puts focus on the newWindow
+    if (window.focus) {
+        newWindow.focus();
+    }
+	setTimeout(function () { newWindow.close();}, 5000);
+}
+
+</script>
+<script type="text/javascript"  src="http://www.thenation.com/wp-content/themes/thenation/js/jquery.bxslider.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"442438c9d9","applicationID":"5436353","transactionName":"Z1JSYkYACEsAV0cKXV4YZURdTklRD1BWGxxAX0A=","queueTime":0,"applicationTime":1142,"ttGuid":"","agentToken":"","atts":"SxVRFA4aG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

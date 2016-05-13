@@ -1,0 +1,192 @@
+
+
+A scene from Arthur Miller’s The Crucible, directed by Ivo van Hove. (Jan Versweyveld)
+
+The Crucible, which opened on Broadway in 1953, is a chameleon of a play. Over the past 63 years, it has taken on myriad new meanings. Arthur Miller originally wrote the play in response to McCarthyism and the efforts by House Un-American Activities Committee to uncover Communist activity. In a 1996 essay for The New Yorker, Miller wrote, “It is only a slight exaggeration to say that, especially in Latin America, ‘The Crucible’ starts getting produced whenever a political coup appears imminent, or a dictatorial regime has just been overthrown.” For viewers around the globe, the play evokes frustrations with tyrannical, violent political leaders. As election season engulfs us, Ivo van Hove’s production urges us to consider our country’s currently campaigning personalities.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210389-0','tn_culture_arts_and_entertainment_ros_halfpage_1','tn_culture_arts_and_entertainment_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+In the play, set during the 17th-century Salem witch trials, Abigail Williams (Saoirse Ronan) and her gang of adolescent girls rile up their small Massachusetts town by claiming they’ve seen townspeople cavorting with the devil. Abigail is the former servant of John and Elizabeth Proctor (Ben Whishaw and Sophie Okonedo). Before the play begins, Elizabeth discovers that Abigail is having an affair with John and fires her. In a presumable act of vengeance, Abigail eventually accuses Elizabeth of witchcraft. Deputy Governor Danforth (Ciarán Hinds) oversees increasingly irrational legal proceedings to prosecute the witches. Those who speak out against his reasoning only damn themselves as he twists their logic. Though his job description is unclear, he’s certainly overstepping his bounds.		
+When the audience first sees Abigail decked out in schoolgirl attire, in Ivo van Hove’s newest iteration of The Crucible (at the Walter Kerr Theatre, through July 17), it’s difficult to imagine the havoc that the wispy teenager is about to wreak. Van Hove’s directorial choices, sartorial and otherwise, underscore the absurd ways in which unqualified leaders gain power—and how communities become complicit. By giving her modern clothing, Hove stresses that Abigail isn’t just a relic of the past—she’s that attention-seeking, manipulative girl who made your life hell in high school. It’s easy to see her appeal, though: Even as the audience shudders to watch her menacing dramatics, it’s difficult to look away. She’s attractive and captivating, and the story she tells, if true, gives an easy answer, and an even simpler solution to the community’s problems: Kill the witches!		
+Van Hove adds a supernatural dimension to his production that helps viewers understand how such irrational, fantastic claims could lead to such turmoil. Toward the end of the play, the girls unite in a trance, ostensibly haunted by the devil’s proximity. Crumpled paper flies through the open windows at the side of the stage as though otherworldly forces are present. Viewers must distinguish between what’s really going on and the story that the girls have created. Van Hove suggests how easily someone can create a new reality based only on fear and hysteria.				
+Related Article
+
+How to Succeed on Broadway! 
+Alisa Solomon
+
+
+Danforth exemplifies a different sort of leader, one with legitimate power granted by the state and, one assumes, his constituents. Whereas Abigail’s power derives from personality and a sinister charisma, Danforth is a stern, humorless character who asserts himself by using the power conferred on him by his title. He doesn’t have a loyal following like Williams. In fact, he loses the support of Reverend John Hale as he continues to persecute innocent women. The dangers of unchecked power become apparent as Danforth’s ruthlessness gains momentum. In Hinds’s portrayal, Danforth is a bully who refuses to back down once he aligns himself with Williams. Changing one’s mind is a dangerous sign of weakness for a political leader—just look at our media coverage for the evidence.		
+Finally, there’s John Proctor, the hero of the story who never realizes his leadership potential. While he doesn’t convince others like Williams does or exert legal authority like Danforth, he demonstrates an ability to reason and confront real issues in his community. In the final scene, Danforth is adamant about getting Proctor to sign a document stating that he was in cahoots with the devil. He insinuates that, taped to the door of the church, Proctor’s statement will create waves in the community. When Proctor is called upon to name the Ten Commandments, he scrawls words including “kill” and “false witness” on the chalkboard at the back of the stage. In one of the play’s rare moments of humor, he forgets “Thou shalt not commit adultery.” The words he does write implicate the town, not himself. After hanging its own citizens and inventing false testimony, they’ve broken more commandments than he has. Proctor reveals himself as a moral voice among sinners—people whose righteousness is mere masquerade.						
+			.article-wrap .article-body aside.left.custom_background_210389			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+In the play, set during the 17th-century Salem witch trials, Abigail Williams (Saoirse Ronan) and her gang of adolescent girls rile up their small Massachusetts town by claiming they’ve seen townspeople cavorting with the devil. Abigail is the former servant of John and Elizabeth Proctor (Ben Whishaw and Sophie Okonedo). Before the play begins, Elizabeth discovers that Abigail is having an affair with John and fires her. In a presumable act of vengeance, Abigail eventually accuses Elizabeth of witchcraft. Deputy Governor Danforth (Ciarán Hinds) oversees increasingly irrational legal proceedings to prosecute the witches. Those who speak out against his reasoning only damn themselves as he twists their logic. Though his job description is unclear, he’s certainly overstepping his bounds.		
+When the audience first sees Abigail decked out in schoolgirl attire, in Ivo van Hove’s newest iteration of The Crucible (at the Walter Kerr Theatre, through July 17), it’s difficult to imagine the havoc that the wispy teenager is about to wreak. Van Hove’s directorial choices, sartorial and otherwise, underscore the absurd ways in which unqualified leaders gain power—and how communities become complicit. By giving her modern clothing, Hove stresses that Abigail isn’t just a relic of the past—she’s that attention-seeking, manipulative girl who made your life hell in high school. It’s easy to see her appeal, though: Even as the audience shudders to watch her menacing dramatics, it’s difficult to look away. She’s attractive and captivating, and the story she tells, if true, gives an easy answer, and an even simpler solution to the community’s problems: Kill the witches!		
+Van Hove adds a supernatural dimension to his production that helps viewers understand how such irrational, fantastic claims could lead to such turmoil. Toward the end of the play, the girls unite in a trance, ostensibly haunted by the devil’s proximity. Crumpled paper flies through the open windows at the side of the stage as though otherworldly forces are present. Viewers must distinguish between what’s really going on and the story that the girls have created. Van Hove suggests how easily someone can create a new reality based only on fear and hysteria.				
+Related Article
+
+How to Succeed on Broadway! 
+Alisa Solomon
+
+
+Danforth exemplifies a different sort of leader, one with legitimate power granted by the state and, one assumes, his constituents. Whereas Abigail’s power derives from personality and a sinister charisma, Danforth is a stern, humorless character who asserts himself by using the power conferred on him by his title. He doesn’t have a loyal following like Williams. In fact, he loses the support of Reverend John Hale as he continues to persecute innocent women. The dangers of unchecked power become apparent as Danforth’s ruthlessness gains momentum. In Hinds’s portrayal, Danforth is a bully who refuses to back down once he aligns himself with Williams. Changing one’s mind is a dangerous sign of weakness for a political leader—just look at our media coverage for the evidence.		
+Finally, there’s John Proctor, the hero of the story who never realizes his leadership potential. While he doesn’t convince others like Williams does or exert legal authority like Danforth, he demonstrates an ability to reason and confront real issues in his community. In the final scene, Danforth is adamant about getting Proctor to sign a document stating that he was in cahoots with the devil. He insinuates that, taped to the door of the church, Proctor’s statement will create waves in the community. When Proctor is called upon to name the Ten Commandments, he scrawls words including “kill” and “false witness” on the chalkboard at the back of the stage. In one of the play’s rare moments of humor, he forgets “Thou shalt not commit adultery.” The words he does write implicate the town, not himself. After hanging its own citizens and inventing false testimony, they’ve broken more commandments than he has. Proctor reveals himself as a moral voice among sinners—people whose righteousness is mere masquerade.						
+			.article-wrap .article-body aside.left.custom_background_210389			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+When the audience first sees Abigail decked out in schoolgirl attire, in Ivo van Hove’s newest iteration of The Crucible (at the Walter Kerr Theatre, through July 17), it’s difficult to imagine the havoc that the wispy teenager is about to wreak. Van Hove’s directorial choices, sartorial and otherwise, underscore the absurd ways in which unqualified leaders gain power—and how communities become complicit. By giving her modern clothing, Hove stresses that Abigail isn’t just a relic of the past—she’s that attention-seeking, manipulative girl who made your life hell in high school. It’s easy to see her appeal, though: Even as the audience shudders to watch her menacing dramatics, it’s difficult to look away. She’s attractive and captivating, and the story she tells, if true, gives an easy answer, and an even simpler solution to the community’s problems: Kill the witches!		
+Van Hove adds a supernatural dimension to his production that helps viewers understand how such irrational, fantastic claims could lead to such turmoil. Toward the end of the play, the girls unite in a trance, ostensibly haunted by the devil’s proximity. Crumpled paper flies through the open windows at the side of the stage as though otherworldly forces are present. Viewers must distinguish between what’s really going on and the story that the girls have created. Van Hove suggests how easily someone can create a new reality based only on fear and hysteria.				
+Related Article
+
+How to Succeed on Broadway! 
+Alisa Solomon
+
+
+Danforth exemplifies a different sort of leader, one with legitimate power granted by the state and, one assumes, his constituents. Whereas Abigail’s power derives from personality and a sinister charisma, Danforth is a stern, humorless character who asserts himself by using the power conferred on him by his title. He doesn’t have a loyal following like Williams. In fact, he loses the support of Reverend John Hale as he continues to persecute innocent women. The dangers of unchecked power become apparent as Danforth’s ruthlessness gains momentum. In Hinds’s portrayal, Danforth is a bully who refuses to back down once he aligns himself with Williams. Changing one’s mind is a dangerous sign of weakness for a political leader—just look at our media coverage for the evidence.		
+Finally, there’s John Proctor, the hero of the story who never realizes his leadership potential. While he doesn’t convince others like Williams does or exert legal authority like Danforth, he demonstrates an ability to reason and confront real issues in his community. In the final scene, Danforth is adamant about getting Proctor to sign a document stating that he was in cahoots with the devil. He insinuates that, taped to the door of the church, Proctor’s statement will create waves in the community. When Proctor is called upon to name the Ten Commandments, he scrawls words including “kill” and “false witness” on the chalkboard at the back of the stage. In one of the play’s rare moments of humor, he forgets “Thou shalt not commit adultery.” The words he does write implicate the town, not himself. After hanging its own citizens and inventing false testimony, they’ve broken more commandments than he has. Proctor reveals himself as a moral voice among sinners—people whose righteousness is mere masquerade.						
+			.article-wrap .article-body aside.left.custom_background_210389			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+Van Hove adds a supernatural dimension to his production that helps viewers understand how such irrational, fantastic claims could lead to such turmoil. Toward the end of the play, the girls unite in a trance, ostensibly haunted by the devil’s proximity. Crumpled paper flies through the open windows at the side of the stage as though otherworldly forces are present. Viewers must distinguish between what’s really going on and the story that the girls have created. Van Hove suggests how easily someone can create a new reality based only on fear and hysteria.				
+Related Article
+
+How to Succeed on Broadway! 
+Alisa Solomon
+
+
+Danforth exemplifies a different sort of leader, one with legitimate power granted by the state and, one assumes, his constituents. Whereas Abigail’s power derives from personality and a sinister charisma, Danforth is a stern, humorless character who asserts himself by using the power conferred on him by his title. He doesn’t have a loyal following like Williams. In fact, he loses the support of Reverend John Hale as he continues to persecute innocent women. The dangers of unchecked power become apparent as Danforth’s ruthlessness gains momentum. In Hinds’s portrayal, Danforth is a bully who refuses to back down once he aligns himself with Williams. Changing one’s mind is a dangerous sign of weakness for a political leader—just look at our media coverage for the evidence.		
+Finally, there’s John Proctor, the hero of the story who never realizes his leadership potential. While he doesn’t convince others like Williams does or exert legal authority like Danforth, he demonstrates an ability to reason and confront real issues in his community. In the final scene, Danforth is adamant about getting Proctor to sign a document stating that he was in cahoots with the devil. He insinuates that, taped to the door of the church, Proctor’s statement will create waves in the community. When Proctor is called upon to name the Ten Commandments, he scrawls words including “kill” and “false witness” on the chalkboard at the back of the stage. In one of the play’s rare moments of humor, he forgets “Thou shalt not commit adultery.” The words he does write implicate the town, not himself. After hanging its own citizens and inventing false testimony, they’ve broken more commandments than he has. Proctor reveals himself as a moral voice among sinners—people whose righteousness is mere masquerade.						
+			.article-wrap .article-body aside.left.custom_background_210389			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+Alisa Solomon
+
+Danforth exemplifies a different sort of leader, one with legitimate power granted by the state and, one assumes, his constituents. Whereas Abigail’s power derives from personality and a sinister charisma, Danforth is a stern, humorless character who asserts himself by using the power conferred on him by his title. He doesn’t have a loyal following like Williams. In fact, he loses the support of Reverend John Hale as he continues to persecute innocent women. The dangers of unchecked power become apparent as Danforth’s ruthlessness gains momentum. In Hinds’s portrayal, Danforth is a bully who refuses to back down once he aligns himself with Williams. Changing one’s mind is a dangerous sign of weakness for a political leader—just look at our media coverage for the evidence.		
+Finally, there’s John Proctor, the hero of the story who never realizes his leadership potential. While he doesn’t convince others like Williams does or exert legal authority like Danforth, he demonstrates an ability to reason and confront real issues in his community. In the final scene, Danforth is adamant about getting Proctor to sign a document stating that he was in cahoots with the devil. He insinuates that, taped to the door of the church, Proctor’s statement will create waves in the community. When Proctor is called upon to name the Ten Commandments, he scrawls words including “kill” and “false witness” on the chalkboard at the back of the stage. In one of the play’s rare moments of humor, he forgets “Thou shalt not commit adultery.” The words he does write implicate the town, not himself. After hanging its own citizens and inventing false testimony, they’ve broken more commandments than he has. Proctor reveals himself as a moral voice among sinners—people whose righteousness is mere masquerade.						
+			.article-wrap .article-body aside.left.custom_background_210389			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+Finally, there’s John Proctor, the hero of the story who never realizes his leadership potential. While he doesn’t convince others like Williams does or exert legal authority like Danforth, he demonstrates an ability to reason and confront real issues in his community. In the final scene, Danforth is adamant about getting Proctor to sign a document stating that he was in cahoots with the devil. He insinuates that, taped to the door of the church, Proctor’s statement will create waves in the community. When Proctor is called upon to name the Ten Commandments, he scrawls words including “kill” and “false witness” on the chalkboard at the back of the stage. In one of the play’s rare moments of humor, he forgets “Thou shalt not commit adultery.” The words he does write implicate the town, not himself. After hanging its own citizens and inventing false testimony, they’ve broken more commandments than he has. Proctor reveals himself as a moral voice among sinners—people whose righteousness is mere masquerade.						
+			.article-wrap .article-body aside.left.custom_background_210389			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+In van Hove’s production, the scenery is never altered: The audience is always looking at a room with desks and chairs, windows at the side, and a chalkboard at the back. Times never really change, van Hove suggests. We’re all still schoolchildren, feuding and petty and hesitant to admit our mistakes. There’s a thin line between theatrics and rabble-rousing and the human inclination to follow spectacular reasoning, regardless of its truth. What matters more is what’s being taught and what’s been learned.		
+		
+
+ Alina Cohen
+Twitter
+ Alina Cohen is a Brooklyn-based arts and culture writer.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

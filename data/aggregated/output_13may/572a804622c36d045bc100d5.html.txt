@@ -1,0 +1,264 @@
+
+
+The New York Times headquarters at 620 Eighth Avenue in New York, New York. (Photo courtesy of haxorjoe at en.wikipedia, CC BY-SA 3.0) 
+
+Margaret Sullivan recently finished up her nearly four-year stint as “Public Editor”—read “ombudsman”—of The New York Times. Her tenure accomplished many things, most importantly the potential of web-based media reporting and criticism to combat the media establishment’s groupthink.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210517-0','tn_society_media_ros_halfpage_1','tn_society_media_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Sullivan approached her work by reading the paper from the point of view of its consumers, rather than as a member of the club that produced it. She had been the editor of The Buffalo News, a small paper, which did not prepare anyone for her reinvention of the public editor’s role. Her intimate knowledge of the profession allowed her to see through self-serving explanations that masked how powerful media institutions like the Times cozy up to the powers on whom they report, compromising their ability to be democracy’s watchdogs.		
+When, during her final week, I asked Sullivan how she had defined her goals during her tenure, she named three in particular: to orient her job toward “a two-way conversation” with readers; to make it “much more digitally oriented”; and to treat her own work as “reported commentary.” And her doggedness in the pursuit of all three would sometimes result in a rare and beautiful thing: the spectacle of our most influential media institution successfully held accountable to standards of fairness and common sense even when its journalists had failed them.		
+Of course, this happened only occasionally. From the countless questions and complaints she received each week, Sullivan would pick those she deemed most significant and then proceed to demand answers from those responsible. She told me that while some reporters refused to engage and told her to take up her complaints with their editors, she did not encounter that problem near the top of the hierarchy and found executive editor Dean Baquet supportive. Often, Sullivan would follow up on these responses (or non-responses) with her own reporting before judging their merit or lack thereof. Nonetheless, getting answers, much less changes, was usually an uphill battle. As one of Sullivan’s favorite commenters wondered, will Times editors “ever get out of their defensive crouch? Or is it a permanent deformity?”		
+While change came slowly to the paper, it did come. When I asked Sullivan what gave her the greatest pride, she noted that her four years at the paper had been “bookended [by] the banning of quote approval, and the tightening up on anonymous sources.” She thinks that these changes might have happened without her constant criticism, but I doubt it. On a less exalted level, she also expressed some pride in compelling the paper’s top brass to respond in real time to legitimate complaints from readers, including the paper’s (decidedly misguided) dismantling of the environment blog, its astonishingly sexist examination of Serena Williams’s body type, and, under the category of “reported commentary,” her success in getting former CIA director Michael Hayden to admit that “he can’t prove any harm to national security from the leaks on eavesdropping.” She is also pleased with the paper’s decision to take up her suggestion to hire a fluent Arabic speaker for its Jerusalem bureau (though again, as an independent actor at the paper who reported to none of the paper’s editors, she has no way of knowing just how important her own writing may have been in any given decision).
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Bernie Sanders Should Push for a New Realism in Foreign Policy5The Race That Never Ends
+Still, Sullivan can point to examples where her influence—and that of her reader-correspondents—was undeniable. In one particularly impressive moment, Sullivan passed along a reader complaint about a pundit roundup of a Democratic presidential debate in which every person quoted was a white male. “I am very disappointed The New York Times would, after a debate that focused on how black lives matter, that women aren’t paid equally, and even affirmative action, choose 11 reactions for this article that all came from white male pundits. No quotes from the black Twittersphere or feminist bloggers?” it read. “The internet is full of great writing” from diverse voices, and it shouldn’t be hard to find and include them.” Carolyn Ryan, the Times’s chief politics editor, immediately responded that she, too, found it unacceptable and would “make sure, personally, that it doesn’t happen again.” She also encouraged readers to e-mail the author of the piece with suggestions for inclusion in future round-ups.		
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+Sullivan approached her work by reading the paper from the point of view of its consumers, rather than as a member of the club that produced it. She had been the editor of The Buffalo News, a small paper, which did not prepare anyone for her reinvention of the public editor’s role. Her intimate knowledge of the profession allowed her to see through self-serving explanations that masked how powerful media institutions like the Times cozy up to the powers on whom they report, compromising their ability to be democracy’s watchdogs.		
+When, during her final week, I asked Sullivan how she had defined her goals during her tenure, she named three in particular: to orient her job toward “a two-way conversation” with readers; to make it “much more digitally oriented”; and to treat her own work as “reported commentary.” And her doggedness in the pursuit of all three would sometimes result in a rare and beautiful thing: the spectacle of our most influential media institution successfully held accountable to standards of fairness and common sense even when its journalists had failed them.		
+Of course, this happened only occasionally. From the countless questions and complaints she received each week, Sullivan would pick those she deemed most significant and then proceed to demand answers from those responsible. She told me that while some reporters refused to engage and told her to take up her complaints with their editors, she did not encounter that problem near the top of the hierarchy and found executive editor Dean Baquet supportive. Often, Sullivan would follow up on these responses (or non-responses) with her own reporting before judging their merit or lack thereof. Nonetheless, getting answers, much less changes, was usually an uphill battle. As one of Sullivan’s favorite commenters wondered, will Times editors “ever get out of their defensive crouch? Or is it a permanent deformity?”		
+While change came slowly to the paper, it did come. When I asked Sullivan what gave her the greatest pride, she noted that her four years at the paper had been “bookended [by] the banning of quote approval, and the tightening up on anonymous sources.” She thinks that these changes might have happened without her constant criticism, but I doubt it. On a less exalted level, she also expressed some pride in compelling the paper’s top brass to respond in real time to legitimate complaints from readers, including the paper’s (decidedly misguided) dismantling of the environment blog, its astonishingly sexist examination of Serena Williams’s body type, and, under the category of “reported commentary,” her success in getting former CIA director Michael Hayden to admit that “he can’t prove any harm to national security from the leaks on eavesdropping.” She is also pleased with the paper’s decision to take up her suggestion to hire a fluent Arabic speaker for its Jerusalem bureau (though again, as an independent actor at the paper who reported to none of the paper’s editors, she has no way of knowing just how important her own writing may have been in any given decision).
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Bernie Sanders Should Push for a New Realism in Foreign Policy5The Race That Never Ends
+Still, Sullivan can point to examples where her influence—and that of her reader-correspondents—was undeniable. In one particularly impressive moment, Sullivan passed along a reader complaint about a pundit roundup of a Democratic presidential debate in which every person quoted was a white male. “I am very disappointed The New York Times would, after a debate that focused on how black lives matter, that women aren’t paid equally, and even affirmative action, choose 11 reactions for this article that all came from white male pundits. No quotes from the black Twittersphere or feminist bloggers?” it read. “The internet is full of great writing” from diverse voices, and it shouldn’t be hard to find and include them.” Carolyn Ryan, the Times’s chief politics editor, immediately responded that she, too, found it unacceptable and would “make sure, personally, that it doesn’t happen again.” She also encouraged readers to e-mail the author of the piece with suggestions for inclusion in future round-ups.		
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+When, during her final week, I asked Sullivan how she had defined her goals during her tenure, she named three in particular: to orient her job toward “a two-way conversation” with readers; to make it “much more digitally oriented”; and to treat her own work as “reported commentary.” And her doggedness in the pursuit of all three would sometimes result in a rare and beautiful thing: the spectacle of our most influential media institution successfully held accountable to standards of fairness and common sense even when its journalists had failed them.		
+Of course, this happened only occasionally. From the countless questions and complaints she received each week, Sullivan would pick those she deemed most significant and then proceed to demand answers from those responsible. She told me that while some reporters refused to engage and told her to take up her complaints with their editors, she did not encounter that problem near the top of the hierarchy and found executive editor Dean Baquet supportive. Often, Sullivan would follow up on these responses (or non-responses) with her own reporting before judging their merit or lack thereof. Nonetheless, getting answers, much less changes, was usually an uphill battle. As one of Sullivan’s favorite commenters wondered, will Times editors “ever get out of their defensive crouch? Or is it a permanent deformity?”		
+While change came slowly to the paper, it did come. When I asked Sullivan what gave her the greatest pride, she noted that her four years at the paper had been “bookended [by] the banning of quote approval, and the tightening up on anonymous sources.” She thinks that these changes might have happened without her constant criticism, but I doubt it. On a less exalted level, she also expressed some pride in compelling the paper’s top brass to respond in real time to legitimate complaints from readers, including the paper’s (decidedly misguided) dismantling of the environment blog, its astonishingly sexist examination of Serena Williams’s body type, and, under the category of “reported commentary,” her success in getting former CIA director Michael Hayden to admit that “he can’t prove any harm to national security from the leaks on eavesdropping.” She is also pleased with the paper’s decision to take up her suggestion to hire a fluent Arabic speaker for its Jerusalem bureau (though again, as an independent actor at the paper who reported to none of the paper’s editors, she has no way of knowing just how important her own writing may have been in any given decision).
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Bernie Sanders Should Push for a New Realism in Foreign Policy5The Race That Never Ends
+Still, Sullivan can point to examples where her influence—and that of her reader-correspondents—was undeniable. In one particularly impressive moment, Sullivan passed along a reader complaint about a pundit roundup of a Democratic presidential debate in which every person quoted was a white male. “I am very disappointed The New York Times would, after a debate that focused on how black lives matter, that women aren’t paid equally, and even affirmative action, choose 11 reactions for this article that all came from white male pundits. No quotes from the black Twittersphere or feminist bloggers?” it read. “The internet is full of great writing” from diverse voices, and it shouldn’t be hard to find and include them.” Carolyn Ryan, the Times’s chief politics editor, immediately responded that she, too, found it unacceptable and would “make sure, personally, that it doesn’t happen again.” She also encouraged readers to e-mail the author of the piece with suggestions for inclusion in future round-ups.		
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+Of course, this happened only occasionally. From the countless questions and complaints she received each week, Sullivan would pick those she deemed most significant and then proceed to demand answers from those responsible. She told me that while some reporters refused to engage and told her to take up her complaints with their editors, she did not encounter that problem near the top of the hierarchy and found executive editor Dean Baquet supportive. Often, Sullivan would follow up on these responses (or non-responses) with her own reporting before judging their merit or lack thereof. Nonetheless, getting answers, much less changes, was usually an uphill battle. As one of Sullivan’s favorite commenters wondered, will Times editors “ever get out of their defensive crouch? Or is it a permanent deformity?”		
+While change came slowly to the paper, it did come. When I asked Sullivan what gave her the greatest pride, she noted that her four years at the paper had been “bookended [by] the banning of quote approval, and the tightening up on anonymous sources.” She thinks that these changes might have happened without her constant criticism, but I doubt it. On a less exalted level, she also expressed some pride in compelling the paper’s top brass to respond in real time to legitimate complaints from readers, including the paper’s (decidedly misguided) dismantling of the environment blog, its astonishingly sexist examination of Serena Williams’s body type, and, under the category of “reported commentary,” her success in getting former CIA director Michael Hayden to admit that “he can’t prove any harm to national security from the leaks on eavesdropping.” She is also pleased with the paper’s decision to take up her suggestion to hire a fluent Arabic speaker for its Jerusalem bureau (though again, as an independent actor at the paper who reported to none of the paper’s editors, she has no way of knowing just how important her own writing may have been in any given decision).
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Bernie Sanders Should Push for a New Realism in Foreign Policy5The Race That Never Ends
+Still, Sullivan can point to examples where her influence—and that of her reader-correspondents—was undeniable. In one particularly impressive moment, Sullivan passed along a reader complaint about a pundit roundup of a Democratic presidential debate in which every person quoted was a white male. “I am very disappointed The New York Times would, after a debate that focused on how black lives matter, that women aren’t paid equally, and even affirmative action, choose 11 reactions for this article that all came from white male pundits. No quotes from the black Twittersphere or feminist bloggers?” it read. “The internet is full of great writing” from diverse voices, and it shouldn’t be hard to find and include them.” Carolyn Ryan, the Times’s chief politics editor, immediately responded that she, too, found it unacceptable and would “make sure, personally, that it doesn’t happen again.” She also encouraged readers to e-mail the author of the piece with suggestions for inclusion in future round-ups.		
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+While change came slowly to the paper, it did come. When I asked Sullivan what gave her the greatest pride, she noted that her four years at the paper had been “bookended [by] the banning of quote approval, and the tightening up on anonymous sources.” She thinks that these changes might have happened without her constant criticism, but I doubt it. On a less exalted level, she also expressed some pride in compelling the paper’s top brass to respond in real time to legitimate complaints from readers, including the paper’s (decidedly misguided) dismantling of the environment blog, its astonishingly sexist examination of Serena Williams’s body type, and, under the category of “reported commentary,” her success in getting former CIA director Michael Hayden to admit that “he can’t prove any harm to national security from the leaks on eavesdropping.” She is also pleased with the paper’s decision to take up her suggestion to hire a fluent Arabic speaker for its Jerusalem bureau (though again, as an independent actor at the paper who reported to none of the paper’s editors, she has no way of knowing just how important her own writing may have been in any given decision).
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool4Bernie Sanders Should Push for a New Realism in Foreign Policy5The Race That Never Ends
+Still, Sullivan can point to examples where her influence—and that of her reader-correspondents—was undeniable. In one particularly impressive moment, Sullivan passed along a reader complaint about a pundit roundup of a Democratic presidential debate in which every person quoted was a white male. “I am very disappointed The New York Times would, after a debate that focused on how black lives matter, that women aren’t paid equally, and even affirmative action, choose 11 reactions for this article that all came from white male pundits. No quotes from the black Twittersphere or feminist bloggers?” it read. “The internet is full of great writing” from diverse voices, and it shouldn’t be hard to find and include them.” Carolyn Ryan, the Times’s chief politics editor, immediately responded that she, too, found it unacceptable and would “make sure, personally, that it doesn’t happen again.” She also encouraged readers to e-mail the author of the piece with suggestions for inclusion in future round-ups.		
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+Bernie Sanders Should Push for a New Realism in Foreign Policy
+
+The Race That Never Ends
+
+Still, Sullivan can point to examples where her influence—and that of her reader-correspondents—was undeniable. In one particularly impressive moment, Sullivan passed along a reader complaint about a pundit roundup of a Democratic presidential debate in which every person quoted was a white male. “I am very disappointed The New York Times would, after a debate that focused on how black lives matter, that women aren’t paid equally, and even affirmative action, choose 11 reactions for this article that all came from white male pundits. No quotes from the black Twittersphere or feminist bloggers?” it read. “The internet is full of great writing” from diverse voices, and it shouldn’t be hard to find and include them.” Carolyn Ryan, the Times’s chief politics editor, immediately responded that she, too, found it unacceptable and would “make sure, personally, that it doesn’t happen again.” She also encouraged readers to e-mail the author of the piece with suggestions for inclusion in future round-ups.		
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+Sullivan also showed some pleasure in having focused on journalistic elitism and coverage of poverty at the Times, in order to try “to reinforce the paper’s core mission.” In her final web column, she also complained of too many articles that “celebrate the excesses of the 1 percent.” 
+ 
+			.article-wrap .article-body aside.left.custom_background_210517			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+While she never took on the issue specifically, one can’t help but conclude from the balance of her reporting and commentary that the Times’s news reporting does not remotely match its reputation as a bastion of snooty urban liberalism. Snooty and urban perhaps—as well as, and I always feel a need to say this, the most ambitious, influential, and important source of news on the planet—but “liberal”? Not so fast.		
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+The excellence of Sullivan’s four-year focus on the Times’s institutional prejudices, especially its willingness to quote the wealthy and powerful in its pages without proper attention to their motives, provides an ongoing rebuke to the ill-considered proclamation of the paper’s first public editor, Daniel Okrent, “Is the New York Times a Liberal Newspaper? Of course it is.” A more nuanced reading of the paper would admit that, yes, the paper has a liberal editorial page. And yes, it tends to focus on issues of concern to its well-educated, well-to-do, socially liberal readership—one lusted after by its upscale advertisers. But many of its stories demonstrate a tendency to defer to wealth and power—whether emanating from corporate or official sources—that cannot survive even a moment’s scrutiny by someone willing to ask the right questions and demand honest answers.		
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+Sullivan’s four years is a model not only of smart, relentless web-based media reporting and criticism but also how to think about journalism’s role and responsibilities in an era of post-truth politics. As editorial staffs shrink to levels unimaginable just five years ago and consolidation continues to diminish the profession, it becomes increasingly easy for papers to dismiss the idea of a public editor or ombudsman as a luxury they cannot afford (instead of a hassle they would prefer to do without). But Sullivan’s tenure demonstrates that the job is central to the watchdog function of the press. Times editors and reporters may not have enjoyed the scrutiny to which she subjected them, but they can hardly deny the positive impact on both the quality of the paper’s journalism and its relationship to readers. Let a thousand public editors bloom!		
+		
+
+ Eric Alterman
+Twitter
+ Nation columnist Eric Alterman has been writing for the magazine since 1983.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+The NYT offered me the same progressively urgent fire sale deals as I was cutting all ties, suggesting to me (as did their "comments"section) that I was hardly alone in detecting a thoroughly pervasive neoliberal bias that utterly challenged reality and made them useless as a news source. I ultimately terminated the sales pitches by saying I found them useless as a news source and would not read them at any price, and I was finally freed....
+
+Surprised you omitted a relatively recent dust-up where Ms. Sullivan weighed in - one of my favorites:
+http://publiceditor.blogs.nytimes.com/2016/03/17/new-york-times-bernie-sanders-coverage-public-editor/?_r=0
+
+I don&apos;t think they&apos;ve published anything that might displease Messrs Cheney and Kussinger and Clinton in years.
+
+I recently canceled my subscription after years of mounting rage at its infomercials for a suicidal neoliberalism that has very much undermined our democracy. The NYT has, at least since Bush 2, been the mouthpiece of 1 percent er Establishment politics.
+
+Same here Stephen - their relentlessly unfair coverage and lack thereof, of Bernie Sanders, was both shameless and shameful. We had been loyal subscribers for at least a couple of decades, but this year they became a corporate spin-rag for Hillary Clinton. The incessant promotion by Bruni, Blow, Krugman, and Collins of Secretary Clinton was more than any subscriber should have to bear. Granted, those are opinion writers entitled to bias, but the reporters were no better. Their articles about Bernie, with few exceptions, were biased and poorly researched. Obviously the NYT endorsed Secretary Clinton, but in several subsequent editorials encouraged her to adopt many of Bernie&apos;s policies. No doubt they are terrified of Bernie&apos;s potential to disrupt the tax bracket of the establishment whom they serve. Just look at some among their assortment of commercial sponsors who cater to the 1%: Tiffany&apos;s, Sotheby&apos;s, Christie&apos;s, and an assortment of Wall Street behemoths such as Citi, iShares, even Goldman Sachs. We registered our dissatisfaction with comments, letters to Margaret Sullivan, and finally with the representative whom I spoke to when we cancelled our subscription. He replied: "we get these kinds of calls all the time now." He then went on to offer me all kinds of promotional deals and I said: "sorry, but at this point we would take the NYT if it was free."
+
+oops, "we would NOT take the NYT if it was free."
+
+I&apos;d put money on it that Alterman and Sullivan are friends.
+
+My pet peeve with The New York Times is their unfair and non-commonsensical "Vetted Commenters" policy in the comments section. This policy has created a hierarchy of commenters who get special treatment for no apparent reason. They get posted before we non-vetted folks and therefore accumulate more "likes" (or whatever it&apos;s called), creating a self-fulfilling loop.
+
+Promises were made months ago that this was going to be fixed, but it hasn&apos;t been. Queries to Sullivan have resulted in "I only make recommendations" excuses.
+
+The Times is fine with a hierarchy and this policy bears that out. Sullivan -- by her own admission -- has little sway. It&apos;s gotten so absurd that regulars wish other Vetted Commenters "Happy Holidays" during Christmas and Thanksgiving, as if they&apos;re one (small) happy family. (So much for an egalitarian worldview.)  
+
+I wrote to one Verified Commenter and was invited to address a group of Exalted Verifieds who have an e-club outside The Times&apos; website. I was indeed surprised that such a beast existed, but once I thought about it, not THAT surprised. It&apos;s a sort of cyber-Bohemian Grove. 
+
+The comments section is a mess to begin with, the moderators are inconsistent and capricious and allow pee-pee jokes through, but woe to those whose comment has any intelligent bite. 
+
+It&apos;s no secret that The Times -- for all its "Love Me, I&apos;m A Liberal" shtick -- is New York&apos;s mouthpiece of the rich. I could go on. ( Thomas Friedman? Dumbest smart man in America.) But I&apos;ll leave it here for now and let others pat Sullivan on her spineless back.
+
+I meant "Verified Commenters," not "Vetted Commenters," though the concept&apos;s the same.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

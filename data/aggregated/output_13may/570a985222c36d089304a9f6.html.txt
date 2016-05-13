@@ -1,0 +1,145 @@
+
+	1.2k
+      
+
+By
+
+Clemence Michallon For Dailymail.com
+
+
+
+Published:
+  17:43 EST, 9 April 2016
+
+ | 
+Updated:
+  19:31 EST, 9 April 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3531895',
+                    'title': 'Boston Globe gives glimpse of America if Trump became President',
+                    'url': 'http://www.dailymail.co.uk/news/article-3531895/Boston-Globe-unveils-lampoon-Donald-Trump-edition-Sunday-newspaper.html',
+                    'eTwitterStatus': ' http://dailym.ai/23sLQaj via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+1.2k
+shares
+
+ 
+         778
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+         778
+
+View  comments
+
+The Boston Globe has unveiled a bogus Sunday edition lampooning Donald Trump - and giving a chilling glimpse of what America would be like if he became President.
+
+Journalist Matt Drudge posted three pages of the newspaper, dated April 9, 2016, on his website, the Drudge Report, as well as on his Twitter account on Saturday.
+
+'Boston Globe set to publish fake news tomorrow, in lampoon Trump edition of Sunday paper,' he wrote as a caption.
+
+The fake edition paints America as a riot-torn country where curfews are enforced as mass deportations loom, while markets around the world collapse as a result of impending trade wars with Mexico and China.
+
+Scroll down for video 
+
+Journalist Matt Drudge shared pictures of a fictional edition of the Boston Globe (pictured) on Saturday, which gives a chilling vision of what America would look like if Donald Trump became President
+
+The fictional front page shared by Drudge on Saturday, titled: 'Deportations To Begin', mentions Trump's call to triple Immigration and Customs Enforcement forces.
+
+Meanwhile, in this alternative reality, riots are erupting and curfews get extended across the country.
+
+
+
+'President Trump has set in motion one of his most controversial campaign promises, calling on Congress to fund a "massive deportation force" by tripling the number of federal Immigration and Customs Enforcement agents,' the story begins.
+
+Above the article, a photo of the would-be President is captioned: 'Trump: Deport illegals "so fast your head will spin"'.
+
+On the right of the front page, another story announces: 'Markets sink as trade wars loom'.
+
+'Worldwide stocks plunged again Friday, completing the worst month on record as trade wars with both China and Mexico seem imminent,' the article says.
+
+Further down the front page, the alternative Boston Globe reports troubles halting the construction of a wall at the Mexican border 'after Mexico refused to pay', deriding one of Trump's most famous campaign promises.
+
+Real-life Trump said earlier this week that he would force Mexico to pay for the border wall by blocking money transfers from the US to Mexico, barring immigrants from sending money to their home country.
+
+The fake newspaper (pictured) depicts a country rife with riots where curfews get extended as mass deportations loom. Other stories mention a chaotic economy and trouble building the Mexican border wall
+
+'The shortfall means that Trump may have to turn to Congress to kick in back wages and repay the short-term loans he arranged with government-authorized cement contractors working out of a social club in Queens, NY,' the bogus article reads.
+
+Another story mentions unrest in the army as US soldiers receive the order to kill relatives of ISIS militants - and refuse to obey.
+
+'Two militants were killed in a firefight, but three women and two children were left alive, contrary to orders issued directly by President Trump,' the fictional story says.
+
+
+
+Underneath, a different article announces new libel legislation targeting 'absolute scum' in the press.
+
+The fake story begins: 'A Republican-controlled Congress last night passed sweeping changes to libel law in the United States, moving the bill to the desk of the new President who has promised to sign it.
+
+
+
+'The legislation, a fulfillment of a Trump campaign promise, will make US libel law similar to Great Britain's and is expected to expose journalists to frequent high-dollar lawsuits.'
+
+A humorous photo story relates an imaginary feud between Trump and China's First Lady Peng Liyuan, alleging that Trump tweeted a photo of his new pet shar-pei named Madame Peng.
+
+Other tidbits reveal that, in this new version of America, Kid Rock could become an ambassador, a Trump National Park could open and Trump could write a romance novel titled 'A Trumping To Remember' - ripped off from a May 1986 edition of Penthouse Magazine.
+
+A more serious fictional editorial proclaims: 'GOP must stop Trump' above a photo of the billionaire in a pool of light.
+
+A more serious fictional editorial, also shared by Drudge on Sunday, proclaims: 'GOP must stop Trump' above a photo of the candidate in a pool of light (pictured)
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

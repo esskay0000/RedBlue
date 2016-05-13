@@ -1,0 +1,699 @@
+
+
+Laurence "Larry" Fink, Chairman and CEO of BlackRock, speaks during the General Membership Meeting of the Investment Company Institute. (Kristoffer Tripplaar / Sipa via AP Images)
+
+Wall Street’s top money manager, Larry Fink, enjoys sharing his economic wisdom with the Washington policy world. The BlackRock CEO reportedly has his eye on the Treasury secretary seat in a Hillary Clinton administration. He’s also been a passionate deficit hawk, with a particular zeal for raising the Social Security retirement age to 70. After all, he once said, most of us have jobs nowadays where we just “sit around.”
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211364-0','tn_economy_business_ros_halfpage_1','tn_economy_business_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Fink may have been trying to prove this last point in 2015 by personally demonstrating how you can get a decent paycheck without doing much more than sit around. A really decent paycheck. Despite a 5 percent drop in BlackRock’s share price, Fink collected an 8 percent raise—to $26 million.		
+Fink’s pay for nonperformance makes BlackRock a ripe target for shareholder scrutiny. But the firm’s role in our country’s executive pay problem goes far beyond its own CEO’s paycheck.		
+As the top money manager in the world, with an astonishing $4.6 trillion in assets, BlackRock holds shares in thousands of US corporations. What does BlackRock do with all this clout? In shareholder votes on CEO pay, the firm almost always supports whatever corporate boards propose—despite a purported commitment to linking compensation to rigorous long-term performance standards. Between July 1, 2014, and June 30, 2015, it approved compensation plans over 96 percent of the time.		
+Investor Stephen Silberstein is working to end this rubber-stamp voting. BlackRock may not be the only mutual fund that turns a blind eye to executive excess. But its enormous size makes BlackRock and its CEO Larry Fink “the single outfit and person in the country most responsible for outrageous CEO pay packages,” Silberstein says.		
+The former software executive has filed a shareholder proposal that would, if passed, require BlackRock to come up with plans for “bringing its voting practices in line with its stated principle of linking executive compensation and performance.”		
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Fink may have been trying to prove this last point in 2015 by personally demonstrating how you can get a decent paycheck without doing much more than sit around. A really decent paycheck. Despite a 5 percent drop in BlackRock’s share price, Fink collected an 8 percent raise—to $26 million.		
+Fink’s pay for nonperformance makes BlackRock a ripe target for shareholder scrutiny. But the firm’s role in our country’s executive pay problem goes far beyond its own CEO’s paycheck.		
+As the top money manager in the world, with an astonishing $4.6 trillion in assets, BlackRock holds shares in thousands of US corporations. What does BlackRock do with all this clout? In shareholder votes on CEO pay, the firm almost always supports whatever corporate boards propose—despite a purported commitment to linking compensation to rigorous long-term performance standards. Between July 1, 2014, and June 30, 2015, it approved compensation plans over 96 percent of the time.		
+Investor Stephen Silberstein is working to end this rubber-stamp voting. BlackRock may not be the only mutual fund that turns a blind eye to executive excess. But its enormous size makes BlackRock and its CEO Larry Fink “the single outfit and person in the country most responsible for outrageous CEO pay packages,” Silberstein says.		
+The former software executive has filed a shareholder proposal that would, if passed, require BlackRock to come up with plans for “bringing its voting practices in line with its stated principle of linking executive compensation and performance.”		
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Fink’s pay for nonperformance makes BlackRock a ripe target for shareholder scrutiny. But the firm’s role in our country’s executive pay problem goes far beyond its own CEO’s paycheck.		
+As the top money manager in the world, with an astonishing $4.6 trillion in assets, BlackRock holds shares in thousands of US corporations. What does BlackRock do with all this clout? In shareholder votes on CEO pay, the firm almost always supports whatever corporate boards propose—despite a purported commitment to linking compensation to rigorous long-term performance standards. Between July 1, 2014, and June 30, 2015, it approved compensation plans over 96 percent of the time.		
+Investor Stephen Silberstein is working to end this rubber-stamp voting. BlackRock may not be the only mutual fund that turns a blind eye to executive excess. But its enormous size makes BlackRock and its CEO Larry Fink “the single outfit and person in the country most responsible for outrageous CEO pay packages,” Silberstein says.		
+The former software executive has filed a shareholder proposal that would, if passed, require BlackRock to come up with plans for “bringing its voting practices in line with its stated principle of linking executive compensation and performance.”		
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+As the top money manager in the world, with an astonishing $4.6 trillion in assets, BlackRock holds shares in thousands of US corporations. What does BlackRock do with all this clout? In shareholder votes on CEO pay, the firm almost always supports whatever corporate boards propose—despite a purported commitment to linking compensation to rigorous long-term performance standards. Between July 1, 2014, and June 30, 2015, it approved compensation plans over 96 percent of the time.		
+Investor Stephen Silberstein is working to end this rubber-stamp voting. BlackRock may not be the only mutual fund that turns a blind eye to executive excess. But its enormous size makes BlackRock and its CEO Larry Fink “the single outfit and person in the country most responsible for outrageous CEO pay packages,” Silberstein says.		
+The former software executive has filed a shareholder proposal that would, if passed, require BlackRock to come up with plans for “bringing its voting practices in line with its stated principle of linking executive compensation and performance.”		
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Investor Stephen Silberstein is working to end this rubber-stamp voting. BlackRock may not be the only mutual fund that turns a blind eye to executive excess. But its enormous size makes BlackRock and its CEO Larry Fink “the single outfit and person in the country most responsible for outrageous CEO pay packages,” Silberstein says.		
+The former software executive has filed a shareholder proposal that would, if passed, require BlackRock to come up with plans for “bringing its voting practices in line with its stated principle of linking executive compensation and performance.”		
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+The former software executive has filed a shareholder proposal that would, if passed, require BlackRock to come up with plans for “bringing its voting practices in line with its stated principle of linking executive compensation and performance.”		
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Predictably, BlackRock is urging shareholders to vote against the proposal. But company spokesperson Ed Sweeney told me in an interview that the firm’s leaders really do care about excessive executive compensation. They just deal with the problem in a more effective way—in face-to-face meetings with management.		
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Could BlackRock supply examples where these meetings have moderated executive compensation? These tête-à-têtes have always been private, Sweeney said. BlackRock would be unable to share any specifics.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didn’t Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+Why Bernie Didn’t Get My Vote
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+This Is What Happens When Republican Voters Get What They Want
+
+I asked Robert A. G. Monks, the founder of Institutional Shareholder Services, a leading corporate governance consulting firm, what he thought of BlackRock’s line of defense. “Sheer manure,” was his reply. Money managers who cast vote after vote in favor of management are “no longer upholding their fiduciary responsibility to shareholders. They’re acting solely in their own interest.”						
+			.article-wrap .article-body aside.left.custom_background_211364			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+“The large money managers,” Monks explained, “don’t want a reputation for putting their finger in the eye of a CEO who might be in a position to give them more business.”		
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Such eye poking becomes particularly unlikely when the money managers who would do the poking have massive paychecks in their own pockets. But even mutual funds with top execs less outrageously rewarded than BlackRock’s Fink have proved reluctant.		
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Shareholder advocacy group As You Sow has tracked mutual fund voting at the 100 firms whose CEOs the group has deemed “most overpaid,” based on various performance indicators. Although these firms all claim to care about carefully aligning the interests of CEOs and shareholders, As You Sow found 10 funds that rubber stamp pay packages at phenomenal rates. The giant Vanguard mutual fund family, for example, gave bloated CEO pay packages the thumbs up 97 percent of the time last year. The firm has also come under fire for its North Korean parliament-style voting on another set of inequality-related shareholder proposals, those that ask corporations to disclose their political spending.		
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+The data from As You Sow raise a deeper question: In the end, can we really rely on shareholders to fix our broken CEO pay system?		
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Some shareholders have certainly taken solid advantage of the Dodd-Frank Act provision that requires non-binding votes on executive compensation packages. They’ve leveraged this “say on pay” into consultations with management, and in some particularly egregious cases, strong “no” votes have embarrassed boards into altering pay.		
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+But dozens of companies have also ignored majority “no” votes. At software giant Oracle, shareholders have already voted four times against excessive CEO pay plans. That hasn’t bothered the Oracle board one bit. The company’s top two execs were the highest-paid of any at America’s 100 highest-revenue publicly-traded companies in 2015, according to Equilar.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211364-2','tn_economy_business_ros_halfpage_2','tn_economy_business_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Last year overall, shareholders failed to approve executive pay packages at only 61—2.8 percent—of America’s top 3,000 companies, reports the Semler Brossy consulting firm.		
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Some governments have tried to encourage stronger results by inserting teeth in “say on pay.” The UK now requires a binding vote every three years. In Australia, shareholders have the power to remove directors if executive pay packages get at least 25 percent “no” votes two years in a row.		
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+But teeth like these will only bite if institutional shareholders are willing to vote against management in the first place. And, by and large, they haven’t been.		
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Given this track record, we have every reason to question why we treat executive pay excess differently from other categories of corporate misbehavior. We don’t, after all, expect shareholders to come to the rescue when corporations pollute or discriminate in their employment practices. We fight to pass tough regulations. And as the 2008 financial crisis taught us all too well, a reward system that encourages reckless executive behavior threatens all of us — not just shareholders.		
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+The 2010 Dodd-Frank financial reform legislation that spawned “say on pay” contains several other executive compensation rules, including a provision requiring companies to report the ratio between their CEO and median worker pay. The SEC finally approved this rule last summer, and activists are already moving to tie these ratios to tax and government contracting policies. Why should corporations that increase inequality by paying their top execs hundreds of times more than their workers be getting tax breaks or government contracts? Federal regulators also recently released a Wall Street bonus pay proposal that could serve as at least a mild deterrent to recklessness, especially if the public weighs in with strong comments.		
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+But much more could be done to rein in executive excess. Reformer Stephen Silberstein agrees. One obvious step, he points out, would be to eliminate the existing taxpayer subsidies for excessive pay. For example, the “carried interest” loophole allows private equity and hedge fund billionaires to pay a lower tax rate on the bulk of their income than millions of nurses and teachers. There’s also a CEO bonus loophole that allows corporations to deduct unlimited amounts from their federal taxes for the cost of so-called executive “performance pay.”		
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+At the same time, Silberstein is trying to give BlackRock and other institutional investors a wake-up call, a chance to clean up their own act before they face potentially tougher government regulation. Just as parents have a fiduciary responsibility to monitor their children, he points out, owners have a fiduciary responsibility to monitor their investments, “to make sure they’re not doing stupid things that can detract from their value.”		
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+“Relying on the government to do this,” Silberstein adds, “probably means that the costs for mistakes will be much, much higher.”		
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+The BlackRock resolution will come up for a vote on May 25. Management can count on support from their largest shareholder, PNC Bank. They’ve already pledged support for BlackRock management in all proxy voting. But several other major institutional investors and shareholder advisors I contacted—including Vanguard, CalPERs, CalSTRS, Glass Lewis, and ISS—are declining to preview their positions.		
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+In the meantime, BlackRock CEO Larry Fink is no doubt working feverishly in the backrooms to line up enough votes to stop Silberstein’s proposal. He’s also going on the PR offensive, attempting to position himself as an enlightened crusader against “short-termism.” In a preachy letter to S&P 500 CEOs, Fink promoted the idea of extending the holding period for long-term capital gains from one to three years, with decreasing tax rates each year thereafter.		
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+Sound familiar? It should. Fink’s capital gains proposal appears nearly identical to a plan issued by a certain presidential candidate who just might be looking to appoint a Treasury secretary in 2017.		
+		
+
+ Sarah Anderson
+ Sarah Anderson directs the Global Economy Project at the Institute for Policy Studies and is a co-author of the report “Taxing the Wall Street Casino.”
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+I&apos;m not defending Larry Fink&apos;s compensation package, but to point out that Blackrock&apos;s share price went down 5 percent while Fink&apos;s compensation increased by 8 percent is misleading, possibly disingenuous, and perhaps evidence of ignorance about basic finance. 
+
+Blackrock&apos;s revenue, operating income, net income, and earnings per share were all higher in 2015 than in 2014.  The same was true for 2014 versus 2013.  In comparing the two year increase (2015 versus 2013), all those metrics increased by double digits.  If we go back even further, we can see that the firm has increased revenue and profits 9 out the past 10 years.  
+
+I point these things out to remind readers that a firm can produce increased revenue and profits and still see its shares go down in value.  If the firm consistently increases revenue and profits, then over time, the share price tends to increase.  Mr. Fink is getting paid to increase revenue and profits - and he has been succeeding - consistently - for many years.
+
+I think it&apos;s also worth noting that of Mr. Fink&apos;s $26 million "paycheck" (another misleading term), nearly $16 million of it was in the form of stock awards.  I&apos;d have to look up the information in Blackrock&apos;s annual report, but it&apos;s likely that the stock award is restricted and will take three years to fully vest.  Will the stock award be worth $16 million in 3 years?  Possibly - or it could be worth less, or maybe even more.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

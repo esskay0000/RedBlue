@@ -1,0 +1,383 @@
+
+
+Philadelphia District Attorney Seth Williams gestures during a news conference. (AP Photo / Matt Rourke)
+
+On June 11, 1984, 18-year-old Terrance Williams and his friend Marc Draper robbed and bludgeoned to death 56-year-old Amos Norwood in a Philadelphia cemetery. Norwood, a chemist who worked with youth at a local church, had allegedly been molesting Williams since he was 13 years old. Williams had been sexually abused by multiple men throughout his childhood, starting at the age of 6, and he killed another one of his alleged abusers, Herbert Hamilton, just six months before Norwood. When Williams was tried for Norwood’s murder, however, the jury never heard this history of sexual abuse. In fact, the prosecutor deliberately hid information about the abuse and instead told the jury Williams had killed Norwood “for no other reason but that a kind man offered him a ride home.” The jury found him guilty and sentenced him to death.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211374-0','tn_economy_economics_ros_halfpage_1','tn_economy_economics_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Williams is an African-American man, and though blacks only made up 40 percent of the jury pool, 14 of the 16 jurors the state prosecutor disqualified were black. In addition to omitting Williams’s history of abuse and the impact it might have on his decision-making, there is evidence that the prosecutor knew about Amos Norwood’s alleged history of molesting other youth and concealed it. Williams also received an ineffective defense—he first met his attorney the day before trial. These and other circumstances have led to an ongoing string of appeals, but Williams remains on death row. So it was a relief to his supporters when, in February of last year, Pennsylvania Governor Tom Wolf declared a moratorium on the death penalty, citing racial bias. Philadelphia District Attorney Seth Williams promptly sued him.		
+Seth Williams has been Philadelphia’s district attorney since 2010—the first African American to occupy the office in Philadelphia’s history. He represents a city that has historically writhed with racial tension, in a county where nearly half of residents are African-American. African Americans in Philadelphia County are substantially more likely to be arrested and are five times as likely to serve time in prison after arrest than whites. Williams ran on a reform platform—“smart on crime, not just tough,” and many hoped the city’s first African-American DA would provide a new sense of fairness and justice to its communities of color.		
+But that has not happened. Although Williams has made some notable reforms—he created alternative sentencing options for nonviolent crimes, including a pre-trial felony diversion program, and committed to reducing Philadelphia’s prison population by one-third in three years—his record thus far shows a consistent pursuit of policies that punish the weak and vulnerable. It also provides a troubling map for how he may handle perhaps his greatest test yet: resentencing Philadelphia’s large population of people serving mandatory life sentences without the possibility of parole for crimes they committed when they were juveniles, something he is required to do in response to the Supreme Court’s recent Montgomery v. Louisiana decision.
+Most Popular1The Obama Administration Just Granted Henry Kissinger a Distinguished Public Service Award2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Why Bernie Didn’t Get My Vote4Who Rules the World?5After I Lived in Norway, America Felt Backward. Here’s Why.
+In the case of Terrance Williams, for example, DA Williams sued Governor Wolf in response to his moratorium on the death penalty, calling the act “despotism.” He saved particular venom for the idea that there was racial bias: “Every appellate court has said issues of racism, yes, they exist in the criminal justice system, but not in this case.” DA Williams never acknowledged the original prosecutor’s malfeasance, and when the Pennsylvania Supreme Court upheld the governor’s moratorium in December, he expressed disappointment that Terrance Williams would “not soon see the justice that was imposed by the jury.”		
+DA Williams, like his predecessor Lynn Abraham, has long been a supporter of the death penalty, saying he is just following the law. “They asked me to fairly review facts and apply the law. So at different periods of my life I’ve felt differently about the death penalty,” he said in an interview in 2015. Pennsylvania has 180 inmates on death row—the fifth-highest number in the country, after California, Texas, Florida, and Alabama.		
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+Williams is an African-American man, and though blacks only made up 40 percent of the jury pool, 14 of the 16 jurors the state prosecutor disqualified were black. In addition to omitting Williams’s history of abuse and the impact it might have on his decision-making, there is evidence that the prosecutor knew about Amos Norwood’s alleged history of molesting other youth and concealed it. Williams also received an ineffective defense—he first met his attorney the day before trial. These and other circumstances have led to an ongoing string of appeals, but Williams remains on death row. So it was a relief to his supporters when, in February of last year, Pennsylvania Governor Tom Wolf declared a moratorium on the death penalty, citing racial bias. Philadelphia District Attorney Seth Williams promptly sued him.		
+Seth Williams has been Philadelphia’s district attorney since 2010—the first African American to occupy the office in Philadelphia’s history. He represents a city that has historically writhed with racial tension, in a county where nearly half of residents are African-American. African Americans in Philadelphia County are substantially more likely to be arrested and are five times as likely to serve time in prison after arrest than whites. Williams ran on a reform platform—“smart on crime, not just tough,” and many hoped the city’s first African-American DA would provide a new sense of fairness and justice to its communities of color.		
+But that has not happened. Although Williams has made some notable reforms—he created alternative sentencing options for nonviolent crimes, including a pre-trial felony diversion program, and committed to reducing Philadelphia’s prison population by one-third in three years—his record thus far shows a consistent pursuit of policies that punish the weak and vulnerable. It also provides a troubling map for how he may handle perhaps his greatest test yet: resentencing Philadelphia’s large population of people serving mandatory life sentences without the possibility of parole for crimes they committed when they were juveniles, something he is required to do in response to the Supreme Court’s recent Montgomery v. Louisiana decision.
+Most Popular1The Obama Administration Just Granted Henry Kissinger a Distinguished Public Service Award2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Why Bernie Didn’t Get My Vote4Who Rules the World?5After I Lived in Norway, America Felt Backward. Here’s Why.
+In the case of Terrance Williams, for example, DA Williams sued Governor Wolf in response to his moratorium on the death penalty, calling the act “despotism.” He saved particular venom for the idea that there was racial bias: “Every appellate court has said issues of racism, yes, they exist in the criminal justice system, but not in this case.” DA Williams never acknowledged the original prosecutor’s malfeasance, and when the Pennsylvania Supreme Court upheld the governor’s moratorium in December, he expressed disappointment that Terrance Williams would “not soon see the justice that was imposed by the jury.”		
+DA Williams, like his predecessor Lynn Abraham, has long been a supporter of the death penalty, saying he is just following the law. “They asked me to fairly review facts and apply the law. So at different periods of my life I’ve felt differently about the death penalty,” he said in an interview in 2015. Pennsylvania has 180 inmates on death row—the fifth-highest number in the country, after California, Texas, Florida, and Alabama.		
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+Seth Williams has been Philadelphia’s district attorney since 2010—the first African American to occupy the office in Philadelphia’s history. He represents a city that has historically writhed with racial tension, in a county where nearly half of residents are African-American. African Americans in Philadelphia County are substantially more likely to be arrested and are five times as likely to serve time in prison after arrest than whites. Williams ran on a reform platform—“smart on crime, not just tough,” and many hoped the city’s first African-American DA would provide a new sense of fairness and justice to its communities of color.		
+But that has not happened. Although Williams has made some notable reforms—he created alternative sentencing options for nonviolent crimes, including a pre-trial felony diversion program, and committed to reducing Philadelphia’s prison population by one-third in three years—his record thus far shows a consistent pursuit of policies that punish the weak and vulnerable. It also provides a troubling map for how he may handle perhaps his greatest test yet: resentencing Philadelphia’s large population of people serving mandatory life sentences without the possibility of parole for crimes they committed when they were juveniles, something he is required to do in response to the Supreme Court’s recent Montgomery v. Louisiana decision.
+Most Popular1The Obama Administration Just Granted Henry Kissinger a Distinguished Public Service Award2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Why Bernie Didn’t Get My Vote4Who Rules the World?5After I Lived in Norway, America Felt Backward. Here’s Why.
+In the case of Terrance Williams, for example, DA Williams sued Governor Wolf in response to his moratorium on the death penalty, calling the act “despotism.” He saved particular venom for the idea that there was racial bias: “Every appellate court has said issues of racism, yes, they exist in the criminal justice system, but not in this case.” DA Williams never acknowledged the original prosecutor’s malfeasance, and when the Pennsylvania Supreme Court upheld the governor’s moratorium in December, he expressed disappointment that Terrance Williams would “not soon see the justice that was imposed by the jury.”		
+DA Williams, like his predecessor Lynn Abraham, has long been a supporter of the death penalty, saying he is just following the law. “They asked me to fairly review facts and apply the law. So at different periods of my life I’ve felt differently about the death penalty,” he said in an interview in 2015. Pennsylvania has 180 inmates on death row—the fifth-highest number in the country, after California, Texas, Florida, and Alabama.		
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+But that has not happened. Although Williams has made some notable reforms—he created alternative sentencing options for nonviolent crimes, including a pre-trial felony diversion program, and committed to reducing Philadelphia’s prison population by one-third in three years—his record thus far shows a consistent pursuit of policies that punish the weak and vulnerable. It also provides a troubling map for how he may handle perhaps his greatest test yet: resentencing Philadelphia’s large population of people serving mandatory life sentences without the possibility of parole for crimes they committed when they were juveniles, something he is required to do in response to the Supreme Court’s recent Montgomery v. Louisiana decision.
+Most Popular1The Obama Administration Just Granted Henry Kissinger a Distinguished Public Service Award2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Why Bernie Didn’t Get My Vote4Who Rules the World?5After I Lived in Norway, America Felt Backward. Here’s Why.
+In the case of Terrance Williams, for example, DA Williams sued Governor Wolf in response to his moratorium on the death penalty, calling the act “despotism.” He saved particular venom for the idea that there was racial bias: “Every appellate court has said issues of racism, yes, they exist in the criminal justice system, but not in this case.” DA Williams never acknowledged the original prosecutor’s malfeasance, and when the Pennsylvania Supreme Court upheld the governor’s moratorium in December, he expressed disappointment that Terrance Williams would “not soon see the justice that was imposed by the jury.”		
+DA Williams, like his predecessor Lynn Abraham, has long been a supporter of the death penalty, saying he is just following the law. “They asked me to fairly review facts and apply the law. So at different periods of my life I’ve felt differently about the death penalty,” he said in an interview in 2015. Pennsylvania has 180 inmates on death row—the fifth-highest number in the country, after California, Texas, Florida, and Alabama.		
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+The Obama Administration Just Granted Henry Kissinger a Distinguished Public Service Award
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+Why Bernie Didn’t Get My Vote
+
+Who Rules the World?
+
+After I Lived in Norway, America Felt Backward. Here’s Why.
+
+In the case of Terrance Williams, for example, DA Williams sued Governor Wolf in response to his moratorium on the death penalty, calling the act “despotism.” He saved particular venom for the idea that there was racial bias: “Every appellate court has said issues of racism, yes, they exist in the criminal justice system, but not in this case.” DA Williams never acknowledged the original prosecutor’s malfeasance, and when the Pennsylvania Supreme Court upheld the governor’s moratorium in December, he expressed disappointment that Terrance Williams would “not soon see the justice that was imposed by the jury.”		
+DA Williams, like his predecessor Lynn Abraham, has long been a supporter of the death penalty, saying he is just following the law. “They asked me to fairly review facts and apply the law. So at different periods of my life I’ve felt differently about the death penalty,” he said in an interview in 2015. Pennsylvania has 180 inmates on death row—the fifth-highest number in the country, after California, Texas, Florida, and Alabama.		
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+DA Williams, like his predecessor Lynn Abraham, has long been a supporter of the death penalty, saying he is just following the law. “They asked me to fairly review facts and apply the law. So at different periods of my life I’ve felt differently about the death penalty,” he said in an interview in 2015. Pennsylvania has 180 inmates on death row—the fifth-highest number in the country, after California, Texas, Florida, and Alabama.		
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+For Williams, killer cops deserve much more leniency under the law. In December of 2014, two Philadelphia cops gunned down a 26-year-old African-American man named Brandon Tate-Brown at a traffic stop, sparking popular protest against the excessive use of police force. While Williams asserted that he understood “what happened with the shooting death of Trayvon Martin and what happened in Ferguson,” he claimed what happened in Philadelphia is “different” because Tate-Brown had a weapon in his car. “The officer’s actions here do not constitute a crime,” he said when announcing that he would not bring charges against the police.		
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+Williams also supports civil forfeiture, a controversial practice that allows cops to seize, keep, and even sell property that is alleged to have been involved in a crime. Last year, the ACLU found that the city of Philadelphia was seizing over $1 million in cash each year from some 1,500 people who had not been convicted of a crime. Seventy-one percent of those property owners were African-American. From 2011 to 2013, the city’s annual forfeiture revenue was around $5 million, and the district attorney’s share of these proceeds was roughly $2.2 million—or 7.3 percent of its appropriated budget. Williams’s office agreed to change this practice by limiting seizure to those who have been accused of a crime only after being targeted by a federal class-action lawsuit.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211374-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+And there are problems within the district attorney’s office as well. Take the “Porngate” scandal. Three prosecutors in Williams’s office were found to have been among the public employees who sent or received (and didn’t say anything about) hardcore pornography and blatantly racist e-mails on government computers when they were working in the state attorney general’s office. This should be troubling to someone trying to reform a racially biased system, yet Williams has taken the position that this didn’t happen on his watch, so the prosecutors should not be fired. He maintained that the e-mails, although “offensive,” warranted sensitivity training and no additional punishment. He later reassigned the prosecutors to less prominent positions in response to continued outcry.						
+			.article-wrap .article-body aside.left.custom_background_211374			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+The Supreme Court’s January ruling in Montgomery v. Louisiana presents Williams with yet another opportunity to reform or defend an unjust system. A 2012 Supreme Court decision, Miller v. Alabama, held that juvenile defendants could not face mandatory life sentences without the possibility of parole. In Montgomery, the Supreme Court ruled that Miller applies retroactively, which means it requires all states to grant juveniles mandatorily sentenced to life without parole (JLWOP) new hearings to reassess their sentences. Philadelphia has 300 of such individuals, the highest number in the country, and Seth Williams’s office will preside over this resentencing process.		
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+At the time of the Miller decision, Williams vigorously fought attempts to apply the ruling retroactively, despite increasing evidence that the teenage brain differs from the adult brain. As a recent report by the Fair Punishment Project explains, the part of the brain related to impulse control is less developed in teenagers, making JLWOP sentences not just cruel and unusual but also medically unsuitable. (This research, which the Supreme Court cited in its Montgomery decision, is why many states have abolished JLWOP entirely.)		
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+Thanks to Montgomery, Williams has no choice but to retroactively resentence Philadelphia’s mandatory JLWOP population. Many of the people serving these sentences have been in prison since the 1980s, some even longer. Joe Ligon, for example, was arrested in 1953 at the age of 15 for participating in a brawl that ended in the stabbing deaths of two people. Despite the fact that Ligon is developmentally disabled, he was sentenced to life without parole, and has been in prison ever since. Now he’s 78 years old, and Seth Williams holds the key to letting him live what remains of his life in the outside world.		
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+A spokesperson for the district attorney’s office declined to comment on the resentencing process, adding, “We are still in the process of finalizing details with our partners in the Philadelphia justice system.” Williams addressed resentencing on Twitter last month:				
+ 
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+ 
+
+These vague statements do not reveal much about how the process will work or who, if anyone, will be released. His record, however, does not inspire confidence in those who hope he will give some of these inmates the opportunity to leave prison before they die. Seth Williams has a chance to show that he isn’t a false prophet full of hollow promises of reform—will he take it?		
+		
+
+ Jessica Pishko
+ Jessica Pishko is a writer in San Francisco. She has written for Rolling Stone, Pacific Standard, and San Francisco Magazine.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

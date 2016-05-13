@@ -1,0 +1,275 @@
+
+	1.4k
+      
+
+By
+
+George Knowles In Shanghai, China, For Mailonline And Tracy You In London
+
+
+
+Published:
+  10:12 EST, 11 May 2016
+
+ | 
+Updated:
+  14:18 EST, 11 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3582640',
+                    'title': 'Dirty dormitories where Apple\'s iPhone workers lived \'like animals\'',
+                    'url': 'http://www.dailymail.co.uk/news/article-3582640/Open-sewers-mildewed-walls-one-toilet-FORTY-people-Shocking-pictures-dirty-dormitories-Apple-s-iPhone-workers-live-like-animals.html',
+                    'eTwitterStatus': ' http://dailym.ai/1QYG0ob via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+1.4k
+shares
+
+ 
+         275
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+         275
+
+View  comments
+
+
+
+Mould and mildew crawl up the walls of the communal bathrooms and the tiny, austere rooms are crammed full of bare bunkbeds.
+
+Welcome to the grim dormitory complex where factory workers who made expensive Apple products lived in shockingly bleak conditions.
+
+MailOnline gained exclusive access to the four blocks, which housed migrant workers employed by Apple contractor Pegatron until they were hurriedly abandoned just over eight weeks ago.
+
+Six thousand employees lived in the dormitories at the peak of iPhone 6 production but many of the roughly 1,000 left were told not to come back after the Lunar New Year holiday in February, while others were transferred to dorms in the main factory complex.
+
+The exodus from the buildings on Shanghai's Kangqiao Road East provides a rare and fascinating insight into the austere living conditions for staff at Taiwanese electronics giant Pegatron who work exhausting 12-hour shifts and are reckoned to make up to one half of the world's iPhone 6s.
+
+Scroll down for video 
+
+Cramped: Inside one of the eerily deserted dormitory blocks, Mail Online found rooms with up to 12 bunk beds for which each worker would be charged the equivalent of £16 a month, deducted from their pay packets.
+
+Filthy: These exclusive images show the sanitary facilities at a dormitory where workers who create Apple iPhones live, washing in mildewed sinks and squatting over open sewers to go to the toilet 
+
+Cattle-class: The dormitories on the outskirts of Shanghai can house 6,000 but do not have private bathrooms, so up to 20 workers showered at a time
+
+Basic: Nearly all workers are migrants from China's poorest provinces who live year-round in grim factory dorms such as the one above
+
+Apple and Pegatron recently allowed cameras into the iPhone factory in Shanghai in response to years of accusations that their staff were having to work gruelling hours on low pay.
+
+But it did not include access to the domitories where thousands of the factory employees live. Paid basic salaries of just under £250 a month for gruelling six-day weeks which they can increase by about £200 by working daily overtime, nearly all workers are migrants from China's poorest provinces who live year-round in grim factory dorms.
+
+MailOnline visited the huge Kangqiao Road East dormitories on the outskirts of Shanghai where Pegatron workers lived, and which were in use until February. Four blocks, named Huei Yang, have been mothballed while a separate dormitory is still in use. 
+
+Inside one of the eerily deserted dormitory blocks, MailOnline found rooms with up to 12 bunk beds for which each worker would be charged the equivalent of £16 a month, deducted from their pay packets. Pegatron insisted only eight workers lived in each room. 
+
+Even when empty, there is barely space in the rooms for anything other than the bunk beds and workers' metal lockers and there are no washing or toilet facilities in any of the dorms.
+
+Instead, each floor in the four-storey block has around 50 dormitory rooms and one communal shower where workers would wash alongside up to 20 other people, using foot pedals to operate the water.
+
+There is a similar, stark lack of privacy in shared toilet blocks on each floor where squatting cubicles are positioned above open sewerage drains running the length of the toilet block, and in washrooms with long rows of wash basins.
+
+In the corner of some toilet blocks and corridors were pools of filthy green water. Throughout the building we entered, walls were moulding and peeling heavily in places with hand-written signs posted at regular intervals spelling out rules for workers.
+
+Abandoned: These eerie images show the now-deserted dorms where workers creating Apple iPhones lived in cramped rooms with basic sanitation
+
+Grim: The austere dining area shows the conditions in which workers lived, with row upon row of battered tables where workers ate. Attempts were made to add some cheer with tatty Christmas decorations 
+
+'Inhumane': Six thousand workers lived in the dormitories at the peak of iPhone 6 production but many of the roughly 1,000 left were told not to come back after the Lunar New Year holiday in February, workers said, while others were transferred to other dorms
+
+Rushed exit: Workers appear to have left the dorms in a hurry as possessions were abandoned throughout the building, and this deserted stairwell with its pathetic tree shows how workers tried to make their living quarters more homely 
+
+The men's and women's dormitory blocks are strictly segregated with a padlocked high fence separating the shared drying areas for laundry on the dormitory rooftop and throughout the building we entered we saw mementos of the harsh lives once lived here.
+
+Poignantly, there is a strip of photos of a boyfriend holding a flower on the wall of one of the women's dorms. On a stairwell, there are discarded plastic Christmas trees and a jumble of mattresses stripped from workers' beds.
+
+Outside, between the four-storey dormitory blocks, were row upon row of workers' lockers and dismantled iron bed frames along with suitcases, clothes toiletries and other random belongings left behind by workers.
+
+Workers' cafes, food stalls, a shop selling everyday groceries to employees with priced items still on shelves, and, ironically, a shop selling Apple products to workers are padlocked and empty as if the complex was evacuated in a panic.
+
+Electronic swipe-card checkpoints identical to the ones used by workers to clock in and out of the Pegatron factory, and to keep anyone unauthorised from entering, remain lit up but redundant at the dormitory block entrance.
+
+The closure of the dormitory blocks – a converted former factory complex used for years by Pegatron – saw hundreds of workers sent home, according to one of the security guards kept on to watch over the premises.
+
+'There were 6,000 workers here at its peak but orders from Apple have been getting less and less in the past two years so the company decided to close the whole dormitory complex here,' he said. 
+
+Pegatron insisted that the dorms met all codes of conduct - including those of customers including Apple, and said the workers had been moved because they wanted to live closer to the main factory complex.
+
+Apple referred MailOnline to a letter by Apple chief operating officer Jeff Williams in its Supplier Responsibility 2016 Progress Report, which states: 'At Apple, we are deeply committed to making sure everyone in our supply chain is treated with the dignity and respect they deserve.
+
+'Our team works hard to raise the bar every year to improve working conditions, provide educational opportunities, push for higher standards of living, and protect human rights.'
+
+Basic: There are no washing or toilet facilities in any of the dorms. Instead, each floor in the four-storey block has around 50 dormitory rooms and one communal shower where workers would wash alongside up to 20 other people, using foot pedals to operate the water
+
+Mould: Throughout the building MailOnline entered, walls were moulding and peeling heavily in places with hand-written signs posted at regular intervals spelling out rules for workers
+
+Lack of privacy: There is a similar, stark lack of privacy in shared toilet blocks on each floor where squatting cubicles are positioned above open sewerage drains running the length of the toilet block
+
+'Unhygienic': In the corner of some toilet blocks and corridors were pools of filthy green water and there was an average of one toilet for every 40 workers when the blocks were full
+
+Production line: The Pegatron factory in Shanghai where workers put in 12-hour shifts then travel to dormitories where they sleep in bunk beds in cramped rooms
+
+Home: The dormitory block in Kangquiao Road is in stark contrast to the slick Pegatron factory, and looks neglected and uncomfortable
+
+'There was very little warning. It all happened very quickly as the New Year holiday came around and they seem to have made their minds up that there wasn't enough work to keep the dorms going.'
+
+In April Apple announced it had sold 16 per cent fewer iPhones than in the same period in 2015 and made 18 per cent less money from them. iPhones account for nearly two-thirds of Apple's overall revenue.
+
+Pegatron – which shares iPhone production with another Taiwan electronics giant Foxconn – still employs more than 50,000 migrant workers living in six huge dormitory blocks within its main factory complex and around other off-site dormitory blocks.
+
+Living conditions at the abandoned Kangquiao Road dormitory block we visited were experienced first-hand by an undercover investigator for the pressure group China Labor Watch, who got a job making motherboards on an Apple computer production line.
+
+The 28-year-old investigator, who spent 10 days living in the complex in September last year, told Mail Online: 'The dormitories were terrible. There were 12 workers in each small room with no toilet and no washing facilities.
+
+'There were hundreds of workers on each floor but only one toilet block and one shower room for each floor. In the morning, or at the end of a working day, workers had to line up to use the toilets and line up to wash and take showers.'
+
+The investigator said: 'The toilets were dirty and the showers were shared with no way to give you any privacy. There was no way to relax after a hard day of work and you were given no privacy and no dignity as a human being.'
+
+He added: 'Every day many workers quit their jobs. They felt it was too hard to carry on working there. I found that most of the workers who left did so not because of the low wages but because of the harsh working conditions and the bad living conditions in the dormitories.'
+
+Bare: Living conditions at the abandoned Kangquiao Road dormitory block MailOnline visited were experienced first-hand by an undercover investigator for the pressure group China Labor Watch, who got a job making motherboards on an Apple computer production line
+
+Close quarters: The 28-year-old investigator, who spent 10 days living in the complex in September last year, told Mail Online, 'The dormitories were terrible'
+
+Lack of light: The closure of the dormitory blocks – a converted former factory complex used for years by Pegatron – saw hundreds of workers sent home, according to one of the security guards kept on to watch over the premises
+
+Austere: The dorms were damp and mouldy and had a bedbug problem during the time an investigator from China Labor Watch stayed
+
+The investigator calculated each floor could accommodate 602 people but there were only 30 toilets, 30 showers and 50 wash basins for each floor. Around half of the toilets would be out of order at any given time leaving one toilet for every 40 workers.
+
+The dorms were damp and mouldy and had a bedbug problem during the time of the investigator's stay. 'Many of the workers have red spots all over their bodies due to bug bites,' he wrote in his report for New York-based China Labor Watch.
+
+As tired workers poured out of the factory gates at the end of their overtime shifts on Saturday (May 7), workers met with us in surrounding cafes and teashops out of sight of factory security staff to tell us about conditions.
+
+One 28-year-old from China's Jiangxi province who has been at Pegatron for four years and lives in an on-site dormitory said bitterly: 'The bosses here treat us like robots to make money for them.
+
+'We make big profits for them so they should take care of us and provide us with decent living conditions but we are charged 160 RMB a month for a small room. There are eight of us in my dorm so that means they make 1,280 RMB from each every month.'
+
+A weary young couple from Henan province agreed to be interviewed by Mail Online as they sat eating 50 pence bowls of spicy noodles in a café near the factory entrance at the end of their 12-hour shifts.
+
+The 22-year-old man, who has worked at Pegatron for 18 months, said: 'We moved out and rent a small flat together near the factory. Those dormitories aren't fit for people – they're only fit for livestock.
+
+'We pay 850 RMB a month now compared to 320 for the two of us in the dormitories so it's hard for us but it's worth it because it means we can live like humans.'
+
+Miserable: One 28-year-old from China's Jiangxi province who has been at Pegatron for four years and lives in an on-site dormitory said bitterly: 'The bosses here treat us like robots to make money for them
+
+Deserted: 'There were 6,000 workers here at its peak but orders from Apple have been getting less and less in the past two years so the company decided to close the whole dormitory complex here,' a security guard said
+
+Empty: The closure of the dormitory blocks – a converted former factory complex used for years by Pegatron – saw hundreds of workers sent home, according to one of the security guards kept on to watch over the premises
+
+Junk: The site where up to 6,000 workers were housed is still littered with the remnants of workers' lives, including a Santa Claus outfit
+
+Rules: The corridors at the dormitory complex carry posters with details of working patterns and signs about safety and hygiene
+
+Fear: Another 25-year-old worker who lives in one of around nine dormitories outside the main factory complex told MailOnline, 'The biggest problems with the off-site dorms isn't that they're dirty and crowded. It's the crime. They aren't safe and security staff can't keep control of them'
+
+Divide: The men's and women's dormitory blocks are strictly segregated with a padlocked high fence separating the shared drying areas for laundry on the dormitory rooftop and throughout the building we entered we saw mementos of the harsh lives once lived here
+
+Previous claims: Pegatron was accused of shoddy treatment of workers making iPhones at its Shanghai factory in 2014 BBC investigation for Panorama. Apple said it strongly disagreed with the programme's conclusions
+
+Another 25-year-old worker who lives in one of around nine dormitories outside the main factory complex told us: 'The biggest problems with the off-site dorms isn't that they're dirty and crowded. It's the crime. They aren't safe and security staff can't keep control of them.
+
+'People come from different provinces and gangs from one province will share a dorm together. They steal all the money and valuables from other workers.
+
+'Some workers have their salaries stolen the day they're paid and then they have no money left for the month and have to pick leftovers out of the rubbish bins to live.' 
+
+
+
+Pegatron was accused of shoddy treatment of workers making iPhones at its Shanghai factory in 2014 BBC investigation for Panorama. Apple said it strongly disagreed with the programme's conclusions.
+
+Technology giant: In an apparent response to the criticisms by the BBC and China Labor Watch, Pegatron earlier this year gave invited reporters and photographers for a tour of the Shanghai factory but did not include access to the dormitory blocks where workers live
+
+Tight security: The entry gates at the dormitory complex mirror the security at the Pegatron factory and mean that only workers should be able to get through
+
+Neglect: The outside of the Kangqiao Road East dorm complex contrasts sharply with the high-tech, glossy image of Pegatron and the Apple products it is responsible for making 
+
+Job surge: 'We've been told to expect more orders from Apple and we've been told there might be more jobs available if our friends back home are interested,' said one 21-year-old. 'We don't know why and they haven't told us'
+
+In an apparent response to the criticisms by the BBC and China Labor Watch, Pegatron earlier this year gave invited reporters and photographers for a tour of the Shanghai factory but did not allow them inside the dormitory blocks seen by Mail Online.
+
+Although the volume of work for Apple appears to be falling at the moment, one 28-year-old migrant worker from China's western Sichuan province told us on Saturday night she had been told to expect more shifts from next month.
+
+'We've been told to expect more orders from Apple and we've been told there might be more jobs available if our friends back home are interested,' said one 21-year-old. 'We don't know why and they haven't told us.'
+
+The spike in orders is likely to be linked to the rumoured launch of an iPhone 7 in the autumn. The global reception for the new gadget may determine whether or not more worker dormitories in Shanghai are abandoned in the months and years ahead.
+
+Military efficiency: Hundreds of workers line up for roll call at the Pegatron factory in Shanghai, China, which makes iPhones for Apple
+
+Clocking in: A supervisor holds an iPad as he checks an employee's badge during roll call at a Pegatron factory in Shanghai, China Read
+
+Roll call: Pegatron and Apple have adopted new procedures to keep assemblers from doing excessive overtime after years of accusations
+
+China's Labour Law does not include any provisions related to the standards of accommodation for migrant workers although buildings rented out to employees are covered by a range of building, hygiene and safety regulations that apply to any commercial landlord.
+
+In a statement, Apple contractor Pegatron told MailOnline that the dormitories complied with its customers' code of conduct. It said it had moved workers because they prefer to be nearer the main complex. 
+
+'Huei Yang dormitories consist of four buildings with a maximum of eight people per room. Each dormitory building and facility is in compliance with our and our customers’ relevant codes of conduct. 
+
+'For efficiency reasons, we consolidated the number of external dormitory buildings including moving employees to dormitories closer to Pegatron Shanghai which has newly constructed dormitories that are fewer than 2 years old. 
+
+'In addition, new dormitories are currently being built on site. As a result, all employees from Huei Yang dormitories were either relocated to dormitories on the campus or closer to the company in the beginning of 2016.'
+
+Apple was not initially aware of the transfer of workers from the Huei Yang dormitories, and said it was still investigating.
+
+
+
+It also highlighted progress made and highlighted in the report, including the fact that 'Work-hour compliance among our suppliers has reached 97 percent, a 5 percent increase from 2014 and a number that is virtually unheard of in our industry' and the fact that 'Since 2008, more than 9.25 million workers have been trained on their rights and over 1.4 million people have participated in Apple educational programs.'
+
+
+
+Behold the true miracle of the Chinese economic ris...
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

@@ -1,0 +1,913 @@
+
+
+Members of the Divest Harvard campaign protest outside the Harvard Management Company in Boston, April 12, 2016. (Photo courtesy of Divest Harvard)
+
+This week, the global climate-justice movement launches #BreakFree2016, a wave of mass direct action aimed at some of the most dangerous fossil-fuel infrastructure projects on the planet. Last month, students at Harvard and other schools offered a preview of sorts, targeting a different kind of fossil-fuel infrastructureâthe financial kind.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210558-0','tn_environment_environmental_issues_ros_halfpage_1','tn_environment_environmental_issues_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+On April 12, four Harvard students wereÂ arrestedÂ inside the fishbowl lobby of Bostonâs Federal Reserve building, headquarters of the Harvard Management Company (HMC), the arm of the Harvard Corporation that manages the worldâs largest university endowment. Part of a recent surgeÂ of civil disobedience by students demanding fossil-fuel divestmentâincluding atÂ Columbia,Â NYU, andÂ UMass Amherstâthe four were members of the persevering Divest HarvardÂ campaign (Iâve been an alumni supporter from the outset). They were staging a sit-in to protest, peacefully yet firmly, HMCâs recent decision toÂ anchor a new private-equity fundÂ investing in the restructuring and recapitalization of distressed oil and gas companies.				
+					
+					
+That same day, by coincidence, it wasÂ reportedÂ that Yale University has taken its first steps away from fossil-fuel investmentsâa move that Stanford, Oxford, and a host of other prominent institutions of higher learning have already taken. Harvard, for its part, continues to move in theÂ opposite direction. In the face of our mounting global climate emergency, it appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.				
+			
+
+							It appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.
+						
+ 
+To invest in a company is to vote oneâs confidence in its profit model and its practices. With billions of innocent lives on the line, the fossil-fuel industryâs profit model and political practicesânamely, its decades-long campaign of denying climate science and obstructing serious climate policiesâare not just unsustainable, theyâre unconscionable. Given what we have known for decades about climate changeâindeed, givenÂ what ExxonMobil andÂ other corporate membersÂ of the American Petroleum Institute have known for decades about climate changeâsuch denial and obstruction must be understood as criminal. And not merely a crime against shareholders, but a crime against humanity.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thereâs good reason to believeâas James Hansen, NASAâs former top climate scientist, and 18 co-authors haveÂ recently concludedâthat even a global average temperature rise of 2 degrees Celsius (the internationally accepted red line) could very well set in motion disastrous, irreversible consequences within the coming decades, not centuries. And it gets worse. Experts, at places like theÂ International Energy AgencyÂ and theÂ World Bank, have been warning us for years that weâre on track not for 2 degrees, butÂ 4 degreesÂ or moreÂ within this century. Despite the remarkable gains of renewable energy worldwide, and the promise of new technologies, we are nevertheless racing toward worst-case scenarios.				
+					
+					
+Indeed, this is what the âlandmarkâÂ agreement adopted in ParisÂ in Decemberâhailed by Barack Obama and Hillary Clintonâessentially ratified. The leaders in Paris finally acknowledged that 2 degrees spells catastrophe for much of the worldâs population, beginning with the poorest, and admitted that the limit we really should be aiming for isÂ 1.5 degrees, if thatâs even possible. And yet, those same world leaders in Paris did nothing to strengthen their existing pledges, which come nowhere close to putting the world on a path to achieving even the 2-degree limit. In other words, the Paris Agreementâsigned at a UN ceremony in New York on April 22âratified the yawning gapÂ between what science says is necessary and what politicians, and protectors of the status quo, say is possible.				
+					
+					
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+On April 12, four Harvard students wereÂ arrestedÂ inside the fishbowl lobby of Bostonâs Federal Reserve building, headquarters of the Harvard Management Company (HMC), the arm of the Harvard Corporation that manages the worldâs largest university endowment. Part of a recent surgeÂ of civil disobedience by students demanding fossil-fuel divestmentâincluding atÂ Columbia,Â NYU, andÂ UMass Amherstâthe four were members of the persevering Divest HarvardÂ campaign (Iâve been an alumni supporter from the outset). They were staging a sit-in to protest, peacefully yet firmly, HMCâs recent decision toÂ anchor a new private-equity fundÂ investing in the restructuring and recapitalization of distressed oil and gas companies.				
+					
+					
+That same day, by coincidence, it wasÂ reportedÂ that Yale University has taken its first steps away from fossil-fuel investmentsâa move that Stanford, Oxford, and a host of other prominent institutions of higher learning have already taken. Harvard, for its part, continues to move in theÂ opposite direction. In the face of our mounting global climate emergency, it appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.				
+			
+
+							It appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.
+						
+ 
+To invest in a company is to vote oneâs confidence in its profit model and its practices. With billions of innocent lives on the line, the fossil-fuel industryâs profit model and political practicesânamely, its decades-long campaign of denying climate science and obstructing serious climate policiesâare not just unsustainable, theyâre unconscionable. Given what we have known for decades about climate changeâindeed, givenÂ what ExxonMobil andÂ other corporate membersÂ of the American Petroleum Institute have known for decades about climate changeâsuch denial and obstruction must be understood as criminal. And not merely a crime against shareholders, but a crime against humanity.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thereâs good reason to believeâas James Hansen, NASAâs former top climate scientist, and 18 co-authors haveÂ recently concludedâthat even a global average temperature rise of 2 degrees Celsius (the internationally accepted red line) could very well set in motion disastrous, irreversible consequences within the coming decades, not centuries. And it gets worse. Experts, at places like theÂ International Energy AgencyÂ and theÂ World Bank, have been warning us for years that weâre on track not for 2 degrees, butÂ 4 degreesÂ or moreÂ within this century. Despite the remarkable gains of renewable energy worldwide, and the promise of new technologies, we are nevertheless racing toward worst-case scenarios.				
+					
+					
+Indeed, this is what the âlandmarkâÂ agreement adopted in ParisÂ in Decemberâhailed by Barack Obama and Hillary Clintonâessentially ratified. The leaders in Paris finally acknowledged that 2 degrees spells catastrophe for much of the worldâs population, beginning with the poorest, and admitted that the limit we really should be aiming for isÂ 1.5 degrees, if thatâs even possible. And yet, those same world leaders in Paris did nothing to strengthen their existing pledges, which come nowhere close to putting the world on a path to achieving even the 2-degree limit. In other words, the Paris Agreementâsigned at a UN ceremony in New York on April 22âratified the yawning gapÂ between what science says is necessary and what politicians, and protectors of the status quo, say is possible.				
+					
+					
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+That same day, by coincidence, it wasÂ reportedÂ that Yale University has taken its first steps away from fossil-fuel investmentsâa move that Stanford, Oxford, and a host of other prominent institutions of higher learning have already taken. Harvard, for its part, continues to move in theÂ opposite direction. In the face of our mounting global climate emergency, it appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.				
+			
+
+							It appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.
+						
+ 
+To invest in a company is to vote oneâs confidence in its profit model and its practices. With billions of innocent lives on the line, the fossil-fuel industryâs profit model and political practicesânamely, its decades-long campaign of denying climate science and obstructing serious climate policiesâare not just unsustainable, theyâre unconscionable. Given what we have known for decades about climate changeâindeed, givenÂ what ExxonMobil andÂ other corporate membersÂ of the American Petroleum Institute have known for decades about climate changeâsuch denial and obstruction must be understood as criminal. And not merely a crime against shareholders, but a crime against humanity.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thereâs good reason to believeâas James Hansen, NASAâs former top climate scientist, and 18 co-authors haveÂ recently concludedâthat even a global average temperature rise of 2 degrees Celsius (the internationally accepted red line) could very well set in motion disastrous, irreversible consequences within the coming decades, not centuries. And it gets worse. Experts, at places like theÂ International Energy AgencyÂ and theÂ World Bank, have been warning us for years that weâre on track not for 2 degrees, butÂ 4 degreesÂ or moreÂ within this century. Despite the remarkable gains of renewable energy worldwide, and the promise of new technologies, we are nevertheless racing toward worst-case scenarios.				
+					
+					
+Indeed, this is what the âlandmarkâÂ agreement adopted in ParisÂ in Decemberâhailed by Barack Obama and Hillary Clintonâessentially ratified. The leaders in Paris finally acknowledged that 2 degrees spells catastrophe for much of the worldâs population, beginning with the poorest, and admitted that the limit we really should be aiming for isÂ 1.5 degrees, if thatâs even possible. And yet, those same world leaders in Paris did nothing to strengthen their existing pledges, which come nowhere close to putting the world on a path to achieving even the 2-degree limit. In other words, the Paris Agreementâsigned at a UN ceremony in New York on April 22âratified the yawning gapÂ between what science says is necessary and what politicians, and protectors of the status quo, say is possible.				
+					
+					
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+
+							It appears that Harvard, like the fossil-fuel industry itself, is doubling down on business as usual.
+						
+
+
+To invest in a company is to vote oneâs confidence in its profit model and its practices. With billions of innocent lives on the line, the fossil-fuel industryâs profit model and political practicesânamely, its decades-long campaign of denying climate science and obstructing serious climate policiesâare not just unsustainable, theyâre unconscionable. Given what we have known for decades about climate changeâindeed, givenÂ what ExxonMobil andÂ other corporate membersÂ of the American Petroleum Institute have known for decades about climate changeâsuch denial and obstruction must be understood as criminal. And not merely a crime against shareholders, but a crime against humanity.
+Most Popular1A Contested Convention Is Exactly What the Democratic Party Needs2An NFL Player Stands Up to Rape and Gives a Lesson in Consent3Why Bernie Didnât Get My Vote4As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool5This Is What Happens When Republican Voters Get What They Want
+Thereâs good reason to believeâas James Hansen, NASAâs former top climate scientist, and 18 co-authors haveÂ recently concludedâthat even a global average temperature rise of 2 degrees Celsius (the internationally accepted red line) could very well set in motion disastrous, irreversible consequences within the coming decades, not centuries. And it gets worse. Experts, at places like theÂ International Energy AgencyÂ and theÂ World Bank, have been warning us for years that weâre on track not for 2 degrees, butÂ 4 degreesÂ or moreÂ within this century. Despite the remarkable gains of renewable energy worldwide, and the promise of new technologies, we are nevertheless racing toward worst-case scenarios.				
+					
+					
+Indeed, this is what the âlandmarkâÂ agreement adopted in ParisÂ in Decemberâhailed by Barack Obama and Hillary Clintonâessentially ratified. The leaders in Paris finally acknowledged that 2 degrees spells catastrophe for much of the worldâs population, beginning with the poorest, and admitted that the limit we really should be aiming for isÂ 1.5 degrees, if thatâs even possible. And yet, those same world leaders in Paris did nothing to strengthen their existing pledges, which come nowhere close to putting the world on a path to achieving even the 2-degree limit. In other words, the Paris Agreementâsigned at a UN ceremony in New York on April 22âratified the yawning gapÂ between what science says is necessary and what politicians, and protectors of the status quo, say is possible.				
+					
+					
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+A Contested Convention Is Exactly What the Democratic Party Needs
+
+An NFL Player Stands Up to Rape and Gives a Lesson in Consent
+
+Why Bernie Didnât Get My Vote
+
+As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool
+
+This Is What Happens When Republican Voters Get What They Want
+
+Thereâs good reason to believeâas James Hansen, NASAâs former top climate scientist, and 18 co-authors haveÂ recently concludedâthat even a global average temperature rise of 2 degrees Celsius (the internationally accepted red line) could very well set in motion disastrous, irreversible consequences within the coming decades, not centuries. And it gets worse. Experts, at places like theÂ International Energy AgencyÂ and theÂ World Bank, have been warning us for years that weâre on track not for 2 degrees, butÂ 4 degreesÂ or moreÂ within this century. Despite the remarkable gains of renewable energy worldwide, and the promise of new technologies, we are nevertheless racing toward worst-case scenarios.				
+					
+					
+Indeed, this is what the âlandmarkâÂ agreement adopted in ParisÂ in Decemberâhailed by Barack Obama and Hillary Clintonâessentially ratified. The leaders in Paris finally acknowledged that 2 degrees spells catastrophe for much of the worldâs population, beginning with the poorest, and admitted that the limit we really should be aiming for isÂ 1.5 degrees, if thatâs even possible. And yet, those same world leaders in Paris did nothing to strengthen their existing pledges, which come nowhere close to putting the world on a path to achieving even the 2-degree limit. In other words, the Paris Agreementâsigned at a UN ceremony in New York on April 22âratified the yawning gapÂ between what science says is necessary and what politicians, and protectors of the status quo, say is possible.				
+					
+					
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+Indeed, this is what the âlandmarkâÂ agreement adopted in ParisÂ in Decemberâhailed by Barack Obama and Hillary Clintonâessentially ratified. The leaders in Paris finally acknowledged that 2 degrees spells catastrophe for much of the worldâs population, beginning with the poorest, and admitted that the limit we really should be aiming for isÂ 1.5 degrees, if thatâs even possible. And yet, those same world leaders in Paris did nothing to strengthen their existing pledges, which come nowhere close to putting the world on a path to achieving even the 2-degree limit. In other words, the Paris Agreementâsigned at a UN ceremony in New York on April 22âratified the yawning gapÂ between what science says is necessary and what politicians, and protectors of the status quo, say is possible.				
+					
+					
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+Meanwhile, under the Obama administrationâs corporate-friendly âall of the aboveâ energy policy,Â the United States became the largest oil producer on the planet and massively expanded fracking (see Bill McKibbenâs recentÂ Nation cover story, âGlobal Warmingâs Terrifying New Chemistry.â) Sorry, you canât claim to take climate science seriously and at the same time vastly expand your national production of oil and gas. Thatâs not a credible climate plan. Itâs a form of climate denial.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210558-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+Itâs the same kind of denial that the Harvard Management Company, the president of Harvard University, and prominent members of the Harvard facultyâincluding some of its leading voices on climate policyâare engaged in. You canât claim to take the climate crisis seriously while remaining invested in business as usual.				
+					
+					
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+Indeed, the Belfer Center at Harvardâs Kennedy School and itsÂ Project on Climate Agreementsâheaded by professorÂ Robert Stavins, an economist who has openly consulted for fossil-fuel companies on the sideâare among the leading mouthpieces of this brand of denial. Stavins is an influential voice on global climate policy, and hisÂ high-profile presence in Paris, where he spoke on industry-sponsored panels on the sidelines of the summit meeting and gave numerous media interviews, was celebrated by theÂ Kennedy SchoolÂ press office and the universityâs official news outlet, theÂ HarvardÂ Gazette.				
+					
+					
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+And yet Harvard blinked not an eye whenÂ theÂ International Emissions Trading AssociationÂ and six of its corporate members (including Chevron, Shell, TransCanada, and other oil and gas companies) fundedÂ aÂ much-touted analysis of international emissions trading policyÂ published by Stavins and colleagues in the run-up to Paris under the auspices of the Harvard Project on Climate Agreements.Â (Stavins himself has done paid consulting for Chevron.) The industry-friendly policy advocated by that studyârecommending the âlinkageâ of national and regional emissions-trading programsâmade it into the Paris Agreement. No wonder Stavins was so pleased, as he enthused to theÂ GazetteÂ and other media outlets (as well as onÂ his blog) about the outcome in Paris. âLinkage,â the paper argues, will make market-based trading mechanisms more âcost effectiveââi.e., profitableâand thus allow for greater ambition within the Paris framework; just not enough ambition to close the aforementioned gap. In other words, fealty to markets, and corporate profits, prevails over science.      
+      .cta.primary.IMGEGUAZzU{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IMGEGUAZzU a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+This is nothing personal against Stavins, who is no doubt a decent chap. And I have no reason to believe heâs done anything unethical, by Harvardâs standards. Heâs simply playing by the rules. Heâs part of the systemâengaged in business as usual. TheÂ Harvard Environmental Economics Program, also at the Kennedy School and run by Stavins, is funded by Chevron, Shell, BP, Duke Energy, and other fossil-fuel interests. The Belfer Centerâs Geopolitics of Energy Project, headed byÂ Meghan OâSullivan, a former George W. Bush national security official who was deeply involved in Iraq policy, is funded by BP. And this is far from an exhaustive list of such fossil-fuel industry relationships at Harvard.				
+			
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+ 
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+
+							It’s not just that Harvard is invested in the fossil-fuel industry—the fossil-fuel industry is invested in Harvard.
+						
+
+
+The point is this: Itâs not just that Harvard is invested in the fossil-fuel industry; the fossil-fuel industry is invested in Harvardâperhaps because it sees a return on the investment. And of course it isnât only Harvard. The student-led divestment campaign at MIT hasÂ called out extensive fossil-fuel industry funding on its campus, including atÂ the MIT Energy Initiative, and it wasÂ revealed last fallÂ that ExxonMobil is among the funders of Columbia Universityâs high-profile Center on Global Energy Policy.				
+					
+					
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+I spoke with Robert Brulle, a sociologist at Drexel University whoseÂ groundbreaking 2013 studyÂ exposed how fossil-fuel interests fund what he calls the climate change âcountermovement,â including climate-science denial. Even in mainstream academic institutions, âthe financial steering of intellectual inquiry is a big issue,â Brulle told me. âThe academy is really dependent on external funding sources, and it drives a certain research agenda. Iâm not saying that the people they fund are dishonest or illegitimate. But this has a systematic effect, in that it heightens certain voices and leaves others invisible, or reduces their staying power, within the academy. And so you end up with a biased system.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210558			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Where, exactly, is the line between industry-funded policy analysis and industry lobbying? Itâs one thingÂ for industry to fund scientific and technological R&Dâwhich, if tightly controlled, is sometimes justifiable, despite inevitable conflicts of interest. But itâs another thing entirely when the industry (and corporate lobby) with the most to lose from urgent and aggressive climate actionâindeed, with its whole business model on the lineâis funding what purports to be independent climate-policy analysis, but which looks an awful lot like paid advocacy, by one of the worldâs leading climate economists at one of the worldâs most influential universities.				
+					
+					
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+Perhaps, given our global climate emergency and this industryâs track record of deceit and obstruction, itâs time for Harvard to kick the carbon lobby out of the Kennedy School. But donât hold your breath. Harvard President Drew Faustâs position on divestment has beenÂ quoted approvinglyÂ by theÂ Independent Petroleum Association of America, i.e., the carbon lobby. Theodore V. Wells Jr., prominent attorney and member of the Harvard Corporation, has beenÂ hired by ExxonMobilÂ to defend the oil giant in the New York attorney generalâs investigation into what Exxon knew as far back as the 1970s, and what it disclosed to shareholders, about the causes and risks of climate change.				
+					
+					
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+So donât expect Harvard to break free of the status quo anytime soon. On this one, Harvard is the Exxon of higher education.				
+					
+					
+		
+
+ Wen Stephenson
+Twitter
+ Wen Stephenson is a contributing writer for The Nation and the author of What We're Fighting for Now Is Each Other: Dispatches from the Front Lines of Climate Justice.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

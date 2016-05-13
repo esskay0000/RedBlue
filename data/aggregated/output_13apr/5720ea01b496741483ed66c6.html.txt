@@ -1,0 +1,34 @@
+WASHINGTON The House of Representatives was expected to vote on Wednesday to require law enforcement authorities to get a search warrant before asking technology companies to hand over old emails, with the bill's Senate prospects unclear.
+
+Under the Email Privacy Act, updating a decades-old law, authorities would have to get a warrant to access emails or other digital communications more than 180 days old. At present, agencies such as the U.S. Justice Department and the U.S. Securities and Exchange Commission only need a subpoena to seek such data from a service provider.
+
+Supporters of the legislation say it is needed to update the 1986 Electronic Communications Privacy Act (ECPA). Technology companies and privacy advocates say this 30-year-old statute was written before the rise of the Internet and so is outdated.
+
+The measure passed the House Judiciary Committee unanimously earlier this month after accruing 315 of a possible 435 sponsors, making it the most popular bill in the House. 
+
+More than a quarter of senators have endorsed similar legislation in the upper chamber, including No. 2 Republican John Cornyn. 
+
+But it was unclear if Senate Judiciary Committee Chairman Chuck Grassley, an Iowa Republican with jurisdiction over the legislation, intends to move it forward during an election year. 
+
+Grassleyâs office did not respond Tuesday when asked about the measure.
+
+The billâs expected passage comes at a time of resurgent international debate over law enforcement access to private electronic communications. This was reflected in the Justice Departmentâs high-profile pursuit of a court order earlier this year to force Apple to help unlock an encrypted iPhone linked to one of the San Bernardino, California, shooters.
+
+Separately, Microsoft earlier this month filed a lawsuit in federal court against the Justice Department, alleging the government is using ECPA in a way that violates the U.S. Constitution. 
+
+The company argued ECPA is too often used to prevent the company from notifying its users, sometimes indefinitely, when investigators pry into emails and other data stored on remote servers.
+
+Though Microsoft, along with other tech giants, supports the proposal in the House, the firm has said it would not directly address all of the concerns raised in its lawsuit.
+
+
+
+ (Editing by Kevin Drawbaugh and Bernadette Baum)
+
+Using citation analysis to identify authors whose papers wield outsized influence
+
+News and Media Division of Thomson Reuters
+
+Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Thomson Reuters journalists are subject to an Editorial Handbook which requires fair presentation and disclosure of relevant interests.
+
+NYSE and AMEX quotes delayed by at least 20 minutes. Nasdaq delayed by at least 15 minutes. For a complete list of exchanges and delays, please click here.
+

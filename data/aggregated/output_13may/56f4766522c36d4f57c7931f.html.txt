@@ -1,0 +1,56 @@
+Microbe with stripped-down DNA may hint at secrets of life
+
+
+
+
+         NEW YORK        (AP) -- Scientists have deleted nearly half the genes of a microbe, creating a stripped-down version that still functions, an achievement that might reveal secrets of how life works.
+
+It may also help researchers create new bacteria tailored for pumping out medicines and other valuable substances.
+
+The newly created bacterium has a smaller genetic code than does any natural free-living counterpart, with 531,000 DNA building blocks containing 473 genes.  (Humans have more than 3 billion building blocks and more than 20,000 genes).
+
+But even this stripped-down organism is full of mystery. Scientists say they have little to no idea what a third of its genes actually do.
+
+"We&apos;re showing how complex life is, even in the simplest of organisms," researcher J. Craig Venter told reporters. "These findings are very humbling."
+
+Some of the mystery genes may be clues to discovering unknown fundamental processes of life, his colleague Clyde Hutchison III said in an interview. Both researchers, from the J. Craig Venter Institute in La Jolla, California, are among the authors of a paper on the project released Thursday by the journal Science.
+
+The DNA code, or genome, is contained in a brand-new bacterium dubbed JCVI-syn3.0.
+
+The genome is not some one-and-only minimal set of genes needed for life itself.  For one thing, if the researchers had pared DNA from a different bacterium they would probably have ended up with a different set of genes.  For another, the minimum genome an organism needs depends on the environment in which it lives.
+
+And the new genome includes genes that are not absolutely essential to life, because they help the bacterial populations grow fast enough to be practical for lab work.
+
+The genome is "as small as we can get it and still have an organism that is ... useful," Hutchison said.
+
+One goal of such work is to understand what each gene in a living cell does, which would lead to a deep understanding of how cells work, he said. With the new bacterium, "we&apos;re closer to that than we are for any other cell," he said.
+
+Another goal is to use such minimal-DNA microbes as a chassis for adding genes to make the organisms produce medicines, fuels and other substances for uses like nutrition and agriculture, said study co-author Daniel Gibson of Synthetic Genomics in La Jolla.
+
+The work began with a manmade version of a microbe that normally lives in sheep, called M. mycoides (my-KOY&apos;-deez). It has about 900 genes. The scientists identified 428 nonessential genes, built their new genome without them, and showed that it was complete enough to let a bacterium survive.
+
+Experts not involved with the work were impressed.
+
+"I find this paper really ground breaking," said Jorg Stulke of the University of Goettingen in Germany, who is working on a similar project with a different bacterium. In an email, he said the researchers seem to have gotten at least very close to a minimum genome for M. mycoides.
+
+Farren Isaacs of Yale University called the work "an impressive tour de force," one that may begin to identify "a universe of minimal genomes."
+
+---
+
+Online:
+
+Science: http://www.sciencemag.org
+
+---
+
+Follow Malcolm Ritter at http://twitter.com/malcolmritter His work can be found at http://bigstory.ap.org/content/malcolm-ritter
+
+© 2016 The Associated Press.  All rights reserved.  This material may not be published, broadcast, rewritten or redistributed.  Learn more about our Privacy Policy and Terms of Use.
+
+
+                    ©2015 The Associated Press.
+                    All rights reserved. Terms
+                    under which this site is provided.
+                    Learn more about our 
+                        Privacy Policy.
+

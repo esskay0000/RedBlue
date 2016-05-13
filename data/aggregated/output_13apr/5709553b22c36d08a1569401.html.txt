@@ -1,0 +1,462 @@
+
+
+Dennis Hatten casts a ballot at the Village of West Milwaukee Community Centre. (Ari Berman)
+
+MilwaukeeâDennis Hatten voted in Wisconsin yesterday, but it wasnât easy for him, or thousands of other voters.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208534-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Hatten spent months trying to get a voter ID and then had to make multiple trips to the polls to vote. Meanwhile, students waited hours to cast a ballot at Marquette, in addition to long waits at University of Wisconsin-Milwaukee and University of WisconsinâGreen Bay. Others left the polls because of the long lines or didnât get to vote because of the voter-ID law.		
+Hatten, a 53-year-old African-American man, moved to Wisconsin from Illinois in 2013 after losing his job as a powder coater. A veteran of the Marines, he relocated to Milwaukee to seek help from the VA hospital, which put him up in temporary housing while he was homeless. He wanted to vote in Wisconsin, but his Illinois driverâs license was not accepted under the stateâs strict voter-ID law, nor was his veteranâs ID at the time.		
+In August of 2015, he met Anita Johnson, Wisconsin coordinator of VoteRiders, who helped him try to get a photo ID for voting in Wisconsin. It became a bureaucratic nightmare. The DMV rejected Hattenâs application for a free ID because he didnât have a birth certificate. After Johnson resubmitted his hospital and birth records, the DMV said the birthdate didnât match. Finally, Johnson discovered that Hatten was delivered by a French midwife in Arkansas, who spelled his name DâNette instead of Dennis, but the DMV said Hatten would need to change his name through the Social Security Administration to get an ID for voting.		
+After a lengthy back-and-forth with the DMV, Johnson discovered that Hatten had used the name DâNette when he first applied for a Social Security card, which allowed the DMV to finally verify his identify and issue Hatten a state photo ID. âIf Dennis didnât have someone to advocate for him, he would have given up,â Johnson said.		
+His Election Day experience didnât go much more smoothly. Hatten brought his state photo ID with him to the polls, but the address on it didnât match the address of his new apartment, which the poll workers needed to register him at his new polling site. While he was conferring with the poll worker, another man who tried to register and vote with his veteranâs ID, which does not contain an address, was turned away from the polls.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote 
+			.article-wrap .article-body aside.left.custom_background_208534			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Hatten spent months trying to get a voter ID and then had to make multiple trips to the polls to vote. Meanwhile, students waited hours to cast a ballot at Marquette, in addition to long waits at University of Wisconsin-Milwaukee and University of WisconsinâGreen Bay. Others left the polls because of the long lines or didnât get to vote because of the voter-ID law.		
+Hatten, a 53-year-old African-American man, moved to Wisconsin from Illinois in 2013 after losing his job as a powder coater. A veteran of the Marines, he relocated to Milwaukee to seek help from the VA hospital, which put him up in temporary housing while he was homeless. He wanted to vote in Wisconsin, but his Illinois driverâs license was not accepted under the stateâs strict voter-ID law, nor was his veteranâs ID at the time.		
+In August of 2015, he met Anita Johnson, Wisconsin coordinator of VoteRiders, who helped him try to get a photo ID for voting in Wisconsin. It became a bureaucratic nightmare. The DMV rejected Hattenâs application for a free ID because he didnât have a birth certificate. After Johnson resubmitted his hospital and birth records, the DMV said the birthdate didnât match. Finally, Johnson discovered that Hatten was delivered by a French midwife in Arkansas, who spelled his name DâNette instead of Dennis, but the DMV said Hatten would need to change his name through the Social Security Administration to get an ID for voting.		
+After a lengthy back-and-forth with the DMV, Johnson discovered that Hatten had used the name DâNette when he first applied for a Social Security card, which allowed the DMV to finally verify his identify and issue Hatten a state photo ID. âIf Dennis didnât have someone to advocate for him, he would have given up,â Johnson said.		
+His Election Day experience didnât go much more smoothly. Hatten brought his state photo ID with him to the polls, but the address on it didnât match the address of his new apartment, which the poll workers needed to register him at his new polling site. While he was conferring with the poll worker, another man who tried to register and vote with his veteranâs ID, which does not contain an address, was turned away from the polls.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote 
+			.article-wrap .article-body aside.left.custom_background_208534			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Hatten, a 53-year-old African-American man, moved to Wisconsin from Illinois in 2013 after losing his job as a powder coater. A veteran of the Marines, he relocated to Milwaukee to seek help from the VA hospital, which put him up in temporary housing while he was homeless. He wanted to vote in Wisconsin, but his Illinois driverâs license was not accepted under the stateâs strict voter-ID law, nor was his veteranâs ID at the time.		
+In August of 2015, he met Anita Johnson, Wisconsin coordinator of VoteRiders, who helped him try to get a photo ID for voting in Wisconsin. It became a bureaucratic nightmare. The DMV rejected Hattenâs application for a free ID because he didnât have a birth certificate. After Johnson resubmitted his hospital and birth records, the DMV said the birthdate didnât match. Finally, Johnson discovered that Hatten was delivered by a French midwife in Arkansas, who spelled his name DâNette instead of Dennis, but the DMV said Hatten would need to change his name through the Social Security Administration to get an ID for voting.		
+After a lengthy back-and-forth with the DMV, Johnson discovered that Hatten had used the name DâNette when he first applied for a Social Security card, which allowed the DMV to finally verify his identify and issue Hatten a state photo ID. âIf Dennis didnât have someone to advocate for him, he would have given up,â Johnson said.		
+His Election Day experience didnât go much more smoothly. Hatten brought his state photo ID with him to the polls, but the address on it didnât match the address of his new apartment, which the poll workers needed to register him at his new polling site. While he was conferring with the poll worker, another man who tried to register and vote with his veteranâs ID, which does not contain an address, was turned away from the polls.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote 
+			.article-wrap .article-body aside.left.custom_background_208534			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+In August of 2015, he met Anita Johnson, Wisconsin coordinator of VoteRiders, who helped him try to get a photo ID for voting in Wisconsin. It became a bureaucratic nightmare. The DMV rejected Hattenâs application for a free ID because he didnât have a birth certificate. After Johnson resubmitted his hospital and birth records, the DMV said the birthdate didnât match. Finally, Johnson discovered that Hatten was delivered by a French midwife in Arkansas, who spelled his name DâNette instead of Dennis, but the DMV said Hatten would need to change his name through the Social Security Administration to get an ID for voting.		
+After a lengthy back-and-forth with the DMV, Johnson discovered that Hatten had used the name DâNette when he first applied for a Social Security card, which allowed the DMV to finally verify his identify and issue Hatten a state photo ID. âIf Dennis didnât have someone to advocate for him, he would have given up,â Johnson said.		
+His Election Day experience didnât go much more smoothly. Hatten brought his state photo ID with him to the polls, but the address on it didnât match the address of his new apartment, which the poll workers needed to register him at his new polling site. While he was conferring with the poll worker, another man who tried to register and vote with his veteranâs ID, which does not contain an address, was turned away from the polls.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote 
+			.article-wrap .article-body aside.left.custom_background_208534			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+After a lengthy back-and-forth with the DMV, Johnson discovered that Hatten had used the name DâNette when he first applied for a Social Security card, which allowed the DMV to finally verify his identify and issue Hatten a state photo ID. âIf Dennis didnât have someone to advocate for him, he would have given up,â Johnson said.		
+His Election Day experience didnât go much more smoothly. Hatten brought his state photo ID with him to the polls, but the address on it didnât match the address of his new apartment, which the poll workers needed to register him at his new polling site. While he was conferring with the poll worker, another man who tried to register and vote with his veteranâs ID, which does not contain an address, was turned away from the polls.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote 
+			.article-wrap .article-body aside.left.custom_background_208534			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+His Election Day experience didnât go much more smoothly. Hatten brought his state photo ID with him to the polls, but the address on it didnât match the address of his new apartment, which the poll workers needed to register him at his new polling site. While he was conferring with the poll worker, another man who tried to register and vote with his veteranâs ID, which does not contain an address, was turned away from the polls.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote 
+			.article-wrap .article-body aside.left.custom_background_208534			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.
+
+Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet
+
+Bernie Sanders Should Keep Runningâbut Not Like This
+
+Good News on Climate Changeâ¦ and Bad News
+
+Why Hillary Clinton Doesnât Deserve the Black Vote
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Hatten left the polling site, retrieved a utility bill with his new address, and returned a second time to vote. This time he was able to cast a ballot. It took six months for him to get a photo ID for voting, two trips to the polls and an hour to vote. âIâve never had any problems voting until I came to Wisconsin,â he said.		
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+He proudly held up his âI Votedâ sticker and explained why the voting was so important to him. âI grew up in the 1960s in the segregated South and I remember what my parents and grandparents had to go through to vote. As soon as I became of age to vote, I voted in every election and urged others to vote too.â		
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+His story is both inspiring and infuriating, and clearly illustrates the burdens associated with the stateâs voter ID law.		
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Not everyone had Hattenâs perseverance. VoteRiders tried to help as many as possible get photo IDs for voting, but there were still people like Nancy Anderson of Green Bay, who is disabled and in a wheelchair, and was not able to make it to the DMV to get a photo ID and then to the polls on Election Day in time to vote. I wrote last week about longtime voters like 89-year-old Ruthelle Frank who cannot afford or obtain the underlying documents to get a valid voter ID.		
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+After following Hatten, I went to the polling place at Marquette University in downtown Milwaukee, where more than 150 students were waiting to register and vote in a two-hour line at the Alumni Center. Scott Walker attended Marquette, before dropping out, and his son is currently at the school.		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Student IDs for most universities are not accepted by the Wisconsin legislature, so schools like Marquette had to print new voter-IDs for students. In addition, students needed to bring proof of address to register and proof of enrollment to vote, which slowed everything down.		
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+âI didnât realize how much the voter-ID law would hinder the voting experience,â said Maggie Stang, a junior international-relations major, who waited two hours and 20 minutes to register and vote.		
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Giulianna Sutkiewicz, a senior at Marquette, voted at the student polling site in the February local elections, but her name was not on the registration rolls when she tried to vote yesterday. The head election official told her to vote in her hometown an hour away or get back in the line at Marquette and wait two hours to re-register, which she eventually did, after retrieving a book to read.		
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Martha Pincus of the League of Women Voters said she observed multiple students at Marquette leave without voting because of the long lines. âThey said things like, âYou talk about voter disenfranchisement, this is what happened here,â and âI skipped one class, I canât skip another,ââ Pincus told me.		
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+When the polls closed at 8 pm, there were still 240 students in line. Katherine Murray, a senior, was the last to vote at 9:45, nearly two hours after the polls closed. If Wisconsin did not have Election Day registration, hundreds of students would have been turned away.		
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Polls have closed in Wisconsin & there are 240 students in 2 hr line at Marquette (Scott Walker's alma mater) pic.twitter.com/xtmxWTBZyy
+— Ari Berman (@AriBerman) April 6, 2016 
+
+— Ari Berman (@AriBerman) April 6, 2016 
+
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Despite the high voter turnout, the problems in the primary donât bode well for what could happen in November, when many more people will vote, there will be more competitive races, and Wisconsin will be a key swing state. âThis is the worst election Iâve ever seen in Wisconsin,â Johnson said.		
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+Wisconsin Republicans believe the voter-ID law will help them in future elections and have been relentless in restricting voting rights. When asked why Republicans would carry Wisconsin in November, GOP Congressman Glenn Grothman said, âNow we have photo ID.â Tuesdayâs primary showed how young voters and voters of color, the core of the Democratic Partyâs coalition, are the GOPâs main targets.		
+		
+
+ Ari Berman
+Twitter
+ Ari Berman is a senior contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+I imagine new allegations of voter fraud will surface as the fall election draws near. I would not be surprised to see same day registration be canceled on the premise "the hurried atmosphere causes mistakes to happen during registration", demanding a picture ID taken from a different angle or being current, catastrophic IT failure prompting certain voting areas to be registered again due to existing records being lost or compromised.  We could also have a lottery on who can anticipate the call for "improved" or "enhanced" security the Republican&apos;s will come up with to protect every Wisconsin citizen&apos;s right to vote.
+
+Greedy Opposition Party of Lobbyists for the rich & powerful: We have no policies that help anyone else, so we have to CHEAT.
+
+Unfortunately, this seems to not be only a WI problem, as the Koch machine can&apos;t seem to find qualified candidates there is only one option, stop voters from voting. This happened in St. Louis area as the "election judges" brought limited numbers of ballots and when all were voted shut down voting in that location, machines were allegedly slowed and voters not able to vote. This is all the result of Koch political entities including the conflict of interest in some of the Supreme Court personnel in their close
+connection to the Koch annual meetings and the Citizens United ruling about spending. Walker is one of the perfect puppets, not smart enough to think, but perfectly suited to follow orders that he is paid for.
+Rest assured, the mess that the political process in America is coming to, aka, the openly displayed bigotry since 2009 in the congress, resulting in obstruction of everything the President suggests, division within the people, enabled by the lowering of taxes in the states, but only on the wealthy and the taking of educational funding and moving it to private educational sources thereby unfunding the public schools, all is seen all  over the world, the information may be skewed by the media here for the benefit of their investors profit motivation, but it is openly reported in other nations media. Sadly with all of the made up media rants, the real stories are covered up 
+here as that would not provide the benefits to the investors/corporations that seems to be all that is cared about.
+
+This situation should be the shame of America. It is amazing to me, that the emperor has no clothes. How can this be, in a country that prides itself on freedom? 
+How can this NOT be the shame of Wisconsin, a state that prided itself on things like voting rights? HOW is it, that Scott Walker is still enjoying and abusing his position of power??
+I used to think I was pretty smart. Sadly, I can&apos;t wrap my head around this one...
+
+One has to have a cynical devious criminal mind to understand what the GOP has become.
+
+I wonder if SCOTUS cares about the destruction they have cause to voting rights when they gutted the Voting Rights Act.  It&apos;s beyond imagination that the 5 conservative political hacks we call Supreme Court Justices could find that the VRA was no longer needed.  They should be hanging their heads in shame...but, Oh Wait!!  Shame is not in their wheelhouse.
+
+I wondered how Wisconsin could have so many screwy voters... now I see how they cherry-pick who gets to vote.
+
+I wish that the people all over would realise just how much of a criminal Scott Walker is. On a certain (non-political) website where I read and post comments, one person has mentioned that he used to live next to Walker when they were young, and Walker was widely known as the worst person around, even in his youth.
+
+How the mostly intelligent people ever allowed him to be elected, I don&apos;t know... oh, wait - the Koch Brothers elected him.
+
+Meanwhile, ï»¿ what is the village of West Milwaukee smoking when they named  their "Community CentrÃ©"?
+What the hell is a centrÃ©???
+
+Unless your homeless, everyone gets mail thru, the US
+Postal Service. It&apos;s too bad there isn&apos;t a Federal Law
+having UPS, taking a photo with the address of the 
+person.
+
+So far it seems Scott Walkers plan to disenfranchise certain folks in Wisconsin is working just fine. He will be able to tweak it to try to cut even more people out of the process.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,517 @@
+
+
+Bernie Sanders supporters rally in Miami on March 8, the day of the Michigan primary.  (AP Photo / Alan Diaz)
+
+Last week, just after winning the Indiana primary, Bernie Sanders vowed to stay in the Democratic presidential race until the last primary, on June 14. “I think we are perpetuating the political revolution by significantly increasing the level of political activity that we’re seeing in this country,” he said regarding why he won’t drop out of a race that is increasingly unlikely for him to win. This “revolution” grew out of public recognition that the grievances and aspirations of average Americans were being ignored by the most politicians, and Sanders’s ability to attract nearly half of Democratic voters shows that a broad base exists for an independent challenge to the party establishment. Over the past decade, we’ve also seen large protests erupt in the United States through Occupy Wall Street, Black Lives Matter, and movements for immigrant rights and climate justice. But how can this energy translate into electoral power in our rigid two-party system? Progressives might take a page from the inside-outside strategy embraced by the Tea Party.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211922-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Inside and Outside
+While over a thousand third parties have been formed in the United States, only a handful have ever won over more than 5 percent of the vote—and most die out after a couple of election cycles. That’s because in our first-past-the-post system third parties have virtually no chance of winning a majority of voters on a national scale. In proportional systems, if you win 15 percent of the vote, you get 15 percent of the seats. In our system, if you win 15 percent of the vote, you typically receive no seats at all. In proportional systems, new parties often translate protest in the streets into political institutions. In our system, with its high barriers to entry for new parties, protest movements who want to reach for electoral power can only manifest themselves through the formation of emergent factions within existing political parties.		
+The Tea Party movement, which emerged in 2009 following Barack Obama’s inauguration, has all but transformed—if not taken over—the GOP. It functions much like an independent third party: an ideologically uncompromising alternative for conservatives frustrated by the big-business and immigration-reform wing of the GOP. But instead of creating a third party to challenge Republicans in general elections and risk conservative defeat, they challenge incumbents in primaries—redefining the mainstream of the party in the process. Tea Party primary challenges have moved the GOP rightward toward a more aggressive agenda of cutting government spending and blocking immigration reform at whatever cost—including a government shutdown. As one right-wing blogger put it: “The Tea Party’s impact in primaries is largely about putting fear into establishment candidates, whether they knock them off or not.”		
+For progressives, the biggest lesson to be learned from the Tea Party’s playbook is that they don’t work for the Republicans—they make the Republicans work for them. Bernie has already begun to do the same with the Democrats, and his primary race should encourage others to challenge establishment Democrats from the left. The progressive formation that has perhaps made the most headway in this regard is the one I work for: the Working Families Party. The WFP is a coalition of community-organizing groups and labor unions that push progressive policies, like paid sick leave, and help elect a new generation of leaders on the state and local level. While we’re proud of what we’ve built, we’re a long way from the ideological and electoral power that the Tea Party exercises. The WFP has figured out how to maneuver inside and outside the two-party system without falling prey to the usual failures of third parties, and is now organizing in 11 states. But the Tea Party has taken over Congress, and done so without an institutionalized party apparatus. Neither the WFP nor a prior, important effort to launch a Tea Party of the left—Rebuild the Dream—have generated the kind of momentum and mass participation of the Tea Party.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+Giving Away the Keys
+An overlooked aspect of the Tea Party’s success has been its decentralized and open-source brand. The party doesn’t belong to any one politician or organization; it belongs to the conservative movement. Such an approach has enabled the Tea Party to gain so much popularity that 17 percent of Americans identify as party members, even though there is no institutionalized “party” or ballot line to speak of.		
+Part of the Tea Party’s success has been its ability to rally a conservative base and have institutions follow its lead. By generating headlines through large anti-tax marches, heralding defeats of members of the Republican establishment, and engineering polarizing events like government shutdowns, the Tea Party is constantly oriented toward asymmetric political drama capable of activating its own base.		
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+While over a thousand third parties have been formed in the United States, only a handful have ever won over more than 5 percent of the vote—and most die out after a couple of election cycles. That’s because in our first-past-the-post system third parties have virtually no chance of winning a majority of voters on a national scale. In proportional systems, if you win 15 percent of the vote, you get 15 percent of the seats. In our system, if you win 15 percent of the vote, you typically receive no seats at all. In proportional systems, new parties often translate protest in the streets into political institutions. In our system, with its high barriers to entry for new parties, protest movements who want to reach for electoral power can only manifest themselves through the formation of emergent factions within existing political parties.		
+The Tea Party movement, which emerged in 2009 following Barack Obama’s inauguration, has all but transformed—if not taken over—the GOP. It functions much like an independent third party: an ideologically uncompromising alternative for conservatives frustrated by the big-business and immigration-reform wing of the GOP. But instead of creating a third party to challenge Republicans in general elections and risk conservative defeat, they challenge incumbents in primaries—redefining the mainstream of the party in the process. Tea Party primary challenges have moved the GOP rightward toward a more aggressive agenda of cutting government spending and blocking immigration reform at whatever cost—including a government shutdown. As one right-wing blogger put it: “The Tea Party’s impact in primaries is largely about putting fear into establishment candidates, whether they knock them off or not.”		
+For progressives, the biggest lesson to be learned from the Tea Party’s playbook is that they don’t work for the Republicans—they make the Republicans work for them. Bernie has already begun to do the same with the Democrats, and his primary race should encourage others to challenge establishment Democrats from the left. The progressive formation that has perhaps made the most headway in this regard is the one I work for: the Working Families Party. The WFP is a coalition of community-organizing groups and labor unions that push progressive policies, like paid sick leave, and help elect a new generation of leaders on the state and local level. While we’re proud of what we’ve built, we’re a long way from the ideological and electoral power that the Tea Party exercises. The WFP has figured out how to maneuver inside and outside the two-party system without falling prey to the usual failures of third parties, and is now organizing in 11 states. But the Tea Party has taken over Congress, and done so without an institutionalized party apparatus. Neither the WFP nor a prior, important effort to launch a Tea Party of the left—Rebuild the Dream—have generated the kind of momentum and mass participation of the Tea Party.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+Giving Away the Keys
+An overlooked aspect of the Tea Party’s success has been its decentralized and open-source brand. The party doesn’t belong to any one politician or organization; it belongs to the conservative movement. Such an approach has enabled the Tea Party to gain so much popularity that 17 percent of Americans identify as party members, even though there is no institutionalized “party” or ballot line to speak of.		
+Part of the Tea Party’s success has been its ability to rally a conservative base and have institutions follow its lead. By generating headlines through large anti-tax marches, heralding defeats of members of the Republican establishment, and engineering polarizing events like government shutdowns, the Tea Party is constantly oriented toward asymmetric political drama capable of activating its own base.		
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+The Tea Party movement, which emerged in 2009 following Barack Obama’s inauguration, has all but transformed—if not taken over—the GOP. It functions much like an independent third party: an ideologically uncompromising alternative for conservatives frustrated by the big-business and immigration-reform wing of the GOP. But instead of creating a third party to challenge Republicans in general elections and risk conservative defeat, they challenge incumbents in primaries—redefining the mainstream of the party in the process. Tea Party primary challenges have moved the GOP rightward toward a more aggressive agenda of cutting government spending and blocking immigration reform at whatever cost—including a government shutdown. As one right-wing blogger put it: “The Tea Party’s impact in primaries is largely about putting fear into establishment candidates, whether they knock them off or not.”		
+For progressives, the biggest lesson to be learned from the Tea Party’s playbook is that they don’t work for the Republicans—they make the Republicans work for them. Bernie has already begun to do the same with the Democrats, and his primary race should encourage others to challenge establishment Democrats from the left. The progressive formation that has perhaps made the most headway in this regard is the one I work for: the Working Families Party. The WFP is a coalition of community-organizing groups and labor unions that push progressive policies, like paid sick leave, and help elect a new generation of leaders on the state and local level. While we’re proud of what we’ve built, we’re a long way from the ideological and electoral power that the Tea Party exercises. The WFP has figured out how to maneuver inside and outside the two-party system without falling prey to the usual failures of third parties, and is now organizing in 11 states. But the Tea Party has taken over Congress, and done so without an institutionalized party apparatus. Neither the WFP nor a prior, important effort to launch a Tea Party of the left—Rebuild the Dream—have generated the kind of momentum and mass participation of the Tea Party.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+Giving Away the Keys
+An overlooked aspect of the Tea Party’s success has been its decentralized and open-source brand. The party doesn’t belong to any one politician or organization; it belongs to the conservative movement. Such an approach has enabled the Tea Party to gain so much popularity that 17 percent of Americans identify as party members, even though there is no institutionalized “party” or ballot line to speak of.		
+Part of the Tea Party’s success has been its ability to rally a conservative base and have institutions follow its lead. By generating headlines through large anti-tax marches, heralding defeats of members of the Republican establishment, and engineering polarizing events like government shutdowns, the Tea Party is constantly oriented toward asymmetric political drama capable of activating its own base.		
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+For progressives, the biggest lesson to be learned from the Tea Party’s playbook is that they don’t work for the Republicans—they make the Republicans work for them. Bernie has already begun to do the same with the Democrats, and his primary race should encourage others to challenge establishment Democrats from the left. The progressive formation that has perhaps made the most headway in this regard is the one I work for: the Working Families Party. The WFP is a coalition of community-organizing groups and labor unions that push progressive policies, like paid sick leave, and help elect a new generation of leaders on the state and local level. While we’re proud of what we’ve built, we’re a long way from the ideological and electoral power that the Tea Party exercises. The WFP has figured out how to maneuver inside and outside the two-party system without falling prey to the usual failures of third parties, and is now organizing in 11 states. But the Tea Party has taken over Congress, and done so without an institutionalized party apparatus. Neither the WFP nor a prior, important effort to launch a Tea Party of the left—Rebuild the Dream—have generated the kind of momentum and mass participation of the Tea Party.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+Giving Away the Keys
+An overlooked aspect of the Tea Party’s success has been its decentralized and open-source brand. The party doesn’t belong to any one politician or organization; it belongs to the conservative movement. Such an approach has enabled the Tea Party to gain so much popularity that 17 percent of Americans identify as party members, even though there is no institutionalized “party” or ballot line to speak of.		
+Part of the Tea Party’s success has been its ability to rally a conservative base and have institutions follow its lead. By generating headlines through large anti-tax marches, heralding defeats of members of the Republican establishment, and engineering polarizing events like government shutdowns, the Tea Party is constantly oriented toward asymmetric political drama capable of activating its own base.		
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
+
+Michael Ratner, 1943–2016
+
+Get Ready for a Wave of Green Civil Disobedience, America
+
+An overlooked aspect of the Tea Party’s success has been its decentralized and open-source brand. The party doesn’t belong to any one politician or organization; it belongs to the conservative movement. Such an approach has enabled the Tea Party to gain so much popularity that 17 percent of Americans identify as party members, even though there is no institutionalized “party” or ballot line to speak of.		
+Part of the Tea Party’s success has been its ability to rally a conservative base and have institutions follow its lead. By generating headlines through large anti-tax marches, heralding defeats of members of the Republican establishment, and engineering polarizing events like government shutdowns, the Tea Party is constantly oriented toward asymmetric political drama capable of activating its own base.		
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+Part of the Tea Party’s success has been its ability to rally a conservative base and have institutions follow its lead. By generating headlines through large anti-tax marches, heralding defeats of members of the Republican establishment, and engineering polarizing events like government shutdowns, the Tea Party is constantly oriented toward asymmetric political drama capable of activating its own base.		
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+Decentralized movements like Occupy and Black Lives Matter have similarly enabled mass participation among millennials by giving away ownership of the movement brand for anyone to run with. But more established progressive institutions have been reluctant to turn over the keys to party-building and electoral organizing to a mass base.		
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+While no existing progressive organization has the capacity to adequately absorb and engage the base that has coalesced around Sanders, his supporters could get behind the new formations that will inevitably emerge. None of the existing organizations could sustainably fund the number of organizers to manage and direct a volunteer base of this magnitude–but more importantly, many of the millennials that are driving the Sanders campaign wouldn’t join a traditional organizational structure; it’s not what they are looking for. They are looking for channels that allow them to unleash their creativity and passion through self-organization and co-creation.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211922-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The Party Is “a Field of Struggle”
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+An overlooked aspect of our two-party system is the largely administrative nature of political parties in the United States. In a parliamentary system, parties develop candidate-lists up and down the ballot, from school board to parliament. But in our system, anyone can theoretically gather the required number of signatures on an official party form and be placed on a ballot in a primary election. The party then plays a purely administrative role, rather than a programmatic or disciplinary one.		
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+When independent candidates like Bernie Sanders or Donald Trump compete in primaries, their decisions have less to do with their feelings about either party and more to do with what the party’s mechanisms allow access to. It’s the same as when citizens register to vote and select a party designation in order to participate in the primary season. Registering as a Democrat does not make people into party members in any way. It’s simply another way that the party holds a bureaucratic function to organize electoral activity.		
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+A new party could therefore have its own accountability mechanisms, membership models, and decision making structures, but would immensely benefit from using the existing tools of the major party’s administrative machinery: primaries, ballot access, petitions, conventions, and the party-line vote used by an increasing number of voters.		
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+Over time political parties in the United States have grown more permeable to outside forces. Progressive forces have informally or formally anchored themselves within the Democratic Party over the past near-century. Compared to parliamentary parties, the Democratic Party does not unilaterally shape a political agenda, but it is relatively responsive to the perceived desires of a coalition representing a majority of an electorate. Unite and activate public opinion in favor of a different direction, and the party tends to move, as Hillary Clinton’s slow drift leftward has already demonstrated. As Bill Fletcher put it in 2005, “Activists should look upon the Democratic Party as itself a field of struggle.”		
+Forward Together
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+A “party” made up of a New American Majority also requires new leadership. It requires white male progressive leaders willing to step back in order to make space for people of color and women to lead. But it also requires leaders of color to step up and help lead a coalition that includes many white people in order to form a winning electoral majority.						
+			.article-wrap .article-body aside.left.custom_background_211922			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+The rise of the Sanders campaign has also shown the appeal of a populist platform with working-class white voters who do not typically refer to themselves as progressives—or even Democrats. A multiracial coalition that speaks directly to the relationship between racism and oligarchy could provoke a transformative political realignment. Such an approach could put together an independent coalition that the Democratic Party could not take for granted.		
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+Such a party would limit itself if it resonated only with a small set of constituencies. It requires not a laundry list of grievances and identities but a new collective identity and compelling narrative—an “us”—that is much greater than the sum of its parts. It means conveying a new sense of “the people” not solely on the basis of shared suffering but through a shared will to craft their own democratic destiny. It must give its base a real sense that they are the creators of the path toward a democracy that works toward freedom and justice for all Americans against those in our country who have in every era stood by the belief that freedom and justice were only meant for a select few.		
+		
+
+ Waleed Shahid
+ Waleed Shahid works for the Working Families Party and is a trainer with Momentum.
+
+ 
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Beautifully and passionately written Waleed! As you and other young people move forward with this achievable vision, please please do not forget people like me who have longed for such a movement since we were young--the oft forgotten white male "senior" citizens who have held onto such a vision since we were your age. I and others my age saw, watched, and railed against the building of Reaganism which left behind with much intent, the most vulnerable in our society; which dismantled social programs (which are now being resurrected as something "new and exciting); and poured millions of dollars earned by my and most other American&apos;s hard labor and productivity into the pockets of the already-rich; and took away the America I grew up in! And then my party turned its back on me and most Americans in the "glorious" Democratic Clinton era demonized the needy, the vulnerable, and people of color. To my point: there are millions of white, male, senior citizens who will again march and work with your program(s) and efforts because we, too, are seething about and looking to destroy this oligarchy and plutocracy built by mean spirited, greedy, and power-hungry Reaganites and Clintonites! Sign me up and I will bring along many White, Male and Female Senior citizens yearning to win back an America we can be proud of and which works for all--Black, White, Asian, Native American, Latino; disabled, mentally ill, physically disabled; Lesbian, Gay, Bisexual, Transgender, Straight; Native-born, recently immigrated, newly immigrated, undocumented, documented. An America open and free and filled with peace, love, and understanding!
+
+I, for one, want nothing to do with a supposed Leftist answer to the Tea Party. The Tea Party is imbued with demagoguery, dogmatism and anti-intellectualism. We don&apos;t need any of that.
+
+Shahid is saying just what Bernie has been saying....it takes grassroots demands to make changes. Whether you like it or not, the Tea Party has done that. It&apos;s destroyed the Republican Party in the process. Well, is that so bad?
+I like that he has called for people of color to step up to the plate and become leaders. We already have people like Jesse Jackson. Why hasn&apos;t he endorsed Sanders? Is he another De Blasio?
+
+If its one thing we don&apos;t need is mimicking the tactics of the tea party.  It is a principle that if democracy is to succeed willingness to compromise is a must.  Dogmatic ideals squelch freedom, whether it comes from the left or the right
+
+I have great respect for Working Families, but Working Families helped elect de Blasio and then he sold them out and threw Bernie under the bus, backing his old friend Hillary Clinton.  The magnitude of this "progressive" sellout can not be overstated.  If Bernie carries New York, it is a totally different story and the nomination would be more likely for him.  So de Blasio did not work for Working Families, Working Families worked for him, and as usual on the Left, got sold out.  
+
+The Left must be as uncompromising with the Democrats as the Tea Party is with the Republicans, which is why Bernie supports should not vote for Clinton.  She is centrist corporate politician willing to say whatever she needs to in order to be elected.  If she loses, the Democrats have only themselves to blame for not nominating a candidate that a progressive could support.  I&apos;m a national delegate from Missouri, and I plan to fight this battle at the convention.  I believe I was elected because I said I was willing to call out our non-elected delegates like Claire McCaskill for supporting TPP and keystone.  Across the room from me, her sister was elected a delegate for Clinton.  We must speak truth to power.  This is a struggle for power, and the staked could not be higher for the world.  That power will not be handed over for showing up and being nice.
+
+The only thing that counts are votes. Bernie has not gotten the votes. I wish he did, but wishing won&apos;t make it so. Neither will blaming the media or folks that supported Hillary.  All sitting out the fall election will do is elect the Donald and a bunch of other people you will like even less. That is the yard stick you have to measure Hillary against. She is a politician who wants to be elected. She&apos;ll go where the votes are. This time there weren&apos;t enough from the left to win. If you want anything good to come out of the next four years, a Democrat has to be in the White House. Do you really want a misogynist, climate denying bully appointing the next Supreme Court Justice, making decisions about emissions and energy and threatening to blow up any foreigner he doesn&apos;t like? Somehow, I don&apos;t think so.
+
+While I applaud the idea of a progressive push within the Democratic party, I do believe you&apos;re giving way too much credit to the Tea Party. It was never the creation of a grass roots movement. Dick Armey of FreedomWorks started it to push an already right of center party even further to the right.  It&apos;s always been a  corporate-funded group made to appear as though it was the result of spontaneous community action. And its funded by the Koch Bros. 
+
+As far as strengthening the progressive/liberal part of the Democratic party I have a suggestion that would make that a reality:  VOTE PEOPLE VOTE.  If every 4 or 8 years we all work hard to elect a progressive to the White House it&apos;ll mean absolutely nothing if the Senate and House are not solidly in Democratic hands. And sadly, A whole lot of Bernie volunteers I work with didn&apos;t bother to vote in 2010 or 2014. They didn&apos;t vote in my city&apos;s mayoral, school board or state legislature elections. I&apos;ve got news for them; even if Bernie manages to  get to the White House it won&apos;t mean anything without 60 in the Senate and a majority in the House. Look at Wisconsin.  Bernie voters helped elect a right wing judge by not voting or not doing their homework and voting for her. VOTE VOTE VOTE
+
+I totally agree. The author has bought the Tea Party fantasy, hook, line and sinker. Poor analysis and research. As for Wisconsin, the left didn&apos;t bother to vote in the Walker recall either.
+
+Minorities made their choice very clear this election.  They chose the establishment, the status quo and small ball:  Hillary and "No We Can&apos;t".  Many trashed white progressives as ignorant, patronizing and racist.  There is no new coalition with which to form a new party.
+
+I hate seeing Hillary&apos;s face plastered all around the articles I read of late.
+
+Me, too!
+
+About halfway through this article, I started seeing  holes in this political strategy, and stopped reading:  The Tea Party has failed.  If it were successful Trump would not be such a super-star.  Trump supporters are not tea drinkers;  The Tea Party began in the grass-roots, but it wasn&apos;t long before it was fueled by the Billionaire class.  So the "parallels" [with disciples of Sanders] are out-of-kilter;  True reform means rewriting and standardizing the Federal Rules of democratic process for districting, redistricting, registering, primaries, and general election voting, as it applies to all parties in a multi-party system;  True reform would mean Federal Runoff Elections rules for a multi-party system, that ensure enough runoff rounds of voting, so that the final election has more than 50% of the final voting electorate supporting the winner.  Current polarization between the two parties goes back to Bill Clinton winning in 1992 with 43% of the vote due to 19% taken by third party candidate Ross Perot.  And we all remember Florida 2000.  This system is broken.
+
+Scheming political a strategy within one or two parties is re-arranging the deck chairs, while playing musical chairs, on the proverbial Titanic, in this new century.
+
+Bernie Sanders is about a grass-roots funded revolution, not political games.
+
+All very true, the left will never become an astroturf funded by sugar daddies and unfortunately money has become the sine qua non of political power. Still Mr. Sanders has worked (almost?) a miracle on $27 contributions. It seems to me imperative that Mrs. Clinton be denied the presidency . . . at almost any cost. And if she gains the office? A continued exposé of past and current "high crimes and misdemeanors" sufficient to make her wish she had never sought the office and sufficient to make even her staunchest sycophants turn away finally in embarassed silence. And how to accomplish that? Well, there is some top-notch investigative journalism going on by alternative media. Support them; they&apos;ll do their job. With good ammunition, organizations like the WFM, BLM, and Occupy will do their job. And then, I believe, the true reform of which you speak can and will occur.
+
+"An agenda and  certain principles liked and followed by a large number of citizens" are what makes a PARTY. Since 1990, the Democratic Party seems to have deviated from its agenda and core principles. It seems to me that Bernie Sanders, although an independent Social Democrat, is trying hard to rekindle that agenda and core principles of the Democratic Party.
+
+"An agenda and  certain principles liked and followed by a large number of citizens" are what makes a PARTY. Since 1990, the Democratic Party seems to have deviated from its main agendas and core principles. It seems to me that Bernie Sanders, although an independent Social Democrat, is trying hard to rekindle those agendas and core principles of the Democratic Party.
+
+Go Bernie! go green. A vote for clinton from the bernie camp is a vote for another disappointment, another disaster. Had she run as a republican she would have been more credible. With Bernie to beyond elections.
+
+It would be interesting to see Bernie join with the Greens and some other like-minded factions to create a new party. With the support Bernie has, I bet they would immediately capture 20% of the electorate.
+
+But what good what that do?  20% of the electorate in a national election translates into nothing.    
+
+Whatever limitations there are in the parallel between the Tea Party and an equivalent emerging on the left, I thing that Shahid is spot on to call for a full on strategy to challenge Democrats in primaries with an onslaught of progressive candidates
+
+Go WFP!!!!
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

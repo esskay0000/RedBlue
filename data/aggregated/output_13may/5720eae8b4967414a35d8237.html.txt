@@ -1,0 +1,420 @@
+
+
+Students at Holmes Elementary School in Miami listen to a teacher during class. (AP Photo / J Pat Carter)
+
+Sixty years after Brown v. Board of Education enshrined the promise of educational equality as a constitutional right, the question of “separate but equal” in public schools has resurfaced, in a lawsuit that attempts to pit teachers’ labor rights against children’s rights to fair educational access.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210124-0','tn_society_education_ros_halfpage_1','tn_society_education_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+When education reformers go after teachers’ labor protections, their seemingly morally unassailable line of attack is, “But what about the children?” It’s an alluring idea—don’t all children deserve a good education?—wrapped around a pernicious attack on labor rights: less union protection, ergo more “meritocracy” allowed to flourish in the education workforce. Labor advocates, however, challenge the reformers’ seemingly pro-student rationale with a more expansive definition of civil rights in schools: making a school community equitable and inclusive is a democratic project, not a mere matter of supply and demand.		
+A California Appeals Court recently struck down the central argument advanced by reform advocates backing the suit, called Vergara v. California: that California’s tenure policies—which afford a high level of job protection for teachers with seniority status—are unfair and discriminatory, because they protect “grossly ineffective” teachers and promote the clustering of “bad” teachers in poorer schools, with disproportionate impacts on poor students and students of color.“The challenged statutes do not inevitably lead to the assignment of more inexperienced teachers to schools serving poor and minority children,” the Court ruled. While “ineffective teachers” (according to the controversial statistical modeling Students Matter applies) were a problem, the judges acknowledged, this was not solely, or even primarily, the product of tenure policies.		
+The California Teachers Association argues that tenure protects due process, designed not to protect “bad” teachers, but to ensure “stability” and integrity in hiring and firing decisions. Their defense challenges a neoliberal reformist mentality that champions charter schools and other private-sector “solutions” to problems ascribed to publicly controlled institutions. This framework is driving a nationwide legal attack on collective bargaining rights, giving rise to Vergara-esque litigation attacking tenure policies in Minnesota and New York, featuring mediagenic young plaintiffs backed by well-heeled reform outfits.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before ‘Unity,’ Sanders Must Stay in the Fight
+The ruling acknowledged tenure policies are certainly not immune to criticism (and since Vergara was filed, lawmakers in California and other states have pushed for statewide tenure reform). But the decision ultimately contemplates other, more global factors, such as poverty or social instability in the surrounding community, that may have a deeper influence on children’s educational opportunities. This is basically the systemic ethical framework on which Brown v. Board was founded: educational inequality is intimately tied to segregation, and changing the structure of schooling is one facet of a societal struggle for racial justice.		
+According to a meta-analysis of teacher qualification data by the left-leaning Economic Policy Institute (EPI), while “teacher allocation” reflects deep inequalities, attacking collective bargaining drastically misses the point.		
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+When education reformers go after teachers’ labor protections, their seemingly morally unassailable line of attack is, “But what about the children?” It’s an alluring idea—don’t all children deserve a good education?—wrapped around a pernicious attack on labor rights: less union protection, ergo more “meritocracy” allowed to flourish in the education workforce. Labor advocates, however, challenge the reformers’ seemingly pro-student rationale with a more expansive definition of civil rights in schools: making a school community equitable and inclusive is a democratic project, not a mere matter of supply and demand.		
+A California Appeals Court recently struck down the central argument advanced by reform advocates backing the suit, called Vergara v. California: that California’s tenure policies—which afford a high level of job protection for teachers with seniority status—are unfair and discriminatory, because they protect “grossly ineffective” teachers and promote the clustering of “bad” teachers in poorer schools, with disproportionate impacts on poor students and students of color.“The challenged statutes do not inevitably lead to the assignment of more inexperienced teachers to schools serving poor and minority children,” the Court ruled. While “ineffective teachers” (according to the controversial statistical modeling Students Matter applies) were a problem, the judges acknowledged, this was not solely, or even primarily, the product of tenure policies.		
+The California Teachers Association argues that tenure protects due process, designed not to protect “bad” teachers, but to ensure “stability” and integrity in hiring and firing decisions. Their defense challenges a neoliberal reformist mentality that champions charter schools and other private-sector “solutions” to problems ascribed to publicly controlled institutions. This framework is driving a nationwide legal attack on collective bargaining rights, giving rise to Vergara-esque litigation attacking tenure policies in Minnesota and New York, featuring mediagenic young plaintiffs backed by well-heeled reform outfits.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before ‘Unity,’ Sanders Must Stay in the Fight
+The ruling acknowledged tenure policies are certainly not immune to criticism (and since Vergara was filed, lawmakers in California and other states have pushed for statewide tenure reform). But the decision ultimately contemplates other, more global factors, such as poverty or social instability in the surrounding community, that may have a deeper influence on children’s educational opportunities. This is basically the systemic ethical framework on which Brown v. Board was founded: educational inequality is intimately tied to segregation, and changing the structure of schooling is one facet of a societal struggle for racial justice.		
+According to a meta-analysis of teacher qualification data by the left-leaning Economic Policy Institute (EPI), while “teacher allocation” reflects deep inequalities, attacking collective bargaining drastically misses the point.		
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+A California Appeals Court recently struck down the central argument advanced by reform advocates backing the suit, called Vergara v. California: that California’s tenure policies—which afford a high level of job protection for teachers with seniority status—are unfair and discriminatory, because they protect “grossly ineffective” teachers and promote the clustering of “bad” teachers in poorer schools, with disproportionate impacts on poor students and students of color.“The challenged statutes do not inevitably lead to the assignment of more inexperienced teachers to schools serving poor and minority children,” the Court ruled. While “ineffective teachers” (according to the controversial statistical modeling Students Matter applies) were a problem, the judges acknowledged, this was not solely, or even primarily, the product of tenure policies.		
+The California Teachers Association argues that tenure protects due process, designed not to protect “bad” teachers, but to ensure “stability” and integrity in hiring and firing decisions. Their defense challenges a neoliberal reformist mentality that champions charter schools and other private-sector “solutions” to problems ascribed to publicly controlled institutions. This framework is driving a nationwide legal attack on collective bargaining rights, giving rise to Vergara-esque litigation attacking tenure policies in Minnesota and New York, featuring mediagenic young plaintiffs backed by well-heeled reform outfits.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before ‘Unity,’ Sanders Must Stay in the Fight
+The ruling acknowledged tenure policies are certainly not immune to criticism (and since Vergara was filed, lawmakers in California and other states have pushed for statewide tenure reform). But the decision ultimately contemplates other, more global factors, such as poverty or social instability in the surrounding community, that may have a deeper influence on children’s educational opportunities. This is basically the systemic ethical framework on which Brown v. Board was founded: educational inequality is intimately tied to segregation, and changing the structure of schooling is one facet of a societal struggle for racial justice.		
+According to a meta-analysis of teacher qualification data by the left-leaning Economic Policy Institute (EPI), while “teacher allocation” reflects deep inequalities, attacking collective bargaining drastically misses the point.		
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+The California Teachers Association argues that tenure protects due process, designed not to protect “bad” teachers, but to ensure “stability” and integrity in hiring and firing decisions. Their defense challenges a neoliberal reformist mentality that champions charter schools and other private-sector “solutions” to problems ascribed to publicly controlled institutions. This framework is driving a nationwide legal attack on collective bargaining rights, giving rise to Vergara-esque litigation attacking tenure policies in Minnesota and New York, featuring mediagenic young plaintiffs backed by well-heeled reform outfits.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before ‘Unity,’ Sanders Must Stay in the Fight
+The ruling acknowledged tenure policies are certainly not immune to criticism (and since Vergara was filed, lawmakers in California and other states have pushed for statewide tenure reform). But the decision ultimately contemplates other, more global factors, such as poverty or social instability in the surrounding community, that may have a deeper influence on children’s educational opportunities. This is basically the systemic ethical framework on which Brown v. Board was founded: educational inequality is intimately tied to segregation, and changing the structure of schooling is one facet of a societal struggle for racial justice.		
+According to a meta-analysis of teacher qualification data by the left-leaning Economic Policy Institute (EPI), while “teacher allocation” reflects deep inequalities, attacking collective bargaining drastically misses the point.		
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+The CIA Waterboarded the Wrong Man 83 Times in 1 Month
+
+African-American Voters Have an Understandable Reason to Support Hillary Clinton
+
+Brotherhood of Bullies: Bob Knight Endorses Donald Trump
+
+The Orange Rage Monster Acts Presidential
+
+Before ‘Unity,’ Sanders Must Stay in the Fight
+
+The ruling acknowledged tenure policies are certainly not immune to criticism (and since Vergara was filed, lawmakers in California and other states have pushed for statewide tenure reform). But the decision ultimately contemplates other, more global factors, such as poverty or social instability in the surrounding community, that may have a deeper influence on children’s educational opportunities. This is basically the systemic ethical framework on which Brown v. Board was founded: educational inequality is intimately tied to segregation, and changing the structure of schooling is one facet of a societal struggle for racial justice.		
+According to a meta-analysis of teacher qualification data by the left-leaning Economic Policy Institute (EPI), while “teacher allocation” reflects deep inequalities, attacking collective bargaining drastically misses the point.		
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+According to a meta-analysis of teacher qualification data by the left-leaning Economic Policy Institute (EPI), while “teacher allocation” reflects deep inequalities, attacking collective bargaining drastically misses the point.		
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+First, many school districts suffer endemic resource limitations: About half of public schools nationwide are considered “high poverty schools.” Across this highly unequal school landscape, “The credentials of teachers in schools overall are better than the credentials of teachers in high-poverty schools.” Nonetheless, high poverty schools in some states, including New Jersey and Ohio, have teachers who are relatively more experienced; some states have more teachers with subject specialties (such as math) concentrated in high-poverty schools.						
+			.article-wrap .article-body aside.left.custom_background_210124			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+So how do unions fit in? Also not very consistently, according to EPI:		
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+The density of teachers unions has no apparent connection to either of these allocations. We see teacher misallocation problems in states with high teacher-union density (for example, Connecticut, Pennsylvania, and New York) and in states with low union density (such as Virginia, Arkansas, and Arizona).		
+
+Why do “difficult” schools struggle to retain “high quality” educators? EPI President Lawrence Mishel tells The Nation via email:		
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+Teachers do choose to leave poor schools for a variety of reasons. Safety…working conditions, convenience (they want to be closer to home)…efficacy (they want to be in places where they feel the leadership is good and people are really working to make things better).					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210124-2','tn_society_education_ros_halfpage_2','tn_society_education_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+
+So the reasons children face unequal educational environments are as diverse as the reasons teachers end up with unequal working conditions. As public employees, teachers’ “choice” is also a function of what their contracts provide: Some unionized teachers actually lack collective bargaining rights. State tenure laws and teacher transfer policies also vary widely in how factors like seniority and union influence are weighted.		
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+Within this jumble of social factors, unions operate as a collective voice for teachers, ideally driven by workers’ demands but often shaped by politics, for better or worse. A weak union may fail to support teachers facing overbearing administrators, leading to burnout and disruptive turnover. But a democratically run union with close community ties, like the militant Chicago Teachers Union, might play a key role in retaining expert veteran teachers and maintaining equitable funding.		
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+In a 2009 evaluation of teacher allocation issues, the National Comprehensive Center for Teacher Quality concluded that inequities in teacher qualification can be addressed through “strong collaborative relationship at all levels” in the school system, including labor and local families, and a “balance of human resource funding across schools” to ensure that students are matched with teachers who fulfill their needs.		
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+Bob Peterson, former president of Milwaukee Teachers’ Education Association writes to The Nation:		
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+There are ways to encourage teachers to teach in more difficult schools—but forced transfers or additional money is not one that I support. I support improved working conditions in such schools—lower class sizes, more support personnel (guidance, mental health, nurses, counselors, etc.), more planning time, and more democratic and collaborative leadership structures in such schools.		
+
+To prevent shortages of talented, motivated educators, Peterson argues, provide the conditions for them to thrive: “Improved working conditions are essential to attracting new teachers and retain[ing] veteran teachers in urban and rural school districts that [struggle] to find sufficient number of teachers.”		
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+The problem isn’t “misallocation” of educators but a mismatch of priorities; there simply aren’t enough resources—pedagogical or financial—to provide a decent learning environment for all. Before debating how to force teachers to do more with less, let’s think about how to compel the system to provide to all children what they, and their educators, deserve.		
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Well, in practice we are back to separate but equal in the huge wave of charter schools across the country.  One way or another, we were going to move away from where we were headed back in the mid twentieth century,  This one is a hard one to crack in the United States, we really DON&apos;T want an egalitarian educational system.  Teachers count, but say in Bill Gates head, not very much.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

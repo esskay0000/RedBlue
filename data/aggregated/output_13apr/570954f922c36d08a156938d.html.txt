@@ -1,0 +1,78 @@
+/ AP
+
+BY:  Bill Gertz Follow @BillGertz
+April 8, 2016 6:10 pm
+
+Three months after a Department of Homeland Security intelligence report downplayed the threat of a cyber attack against the U.S. electrical grid, DHS and the FBI began a nationwide program warning of the dangers faced by U.S. utilities from damaging cyber attacks like the recent hacking against Ukraineâs power grid.
+
+The nationwide campaign by DHS and the FBI began March 31Â and includes 12 briefings and online webinars for electrical power infrastructure companies and others involved in security, with sessions in eight U.S. cities, including a session next week in Washington.
+
+The unclassified briefings are titled âUkraine Cyber Attack: Implications for U.S. Stakeholders,â and are based on work with the Ukrainian government in the aftermath of the Dec. 23 cyber attack against the Ukrainian power infrastructure.
+
+âThese events represent one of the first known physical impacts to critical infrastructure which resulted from cyber-attack,â the announcement by the DHS Industrial Control Systems Cyber Emergency Response Team read.
+
+âThe attacks leveraged commonly available tools and tactics against the control systems which could be used against infrastructure in every sector.â
+
+The briefings will outline the details of the attacks, the techniques used by the hackers, and strategies to be used to limit risks and improve cyber security for grid organizations.
+
+Security researchers have concluded the attack was carried out by Russian government hackers based on the type of malicious software, called BlackEnergy, that was detected in the incident.
+
+The threat briefings followed an internal DHS intelligence report published in January that stated the risk of a cyber attack against U.S. electrical infrastructure was low.
+
+âWe assess the threat of a damaging or disruptive cyber attack against the U.S energy sector is low,â the report, labeled âfor official use only,â says.
+
+The report said advanced cyber attackers, such as nation states like Russia and China, are mainly seeking to conduct âcyber espionage.â
+
+Penetration by foreign hackers into industrial control systems used to remotely control the electrical power grids as well as water and other infrastructure âprobably is focused on acquiring and maintaining persistent access to facilitate the introduction of malware, and likely is part of nation-state contingency planning that would only be implemented to conduct a damaging or disruptive attack in the event of hostilities with the United States,â the eight-page report states.
+
+The majority of malicious cyber attacks against energy companies was downplayed as âlow-level cybercrime that is likely opportunistic in nature rather than specifically aimed at the sector, [and] is financially or ideologically motivated, and is not meant to be destructive.â
+
+The report also sought to dismiss public references to âcyber-attacksâ as exaggeration. âOveruse of the term âcyber attack,â risks âalarm
+
+âOveruse of the term âcyber attack,â risks âalarm fatigue,â which could lead to longer response times or to missing important incidents,â the report said.
+
+The report raises questions about whether DHS, which has primary responsibility for protecting U.S. government computer networks and works with the private sector to prevent cyber attacks, understands the infrastructure cyber threat and is seeking to downplay the threat for political reasons.
+
+The Obama administration has adopted an approach that seeks to play down foreign national security threats under conciliatory foreign policies pursuing warmer relations with states such as Russia, China, and Iran.
+
+The DHS report, however, contrasts sharply with recent statements by Adm. Mike Rogers, commander of the Cyber Command, who warned recently that a major cyber attackÂ by nation-states against critical infrastructures poses a major security threat.
+
+âIt is only a matter of the âwhen,â not the âifââweâre going to see a nation-state, group, or actor engage in destructive behavior against critical infrastructure in the United States,â Rogers, who is also director of the National Security Agency, said in a speech March 2.
+
+Rogers described the Ukraine cyber attacks as âa well-crafted attackâ that temporarily disrupted electrical power in Ukraine.
+
+The four-star admiral said the cyber attack also included the use of sophisticated monitoring of how Ukrainian authorities reacted to the attack. The attackers then took additional cyber measures designed to slow down the process of restoring electrical power, he said.
+
+âSeven weeks ago it was the Ukraine. This isnât the last weâre going to see this, and that worries me,â Rogers said.
+
+A report by the State Department-led Overseas Security Advisory Council, a public-private security group, provided details of the Ukrainian electrical grid attack from open sources.
+
+âWhile cyber attacks on critical infrastructure systems have long been viewed as digital aggression with physical consequences, very few have been documented to date, making the late December events in Ukraine a hallmark incident,â the report said, adding that in addition to the power grid, hackers targeted airport, rail and mining system networks.
+
+On Dec. 23, the Ukrainian power provider Prykarpattyaoblenergo, in the western Ukrainian region of Ivan-Frankivsk, was hit by a large-scale breakdown that left 200,000 people in the region without power for several hours.
+
+The cause was determined to be interference with the automated control system from malicious software.
+
+The research group SANS Institute investigated and determined the blackout was caused by hackers who gained remote access and inflicted changes on the electrical distribution system.
+
+âThe cyber attack was allegedly timed to occur during a telephone flood aimed at the help desks of Ukrainian electric companies, intending to keep support staff pre-occupied and divert attention from the network intrusion,â the report said.
+
+Other outages occurred in Kyiv Oblast that produced loss of electrical power to 80,000 people. Another unidentified power company in Ukraine also was hit.
+The malware used against the three power companies was identified as BlackEnergy 3, which is believed to be Russian in origin and designed to attack infrastructure systems.
+
+âA unique feature of BlackEnergy 3 is its KillDisk function, enabling the attacker to rewrite files on the infected system with random data and blocking the user from rebooting their system, rendering it inoperable,â the report said. âThe virus also searches victim computers for software that is primarily used in electric control systems, indicating a potential focus on critical infrastructure systems.â
+
+The Ukraine security service said in a statement that Russia was behind the power grid attack, and the Ukrainian Energy Ministry concluded Feb. 12 that the hackers âused a Russian-based Internet provider and made phone calls from inside Russia as part of a coordinated cyber attack on Ukraineâs power grid.â
+
+The security firm iSight Partners traced the Ukraine cyber attack to a team of Russian hackers called SandwormÂ and noted that it was among the first destructive cyber attacks by the group that in the past had limited its activities to cyber theft.
+
+The State Department report said some analysts believe power failures from malware cyber attacks âcould entice nation-states and other nefarious threat actors to execute similar cyber attacks in the future.â
+
+âHowever, the incident in Ukraine still remains the first possible instance of a blackout caused by a malicious network intrusion, not yet indicative of a trend,â the report said.
+
+Ukrainian authorities this week disclosed that police and IT companies disrupted a Russian âbotnetâ server of some 4,000 computers that were hijacked and operated covertly in Ukraine and 62 other countries. The botnet, apparently used for criminal purposes, was code-named Mumblehard.
+
+An FBI spokeswoman referred questions to DHS. A DHS spokesman declined to comment, citing a policy of not commenting on âpurportedly leaked documents.â
+
+Bill Gertz   Email Bill | Full Bio | RSSBill Gertz is the senior editor of the Washington Free Beacon.
+

@@ -1,0 +1,46 @@
+The US Senate Commerce Committee—which has jurisdiction over media issues, consumer protection issues, and internet communication—has sent a letter to Mark Zuckerberg requesting answers to questions it has on its trending topics section. The letter comes after Gizmodo on Monday reported on allegations by one former news curator, who worked for Facebook as a contractor, that the curation team routinely suppressed or blacklisted topics of interest to conservatives. That report also included allegations from several former curators that they used a “injection tool” to add or bump stories onto the trending module.
+
+The letter asks that Facebook “arrange for your staff including employees responsible for trending topics to brief committee staff on this issue.” The letter was signed by Chairman for the Committee on Commerce, Science, and Transportation, Senator John Thune (R) from South Dakota.
+
+Some of the letter’s questions include:
+
+Advertisement
+
+
+
+1) Please describe Facebook’s organization structure for the Trending Topics feature, and the steps for determining included topics. Who is ultimately responsible for approving its content?
+
+2) Have Facebook news curators in fact manipulated the content of the Trending Topics section, either by targeting news stories related to conservative views for exclusion or by injecting non-trending content?
+
+3) What steps is Facebook taking to investigate claims of politically motivated manipulation of news stories in the Trending Topics section? If such claims are substantiated, what steps will Facebook take to hold the responsible individuals accountable?
+
+4) In a statement responding to the allegations, Facebook has claimed to have “rigorous guidelines in place for the review team” to prevent “the suppression of political perspectives” or the “prioritization of one viewpoint ver another or one news outlet over another.”
+
+a. When did Facebook first introduce these guidelines?
+
+b. Please provide a copy of these guidelines, as well as any changes or amendments since January 2014.
+
+c. Does Facebook provide training for its employees related to these guidelines? If so, describe what the training consists of, as well as its frequency.
+
+d. How does Facebook determine compliance with these guidelines? Does it conduct audits? If so, how often? What steps are taken when a violation occurs?
+
+5) Does Facebook maintain a record of curators decisions to inject a story into the Trending Topics section or target a story for removal? If such a record is not maintained, can such decisions be reconstructed or determined based on an analysis of the Trending Topics product?
+
+a. If so, how many stories have curators excluded that represented conservative viewpoints or topics of interest to conservatives? How many stories did curators inject that were not, in fact, trending?
+
+b. Please provide a list of all news stories removed from or injected into the Trending Topics section since January 2014.
+
+Update 4:10 pm: Facebook has released a statement in response to the committee’s inquiry, stating that it “looks forward to addressing” Sen. Thune’s questions. 
+
+
+
+Sponsored
+
+
+
+
+
+Technology editor at Gizmodo.
+
+PGP Fingerprint: A424 3225 2883 A6CE 3F91  5131 8050 002A A3E1 D6|PGP Key
+

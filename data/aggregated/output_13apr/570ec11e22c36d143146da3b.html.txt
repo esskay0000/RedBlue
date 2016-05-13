@@ -1,0 +1,26 @@
+Ransomware criminals are getting savvier in collecting ransoms by borrowing friendly customer service and marketing techniques from traditional industries.
+
+Reuters reports on how the town of Tewksbury, Massachusetts was struck by ransomware last year when its police department was locked down by CryptoLocker. The virus, which encrypts valuable files demanded a ransom of $500, to be paid in bitcoin, to retrieve the files â a ransom that the police department ultimately paid.
+
+Most interestingly, ransomware has taken on a new level of professionalism. Once infected, Tewkesbury officials noticed that they received an FAQ and instruction manual to guide them through the process of paying the ransom.
+
+In others cases, the cybercriminals are even using graphic artists to make their ransom warnings look even more professional and eye-catching. Criminals are also taking the time to translate messages to different languages, to maximize the number of potential targets globally.
+
+Related: The latest ransomware scheme knows where you live, demands over $500
+
+Ransomware has evolved quite a bit since the first strains of the malware that emerged a couple of years ago, which often shoddily locked down a computer and demanded payment. For years, security firms and law enforcement advised against anyone paying the ransom and giving in to criminals; mostly because there was never any guarantee that your files would be decrypted and returned.
+
+Now, ransomware has become more sophisticated, and people are paying up to get their files back. Weâve seen a wave of ransomware attacks this year, most notably attacks on hospitals and small businesses, which have all forked over thousands. On an individual level, the demand is usually around the $300 to $500 mark, as criminals know most people canât pay more.
+
+Related: Bitdefender distributes âvaccineâ to combat growing ransomware threat
+
+This week, Symantec released its Internet Security Threat Report, a summary of threats in 2015. It noted a huge increase (35 percent) of ransomware on computers and mobile, and even published proof of concept attacks in smartwatches and smart TVs.
+
+âItâs profitable, and thatâs really causing the increase in numbers,â Kevin Haley, director of Symantec Security Response told Digital Trends. âMore and more gangs are getting into it and they make more money and continue to try and expand and grow their business by attacking more and more people.â
+
+Making the whole process smooth and easy is one way of doing that, even if it is still a crime that weâre talking about.
+
+Also watch: Asus ROG GX700 Hands On
+
+Please enable Javascript to watch this video
+

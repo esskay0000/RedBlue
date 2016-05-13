@@ -1,0 +1,178 @@
+
+	86
+      
+
+By
+
+Stacy Liberatore For Dailymail.com
+
+
+
+Published:
+  18:22 EST, 3 May 2016
+
+ | 
+Updated:
+  03:03 EST, 4 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3572184',
+                    'title': 'VR app claims to reproduce similar effects of a hallucinogenic drug',
+                    'url': 'http://www.dailymail.co.uk/sciencetech/article-3572184/That-s-trippy-Watch-VR-app-claims-able-reproduce-effects-hallucinogenic-drug.html',
+                    'eTwitterStatus': ' http://dailym.ai/1TJXVn3 via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+86
+shares
+
+ 
+          27
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          27
+
+View  comments
+
+Some have reported seeing swirling orbs in the sky or rainbow explosions in front of their face after taking acid - and now a virtual reality app claims to be able to recreate the effects.Â 
+
+
+
+Combined with the Oculus Rift, SoundSelf creates a synthetic trip with lights and sounds that plays on the neurological phenomena known as synaesthesia.
+
+'SoundSelf is the collision of centuries old meditation technology with the video game trance,' explained Robin Arnott, creator of SoundSelf.Â 
+
+Scroll down for videoÂ 
+
+For those who are curious about the drug-induced hallucination, but more concerned about side-effects, a game maker offers a similar experience in a virtual world. Combined with the Oculus Rift, SoundSelf creates a synthetic trip with lights and sounds that plays on the neurological phenomena known as synaesthesia
+
+Supports the Oculus Rift and other 3D displays.
+
+Face-melting music with synesthetic DMT-style visualizations uniquely generated in response to your voice.
+
+Play alone or with friends.
+
+Musical skill not required! SoundSelf works with any voice through any microphone, like the one on your webcam.
+
+Infinite replayability.
+
+Intrinsically meditative gameplay, even for players uninitiated in meditation. Early playtesters report improved sleep!
+
+Source: SoundSelfGame.com
+
+'Turn off the lights, amp up the volume, and use your voice to fall through an odyssey of light and body.'
+
+Around the same time the Oculus was announced, Arnott teamed up with DSP programmer and game designer Evan Balster to create game that when users talk, hum or whistle the patterns become larger and more powerful.
+
+Arnott shared this innovation at the PAX East Expo in Boston last month.
+
+During the event, he explained the program is used to 'promote mediation through creating abstract reality' and mentioned the danger of suggestion, reports InfoTrends.
+
+Arnott stressed, that while the users is under complete VR influence (the headset and earphones), it 'would be incredibly easy to subtly interject foreign ideas into the user's deeper conscious mind'.
+
+The program supports Oculus Rift and other 3D displays and plays, 'face-melting music with synesthetic DMT-style visualizations uniquely generated in response to your voice'.
+
+According to Wired, talking or making any sound will change the patterns, lights, sounds and shapes that you see.
+
+
+
+According to Wired , talking or making any sound will change the patterns, lights, sounds and shapes that you see.Â It merges users and the world around them into a synesthetic collaboration. Arnott refereed to this experience as 'ego death'
+
+It merges users and the world around them into a synesthetic collaboration, shared Chris Kohler from Wired, who experienced the VR trip firsthand.
+
+'They call it 'ego death,'' Arnott said.Â 
+
+'Just as when you're dying, as your body is in grave danger, your memory bank facilities dramatically increase, and you remember it in slow motion.Â 
+
+'The replay of that is like a step-by-step replay of the dissolution of a human being.'
+
+And although its main objective is to take users on a journey through their mind, friends can go along with them as it allows multiple users.
+
+'SoundSelf is the collision of centuries old meditation technology with the video game trance,' explained Robin Arnott, creator of SoundSelf. 'Turn off the lights, amp up the volume, and use your voice to fall through an odyssey of light and body'
+
+The program was displayed last month atÂ the PAX East Expo in Boston. Users strapped on an Oculus Rift headset, laid back and went on a synthetic trip through the mind
+
+There is no musical skill required, just the sound of your voice is needed to induce the synthetic trip, and early play testers reported improved sleep after using the program.
+
+Arnott says he had his first 'peak' experience at Burning Man in 2011 and the design of SoundSelf came to him shortly after 'basically fully formed'.
+
+Arnott shared this innovation at the PAX East Expo in Boston last month. During the event, he explained the program is used to 'promote mediation through creating abstract reality' and mentioned the danger of suggestion
+
+Arnott stressed, that while the users is under complete VR influence, it 'would be incredibly easy to subtly interject foreign ideas into the user's deeper conscious mind'. Â And although its main objective is to take users on a journey through their mind, friends can go along with them as it allows multiple users
+
+In 2013, he and Blaster opened a Kickstarter campaign to raise $29,060 to create a working prototype and give them more support for a longer period of time to develop other features.
+
+The biggest risk is that SoundSelf won't be what you expect,' reads the closed campaign.
+
+The program supports Oculus Rift and other 3D displays and plays, 'face-melting music with synesthetic DMT-style visualizations uniquely generated in response to your voice'.Â There is no musical skill required, just the sound of your voice is needed to induce the synthetic trip, and early play testers reported improved sleep
+
+Arnott says he had his first 'peak' experience at Burning Man in 2011 and the design of SoundSelf came to him shortly after 'basically fully formed'.Â In 2013, he and Blaster opened a Kickstarter campaign to raise $29,060 to create a working prototype and give them more support for a longer period of time to develop other features
+
+'We're exploring relatively uncharted territory in game development and, while we have a trajectory in mind and an exciting new prototype, the game evolves and changes with each new play test, new player and new experience'
+
+'The greatest risk is also the best reward: that SoundSelf will surprise you.'
+
+The campaign closed in 2013 with 1,180 backers that pledged $36,766 'to help bring this project to life'.
+
+Â 
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+
+
+
+      Watch cargo ships sail Earth's oceans: Hypnotic interactive map follows the route of giant vessels over a year
+    
+
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

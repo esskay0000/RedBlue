@@ -1,0 +1,852 @@
+
+
+An aerial view of the Pentagon building in Washington, DC.
+ (Reuters / Jason Reed)
+
+From spending $150 million on private villas for a handful of personnel in Afghanistan to blowing $2.7 billion on an air surveillance balloon that doesn’t work, the latest revelations of waste at the Pentagon are just the most recent howlers in a long line of similar stories stretching back at least five decades. Other hot-off-the-presses examples would include the Army’s purchase of helicopter gears worth $500 each for $8,000 each and the accumulation of billions of dollars’ worth of weapons components that will never be used. And then there’s the one that would have to be everyone’s favorite Pentagon waste story: the spending of $50,000 to investigate the bomb-detecting capabilities of African elephants. (And here’s a shock: They didn’t turn out to be that great!) The elephant research, of course, represents chump change in the Pentagon’s wastage sweepstakes and in the context of its $600-billion-plus budget, but think of it as indicative of the absurd lengths the Department of Defense will go to when what’s at stake is throwing away taxpayer dollars.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-209023-0','tn_world_war_and_peace_ros_halfpage_1','tn_world_war_and_peace_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+
+This article originally appeared at TomDispatch.com. To stay on top of important articles like these, sign up to receive the latest updates from TomDispatch.com.
+
+Keep in mind that the above examples are just the tip of the tip of a titanic iceberg of military waste. In a recent report I did for the Center for International Policy, I identified 27 recent examples of such wasteful spending totaling over $33 billion. And that was no more than a sampling of everyday life in the 21st-century world of the Pentagon.		
+The staggering persistence and profusion of such cases suggests that it’s time to rethink what exactly they represent. Far from being aberrations in need of correction to make the Pentagon run more efficiently, wasting vast sums of taxpayer dollars should be seen as a way of life for the Department of Defense. And with that in mind, let’s take a little tour through the highlights of Pentagon waste from the 1960s to the present.		
+How Many States Can You Lose Jobs In?
+The first person to bring widespread public attention to the size and scope of the problem of Pentagon waste was Ernest Fitzgerald, an Air Force deputy for management systems. In the late 1960s, he battled that service to bring to light massive cost overruns on Lockheed’s C-5A transport plane. He risked his job, and was ultimately fired, for uncovering $2 billion in excess expenditures on a plane that was supposed to make the rapid deployment of large quantities of military equipment to Vietnam and other distant conflicts a reality.		
+The cost increase on the C-5A was twice the price Lockheed had initially promised, and at the time one of the largest cost overruns ever exposed. It was also an episode of special interest then, because Secretary of Defense Robert McNamara had been pledging to bring the efficient business methods he had learned as Ford Motors president to bear on the Pentagon’s budgeting process.		
+No such luck, as it turned out, but Fitzgerald’s revelations did, at least, spark a decade of media and congressional scrutiny of the business practices of the weapons industry. The C-5A fiasco, combined with Lockheed’s financial troubles with its L-1011 airliner project, led the company to approach Congress, hat in hand, for a $250 million government bailout. Wisconsin Senator William Proxmire, who had helped bring attention to the C-5A overruns, vigorously opposed the measure, and came within one vote of defeating it in the Senate.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+This article originally appeared at TomDispatch.com. To stay on top of important articles like these, sign up to receive the latest updates from TomDispatch.com.
+
+Keep in mind that the above examples are just the tip of the tip of a titanic iceberg of military waste. In a recent report I did for the Center for International Policy, I identified 27 recent examples of such wasteful spending totaling over $33 billion. And that was no more than a sampling of everyday life in the 21st-century world of the Pentagon.		
+The staggering persistence and profusion of such cases suggests that it’s time to rethink what exactly they represent. Far from being aberrations in need of correction to make the Pentagon run more efficiently, wasting vast sums of taxpayer dollars should be seen as a way of life for the Department of Defense. And with that in mind, let’s take a little tour through the highlights of Pentagon waste from the 1960s to the present.		
+How Many States Can You Lose Jobs In?
+The first person to bring widespread public attention to the size and scope of the problem of Pentagon waste was Ernest Fitzgerald, an Air Force deputy for management systems. In the late 1960s, he battled that service to bring to light massive cost overruns on Lockheed’s C-5A transport plane. He risked his job, and was ultimately fired, for uncovering $2 billion in excess expenditures on a plane that was supposed to make the rapid deployment of large quantities of military equipment to Vietnam and other distant conflicts a reality.		
+The cost increase on the C-5A was twice the price Lockheed had initially promised, and at the time one of the largest cost overruns ever exposed. It was also an episode of special interest then, because Secretary of Defense Robert McNamara had been pledging to bring the efficient business methods he had learned as Ford Motors president to bear on the Pentagon’s budgeting process.		
+No such luck, as it turned out, but Fitzgerald’s revelations did, at least, spark a decade of media and congressional scrutiny of the business practices of the weapons industry. The C-5A fiasco, combined with Lockheed’s financial troubles with its L-1011 airliner project, led the company to approach Congress, hat in hand, for a $250 million government bailout. Wisconsin Senator William Proxmire, who had helped bring attention to the C-5A overruns, vigorously opposed the measure, and came within one vote of defeating it in the Senate.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The staggering persistence and profusion of such cases suggests that it’s time to rethink what exactly they represent. Far from being aberrations in need of correction to make the Pentagon run more efficiently, wasting vast sums of taxpayer dollars should be seen as a way of life for the Department of Defense. And with that in mind, let’s take a little tour through the highlights of Pentagon waste from the 1960s to the present.		
+How Many States Can You Lose Jobs In?
+The first person to bring widespread public attention to the size and scope of the problem of Pentagon waste was Ernest Fitzgerald, an Air Force deputy for management systems. In the late 1960s, he battled that service to bring to light massive cost overruns on Lockheed’s C-5A transport plane. He risked his job, and was ultimately fired, for uncovering $2 billion in excess expenditures on a plane that was supposed to make the rapid deployment of large quantities of military equipment to Vietnam and other distant conflicts a reality.		
+The cost increase on the C-5A was twice the price Lockheed had initially promised, and at the time one of the largest cost overruns ever exposed. It was also an episode of special interest then, because Secretary of Defense Robert McNamara had been pledging to bring the efficient business methods he had learned as Ford Motors president to bear on the Pentagon’s budgeting process.		
+No such luck, as it turned out, but Fitzgerald’s revelations did, at least, spark a decade of media and congressional scrutiny of the business practices of the weapons industry. The C-5A fiasco, combined with Lockheed’s financial troubles with its L-1011 airliner project, led the company to approach Congress, hat in hand, for a $250 million government bailout. Wisconsin Senator William Proxmire, who had helped bring attention to the C-5A overruns, vigorously opposed the measure, and came within one vote of defeating it in the Senate.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The first person to bring widespread public attention to the size and scope of the problem of Pentagon waste was Ernest Fitzgerald, an Air Force deputy for management systems. In the late 1960s, he battled that service to bring to light massive cost overruns on Lockheed’s C-5A transport plane. He risked his job, and was ultimately fired, for uncovering $2 billion in excess expenditures on a plane that was supposed to make the rapid deployment of large quantities of military equipment to Vietnam and other distant conflicts a reality.		
+The cost increase on the C-5A was twice the price Lockheed had initially promised, and at the time one of the largest cost overruns ever exposed. It was also an episode of special interest then, because Secretary of Defense Robert McNamara had been pledging to bring the efficient business methods he had learned as Ford Motors president to bear on the Pentagon’s budgeting process.		
+No such luck, as it turned out, but Fitzgerald’s revelations did, at least, spark a decade of media and congressional scrutiny of the business practices of the weapons industry. The C-5A fiasco, combined with Lockheed’s financial troubles with its L-1011 airliner project, led the company to approach Congress, hat in hand, for a $250 million government bailout. Wisconsin Senator William Proxmire, who had helped bring attention to the C-5A overruns, vigorously opposed the measure, and came within one vote of defeating it in the Senate.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The cost increase on the C-5A was twice the price Lockheed had initially promised, and at the time one of the largest cost overruns ever exposed. It was also an episode of special interest then, because Secretary of Defense Robert McNamara had been pledging to bring the efficient business methods he had learned as Ford Motors president to bear on the Pentagon’s budgeting process.		
+No such luck, as it turned out, but Fitzgerald’s revelations did, at least, spark a decade of media and congressional scrutiny of the business practices of the weapons industry. The C-5A fiasco, combined with Lockheed’s financial troubles with its L-1011 airliner project, led the company to approach Congress, hat in hand, for a $250 million government bailout. Wisconsin Senator William Proxmire, who had helped bring attention to the C-5A overruns, vigorously opposed the measure, and came within one vote of defeating it in the Senate.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+No such luck, as it turned out, but Fitzgerald’s revelations did, at least, spark a decade of media and congressional scrutiny of the business practices of the weapons industry. The C-5A fiasco, combined with Lockheed’s financial troubles with its L-1011 airliner project, led the company to approach Congress, hat in hand, for a $250 million government bailout. Wisconsin Senator William Proxmire, who had helped bring attention to the C-5A overruns, vigorously opposed the measure, and came within one vote of defeating it in the Senate.
+Most Popular1I Used to Support Bernie, but Then I Changed My Mind2Bernie Rocks Buffalo. He Also Did Something Else.3Hundreds of People Were Just Arrested Outside Congress4Sanders Is for Schmucks5We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+I Used to Support Bernie, but Then I Changed My Mind
+
+Bernie Rocks Buffalo. He Also Did Something Else.
+
+Hundreds of People Were Just Arrested Outside Congress
+
+Sanders Is for Schmucks
+
+We Asked 4 Prominent Bernie Supporters if They’d Vote for Hillary in November. Here’s What They Told Us.
+
+In a time-tested lobbying technique that has been used by weapons makers ever since, Lockheed claimed that denying it loan guarantees would cost 34,000 jobs in 35 states, while undermining the Pentagon’s ability to prepare for the next war, whatever it might be. The tactic worked like a charm. Montana Senator Lee Metcalf, who cast the deciding vote in favor of the bailout, said, “I’m not going to be the one to put those thousands of people out of work.” An analysis by the New York Times found that every senator with a Lockheed-related plant in his or her state voted for the deal.		
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+By rewarding Lockheed Martin for its wasteful practices, Congress set a precedent that has never been superseded. A present-day case in point is—speak of the devil—Lockheed Martin’s F-35 combat aircraft. At $1.4 trillion in procurement and operating costs over its lifetime, it will be the most expensive weapons program ever undertaken by the Pentagon (or anyone else on planet Earth), and the warning signs are already in: tens of billions of dollars in projected cost overruns and myriad performance problems before the F-35 is even out of its testing phase. Now the Pentagon wants to rush the plane into production by making a “block buy” of more than 400 planes that will involve little or no accountability regarding the quality and cost of the final product.		
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+Predictably, almost five decades after the C-5A contretemps, Lockheed Martin has deployed an inflationary version of the jobs argument in defense of the F-35, making the wildly exaggerated claim that the plane will produce 125,000 jobs in 46 states. The company has even created a handy interactive map to show how many jobs the program will allegedly create state by state. Never mind the fact that weapons spending is the least efficient way to create jobs, lagging far behind investment in housing, education, or infrastructure.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-209023-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+			.article-wrap .article-body aside.left.custom_background_209023			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The Classic $640 Toilet Seat
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Despite the tens of billions being wasted on a project like the F-35, the examples that tend to draw the most attention from the media and the most outrage among taxpayers involve overspending on routine items. This may be because the average person doesn’t have a sense of what a fighter plane should cost, but can more easily grasp that spending $640 for a toilet seat or $7,600 for a coffee pot is outrageous. These kinds of examples—first exposed through work done in the 1980s by Dina Rasor of the Project on Military Procurement—undermined the position taken by President Ronald Reagan’s administration that not a penny could be cut from its then-record peacetime Pentagon budgets.		
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The media ate such stories up. Pentagon overpayments for everyday items generated hundreds of articles in newspapers and magazines, including front-page coverage in The Washington Post. Two whistleblowers were even interviewed on the Today Show, and Johnny Carson joked about such scandals in his introductory monologues on the Tonight Show. Perhaps the most memorable depiction of the problem was a cartoon by The Washington Post’s Herblock that showed Reagan Secretary of Defense Caspar Weinberger wearing a $640 toilet seat around his neck. This outburst of truth-telling, whistleblowing, investigative journalism, and mockery helped put a cap on the Reagan military buildup, but—you won’t be surprised to learn—didn’t keep the Pentagon from finding ever more innovative ways to misspend tax dollars.		
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The most outrageous spending choice of the 1990s was undoubtedly the Clinton administration’s decision to subsidize the mergers of major defense firms. As Lockheed (yet again!) and Martin Marietta merged, Northrop teamed with Grumman, and Boeing bought McDonnell Douglas, the Pentagon provided funding to pay for everything from closing down factories to subsidizing golden parachutes for displaced executives and board members. At the time, Vermont Congressman Bernie Sanders aptly dubbed the process “payoffs for layoffs,” as executives of defense firms received healthy payouts while laid-off workers were largely left to fend for themselves.      
+      .cta.primary.nYjkvFZJsp{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.nYjkvFZJsp a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The Pentagon’s rationale for giving hundreds of millions of dollars to these emerging defense behemoths was laughable. The claim—absurd on the face of it—was that the new, larger companies would provide the Pentagon with lower prices once they had eliminated unnecessary overhead. Former Pentagon official Lawrence Korb, who opposed the subsidies at the time,noted the obvious: there was no evidence that weapons programs grew any cheaper, cost overruns any less, or wastage any smaller thanks to government subsidized mergers. As in fact became clear in the world of the weapons giants that followed, the increased bargaining power of companies like Lockheed Martin in a significantly less competitive market undoubtedly resulted in higher weapons costs.		
+It Took $6 Billion Not to Audit the Pentagon
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+The poster child for waste in the first decade of the 21st century was certainly the billions of dollars a privatizing Pentagon handed out to up-armored companies like Halliburton that accompanied the US military into its war zones and engaged in Pentagon-funded base-building and “reconstruction” (a.k.a. “nation building”) projects in Iraq and Afghanistan. The Special Inspector General for Afghan Reconstruction (SIGAR) alone seems to come out with new examples of waste, fraud, and abuse on practically a weekly basis. Among Afghan projects that stood out over the years was a multimillion-dollar “highway to nowhere,” a $43 million gas station in nowhere, a $25 million “state of the art” headquarters for the US military in Helmand Province, with all the usual cost overruns, that no one ever used, and the payment of actual salaries to countless thousands of no ones aptly labeled “ghost soldiers.” And that’s just to begin enumerating along, long list. Last year, Pro Publica created an invaluable interactive graphic detailing $17 billion in wasteful spending uncovered by SIGAR, complete with information on what that money could have purchased if it had been used productively.							
+
+Ad Policy
+ 
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-209023-4','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+One reason the Pentagon has been able to get away with all this is that it has proven strangely incapable of doing a simple audit of itself, despite a congressionally mandated requirement dating back to 1990 that it do so. Conveniently enough, this means that the Department of Defense can’t tell us how much equipment it has purchased, or how often it has been overcharged, or even how many contractors it employs. This may be spectacularly bad bookkeeping, but it’s great for defense firms, which profit all the more in an environment of minimal accountability. Call it irony or call it symptomatic of a successful way of life, but a recent analysis by the Project on Government Oversight notes that the Pentagon has so far spent roughly $6 billion on “fixing” the audit problem—with no solution in sight.		
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+If anything, in recent years the Pentagon’s accounting practices have been getting worse. Among the many offenses to any reasonable accounting sensibility, perhaps the most striking has been the way the war budget—known in Pentagonese as the Overseas Contingency Operations account—has been used as a slush fund to pay for tens of billions of dollars of items that have nothing to do with fighting wars. This evasive maneuver has been used to get around the caps that were placed on the Pentagon’s regular budget by Congress in the Budget Control Act of 2011.		
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+If the Pentagon has its way, nuclear weapons will get their very own slush fund as well. For years, the submarine lobby floated the idea of a separate Sea-Based Deterrence Fund (outside of the Navy’s regular shipbuilding budget) to pay for ballistic missile-firing submarines. Congress has signed off on this idea, and now there are calls for a nuclear deterrent fund that would give special budgetary treatment to bombers and intercontinental ballistic missiles as well. If implemented, this change would throw the minimalist budget discipline that now exists at the Pentagon decisively out the nearest window and increase pressures to raise the department’s overall budget, which already exceeds the levels reached during the Reagan buildup.		
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+Why has waste at the Pentagon been so hard to rein in? The answer is, in a sense, not complicated: The military-industrial complex profits from waste. Closer scrutiny of waste could mean not just cheaper spare parts, but serious questions about whether cash cows like the F-35 are needed at all. An accurate head count of the hundreds of thousands of private contractors employed by the Pentagon would reveal that a large proportion of them are doing work that is either duplicative or unnecessary. In other words, an effective audit of the Pentagon or any form of serious oversight of its wasteful way of life would pose a financial threat to a sector that is doing just fine under current arrangements.		
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+Who knows? If the Department of Defense’s wasteful ways were ever brought under genuine scrutiny and control, people might start to question, for example, whether a country that already has the capability to destroy the world many times over needs to spend $1 trillion over the next three decades on a new generation of ballistic missiles, bombers, and nuclear-armed submarines. None of this would be good news for the contractors or for their allies in the Pentagon and Congress.		
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+Undoubtedly, from time to time, you’ll continue to hear outrageous media stories about waste at the Pentagon and bomb-detecting elephants gone astray. Without a concerted campaign of public pressure of a sort we haven’t seen in recent years, however, the Pentagon’s runaway budget will never be reined in, that audit will never happen, and the weapons makers will whistle a happy tune on their way to the bank with our cash.		
+		
+
+ William D. Hartung
+ William D. Hartung is the director of the Arms and Security Initiative at the New America Foundation and a member of the Sustainable Defense Task Force.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Neither Congress or the President have the Pentagon under control, nor have they for years!
+
+I don&apos;t understand why the republican&apos;s mantra of "starve the beast"  to curb waste does not apply here. For them it only works on schools, jobs programs and food stamps all of which are far smaller rewards when looking at waste.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,39 @@
+A senator is pressing Hillary Clinton over whether her email system was ever compromised by Marcel Lehel Lazar, the Romanian hacker known as Guccifer who was extradited to the U.S. last week.
+
+Iowa Sen. Chuck Grassley sent a letter on Monday asking the former secretary of state if the Department of Justice has given her any notices related to Lazar. The Republican, who chairs the Senate Judiciary Committee, also asked Clinton if the DOJ has informed her that her email system was compromised by Lazar or any other hackers.
+
+“Has the Department of Justice or any other government agency informed you that you were a victim of hacking, other unlawful computer access, or any other crime, whether attempted or realized, by Mr. Lazar or any other person or entity?” asked Grassley, who is investigating various security and Freedom of Information Act issues related to Clinton’s private email system.
+
+Lazar, who was serving a seven-year prison sentence in Romania when he was extradited, brought Clinton’s personal email address — [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */ — to light in 2013 after he hacked into the AOL account of her friend, Sidney Blumenthal.
+
+At the time of the hack it was unknown that Clinton used the same personal email account while she was in office. Clinton’s exclusive use of the email account and a private email server was not revealed until last March.
+
+The timing of Lazar’s extradition is no coincidence, an intelligence source told Fox News last week. It comes at the same time that the FBI is wrapping up its investigation into Clinton’s private email server. The bureau began investigating last year after “Top Secret” emails were found among Clinton’s emails.
+
+But while Clinton and her team have denied she was ever directly compromised, Lazar has suggested the possibility that she was.
+
+“It is unclear from court documents and press reports whether Mr. Lazar ever attempted to hack your @clintonemail.com account or if he only had indirect access to your email via Mr. Blumenthal’s account,” Grassley wrote to Clinton.
+
+
+Do You Think Guccifer Hacked Hillary Clinton?  Yes         No       
+Completing this poll entitles you to Daily Caller news updates free of charge. You may opt out at anytime. You also agree to our Privacy Policy and Terms of Use.
+jQuery(document).ready(function() { ga('send', 'event', 'Quiz Impression ID', "4984573"); }); “In an interview, Mr. Lazar purportedly claimed he ‘had memos Hillary Clinton got as a State Secretary, with CIA briefings [that] were being read by her [and] two other people from the U.S. Government. I used to read her memos for six-seven hours and then I’d get up and do the gardening in the yard,'” he added.
+
+  Yes         No       
+
+Completing this poll entitles you to Daily Caller news updates free of charge. You may opt out at anytime. You also agree to our Privacy Policy and Terms of Use.
+
+Clinton and her campaign have insisted that her email account was never hacked. According to The New York Times, FBI investigators reviewing security logs of Clinton’s server found no evidence of a hack. But those claims and findings do not address the possibility of a less sophisticated infiltration.
+
+Lazar utilized low-tech methods. He compromised his victims by guessing their passwords and answers to security questions protecting their email accounts.
+
+Follow Chuck on Twitter
+
+Privacy Policy
+
+
+
+
+				© Copyright 2010 - 2016 | The Daily Caller
+			
+

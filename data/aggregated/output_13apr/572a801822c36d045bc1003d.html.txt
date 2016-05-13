@@ -1,0 +1,161 @@
+
+	243
+      
+
+By
+
+Tom Wyke for MailOnline
+
+
+and 
+Afp
+
+
+
+Published:
+  00:15 EST, 4 May 2016
+
+ | 
+Updated:
+  08:41 EST, 4 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3572519',
+                    'title': 'Transgender politician poised for historic win in Catholic Philippines',
+                    'url': 'http://www.dailymail.co.uk/news/article-3572519/Transgender-politician-poised-historic-win-Catholic-Philippines.html',
+                    'eTwitterStatus': ' http://dailym.ai/24pkaHo via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+243
+shares
+
+ 
+           1
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+           1
+
+View  comments
+
+The Philippines is set to have its first ever transgender lawmaker in its lower house elections on Monday. Â 
+
+Geraldine Roman blowed kisses to the crowd and serenaded them with a love song as she proudly campaigned in the mainly Catholic Philippines.
+
+If the 49-year-old candidate wins, it would be a remarkable breakthrough for the lesbian, gay, bisexual and transgender (LGBT) community.
+
+Conservative church dogma is a dominant force in Philippine politics: divorce, abortion and same-sex marriage are illegal, while there are no openly gay politicians at the national level and an LGBT party has long struggled for influence.
+
+Legislator candidate Geraldine Roman (in yellow) shakes hands with voters during a campaign trip to the town of Orani, Bataan province, north of Manila
+
+Roman has been mocked and abused on the campaign trail in recent weeks but, after living as a woman for more than two decades, she refuses to be cowed.
+
+'My life has not been a secret,' Roman told AFP in a rare interview after a day of campaigning in Bataan, a rural province just north of Manila where her mother has served as congresswoman for nine years and the family holds immense political sway.
+
+'I grew up here. People know me. (Gender) only becomes an issue when you try to keep it a secret. It's nothing bad. I never hurt anyone in the process. I'm so happy so why should I be ashamed?'
+
+Roman said she grew up being teased by classmates but her late father, a powerful politician, taught her to be confident.
+
+She speaks three European languages, holds two master's degrees and worked in Spain as senior editor of the Spanish News Agency, before returning four years ago to care for her ailing father.
+
+Roman underwent sex realignment surgery, and legally changed her name and gender, in the 1990s. She has been involved in a relationship with a man for the past 18 years.Â 
+
+Geraldine Roman is proudly campaigning to be the first transgender lawmaker in the mainly Catholic Philippines
+
+Roman hopes winning on Monday will help in the fight for gender equality.
+
+'My loyalty is to the first district of Bataan,' she said.
+
+'But that somebody of my condition is going to enter Congress for the first time is a statement that even transgender people can serve our country and should not be discriminated against.'
+
+It will be a long battle.
+
+On the most basic front, a law was passed in 2001 making it impossible for transgender Filipinos to change their name and sex.
+
+In 2010, the election commission also barred the Ang Ladlad party, which represents the LGBT community, from contesting the polls, accusing it of 'immorality which offends religious beliefs'.
+
+The Supreme Court overturned the commission's ruling, but Ang Ladlad failed to win a seat in Congress in the past two elections. Roman belongs to current President Benigno Aquino's ruling Liberal Party.
+
+Roman said, if elected, she intended to back an anti-discrimination bill that has been languishing for 16 years that would give the LGBT community rights, such as equal treatment in the workplace, hotels and schools.
+
+She will also campaign to make changing gender legal.
+
+Transgender legislator candidate Geraldine Roman (in yellow) speaks three European languages, holds two master's degrees and worked in Spain as senior editor of the Spanish News Agency, before returning four years ago to care for her ailing father
+
+'I am living proof that such a law will allow transgender people to pursue happiness and become productive citizens,' she said.Â 
+
+Still, the soft-spoken and refined candidate emphasised she did not want to make gender the centrepiece of her political career.
+
+Roman outlined her plans for the people of Bataan if elected as their congresswoman, including continuing the medical assistance and scholarships her family has been providing for three generations.
+
+Her socio-economic platform also includes providing modern equipment for public hospitals and expanding Bataan's road network.
+
+Roman is widely expected to win on Monday, largely on the back of her family's entrenched power in the province. She is running for Congress to continue her family's rule, because her mother has to stand down after serving the maximum of three terms.
+
+On the streets of Orani, a small city where Roman lives and she was campaigning on the weekend, farmer Bern Salenga said he would vote for her because she promises to follow her parents' tradition of helping the poor.
+
+'She is also a human being. We all have rights. It's not an issue to me that she is transgender,' Salenga, 49, told AFP.Â 
+
+The LGBT community is under no illusion that Roman's expected success next week is because of her family -- such dynasties dominate Philippine politics from the local to the national level.
+
+However Roman is also being seen as a powerful voice for a group that has long been marginalised and struggled to have its concerns addressed by national lawmakers.
+
+'Even if she's just one, she will create noise,' Anastacio Marasigan, spokesperson of the Lesbian and Gay Legislative Advocacy Network, told AFP.
+
+'That will help us in mainstreaming or highlighting issues often ignored, like HIV and sexual violence.'
+
+Roman, a Catholic, has a simple message for critics who believe she does not belong in politics: 'If Jesus Christ was alive today, he would not approve of discrimination. I firmly believe that.'
+
+
+                                	Share what you think
+                                
+
+The comments below have been moderated in advance.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

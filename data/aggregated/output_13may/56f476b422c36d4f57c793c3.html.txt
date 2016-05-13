@@ -1,0 +1,1058 @@
+
+
+Hulk Hogan in a St. Petersburg, Florida, courtroom during the trial in his lawsuit against Gawker Media.   (AP Photo / Steve Nesius, Pool)
+
+Pro-wrestling icon Hulk Hogan proved last week that there’s more than one clownish, racist, litigious, penis size–boasting ex–reality TV star who really knows how to intimidate the press.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+Last Friday, a six-person Florida jury awarded the Hulkster (real name: Terry Bollea) $115 million—$15 million more than he had asked for and more in punitive damages expected this week—from Gawker Media for posting a video showing the now 62-year-old Bollea having sex with Heather Clem, wife of his then–best friend, shock jock Bubba the Love Sponge Clem (his legal name). Bubba had set up the 2006 tryst and filmed it, according to Hogan, without his knowledge.		
+The $115 mil was far larger than anyone expected, big enough to put a crimp in Gawker’s day-to-day operations, if only because it will likely have to put up $50 million bond until final settlement. Potentially, it could put the whole company at risk, something many Gawker-haters might not mind at all.		
+The judgment probably reflects the Pinellas County jury’s disgust with the media in general and Gawker’s creepy refusal to countenance almost any limits on celebrity humiliation in particular. The website may have lost the case when Hogan’s team showed former Gawker editor A.J. Daulerio saying in a deposition that he wouldn’t run sex videos of anyone under 4 years old. He later testified that he was being sarcastic, but that’s a level of sarcasm that Hogan’s lawyers implied exists only in the rarefied media echelons of New York City—where, as they frequently reminded the jury, Gawker is based. (After suffering its own humiliation for gay-shaming a man who was apparently being blackmailed, Gawker founder Nick Denton promised to be up to “20 percent nicer” and to focus on politics.)		
+As advertised, the case is indeed a flashpoint between privacy and free-speech rights. But is it really “the trial that could redefine free expression on the Internet,” as Vox fears? Maybe not. First of all, legal precedent is almost never set by trial verdicts, and most observers expect Gawker to ace it on appeal. Hogan’s case had already been rebuffed by both Florida’s Middle District Federal Court and the state’s Second District Court of Appeal on First Amendment grounds. Sensing defeat in the federal court, Hogan’s suit moved to the Pinellas County court, where he found more sympathy, from Judge Pamela Campbell, and eventually gold.		
+But resolution of the case could be years away, and in the meantime, free speech is looking wobbly. It’s partly because of the Internet’s underside: If embarrassing images and info can haunt celebrities, it could happen to anyone. Just this month, sportscaster Erin Andrews won a $55 million judgment against a hotel and the stalker who filmed her nude through a room peephole; and in the so-called fappening hack, a 36-year-old man was arrested for allegedly cracking into the iCloud accounts of some 100 celebrities, like Jennifer Lawrence, leading to their nude photos going viral. Let’s be clear: These two cases aren’t about free speech, they’re about crimes. But taken together with a wider backlash against the press—egged on daily by Donald Trump, who expertly gets the press to self-repress—free speech seems to be on the ropes.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Last Friday, a six-person Florida jury awarded the Hulkster (real name: Terry Bollea) $115 million—$15 million more than he had asked for and more in punitive damages expected this week—from Gawker Media for posting a video showing the now 62-year-old Bollea having sex with Heather Clem, wife of his then–best friend, shock jock Bubba the Love Sponge Clem (his legal name). Bubba had set up the 2006 tryst and filmed it, according to Hogan, without his knowledge.		
+The $115 mil was far larger than anyone expected, big enough to put a crimp in Gawker’s day-to-day operations, if only because it will likely have to put up $50 million bond until final settlement. Potentially, it could put the whole company at risk, something many Gawker-haters might not mind at all.		
+The judgment probably reflects the Pinellas County jury’s disgust with the media in general and Gawker’s creepy refusal to countenance almost any limits on celebrity humiliation in particular. The website may have lost the case when Hogan’s team showed former Gawker editor A.J. Daulerio saying in a deposition that he wouldn’t run sex videos of anyone under 4 years old. He later testified that he was being sarcastic, but that’s a level of sarcasm that Hogan’s lawyers implied exists only in the rarefied media echelons of New York City—where, as they frequently reminded the jury, Gawker is based. (After suffering its own humiliation for gay-shaming a man who was apparently being blackmailed, Gawker founder Nick Denton promised to be up to “20 percent nicer” and to focus on politics.)		
+As advertised, the case is indeed a flashpoint between privacy and free-speech rights. But is it really “the trial that could redefine free expression on the Internet,” as Vox fears? Maybe not. First of all, legal precedent is almost never set by trial verdicts, and most observers expect Gawker to ace it on appeal. Hogan’s case had already been rebuffed by both Florida’s Middle District Federal Court and the state’s Second District Court of Appeal on First Amendment grounds. Sensing defeat in the federal court, Hogan’s suit moved to the Pinellas County court, where he found more sympathy, from Judge Pamela Campbell, and eventually gold.		
+But resolution of the case could be years away, and in the meantime, free speech is looking wobbly. It’s partly because of the Internet’s underside: If embarrassing images and info can haunt celebrities, it could happen to anyone. Just this month, sportscaster Erin Andrews won a $55 million judgment against a hotel and the stalker who filmed her nude through a room peephole; and in the so-called fappening hack, a 36-year-old man was arrested for allegedly cracking into the iCloud accounts of some 100 celebrities, like Jennifer Lawrence, leading to their nude photos going viral. Let’s be clear: These two cases aren’t about free speech, they’re about crimes. But taken together with a wider backlash against the press—egged on daily by Donald Trump, who expertly gets the press to self-repress—free speech seems to be on the ropes.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+The $115 mil was far larger than anyone expected, big enough to put a crimp in Gawker’s day-to-day operations, if only because it will likely have to put up $50 million bond until final settlement. Potentially, it could put the whole company at risk, something many Gawker-haters might not mind at all.		
+The judgment probably reflects the Pinellas County jury’s disgust with the media in general and Gawker’s creepy refusal to countenance almost any limits on celebrity humiliation in particular. The website may have lost the case when Hogan’s team showed former Gawker editor A.J. Daulerio saying in a deposition that he wouldn’t run sex videos of anyone under 4 years old. He later testified that he was being sarcastic, but that’s a level of sarcasm that Hogan’s lawyers implied exists only in the rarefied media echelons of New York City—where, as they frequently reminded the jury, Gawker is based. (After suffering its own humiliation for gay-shaming a man who was apparently being blackmailed, Gawker founder Nick Denton promised to be up to “20 percent nicer” and to focus on politics.)		
+As advertised, the case is indeed a flashpoint between privacy and free-speech rights. But is it really “the trial that could redefine free expression on the Internet,” as Vox fears? Maybe not. First of all, legal precedent is almost never set by trial verdicts, and most observers expect Gawker to ace it on appeal. Hogan’s case had already been rebuffed by both Florida’s Middle District Federal Court and the state’s Second District Court of Appeal on First Amendment grounds. Sensing defeat in the federal court, Hogan’s suit moved to the Pinellas County court, where he found more sympathy, from Judge Pamela Campbell, and eventually gold.		
+But resolution of the case could be years away, and in the meantime, free speech is looking wobbly. It’s partly because of the Internet’s underside: If embarrassing images and info can haunt celebrities, it could happen to anyone. Just this month, sportscaster Erin Andrews won a $55 million judgment against a hotel and the stalker who filmed her nude through a room peephole; and in the so-called fappening hack, a 36-year-old man was arrested for allegedly cracking into the iCloud accounts of some 100 celebrities, like Jennifer Lawrence, leading to their nude photos going viral. Let’s be clear: These two cases aren’t about free speech, they’re about crimes. But taken together with a wider backlash against the press—egged on daily by Donald Trump, who expertly gets the press to self-repress—free speech seems to be on the ropes.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+The judgment probably reflects the Pinellas County jury’s disgust with the media in general and Gawker’s creepy refusal to countenance almost any limits on celebrity humiliation in particular. The website may have lost the case when Hogan’s team showed former Gawker editor A.J. Daulerio saying in a deposition that he wouldn’t run sex videos of anyone under 4 years old. He later testified that he was being sarcastic, but that’s a level of sarcasm that Hogan’s lawyers implied exists only in the rarefied media echelons of New York City—where, as they frequently reminded the jury, Gawker is based. (After suffering its own humiliation for gay-shaming a man who was apparently being blackmailed, Gawker founder Nick Denton promised to be up to “20 percent nicer” and to focus on politics.)		
+As advertised, the case is indeed a flashpoint between privacy and free-speech rights. But is it really “the trial that could redefine free expression on the Internet,” as Vox fears? Maybe not. First of all, legal precedent is almost never set by trial verdicts, and most observers expect Gawker to ace it on appeal. Hogan’s case had already been rebuffed by both Florida’s Middle District Federal Court and the state’s Second District Court of Appeal on First Amendment grounds. Sensing defeat in the federal court, Hogan’s suit moved to the Pinellas County court, where he found more sympathy, from Judge Pamela Campbell, and eventually gold.		
+But resolution of the case could be years away, and in the meantime, free speech is looking wobbly. It’s partly because of the Internet’s underside: If embarrassing images and info can haunt celebrities, it could happen to anyone. Just this month, sportscaster Erin Andrews won a $55 million judgment against a hotel and the stalker who filmed her nude through a room peephole; and in the so-called fappening hack, a 36-year-old man was arrested for allegedly cracking into the iCloud accounts of some 100 celebrities, like Jennifer Lawrence, leading to their nude photos going viral. Let’s be clear: These two cases aren’t about free speech, they’re about crimes. But taken together with a wider backlash against the press—egged on daily by Donald Trump, who expertly gets the press to self-repress—free speech seems to be on the ropes.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+As advertised, the case is indeed a flashpoint between privacy and free-speech rights. But is it really “the trial that could redefine free expression on the Internet,” as Vox fears? Maybe not. First of all, legal precedent is almost never set by trial verdicts, and most observers expect Gawker to ace it on appeal. Hogan’s case had already been rebuffed by both Florida’s Middle District Federal Court and the state’s Second District Court of Appeal on First Amendment grounds. Sensing defeat in the federal court, Hogan’s suit moved to the Pinellas County court, where he found more sympathy, from Judge Pamela Campbell, and eventually gold.		
+But resolution of the case could be years away, and in the meantime, free speech is looking wobbly. It’s partly because of the Internet’s underside: If embarrassing images and info can haunt celebrities, it could happen to anyone. Just this month, sportscaster Erin Andrews won a $55 million judgment against a hotel and the stalker who filmed her nude through a room peephole; and in the so-called fappening hack, a 36-year-old man was arrested for allegedly cracking into the iCloud accounts of some 100 celebrities, like Jennifer Lawrence, leading to their nude photos going viral. Let’s be clear: These two cases aren’t about free speech, they’re about crimes. But taken together with a wider backlash against the press—egged on daily by Donald Trump, who expertly gets the press to self-repress—free speech seems to be on the ropes.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+But resolution of the case could be years away, and in the meantime, free speech is looking wobbly. It’s partly because of the Internet’s underside: If embarrassing images and info can haunt celebrities, it could happen to anyone. Just this month, sportscaster Erin Andrews won a $55 million judgment against a hotel and the stalker who filmed her nude through a room peephole; and in the so-called fappening hack, a 36-year-old man was arrested for allegedly cracking into the iCloud accounts of some 100 celebrities, like Jennifer Lawrence, leading to their nude photos going viral. Let’s be clear: These two cases aren’t about free speech, they’re about crimes. But taken together with a wider backlash against the press—egged on daily by Donald Trump, who expertly gets the press to self-repress—free speech seems to be on the ropes.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives3Global Warming’s Terrifying New Chemistry4Fear and Hate Drove Arizona’s Republican Primary5What’s Wrong With Bernie Sanders’s Strategy
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act
+
+Here’s What a Man Who Studied Every Suicide Attack in the World Says About ISIS’ Motives
+
+Global Warming’s Terrifying New Chemistry
+
+Fear and Hate Drove Arizona’s Republican Primary
+
+What’s Wrong With Bernie Sanders’s Strategy
+
+One reason legal issues surrounding mega-pop branders like Hulk Hogan and Donald Trump are so confounding is a fundamental confusion between personal and commercial identities. The brand name of a star is not only worth real money, it’s a going concern, generating income every year. But a star, even more than a corporation, is a person. Any statement that damages the value of the star’s name is a kind of restraint of trade in some court’s eyes. In the trial, Bollea took this schism to ridiculous lengths, testifying that it wasn’t Terry Bollea who bragged publicly about his sex life, it was the Hulk Hogan character. The Sybil shtick worked: Of the $115 million, $55 million was for “economic harm.”		
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Publicity itself is a brander’s stock in trade, which complicates the motive for legal action in the first place. Long before Gawker ran the sex video, in October 2012, still shots from it appeared on the website Dirty. Hogan’s legal team didn’t object. Nor did they object to Gawker’s written commentary about the video. The problem, they said, was the video itself, arguing that it invaded Bollea’s privacy and caused him great emotional distress. Of course, expressing great emotional distress is a pro wrestler’s stock-in-trade (which may have something to do with the size of the award).		
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+For its part, Gawker maintained that the video was newsworthy, and thus protected by the First Amendment. Because Hogan opened the door on his sex life (claiming, for instance, to have a 10-inch penis), he had given up some of his privacy. Indeed, for all those months before Gawker ran 101 seconds (just nine seconds of actual sex) of the 30-minute video, Hogan had been chatting up the rumored footage in media outlets like TMZ, seemingly unconcerned. On the Howard Stern show, though, he tripped up in a way that could weaken his future legal case: He lied, denying that the woman in the video was Bubba’s wife.		
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Throughout the trial, Judge Campbell seemed unsympathetic to common press concerns. A media coalition, including First Look, Vox, CNN, and AP, had to file motions with the state appellate court to open the trial to the public and to unseal thousands of pages of documents and evidence. In both cases, the appellate court ruled for the coalition. But the documents were unsealed only late Friday, after the jury went into deliberations.		
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Among the documents that the jury never saw are some that indicate “Clem told the FBI that Bollea knew he was being filmed, then turned around and said in a deposition that [Bollea] was entirely unaware,” Anna Phillips writes in the Tampa Bay Times. Judge Campbell allowed Clem to plead the Fifth to avoid testimony that could incriminate him, and she told the jurors only that he was “unavailable” to testify.				      
+      .cta.primary.pjfMUjqqWO{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.pjfMUjqqWO a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+And possibly worst for Hogan is, as Capital New York puts it, “evidence suggesting that Hogan’s primary motivation in bringing the suit may have been to prevent the public from learning that he had used racial slurs on a different sex tape, not because he felt his privacy had been invaded.” In this other sex tape, also involving Heather Clem, Hogan can be heard complaining about his daughter dating a black man, saying, “I mean, I am a racist, to a point, f–king n—-s.” When National Enquirer revealed the slurs, the World Wrestling Entertainment, no haven of equality, cut all ties with him, and Hogan tearfully apologized on ABC.		
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Whatever his reason for bringing suit, Hogan’s big judgment against Gawker has been welcomed by some as a restraint on all nonconsensual online porn. Ronn Blitzer writes in LawNewz: “This isn’t some precedent-setting, earth-shattering case with aftershocks that will reverberate throughout time, shaking the foundations of our press’s freedoms. It may be a somewhat close legal call, but no matter what the outcome, it could have a chilling impact on one thing, publishing naked pictures or videos. That would be a chill we can all probably bundle up for.”		
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Even free speech champion Erwin Chemerinsky, dean and Raymond Pryke Professor of First Amendment Law at the UC Irvine School of Law, is sanguine. First Amendment “absolutists,” he wrote in the Los Angeles Times, “will worry about the ‘chilling effect’ the verdict may have on speech…. But I can imagine a clear rule: No videos of people having sex should be made public unless all of the participants consent. I think the media will survive the restriction.”						
+			.article-wrap .article-body aside.left.custom_background_206870			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+And, as writer Alice Hines asks in Fusion: What if Terry Bollea were a woman? Wouldn’t even the absolutists bristle at the suggestion that just because Terri blabbed publicly about her sex life, websites should be free to run video of her in the act?		
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+“When Pamela Anderson sued distributors of her sex tape,” Hines writes, “a court ruled in 1998 that the actress’s status as a ‘sex symbol’—and history of appearing nude on screen—didn’t make a porn company’s publication of her sex tape appropriate.” But, as Litigation Daily founding editor Alison Frankel points out, “several months later, the same judge ruled against Pamela Anderson Lee in her case against the parent company of the tabloid show ‘Hard Copy,’ which aired an excerpt from her sex tape with [musician Bret] Michaels. Lee could not overcome First Amendment deference to news reporting, the judge held.” It’s the difference between a business trying to profit off a tape and a news outlet, however exploitative, airing a tape.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206870-3','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+						});
+					
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Still, Chemerinsky’s rule sounds good—it would prevent the odious “revenge porn,” now outlawed in a couple of dozen states. And I agree that under most circumstances famous people who talk about their sex lives should not have to publicly perform them. Bollea is entitled to his privacy. But two aspects of his case support the newsworthiness of actually showing the video.		
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+“It’s newsworthy when we have a celebrity caught in a public lie,” Eric Goldman, codirector of Santa Clara University’s High Tech Law Institute, told me. “The lie is that he denied he had sex with [Bubba’s] wife. According to Hogan, he never knew he was being taped. He’s a victim of nonconsensual pornography, and we want to find a way to protect his interests. But his public falsity changes the tenor of the analysis a lot. It’s the public falsity that creates the need to disprove the public statement.”		
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+But did Gawker have to go to the video to disprove it? Weren’t words enough? “I can see good reasons for arguments on both sides,” Goldman said. “The depictions on the video are duplicative of the information communicated [in the written post], but my instinct keeps telling me that telling the public that there’s a video and not letting them confirm it themselves is not very persuasive.”		
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+We’re not talking about how no one believes that cops beat up black kids unless the deed is caught on an iPhone. But still, video is central to today’s communication and persuasion.		
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+In addition, it’s newsworthy if a public figure casts racist slurs—and even more so if, as we may or may not find out in Hogan’s subsequent legal proceedings, that figure resisted releasing sex tapes in order to hide the racist comments in one of them.		
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+And the “chilling effect” that cases like Hogan’s can have on a free press is no small thing.		
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+“Most news organizations will be fine,” Gregg Leslie, legal defense director of the Reporters Committee for Freedom of the Press, told me. “But it may well make it more difficult for smaller organizations. It wouldn’t be a legal effect, but a chilling effect: If it can happen to Gawker, it can happen to us.” Brrr. And regardless of whether Gawker wins on appeal or not, smaller outfits may be afraid not just of running sex tapes, but of anything that angers a celebrity.		
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Or of anything that a celebrity claims to be angered by.		
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+“Hogan’s case could create a dangerous precedent within privacy law,” Len Niehoff, a professor at the University of Michigan Law School, wrote in HuffPost. “If he is successful, his case could inspire a strategy of privacy-bait-and-switch, where a celebrity lures the media into reporting on a presumptively private topic and then ambushes them with a lawsuit seeking millions of dollars when they do so.”		
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+Manipulation of the media—that brings us back to Donald Trump. If elected president, he says, he’ll “open up libel laws,” making it easier to sue the press if it maliciously publishes lies, which of course is exactly what our libel laws already do.		
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+The press is compliant enough; it doesn’t need spurious sources of fear like Hogan’s oversize award or Trump’s ignorant threats to make it cower even more.		
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+But the Hulk gets the message. “I want to be Trump’s running mate,” he said in August, at the height of the controversy over his racist remarks.		
+“Did you hear that? Vice President Hogan!”		
+		
+
+“Did you hear that? Vice President Hogan!”		
+		
+
+ Leslie Savan
+ Leslie Savan, author of Slam Dunks and No-Brainers, blogs for The Nation about media and politics.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+So where does the justification for the $115 million figure come from? If people suing corporations & police departments can&apos;t get that amount for bodily injury/loss of life, how can a has=been fake wrestler?
+
+A we to imagine that a professional wrestler, especially one calling himself "Hulk" something, suffered either emotional or monetary damage by the release of a video showing him having sex with an attractive woman.  Perhaps if the video had shown him with a man.......
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

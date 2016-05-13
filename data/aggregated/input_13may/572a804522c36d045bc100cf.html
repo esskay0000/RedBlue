@@ -1,0 +1,1889 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script>
+var articlereadbyUser = 0;
+var pageCounterPaywall = 0; 
+      function getCookie(name)
+      {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+      }
+      var checkCookie = getCookie('SESSchecknc');
+      if (checkCookie!='undefined' && checkCookie==1)
+      { 
+         var currentUrl = document.URL;
+         if (currentUrl.indexOf("?nc=1") > -1){ }
+         else
+         {
+            if (currentUrl.indexOf("?") > -1)
+            {
+               if (currentUrl.indexOf("&nc=1") > -1) {}
+               else{
+                  window.location.href = currentUrl+"&nc=1";                  
+               }            
+            }
+            else
+            {
+            window.location.href = currentUrl+"/?nc=1"; 
+			
+            }
+            //document.open('text/javascript');
+            //document.write('<script type="text/undefined">');
+         }
+      }
+</script>
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	 <meta charset="utf-8">
+		<!-- Always force latest IE rendering engine or request Chrome Frame -->
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+		<!-- Use title if it's in the page YAML frontmatter -->			
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>Did OPEC Just Start Preparing for the End of the Oil Era? | The Nation</title>
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="">
+			<!-- Facebook META -->
+			<!--<meta property="fb:app_id" content="">-->
+			<meta property="og:site_name" content="The Nation">
+			<meta property="og:title" content="Did OPEC Just Start Preparing for the End of the Oil Era?">
+			<meta property="og:description" content="The debacle in Doha may be the beginning of the end for the old oil order.">
+			<!--<meta property="og:url" content="">-->
+			<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img-1440x756.jpg">
+			<meta property="og:type" content="website">
+			<!-- Twitter META -->
+			<meta name="twitter:title" content="Did OPEC Just Start Preparing for the End of the Oil Era?">
+			<meta name="twitter:description" content="The debacle in Doha may be the beginning of the end for the old oil order.">
+			<meta name="twitter:url" content="http://www.thenation.com/article/did-opec-just-start-preparing-for-the-end-of-the-oil-era/">
+			<meta name="twitter:image" content="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img-1440x756.jpg">
+						<!-- Fav Icon -->
+			<!--<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />--->
+			<link rel="icon" type="image/ico" href="http://www.thenation.com/wp-content/themes/thenation/images/favicon.ico" />
+	<meta name="sailthru.image.full" content="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img-680x430.jpg" /> 
+<meta name="sailthru.image.thumb" content="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img-275x173.jpg" />
+<meta name="sailthru.title" content="Did OPEC Just Start Preparing for the End of the Oil Era?" />
+<meta name="sailthru.date" content="April 28th, 2016" />
+<meta name="sailthru.content_id" content="210824" />
+<meta name="sailthru.description" content="The debacle in Doha may be the beginning of the end for the old oil order." />
+<meta name="sailthru.tags" content="Economics,Energy,Environment,Fracking,Global Organizations,Middle East,Oil and Gas,World,World Leaders," />
+<meta name="keywords" content="International trade,Iran,New economy,Peak oil,Saudi Arabia,Shale gas,Tar sands" />
+<meta name="sailthru.author" content="Michael T. Klare" />
+<script type="text/javascript">
+    (function() 
+	{
+        function loadHorizon() 
+		{
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+        	}
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+		{
+            	if (typeof oldOnLoad === 'function') 
+			{
+                	oldOnLoad();
+          		}
+            	Sailthru.setup({
+                	domain: 'horizon.thenation.com'
+            		});
+        	};
+    	})();
+</script>
+<!--Advertisements-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//kilomonj.net/adBlockDetector/12257" async defer></script>
+<!--<script class="kxct" data-id="JDkN7kNL" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN7kNL"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>-->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20564932" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20564932&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+<link href="http://www.thenation.com/wp-content/themes/thenation/stylesheets/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="Sunday, April 17, was the designated moment. The world’s leading oil producers were expected to bring fresh discipline to the chaotic petroleum market and spark a return to high prices." />
+<meta name="keywords" content="economics, energy, environment, fracking, global organizations, middle east, oil and gas, world, world leaders, international trade, iran, new economy, peak oil, saudi arabia, shale gas, tar sands" />
+<meta property="fb:app_id" content="192399944158735" />
+<meta property="og:site_name" content="The Nation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Did OPEC Just Start Preparing for the End of the Oil Era?" />
+<meta property="og:url" content="http://www.thenation.com/article/did-opec-just-start-preparing-for-the-end-of-the-oil-era/" />
+<meta property="og:description" content="Sunday, April 17, was the designated moment. The world’s leading oil producers were expected to bring fresh discipline to the chaotic petroleum market and spark a return to high prices." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2016-04-28T13:03:40+00:00" />
+<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="907" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2016-04-28T11:10:24+00:00" />
+<meta property="article:modified_time" content="2016-04-28T13:03:40+00:00" />
+<meta property="article:author" content="http://www.thenation.com/author/samuel_metz/" />
+<meta property="article:publisher" content="https://www.facebook.com/TheNationMagazine" />
+<meta property="article:tag" content="economics" />
+<meta property="article:tag" content="energy" />
+<meta property="article:tag" content="environment" />
+<meta property="article:tag" content="fracking" />
+<meta property="article:tag" content="global organizations" />
+<meta property="article:tag" content="middle east" />
+<meta property="article:tag" content="oil and gas" />
+<meta property="article:tag" content="world" />
+<meta property="article:tag" content="world leaders" />
+<meta property="article:tag" content="international trade" />
+<meta property="article:tag" content="iran" />
+<meta property="article:tag" content="new economy" />
+<meta property="article:tag" content="peak oil" />
+<meta property="article:tag" content="saudi arabia" />
+<meta property="article:tag" content="shale gas" />
+<meta property="article:tag" content="tar sands" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TheNation" />
+<meta name="twitter:title" content="Did OPEC Just Start Preparing for the End of the Oil Era?" />
+<meta name="twitter:description" content="Sunday, April 17, was the designated moment. The world’s leading oil producers were expected to bring fresh discipline to the chaotic petroleum market and spark a return to high prices." />
+<meta name="twitter:image:src" content="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img.jpg" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="907" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Feed" href="http://www.thenation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Comments Feed" href="http://www.thenation.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Did OPEC Just Start Preparing for the End of the Oil Era? Comments Feed" href="http://www.thenation.com/article/did-opec-just-start-preparing-for-the-end-of-the-oil-era/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thenation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='defaultbasic-css'  href='http://www.thenation.com/wp-content/themes/thenation/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='thenation-stylesheet-all-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/all.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='basicfonts-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/fonts.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_calendar-jos-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_frontend-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style_submissions-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tn_stf_style-css'  href='http://www.thenation.com/wp-content/plugins/tn-sailthruforms/admin/assets/tn_sailthruforms_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.thenation.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/tn-customeditor//tinymce-dropcap.js?ver=4.2.4'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thenation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.13" />
+<link rel='canonical' href='http://www.thenation.com/article/did-opec-just-start-preparing-for-the-end-of-the-oil-era/' />
+<link rel='shortlink' href='http://www.thenation.com/?p=210824' />
+<link rel="stylesheet" href="http://www.thenation.com/wp-content/plugins/solr-for-wordpress-on-pantheon/template/autocomplete.css" type="text/css" media="screen" />
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          //  $("#s").suggest("?method=autocomplete", {});
+          //  $("#search-value").suggest("?method=autocomplete", {});
+        });
+    </script>
+    <script type='text/javascript'>var pageCounterPaywall = 0; var scrollHolderPaywall = {};var maxarticlePaywall = 0; var current_articlePaywall = 0; var maxdaysPaywall = 0; var accesseddaysPaywall = 0; </script>				<!-- WordPress Popular Posts v3.2.1 -->
+				<script type="text/javascript">//<![CDATA[
+
+					// Create XMLHttpRequest object and set variables
+					var xhr = ( window.XMLHttpRequest )
+					  ? new XMLHttpRequest()
+					  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+					url = 'http://www.thenation.com/wp-admin/admin-ajax.php',
+					params = 'action=update_views_ajax&token=f0938a70bd&id=210824';
+					// Set request method and target URL
+					xhr.open( "POST", url, true );
+					// Set request header
+					xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+					// Hook into onreadystatechange
+					xhr.onreadystatechange = function() {
+						if ( 4 == xhr.readyState && 200 == xhr.status ) {
+							if ( window.console && window.console.log ) {
+								window.console.log( xhr.responseText );
+							}
+						}
+					}
+					// Send request
+					xhr.send( params );
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.1 -->
+				<script src="http://www.thenation.com/wp-content/plugins/tn-paywall/inc/paywall-script.php?nc=1&paywallid=MjEwODI0&display=YmxvY2s="></script><script>
+jQuery(document).ready(function(){
+   jQuery('#search').submit(function(event){
+      if (jQuery('#search input:text').eq(0).val().length<1){
+	 return false;
+      }
+   });
+   jQuery('#searchbox').submit(function(event){
+      if (jQuery('#searchbox input:text').eq(0).val().length<1){
+	 return false;
+	 }
+   });
+});
+</script>
+</head>
+<!-- Quantcast Tag -->  <script type="text/javascript">  var _qevents = _qevents || [];    (function() {  var elem = document.createElement('script');  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";  elem.async = true;  elem.type = "text/javascript";  var scpt = document.getElementsByTagName('script')[0];  scpt.parentNode.insertBefore(elem, scpt);  })();    _qevents.push({  qacct:"p-krSvyk7fmpe57"  });  </script>    <noscript>  <div style="display:none;">  <img src="//pixel.quantserve.com/pixel/p-krSvyk7fmpe57.gif" border="0" height="1" width="1" alt="Quantcast"/>  </div>  </noscript>  <!-- End Quantcast tag -->
+<body>
+<!-- Google Analytics Code -->
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63392420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- Live Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code End -->
+<!-- Chartbeat code starts here -->
+<script type="text/javascript">
+  var _sf_async_config = { uid: 7841, domain: 'thenation.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.insertBefore(e, document.body.firstChild);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Chartbeat code ends here -->
+<!-- Google Mobile Interstitial Starts here -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script> 
+  (adsbygoogle = window.adsbygoogle || []).push({ 
+    google_ad_client: 'ca-pub-4976568202552923', 
+    enable_page_level_ads: true, 
+    interstitials: {google_ad_channel: 'ca-pub-4976568202552923'} 
+  }); 
+</script>
+<!-- Google Mobile Interstitial Ends here -->
+<!-- Advertisements -->
+<!---- Moat Script starts here -------->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/thenationcontent252XZzP54/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!---- Moat Script ends here --------->
+<script async="async" data-client-id="hBpPprgSpyyiDmn" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/esf.js"></script><script>
+    var pageCounterPaywall ;
+	var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+</script>
+<!-- Function to call Advertisements on entire website-->
+<script type='text/javascript'>
+   function call_ad(ad_type,ad_div,ad_name_desktop,ad_name_mobile,custom_targeting,key,values) {
+      if (typeof custom_targeting === 'undefined') { custom_targeting = false; }
+      if (typeof key === 'undefined') { key = null; }
+      if (typeof values === 'undefined') { values = null; }
+      var w,h,w1,h1;
+      var ad_name='';
+      if (ad_type == "leaderboard")
+	  {
+		 w = 728;
+		 h = 90;
+		 w1=970;
+		 h1=90;
+		 ad_name = ad_name_desktop;
+		 if (isMobile.any())
+		 {
+			 w = 320;
+			 h = 50;
+			 ad_name = ad_name_mobile;
+		 }
+      }
+      else if (ad_type == "halfpage")
+	  {
+		w = 300;
+		h = 250;
+		w1 = 300;
+		h1 = 600;
+		ad_name = ad_name_desktop;
+		if(isMobile.any())
+		{
+			w = 300;
+			h = 250;
+			w1 = 300;
+			h2 = 250;
+			ad_name = ad_name_mobile;
+		}		
+      }
+      else if (ad_type == "halfpage250") {
+	 w = 300;
+	 h = 250;
+	 ad_name = ad_name_desktop;
+      }
+      else if (ad_type == "pixel")
+	  {
+		var ad_pixel_name1 = "_pixel_2";
+		var ad_pixel_name_final=ad_name_desktop.indexOf(ad_pixel_name1);
+		//alert(ad_pixel_name_final);
+		if(articlereadbyUser!=0)
+		{
+		if(ad_pixel_name_final<=-1)
+		{
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===true) {
+			  return;
+			}
+		}
+		}
+		/*for hiding meterpaywall popups when pixel ads call ends here*/
+		
+		if(isMobile.any())
+		{
+		ad_name = ad_name_mobile;
+		}
+		else
+		{
+		ad_name = ad_name_desktop;
+		}
+		
+						w = 1;
+		h = 1;
+      }
+      //alert('ad_name: '+ad_name+'  div: '+ad_div+'  key: '+key+'  values: '+values);
+      googletag.cmd.push(function() {
+      var ad_slot = null;
+	  if(ad_type == "halfpage" || ad_type == "leaderboard") {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [[w, h],[w1,h1]], ad_div);
+	  }
+	  else {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [w, h], ad_div);
+	  }
+      if (custom_targeting==true && key && values)
+	  {
+		 for(i=0;i<key.length;i++) {
+			ad_slot = ad_slot.setTargeting(key[i], [values[i]]);
+		 }
+      }
+      ad_slot = ad_slot.addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      	  googletag.pubads().refresh([ad_slot]); // Since same ad unit might get repeated
+	  //setInterval(function(){googletag.pubads().refresh([ad_slot]);}, 10000);
+            googletag.enableServices();
+      });
+		googletag.cmd.push(function() {
+		googletag.display(ad_div);		
+      });
+   }
+</script>
+<div id="ad-pixel"></div>
+<div id="ad-pixel-2"></div>
+<div id="ad-leaderboard" class="push ad full-width leaderboard"></div>
+<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="desktop">
+	<div class="header-bar utility">
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="actions">
+			<li><a class="social-link fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"><span>Facebook</span></a></li>
+			<li><a class="social-link tw" href="https://twitter.com/thenation" target="_blank"><span>Twitter</span></a></li>
+						<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage" class="btn btn-yellow donate">Donate</a>
+			</li>
+									<li id="login_status">
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        <div class="lightbox-form">
+			<div class="lightbox-inner login_popup">
+				<div class="listing__hero row">
+					<div class="listing_form small-12 columns">
+						<!--<div class="closebutton"></div>-->
+                        <div class="login_top_msz">If you are a current Subscriber and are unable to log in, you may have to create a NEW username and password.  To do so, <a href="https://ssl.palmcoastd.com/06601/apps/LOGINSSO" target="_blank">click here</a> and use the “NEW USER” sign-up option.</div>
+						<h1>Log In</h1>
+						<div class="row primaryError" id="primaryError"  style="display: none">
+						 <div class="field form-field text-field small-12 columns error">
+									<p class="errormsg"></p>
+						 </div>
+						 </div>
+						<form action="index.html" class="search__form" onsubmit="return trigClick();"  name="lightboxform" id="lightboxform">
+								<div class="row">
+								<div class="field form-field e_mail_field_con text-field small-12 columns valid">
+									<input type="text" tabindex="1" name="e_mail" class="pcd_email" value="" id="e_mail" placeholder="" autocapitalize="off">
+									<label for="e_mail">Email *</label>
+															
+								</div>
+							</div>
+							<div class="row">
+								<div class="field form-field text-field pwd_field_con small-12 columns error">
+									<input type="password" tabindex="2" name="pwd" class="pcd_pwd" value="" id="pwd" placeholder="" minlength="2">
+									<label for="last_name">Password *</label>
+									             
+								</div>
+							</div>
+							
+							
+							<div class="row checkbox-row">
+								<div class="field form-field checkbox-field small-7 partsec columns">
+									<div class="checkbox">
+										<input type="checkbox" tabindex="4" value="None" id="box03" class="check_input" name="checkbox3" >
+										<label for="box03"></label>
+									</div>
+									<label for="box03">Remember Me</label>
+									 </div>
+								<div class="field form-field checkbox-field small-5 partsec columns pull-right"> <a tabindex="5" href="https://ssl.palmcoastd.com/06601/apps/-222532" style="padding: 0px !Important;">Forgot Your Password?</a></div>
+							</div>
+ 
+							<div class="row">
+								<div class="field form-field small-12 medium-6 partsec columns">
+									<div class="form-button" id="form-loading">
+									    <button class="primary-button pcdLoginButton" tabindex="3" type="submit" id="loginBut">Log In</button>
+									    <img class="loaderImg" src='http://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF' style="display: none" id="loader" alt="loader">
+								    </div>
+								</div>
+						        </div>
+							<div class="row">
+								<div class="field form-field small-12 medium-12 columns Subscriber_btn">									
+								If you are not a Subscriber, <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO" target="_blank">Subscribe</a> Now!<br />Back to <a href="http://www.thenation.com" >site</a>								
+								</div>
+						      </div>
+						</form>
+					</div>
+				</div>
+			</div>
+</div>					
+						</div>
+						
+									  <a href="http://www.thenation.com/login/" class="btn btn-yellow login">Log In</a>
+				 				</li>
+					</ul>
+		<!-- /.actions -->
+		<nav class="trending">
+						<div class="menu-keyword-menu-container"><ul id="menu-keyword-menu" class="menu"><li id="menu-item-199269" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-199269"><a href="http://www.thenation.com/subject/election-2016/">Election 2016</a></li>
+<li id="menu-item-210827" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210827"><a href="http://www.thenation.com/keyword/flint-water-crisis/">Flint Water Crisis</a></li>
+<li id="menu-item-211074" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-211074"><a href="http://www.thenation.com/keyword/black-lives-matter/">Black Lives Matter</a></li>
+<li id="menu-item-210718" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210718"><a href="http://www.thenation.com/keyword/donald-trump/">Donald Trump</a></li>
+<li id="menu-item-207209" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207209"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>
+</ul></div>		</nav>
+	</div>
+	</div>
+		<!-- /.trending -->
+	</div>
+	<!-- /.header-bar.utility -->
+
+	<div class="header-bar main" id="'navbar'">
+	<div class="row">
+		<nav role="navigation" class="primary small-12 columns">
+			<ul>
+				<li class="home">
+						<h1 class="logo">
+							<a href="http://www.thenation.com">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation" class="non-sticky">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation" class="sticky"/>
+							</a>
+						</h1>
+					</li>
+				<li class="news-links">
+									<div class="menu-subject-menu-container"><ul id="menu-subject-menu" class="menu"><li id="menu-item-186986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-201145" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li id="menu-item-201148" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li id="menu-item-116709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>				</li>
+				 
+				
+				<li class="article-meta">
+													 <h3 class="tophead_subject"><a href="http://www.thenation.com/subject/global-organizations/">
+					Global Organizations</a></h3>
+											<h2>Did OPEC Just Start Preparing for the End of the Oil Era?</h2>
+				</li>
+								<li class="quick-links">
+					<ul>
+														<li class="current-issue"><a href="http://www.thenation.com/issue/may-9-16-2016/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+								<a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a>								</li>
+														<li class="search-toggle"><a href="#">Search</a></li>
+					</ul>
+				</li>
+				 
+				<li class="article-social">
+						<ul>
+							<li><a href="javascript:void(0)" class="social-article social-share fb"><span>Facebook</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share tw"><span>Twitter</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share email"><span>Email</span></a></li>
+						</ul>
+					</li>
+								</ul>
+		</nav>
+		</div>
+	<!-- /.primary -->
+	</div>
+
+	<!-- /.header-bar.main -->
+	<div class="header-bar search searchbardrop">
+	<div class="row">
+		<form action="http://www.thenation.com/" role="search" method="get" id="search" name="search">
+			<input type="text" placeholder="Search" name="ssearch">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		</div>
+	</div>
+</header>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+		$(".landing ul>li.news-links, .landing ul>li.quick-links").attr('style','display:inline !important');
+	});
+	</script>
+<!-- /#desktop -->
+<header id="mobile" class="push">
+	<div class="header-bar">
+		<a href="#mobile-menu" class="nav-toggle">
+			<span>Toggle Menu</span>
+		</a>
+		<h1 class="logo">
+			<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation"/></a>
+		</h1>
+						
+								  <a href="http://www.thenation.com/login/" class="my-profile"><span>Log In</span></a>
+				 							 
+	 	</div>
+	<!-- /.header-bar -->
+	<div id="mobile-menu" role="navigation">
+	<div class="mobile-scroll">
+	
+		<nav class="primary">
+			<ul>
+				<div class="menu-subject-menu-container"><ul id="menu-subject-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>			</ul>
+		</nav>
+		<nav class="utility">
+			<ul>
+												<li class="subscribe">
+								<a class="alert" href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**MOB">Subscribe</a>								</li>
+																					<li class="current-issue"><a href="http://www.thenation.com/issue/may-9-16-2016/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+																</li>
+															<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a>
+			</li>
+			<!-- Login/Logout -->
+							<li>
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        					
+						</div>
+						
+									  
+				 <li id="login_status_mob_account"><a href="http://www.thenation.com/login/">Log In</a></li>
+				 				</li>
+							</ul>
+		</nav>
+		<div class="social">
+			<a class="social-icon icon-fb" target="_blank" href="https://www.facebook.com/TheNationMagazine">
+			<span>Facebook</span>
+			</a>
+			<a class="social-icon icon-tw" target="_blank" href="https://twitter.com/thenation">
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="search">
+			<form id="mobile-search" action="http://www.thenation.com/" role="search" method="get" name="search">
+			<!--<input type="text" placeholder="Search" class="clearable" name="s">-->
+			<input type="text" id="q" class="clearable" name="ssearch" placeholder="Search">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		
+		</div>
+		</div>
+	</div>
+	<!-- /#mobile-menu -->
+</header>
+	<div class="container push"><script type= "text/javascript">
+var preventLoad_article = false;
+var check_comment = false;
+jQuery(document).ready(function(){
+		});
+</script>
+
+
+<div class="article-wrap article-page " id="wrap">
+	<!-- Advertisements -->
+<script type="text/javascript">
+	var key = [];
+	var values = [];
+</script>
+		<script type="text/javascript">
+			key.push("tn_keyword");
+			values.push("'internatio', 'iran', 'new-econom', 'peak-oil', 'saudi-arab', 'shale-gas', 'tar-sands'");
+		</script>
+				<script type="text/javascript">
+			key.push("tn_author");
+			values.push("'michael-t'");
+		</script>
+			<!-- Calling Header, Footer Leaderboards and Pixel Ads -->
+	<script type="text/javascript">
+		jQuery( document ).ready(function($) {
+			custom_targeting = false;
+			if (key.length > 0 && values.length > 0) {
+				custom_targeting = true;
+			}
+			call_ad('leaderboard','ad-leaderboard','tn_environment_environmental_issues_ros_leaderboard_1','tn_environment_environmental_issues_article_leaderboard_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel','tn_environment_environmental_issues_article_pixel_1','tn_environment_environmental_issues_article_pixel_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel-2','tn_environment_environmental_issues_article_pixel_2','tn_environment_environmental_issues_article_pixel_mobile_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_test_pixel','tn_test_pixel',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_test_pixel_2','tn_test_pixel_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_environment_environmental_issues_article_pixel_1','tn_environment_environmental_issues_article_pixel_1',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_environment_environmental_issues_article_pixel_2','tn_environment_environmental_issues_article_pixel_2',custom_targeting,key,values);
+			call_ad('leaderboard','div-gpt-ad-1428494597034-0','tn_environment_environmental_issues_ros_leaderboard_1','tn_environment_environmental_issues_article_leaderboard_mobile_1',custom_targeting,key,values);
+		});
+	</script>
+	<div class="postid-210824 scrolltrace " articlelisttitle="Did OPEC Just Start Preparing for the End of the Oil Era?" articlelistlinks="http://www.thenation.com/article/did-opec-just-start-preparing-for-the-end-of-the-oil-era/" article-post-id="210824">
+	<article id="url-title">
+	<!-- Banner Image -->  
+			<header class="article-header">
+		<div class="article-header-content">
+					<ul class="article-info">
+				<li class="category"><a href="http://www.thenation.com/subject/global-organizations/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/global-organizations/">Global Organizations</a></li><li class="category"><a href="http://www.thenation.com/subject/oil-and-gas/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/oil-and-gas/">Oil and Gas</a></li><li class="subcategory"><a href="http://www.thenation.com/keyword/peak-oil/">Peak oil</a></li>				</ul>
+		
+			<h1 class="title">Did OPEC Just Start Preparing for the End of the Oil Era?</h1>
+			<h2 class="subtitle">The debacle in Doha may be the beginning of the end for the old oil order. </h2>
+			<div class="byline">
+							<h2 class="author_name">By <a class="author" href="http://www.thenation.com/authors/michael-t-klare/">Michael T. Klare</a><a class="author-twitter" href="https://twitter.com/@mklare1 " target="blank"><span>Twitter</span></a></h2>					<!--<h2>By </h2>-->
+								
+		
+				<h4 class="time is_date article_pub_time">April 28, 2016<!--<span><a href="" class="click_comment"></span><span>0 Comments</span></a>-->
+								
+				</h4>
+
+							</div>
+			<ul class="article-share">
+			<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+			</ul>
+			</div>
+		</header>
+					
+		
+		<section class="article-body  abody-210824">
+		<aside class="left full-width-mobile image wide indent">
+										<a class="gallery imgHover" href="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img.jpg" title="An oil worker in the desert oil fields of Sakhir, Bahrain. (AP Photo / Hasan Jamali)"><img src="http://www.thenation.com/wp-content/uploads/2016/04/Mideast_Bahrain_Oil_Prices_AP_img.jpg" alt="Oil Worker Bahrain"></a>
+										<p class="caption">An oil worker in the desert oil fields of Sakhir, Bahrain. <span class="credits">(AP Photo / Hasan Jamali)</span></p>
+							</aside>
+							<div style="clear:both"></div>		
+					<p>Sunday, April 17, was the designated moment. The world’s leading oil producers were expected to bring fresh discipline to the chaotic petroleum market and spark a return to high prices. Meeting in Doha, the glittering capital of petroleum-rich Qatar, the oil ministers of the Organization of the Petroleum Exporting Countries (OPEC), along with such key non-OPEC producers as Russia and Mexico, were <a href="http://www.cbc.ca/news/business/oil-producers-doha-1.3535539" target="_blank">scheduled</a> to ratify a draft agreement obliging them to freeze their oil output at current levels. In anticipation of such a deal, oil prices had begun to creep inexorably upward, from $30 per barrel in mid-January to $43 on the eve of the gathering. But far from restoring the old oil order, the meeting <a href="https://www.washingtonpost.com/news/energy-environment/wp/2016/04/18/oil-prices-sink-after-global-deal-to-freeze-production-collapses/" target="_blank">ended in discord</a>, driving prices down again and revealing deep cracks in the ranks of global energy producers.<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210824-0" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>					<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210824-0','tn_environment_environmental_issues_ros_halfpage_1','tn_environment_environmental_issues_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					</script>
+										<aside class="left textaside">
+					
+						<div class="message"><p>This article originally appeared at <a target="_blank" href="http://www.tomdispatch.com/" target="_blank">TomDispatch.com</a>. To stay on top of important articles like these, <a target="_blank" href="https://app.e2ma.net/app/view:Join/signupId:43308/acctId:25612" target="_blank">sign up</a> to receive the latest updates from TomDispatch.com.</p></div>
+					</aside>
+						
+<p>It is hard to overstate the significance of the Doha debacle. At the very least, it will perpetuate the low oil prices that have plagued the industry for the past two years, forcing smaller firms into bankruptcy and <a href="http://www.wsj.com/articles/oil-rout-forces-companies-to-delay-decisions-on-380-billion-in-projects-1452775590" target="_blank">erasing</a> hundreds of billions of dollars of investments in new production capacity. It may also have <a href="http://www.presstv.ir/Detail/2016/04/18/461337/Russia-energy-minister-failure-agreement-oil-freeze-Doha-meeting/" target="_blank">obliterated</a> any future prospects for cooperation between OPEC and non-OPEC producers in regulating the market. Most of all, however, it demonstrated that the petroleum-fueled world we’ve known these last decades—with oil demand always thrusting ahead of supply, ensuring steady profits for all major producers—is no more. Replacing it is an anemic, possibly even declining, demand for oil that is likely to force suppliers to fight one another for ever-diminishing market shares.		
+<h6>The Road to Doha</h6>
+<p>Before the Doha gathering, the leaders of the major producing countries expressed confidence that a production freeze would finally halt the devastating slump in oil prices that began in mid-2014. Most of them are heavily dependent on petroleum exports to finance their governments and keep restiveness among their populaces at bay. Both <a href="https://www.eia.gov/beta/international/analysis.cfm?iso=RUS" target="_blank">Russia</a> and <a href="https://en.wikipedia.org/wiki/Economy_of_Venezuela" target="_blank">Venezuela</a>, for instance, rely on energy exports for approximately 50 percent of government income, while for <a href="https://www.eia.gov/beta/international/analysis.cfm?iso=NGA" target="_blank">Nigeria</a> it’s more like 75 percent. So the plunge in prices had already cut deep into government spending around the world, <a href="http://www.bbc.com/news/business-29643612" target="_blank">causing</a> civil unrest and even in some cases political turmoil.		
+<p>No one expected the April 17 meeting to result in an immediate, dramatic price upturn, but everyone hoped that it would lay the foundation for a steady rise in the coming months. The leaders of these countries were well aware of one thing: To achieve such progress, unity was crucial. Otherwise they were not likely to overcome the <a href="http://www.tomdispatch.com/post/176089/" target="_blank">various factors</a> that had caused the price collapsein the first place. Some of these were structural and embedded deep in the way the industry had been organized; some were the product of their own feckless responses to the crisis.<aside class="right hidden-on-mobile most-popular-plus-ad"><div class="most-popular hover_b_remove">
+									<h3>Most Popular</h3><div class="popular-article"><h4>1</h4><p><a href="http://www.thenation.com/article/bernies-philadelphia-challenge/">A Contested Convention Is Exactly What the Democratic Party Needs</a></p></div><div class="popular-article"><h4>2</h4><p><a href="http://www.thenation.com/article/nfl-player-stands-up-to-rape-and-gives-a-lesson-in-consent/">An NFL Player Stands Up to Rape and Gives a Lesson in Consent</a></p></div><div class="popular-article"><h4>3</h4><p><a href="http://www.thenation.com/article/as-the-religious-right-forces-its-gospel-into-public-schools-some-secular-parents-are-opting-to-homeschool/">As the Religious Right Forces the Gospel Into Public Schools, Some Parents Are Opting to Homeschool</a></p></div><div class="popular-article"><h4>4</h4><p><a href="http://www.thenation.com/article/bernie-sanders-should-push-for-a-new-realism-in-foreign-policy/">Bernie Sanders Should Push for a New Realism in Foreign Policy</a></p></div><div class="popular-article"><h4>5</h4><p><a href="http://www.thenation.com/article/the-race-that-never-ends/">The Race That Never Ends</a></p></div></aside>		
+<p>On the structural side, global demand for energy had, in recent years, ceased to rise quickly enough to <a href="http://www.nytimes.com/interactive/2016/business/energy-environment/oil-prices.html" target="_blank">soak up</a> all the crude oil pouring onto the market, thanks in part to new supplies from Iraq and especially from the expanding shale fields of the United States. This oversupply triggered the initial 2014 price drop when Brent crude—the international benchmark blend—went from a high of $115 on June 19 to $77 on November 26, the day before a fateful OPEC meeting in Vienna. The next day, OPEC members, led by Saudi Arabia, <a href="http://www.reuters.com/article/us-opec-meeting-idUSKCN0JA0O320141128" target="_blank">failed to agree</a> on either production cuts or a freeze, and the price of oil went into freefall.		
+<p>The failure of that November meeting has been widely <a href="http://www.ft.com/intl/cms/s/2/69350a3e-f970-11e4-be7b-00144feab7de.html" target="_blank">attributed</a> to the Saudis’ desire to kill off new output elsewhere—especially shale production in the United States—and to restore their historic dominance of the global oil market. Many analysts were also convinced that Riyadh was <a href="http://www.nytimes.com/2014/10/15/opinion/thomas-friedman-a-pump-war.html" target="_blank">seeking to punish</a> regional rivals Iran and Russia for their support of the Assad regime in Syria (which the Saudis seek to topple).		
+<p>The rejection, in other words, was meant to fulfill two tasks at the same time: blunt or wipe out the challenge posed by North American shale producers and undermine two economically shaky energy powers that opposed Saudi goals in the Middle East by depriving them of much needed oil revenues. Because Saudi Arabia could produce oil so much more cheaply than other countries—for as little as <a href="http://knoema.com/vyronoe/cost-of-oil-production-by-country" target="_blank">$3 per barrel—</a>and because it could draw upon hundreds of billions of dollars in sovereign wealth funds to meet any budget shortfalls of its own, its leaders believed it more capable of weathering any price downturn than its rivals. Today, however, that rosy prediction is looking grimmer as the Saudi royals begin to feel the pinch of low oil prices, and find themselves <a href="http://www.nytimes.com/2016/02/17/world/middleeast/young-saudis-see-cushy-jobs-vanish-along-with-nations-oil-wealth.html" target="_blank">cutting back</a> on the benefits they had been passing on to an ever-growing, potentially restive population while still financing a costly, inconclusive, and increasingly disastrous war in Yemen.					<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210824-2" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>							<script type="text/javascript">
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210824-2','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						</script>
+								
+<p>Many energy analysts became convinced that Doha would prove the decisive moment when Riyadh would finally be amenable to a production freeze. Just days before the conference, participants <a href="http://www.reuters.com/article/us-kuwait-oil-opec-idUSKCN0X20OA" target="_blank">expressed</a> growing confidence that such a plan would indeed be adopted. After all, preliminary negotiations between Russia, Venezuela, Qatar, and Saudi Arabia had produced a draft document that most participants assumed was essentially ready for signature. The only sticking point: the nature of Iran’s participation.		
+<p>The Iranians were, in fact, agreeable to such a freeze, but only after they were allowed to raise their relatively modest daily output to levels achieved in 2012 before the West imposed <a href="https://www.eia.gov/beta/international/analysis.cfm?iso=IRN" target="_blank">sanctions</a> in an effort to force Tehran to agree to dismantle its nuclear enrichment program. Now that those sanctions were, in fact, being lifted as a result of the recently concluded nuclear deal, Tehran was determined to restore the <em>status quo ante</em>. On this, the Saudis balked, having no wish to see their arch-rival obtain added oil revenues. Still, most observers assumed that, in the end, Riyadh would agree to a formula allowing Iran some increase before a freeze. “There are positive indications an agreement will be reached during this meeting…an initial agreement on freezing production,” <a href="http://www.reuters.com/article/us-kuwait-oil-opec-idUSKCN0X20OA" target="_blank">said</a> Nawal Al-Fuzaia, Kuwait’s OPEC representative, echoing the views of other Doha participants.						<style>
+			.article-wrap .article-body aside.left.custom_background_210824			 {
+			 background:#5000b2 !important;
+			 }
+			 </style>
+				<aside class="left takeaction indent custom_background_210824">
+					<div class="action_tout_heading"><p><p class="p1">LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS</p></p></div>
+					<form action="" name="sailthru_action_tout_form" method="post">
+					<input type="email" name="email" id="take_action_sailthru_email_210824" class="take_action_sailthru_email" Placeholder="Enter Email">
+									<input type="hidden" name="take_action_sailthru_list_final" id="take_action_sailthru_list_final_210824" value="daily_tout,master,daily">
+					<div class="cta"><p>
+										<input type="button" class="take_action_sailthru_submit" name="submit_sailthru" value="SIGN UP!" onclick="add_action_tout_sailthru(210824)"></p></div>
+					</form>
+				<p id="action_tout_response_210824"></p>
+				</aside>
+				
+<p>But then something happened. According to people familiar with the sequence of events, Saudi Arabia’s Deputy Crown Prince and key oil strategist, Mohammed bin Salman, <a href="http://www.ft.com/intl/cms/s/0/260c2300-0559-11e6-a70d-4e39ac32c284.html" target="_blank">called</a> the Saudi delegation in Doha at 3:00 <span style="font-variant: small-caps;">am</span> on April 17 and instructed them to spurn a deal that provided leeway of any sort for Iran. When the Iranians—who chose not to attend the meeting—signaled that they had no intention of freezing their output to satisfy their rivals, the Saudis rejected the draft agreement it had helped negotiate and the assembly ended in disarray.		
+<h6>Geopolitics to the Fore</h6>
+<p>Most analysts have since suggested that the Saudi royals simply considered punishing Iran <a href="http://www.reuters.com/article/us-oil-meeting-kemp-idUSKCN0XF2AR" target="_blank">more important</a> than raising oil prices. No matter the cost to them, in other words, they could not bring themselves to help Iran pursue its geopolitical objectives, including giving yet more support to Shiite forces in Iraq, Syria, Yemen, and Lebanon. Already feeling pressured by Tehran and ever less confident of Washington’s support, they were ready to use any means available to weaken the Iranians, whatever the danger to themselves.      <style>
+      .cta.primary.YwmcmbnCOf{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.YwmcmbnCOf a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      </style>
+      <aside class="siderail__item full cta primary right article_action_right YwmcmbnCOf">
+   <div class="item__content">
+            <h3>GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+</h3>
+            <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**ARL" target="_blank" class="btn">Subscribe</a>   
+   </div>   
+</aside>
+ 
+
+										
+<p>“The failure to reach an agreement in Doha is a reminder that Saudi Arabia is in no mood to do Iran any favors right now and that their ongoing geopolitical conflict cannot be discounted as an element of the current Saudi oil policy,” <a href="http://www.ft.com/intl/cms/s/2/9b26d674-04de-11e6-9b51-0fb5e65703ce.html" target="_blank">said</a> Jason Bordoff of the Center on Global Energy Policy at Columbia University.		
+<p>Many analysts also <a href="http://www.ft.com/intl/cms/s/0/260c2300-0559-11e6-a70d-4e39ac32c284.html" target="_blank">pointed to</a> the rising influence of Deputy Crown Prince Mohammed bin Salman, entrusted with near-total control of the economy and the military by his aging father, King Salman. As Minister of Defense, the prince has <a href="http://www.nytimes.com/2015/06/07/world/middleeast/surprising-saudi-rises-as-a-prince-among-princes.html" target="_blank">spearheaded</a> the Saudi drive to counter the Iranians in a regional struggle for dominance. Most significantly, he is the main force behind Saudi Arabia’s ongoing <a href="https://en.wikipedia.org/wiki/Saudi_Arabian-led_intervention_in_Yemen" target="_blank">intervention</a> in Yemen, aimed at defeating the Houthi rebels, a largely Shia group with loose ties to Iran, and restoring deposed former president Abd Rabbuh Mansur Hadi. After a year of relentless US-backed airstrikes (including the use of <a href="https://www.hrw.org/news/2016/01/07/yemen-coalition-drops-cluster-bombs-capital-0" target="_blank">cluster bombs</a>), the Saudi intervention has, in fact, <a href="https://www.opendemocracy.net/arab-awakening/helen-lackner/can-saudi-led-coalition-win-war-in-yemen" target="_blank">failed</a> to achieve its intended objectives, though it has produced thousands of civilian casualties, provoking <a href="http://www.nytimes.com/2016/03/19/world/middleeast/yemen-airstrikes-civilians-un.html" target="_blank">fierce condemnation</a> from UN officials, and created space for the <a href="http://www.reuters.com/investigates/special-report/yemen-aqap/" target="_blank">rise</a> of al Qaeda in the Arabian Peninsula. Nevertheless, the prince seems determined to keep the conflict going and to counter Iranian influence across the region.		
+<p>For Prince Mohammed, the oil market has evidently become just another arena for this ongoing struggle. “Under his guidance,” the <em>Financial Times </em><a href="http://www.ft.com/intl/cms/s/0/260c2300-0559-11e6-a70d-4e39ac32c284.html" target="_blank">noted</a> in April, “Saudi Arabia’s oil policy appears to be less driven by the price of crude than global politics, particularly Riyadh’s bitter rivalry with post-sanctions Tehran.” This seems to have been the backstory for Riyadh’s last-minute decision to scuttle the talks in Doha. On April 16th, for instance, Prince Mohammed couldn’t have been <a href="http://www.bloomberg.com/news/articles/2016-04-15/saudi-prince-reiterates-oil-freeze-depends-on-others-joining-in2c81r3" target="_blank">blunter</a> to <em>Bloomberg</em>, even if he didn’t mention the Iranians by name: “If all major producers don’t freeze production, we will not freeze production.”							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210824-4" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210824-4','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>With the proposed agreement in tatters, Saudi Arabia is now expected to boost its own output, ensuring that prices will remain bargain-basement low and so deprive Iran of any windfall from its expected increase in exports. The kingdom, Prince Mohammed <a href="http://www.bloomberg.com/news/articles/2016-04-16/saudi-prince-says-he-could-add-a-million-barrels-immediately" target="_blank">told</a> <em>Bloomberg</em>, was prepared to immediately raise production from its current 10.2 million barrels per day to 11.5 million barrels and could add another million barrels “if we wanted to” in the next six to nine months. With Iranian and Iraqi oil heading for market in larger quantities, that’s the definition of oversupply. It would certainly ensure Saudi Arabia’s continued dominance of the market, but it might also wound the kingdom in a major way, if not fatally.		
+<h6>A New Global Reality</h6>
+<p>No doubt geopolitics played a significant role in the Saudi decision, but that’s hardly the whole story. Overshadowing discussions about a possible production freeze was a new fact of life for the oil industry: The past would be no predictor of the future when it came to global oil demand. Whatever the Saudis think of the Iranians or vice versa, their industry is being fundamentally transformed, altering relationships among the major producers and eroding their inclination to cooperate.		
+<p>Until very recently, it was assumed that the demand for oil would continue to expand indefinitely, creating space for multiple producers to enter the market, and for ones already in it to increase their output. Even when supply outran demand and drove prices down, as has periodically occurred, producers could always take solace in the knowledge that, as in the past, demand would eventually rebound, jacking prices up again. Under such circumstances and at such a moment, it was just good sense for individual producers to cooperate in lowering output, knowing that everyone would benefit sooner or later from the inevitable price increase.		
+<p>But what happens if confidence in the eventual resurgence of demand begins to wither? Then the incentives to cooperate begin to evaporate, too, and it’s every producer for itself in a mad scramble to protect market share. This new reality—a world in which “<a href="http://www.wsj.com/articles/why-the-worlds-appetite-for-oil-will-peak-soon-1430881507" target="_blank">peak oil demand</a>,” rather than “peak oil,” will shape the consciousness of major players—is what the Doha catastrophe foreshadowed.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-210824-5" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-210824-5','tn_environment_environmental_issues_ros_halfpage_2','tn_environment_environmental_issues_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>At the beginning of this century, many energy analysts were convinced that we were at the edge of the arrival of “<a href="https://en.wikipedia.org/wiki/Peak_oil" target="_blank">peak oil</a>”; a peak, that is, in the output of petroleum in which planetary reserves would be exhausted long before the demand for oil disappeared, triggering a global economic crisis. As a result of advances in drilling technology, however, the supply of oil has continued to grow, while demand has unexpectedly begun to stall. This can be traced both to slowing economic growth globally and to an accelerating “<a href="http://www.tomdispatch.com/post/176080/" target="_blank">green revolution</a>” in which the planet will be transitioning to non-carbon fuel sources. With most nations now committed to measures aimed at reducing emissions of greenhouse gases under the <a href="http://www.nytimes.com/2016/04/22/science/united-nations-paris-climate-change-document.html" target="_blank">just signed</a> Paris climate accord, the demand for oil is likely to experience significant declines in the years ahead. In other words, global oil demand will peak long before supplies begin to run low, creating a monumental challenge for the oil-producing countries.		
+<p>This is no theoretical construct. It’s reality itself. Net consumption of oil in the advanced industrialized nations has already <a href="http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html" target="_blank">dropped</a> from 50 million barrels per day in 2005 to 45 million barrels in 2014. Further declines are in store as strict <a href="https://en.wikipedia.org/wiki/Corporate_Average_Fuel_Economy" target="_blank">fuel efficiency standards</a> for the production of new vehicles and other climate-related measures take effect, the price of solar and wind power continues to fall, and other alternative energy sources come on line. While the demand for oil does continue to rise in the developing world, even there it’s not climbing at rates previously taken for granted. With such countries also beginning to impose tougher constraints on carbon emissions, global consumption is expected to reach a peak and begin an inexorable decline. <a href="http://www.sciencedirect.com/science/article/pii/S1462901115300587" target="_blank">According to</a> experts Thijs Van de Graaf and Aviel Verbruggen, overall world peak demand could be reached as early as 2020.		
+<p>In such a world, high-cost oil producers will be driven out of the market and the advantage—such as it is—will lie with the lowest-cost ones. Countries that depend on petroleum exports for a large share of their revenues will come under increasing pressure to move away from excessive reliance on oil. This may have been another consideration in the Saudi decision at Doha. In the months leading up to the April meeting, senior Saudi officials dropped hints that they were beginning to plan for a post-petroleum era and that Deputy Crown Prince bin Salman would play a key role in overseeing the transition.		
+<p>On April 1st, the prince himself <a href="http://www.nytimes.com/2016/04/02/world/middleeast/saudi-aramco-mohammed-bin-salman-public-fund.html" target="_blank">indicated</a> that steps were underway to begin this process. As part of the effort, he announced, he was planning an initial public offering of shares in state-owned Saudi Aramco, the world’s number one oil producer, and would transfer the proceeds, an estimated $2 trillion, to its Public Investment Fund (PIF). “IPOing Aramco and transferring its shares to PIF will technically make investments the source of Saudi government revenue, not oil,” the prince <a href="http://www.bloomberg.com/news/articles/2016-04-01/saudi-arabia-plans-2-trillion-megafund-to-dwarf-all-its-rivals" target="_blank">pointed out</a>. “What is left now is to diversify investments. So within 20 years, we will be an economy or state that doesn’t depend mainly on oil.”		
+<p>For a country that more than any other has rested its claim to wealth and power on the production and sale of petroleum, this is a revolutionary statement. If Saudi Arabia says it is ready to begin a move away from reliance on petroleum, we are indeed entering a new world in which, among other things, the titans of oil production will no longer hold sway over our lives as they have in the past.		
+<p>This, in fact, appears to be the outlook adopted by Prince Mohammed in the wake of the Doha debacle. In announcing the kingdom’s new economic blueprint on April 25th, he <a href="http://www.nytimes.com/2016/04/26/world/middleeast/saudi-prince-shares-planto-cut-oil-dependency-and-energize-the-economy.html" target="_blank">vowed</a> to liberate the country from its “addiction” to oil.” This will not, of course, be easy to achieve, given the kingdom’s heavy reliance on oil revenues and <a href="http://www.juancole.com/2016/04/reinventing-saudi-arabia-after-oil-the-princes-2-trillion-gamble.html" target="_blank">lack</a> of plausible alternatives. The 30-year-old prince could also face opposition from within the royal family to his audacious moves (as well as his blundering ones in Yemen and possibly elsewhere). Whatever the fate of the Saudi royals, however, if predictions of a future peak in world oil demand prove accurate, the debacle in Doha will be seen as marking the beginning of the end of the old oil order.		
+		</section>
+		<footer class="article-footer narrow">
+
+			   		<div class="footer-module comments">
+			<!-- Comments count function -->
+				<a class="click_comment" href="">0 Comments</a>
+			</div>
+						<div class="footer-module">
+				<ul class="article-share">
+					<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+				</ul>
+			</div>
+			<!--<div class="footer-module narrow supplemental-info">
+							</div>-->
+			
+			<div class="footer-module narrow author-bio">
+									<p><span><a href="http://www.thenation.com/authors/michael-t-klare/"> Michael T. Klare</a>
+												 <a class="author-twitter" href="https://twitter.com/@mklare1 " target="blank"><span>Twitter</span></a>
+						 						</span> Michael T. Klare is a professor of peace and world security studies at Hampshire College and the defense correspondent of <em>The Nation</em>.</em></p><br/>
+						</div>
+							<div class="footer-module narrow contact-us">
+					<p>To submit a correction for our consideration, click <a target=_blank href=/corrections>here.</a>										</p>
+					<p>For Reprints and Permissions, click <a target="_blank" href="http://www.thenationreprints.com/services/reprints/">here.</a></p>
+				</div>
+				
+			<div id="comments_210824" class="commentContainer" style="display:none">
+			<div id="comments" class="comments-area">
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/article/did-opec-just-start-preparing-for-the-end-of-the-oil-era/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">In order to comment, you must be logged in as a paid subscriber. <a href="#TB_inlinepcd_login?width=600&height=550&inlineId=login-content-id-pcd_login" class="thickbox comment_login_link"> Click here to log in</a> or subscribe.</p>												</div><!-- #respond -->
+						
+</div><!-- #comments -->			</div>
+					</footer>
+		<footer class="article-footer recirc-block">
+			<div class="footer-module full-width-mobile recirc-block">
+					<div class="recirc column" id="recirccol-210824">
+					<ul class="tag-browser">
+					 
+							<li><a name="global-organizations" class="other" href="#">Global Organizations</a></li>
+						 
+							<li><a name="oil-and-gas" class="other" href="#">Oil and Gas</a></li>
+						 
+							<li><a name="peak-oil" class="other" href="#">Peak oil</a></li>
+				 
+							<li><a name="international-trade" class="other" href="#">International trade</a></li>
+										
+					</ul>
+					<div class="recirc-carousel" id="recirccar-210824">
+														<ul id="global-organizations" class="article-list">
+																		<li>
+										<time>Yesterday 12:04 pm</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/arrests-in-the-murder-of-berta-caceres-expose-links-to-the-honduran-company-she-protested/">Berta Cáceres’s Killers Are Getting Good at the PR Game</a> <span class="author">
+																	By Greg Grandin																		</span></h2>
+									</li>
+																		<li>
+										<time>Yesterday 10:21 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/bernie-sanders-should-push-for-a-new-realism-in-foreign-policy/">Bernie Sanders Should Push for a New Realism in Foreign Policy</a> <span class="author">
+																	By Katrina vanden Heuvel																		</span></h2>
+									</li>
+																	</ul>
+																<ul id="oil-and-gas" class="article-list">
+																		<li>
+										<time>Apr 15, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/the-democrats-fracking-fracture/">The Democrats’ Fracking Fracture</a> <span class="author">
+																	By Zoë Carpenter																		</span></h2>
+									</li>
+																		<li>
+										<time>Apr 13, 2016</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/lead-isnt-the-only-threat-to-drinking-water/">Lead Isn’t the Only Threat to Drinking Water</a> <span class="author">
+																	By Zoë Carpenter																		</span></h2>
+									</li>
+																	</ul>
+														<ul id="peak-oil" class="article-list">
+														<li>
+								<time>Mar 08, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/the-future-of-oil-is-here-and-it-doesnt-look-pretty/">The Future of Oil Is Here—and It Doesn’t Look Pretty</a> <span class="author">									By Michael T. Klare								</span></h2>
+							</li>
+														<li>
+								<time>Jan 12, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/the-hidden-risk-of-plummeting-oil-prices-war/">The Hidden Risk of Plummeting Oil Prices: War</a> <span class="author">									By Michael T. Klare								</span></h2>
+							</li>
+													</ul>
+												<ul id="international-trade" class="article-list">
+														<li>
+								<time>Today 9:06 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/indiana-tells-bernie-sanders-to-stay-in-the-race-and-keep-talking-about-trade/">Indiana Tells Bernie Sanders to Stay in the Race, and Keep Talking About Trade</a> <span class="author">									By John Nichols								</span></h2>
+							</li>
+														<li>
+								<time>Mar 21, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/the-untold-story-of-the-texaco-oil-tycoon-who-loved-fascism/">The Untold Story of the Texaco Oil Tycoon Who Loved Fascism</a> <span class="author">									By Adam Hochschild								</span></h2>
+							</li>
+													</ul>
+												
+					</div>
+				</div>
+				<style>
+.tout.footer.donate.nbQcIgtwqI{
+background: #cc0e0e !important;
+}
+.tout.footer.donate p{color: #ffffff !important;}
+.tout.footer.donate .btn{
+   border:3px solid #ffffff !important;
+   color: #ffffff !important;
+   background: #cc0e0e !important;
+}
+.tout.footer.donate .btn:hover{
+   background:#ffffff !important;
+   color:#cc0e0e !important;
+}
+</style>
+<div class="tout footer donate column nbQcIgtwqI">
+   <div class="donate-wrapper">
+             <p>“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+</p>
+            <div class="donate-grid"><a href="https://ssl.palmcoastd.com/06601/apps/ANNIVERSARY2?ikey=I**RR2" target="_blank" class="btn">Subscribe to The Nation</a></div>   </div>
+</div>
+							</div>
+		</footer>
+		</article>
+
+
+<script type="text/javascript">
+  //  googletag.cmd.push(function() {
+  //  googletag.defineSlot('/1004953/tn_article_leaderboard_2', [728, 90], 'div-gpt-ad-1428494597034-0').
+  //  setTargeting("test","infinitescroll").
+  //  addService(googletag.pubads());
+  //
+  // // Infinite scroll requires SRA
+  // googletag.pubads().enableSingleRequest();
+  //
+  // // Disable initial load, we will use refresh() to fetch ads.
+  // // Calling this function means that display() calls just
+  // // register the slot as ready, but do not fetch ads for it.
+  // googletag.pubads().disableInitialLoad();
+  //
+  // // Enable services
+  // googletag.enableServices();
+  //});
+    
+  
+ // Function to generate unique names for slots
+ var nextSlotId = 1;
+ function generateNextSlotName() {
+   var id = nextSlotId++;
+   return 'adslot' + id;
+ }
+	var nextSlotIdSide = 1;
+	function generateNextSlotNameSide() {
+	  var idSide = nextSlotIdSide++;
+	  return 'slotSide' + idSide;
+	}
+
+</script>
+	
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+   //googletag.display('div-gpt-ad-1428494597034-0');
+});
+</script>
+	 <div id="ad-interarticle"   class="ad full-width interarticle position-relative">
+		<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+		<div id="div-gpt-ad-1428494597034-0"> 
+<!--     <script>
+        // Call display() to register the slot as ready
+        // and refresh() to fetch an ad.
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-1428494597034-0');
+          googletag.pubads().refresh();
+        });
+     </script> 
+--> </div>
+	</div>
+	 <!--<div id='div-gpt-ad-1428494597034-0' class="push ad full-width leaderboard"></div>-->
+	
+	<a class="inifiniteLoader"><img src="http://www.thenation.com/wp-content/themes/thenation/images/infi_loader.gif" /></a>
+	</div>
+					</div><!-- article wrap -->
+	<!--<a class="goTop" title="Scroll Top"><img src="http://www.thenation.com/wp-content/themes/thenation/images/scroll_arrow.png" /></a>-->
+<!-- Including  Body content image in gallery -->
+	<!-- Including  Body content image in  gallery -->
+	<script>
+	       function runSlider(ele)
+	    {   
+			 ele.bxSlider({
+  adaptiveHeight: true,
+ adaptiveHeightSpeed: 500,
+  infiniteLoop: false,
+  hideControlOnEnd: false,
+  pager: false
+});
+return false;
+		}
+
+	   
+		 jQuery(document).ready(function(){
+		 var flag = false;
+		 $('section.article-body img').each(function() {
+		   
+			 if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 {
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+             if(flag)
+			{
+			 runSlider($('.gallery-2'));
+			}
+	});
+	</script>
+	<script>	
+jQuery(document).ready(function(){
+  $e = $('.article-body').children().last();   
+   $t = $e.prop("tagName");
+   var tagsArray = ['FORM','ASIDE'];
+   var anothertagsArray = {'UL':'li','OL':'li','BLOCKQUOTE':'p'};
+   if(jQuery.inArray($t, tagsArray )!='-1')
+   {} 
+   else
+   {    
+      if($t in anothertagsArray)
+      {
+         $('.article-body > p:last-of-type').toggleClass('changed');
+         $e.find(anothertagsArray[$t]+':last').addClass('redotclass');         
+      }    
+   }
+});
+jQuery(document).ready(function(){
+$('figure').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+   if($(this).hasClass('alignright')||$(this).hasClass('alignleft') || $(this).hasClass('aligncenter'))
+   { 
+     $(this).after('<div class="clear"></div>');
+	}
+	});
+
+	//jQuery('.click_comment').click(function(){
+	//			console.log("called     "+'#comments_210824' );
+	//		$( '#comments_210824' ).toggle();
+	//		$('html, body').animate({
+	//			scrollTop: $('#comments_210824').offset().top
+	//		},2000);
+	//		return false;
+	//	});
+});
+</script>
+	<script>// Scroll IF # id exist in URL
+	jQuery(document).ready(function($){
+	var url_id = window.location.hash.substr(1);
+	if(url_id!='')
+	{
+	var s = url_id;
+	var n = s.indexOf('/');
+	if(n!=''&& typeof n!= 'undefined')
+	{
+		var id_var = s.substring(0, n != -1 ? n : s.length);
+		//alert(id_var);
+		
+				$('html, body').animate({
+					scrollTop: $('#'+id_var).offset().top
+				},2000);
+				return false;
+			
+		}
+	}
+	});
+	</script>
+	
+	<script type="text/javascript">
+/*script to handle Back Button Event */
+var pageChange = 1;
+jQuery.noConflict();
+if(window.attachEvent) {
+    window.attachEvent('onpopstate', datHash);
+}
+function datHash(event)
+{
+	//event.preventDefault();
+	var str = $('#goback').val();
+	if(str=='')
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	else
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	return false;
+}
+/*script to handle Back Button Event */
+
+</script>
+<!--Alternate Popup code start-->
+<!--Alternate Popup code End--> 
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+	$('.post-edit-link').attr('href', function( _, action){
+    return action.replace('https', 'http');
+});
+    });
+
+jQuery(document).ready(function($) {
+	
+//	(function(window, undefined) {
+//    // Define variables
+//    var History = window.History,
+//        State = History.getState();
+//
+//    // Bind statechange event
+//    History.Adapter.bind(window, 'statechange', function() {
+//        var State = History.getState();
+//    });
+//	})(window);
+	
+	$('a.inifiniteLoader').hide();
+	var count = 1;
+	var loagAgn = false;
+	/*Script to handle Article Load Ajax*/
+	function loadArticle(pageNumber){
+		$('a.inifiniteLoader').show('fast');
+		$.ajax({
+		    url: "http://www.thenation.com/wp-admin/admin-ajax.php",
+		    type:'POST',
+			cache: false,
+			dataType: 'json',
+		    data: {action:'infinite_scroll',page_no: pageNumber, loop_file: 'articleload',slug:'economics,energy,environment,fracking,global-organizations,middle-east,oil-and-gas,world,world-leaders',curr_post_id:'210824',baseInfo:'{"SERVER_SOFTWARE":"nginx\/1.8.1","REQUEST_URI":"\/article\/did-opec-just-start-preparing-for-the-end-of-the-oil-era\/","USER":"72798938fbc44666b68a61849d689df7","HOME":"\/srv\/bindings\/72798938fbc44666b68a61849d689df7","FCGI_ROLE":"RESPONDER","QUERY_STRING":"","REQUEST_METHOD":"GET","CONTENT_TYPE":"","CONTENT_LENGTH":"","SCRIPT_NAME":"\/index.php","DOCUMENT_URI":"\/index.php","DOCUMENT_ROOT":"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/code","SERVER_PROTOCOL":"HTTP\/1.1","GATEWAY_INTERFACE":"CGI\/1.1","REMOTE_ADDR":"104.236.110.91","REMOTE_PORT":"31584","SERVER_ADDR":"10.223.224.238","SERVER_PORT":"11938","SERVER_NAME":"endpoint2eadebc5.chios.panth.io","REDIRECT_STATUS":"200","PATH_INFO":"","PATH_TRANSLATED":"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/code","HTTPS":"OFF","SCRIPT_FILENAME":"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/code\/\/index.php","HTTP_HOST":"www.thenation.com","HTTP_USER_AGENT":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/31.0.1650.63 Safari\/537.36","HTTP_ACCEPT":"text\/html,application\/xhtml+xml","HTTP_ACCEPT_ENCODING":"gzip","HTTP_COOKIE":"has_js=1","HTTP_SURROGATE_CAPABILITY":"styx=\\\"ESI\/1.0\\\"","HTTP_USER_AGENT_HTTPS":"OFF","HTTP_VIA":"HTTP\/1.1 ECS (ewr\/15CB), HTTP\/1.1 ECS (ord\/572F)","HTTP_X_FORWARDED_FOR":"104.236.110.91, 198.7.21.203, 72.21.87.47, 72.21.87.47","HTTP_X_FORWARDED_PROTO":"http","HTTP_X_GATEWAY_LIST":"ord1","HTTP_X_HOST":"www.thenation.com","HTTP_X_PANTHEON_CLIENT_IP":"104.236.110.91","HTTP_X_PANTHEON_STYX":"1","HTTP_X_PROTO":"http:\/\/","HTTP_X_VARNISH":"115280613","PHP_SELF":"\/index.php","REQUEST_TIME_FLOAT":"1462368093.9939","REQUEST_TIME":"1462368093","PRESSFLOW_SETTINGS":"{\\\"conf\\\":{\\\"pressflow_smart_start\\\":true,\\\"pantheon_binding\\\":\\\"72798938fbc44666b68a61849d689df7\\\",\\\"pantheon_site_uuid\\\":\\\"672ae238-dede-44f4-9243-89a591c2cc46\\\",\\\"pantheon_environment\\\":\\\"live\\\",\\\"pantheon_tier\\\":\\\"live\\\",\\\"pantheon_index_host\\\":\\\"18f9ce30-8984-49c6-a353-771e7a1a88ef-private.panth.io\\\",\\\"pantheon_index_port\\\":449,\\\"redis_client_host\\\":\\\"10.223.242.45\\\",\\\"redis_client_port\\\":10000,\\\"redis_client_password\\\":\\\"f7862bd887a04097b9c0c40dd322708a\\\",\\\"file_public_path\\\":\\\"sites\/default\/files\\\",\\\"file_private_path\\\":\\\"sites\/default\/files\/private\\\",\\\"file_directory_path\\\":\\\"sites\/default\/files\\\",\\\"file_temporary_path\\\":\\\"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/tmp\\\",\\\"file_directory_temp\\\":\\\"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/tmp\\\",\\\"css_gzip_compression\\\":false,\\\"js_gzip_compression\\\":false,\\\"page_compression\\\":false,\\\"error_level\\\":0},\\\"databases\\\":{\\\"default\\\":{\\\"default\\\":{\\\"host\\\":\\\"10.223.144.42\\\",\\\"port\\\":10000,\\\"username\\\":\\\"pantheon\\\",\\\"password\\\":\\\"b35cb8c7d81b4ff0a54a7af315773f96\\\",\\\"database\\\":\\\"pantheon\\\",\\\"driver\\\":\\\"mysql\\\"}}},\\\"drupal_hash_salt\\\":\\\"b444002d80740b3d94cc5e42e4945dbc224fd3134e65b580da60215ffe4c8bf3\\\",\\\"config_directory_name\\\":\\\"config\\\"}","FRAMEWORK":"wordpress","DOCROOT":"\/","FILEMOUNT":"wp-content\/uploads","AUTH_KEY":"VHpmJoHTr14kv2qyk4zD6NrSc3IqAUmZxtz0nUnwkNA=","SECURE_AUTH_KEY":"zuloHYH0e\/uwY8+VFQ\/rgob0NrMXhmIsg9ymhQ4uBTg=","LOGGED_IN_KEY":"2m+ff0Ly0rHeTX0y0XQjPbiJWgk2aCET7rTjb+zMW5c=","NONCE_KEY":"JMqPWPpuEU03WW4UaqSzKy1gkcWsavf\/LHKLgHKzusc=","AUTH_SALT":"Q7pT2rIMICgULXTEtMwYfknUKfI0Yaog3PBcoVMI7F8=","SECURE_AUTH_SALT":"a3AFHfpntT3bMHQ5x\/6oFBL2AUyT\/sRYoO2W8Zz5hws=","LOGGED_IN_SALT":"+gVdi3DCKSVclyPORyNbSyHp2Gx9F81RWiMAwMV3hGg=","NONCE_SALT":"JcwHG4IRUl\/DsS0Va2+Z15HXCQKQmnIsDS8mbPoP8w4=","PANTHEON_INDEX_HOST":"10.223.96.36","PANTHEON_INDEX_PORT":"449","REPLICA_DB_HOST":"10.223.240.192","REPLICA_DB_PORT":"10000","REPLICA_DB_USER":"pantheon","REPLICA_DB_PASSWORD":"51bc58f755ba453a9c36b3f5794b3513","REPLICA_DB_NAME":"pantheon","DB_HOST":"10.223.144.42","DB_PORT":"10000","DB_USER":"pantheon","DB_PASSWORD":"b35cb8c7d81b4ff0a54a7af315773f96","DB_NAME":"pantheon","CACHE_HOST":"10.223.242.45","CACHE_PORT":"10000","CACHE_PASSWORD":"f7862bd887a04097b9c0c40dd322708a","PANTHEON_SITE":"672ae238-dede-44f4-9243-89a591c2cc46","PANTHEON_SITE_NAME":"thenation","PANTHEON_ENVIRONMENT":"live","PANTHEON_INFRASTRUCTURE_ENVIRONMENT":"live","PATH":"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/bin:\/usr\/local\/bin:\/bin:\/usr\/bin:\/srv\/bin","PHPRC":"\/srv\/bindings\/72798938fbc44666b68a61849d689df7\/php.ini"}'},
+		    success: function(receivedHTML){
+			if (typeof receivedHTML == 'object') 
+			{
+				if(typeof receivedHTML.html!=='undefined' && receivedHTML.html!='')
+				{
+					html = receivedHTML.html;
+				}
+			}
+			else
+			{
+				$('a.inifiniteLoader').hide();
+				$("#single_article_footer").show();
+			}
+			//html = receivedHTML.html;
+			$('a.inifiniteLoader').hide('1000');
+			$("#wrap").append(html);    // This will be the div where our content will be loaded
+			var postID = $($.parseHTML(html)).filter(".scrolltrace").attr('article-post-id');
+			
+			$('.abody-'+postID).children('p:first-of-type').html(function (i, html) {
+if ($('.abody-'+postID).children('img').length == "0") {
+var text = $('.abody-'+postID).children('p:first-of-type').html();
+$('.abody-'+postID).children('p:first-of-type').html(text.replace(/^(<.?>)?([A-Za-z0-9])/g,'$1<span class="dropcap">$2</span>'));
+}
+});        
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===false) 
+			{		  
+				/*for hiding meterpaywall popups when pixel ads call ends here*/
+				/****Alternate Popup code start*********/
+				var enable_alterpopup_check;
+				enable_alterpopup_check ='';
+				if(typeof(enable_alterpopup_check) != "undefined" && enable_alterpopup_check == 1) 
+				{ 
+					var alternate_article_no;
+					alternate_article_no = '';
+					if(pageCounterPaywall % alternate_article_no == 0 && pageCounterPaywall!=0)
+					{
+						show_lightbox('','');
+					}
+				}
+				/******Alternate Popup code End********/
+			}
+			pageCounterPaywall++;
+			ajaxCarousel(postID);
+			/** Slider Content **/
+			var flag = false;
+			$('section.article-body:last img').each(function() {
+			if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 { 
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+
+			 if(flag){
+			var k = $('section.article-body:last').find('.gallery-2').bxSlider({
+				  adaptiveHeight: true,
+				 adaptiveHeightSpeed: 500,
+				  infiniteLoop: false,
+				  hideControlOnEnd: false,
+				  pager: false
+				});
+			 k.reloadSlider();
+			 }
+			 /* Slider Content End */
+			 
+			 
+			 var usera = navigator.userAgent.toLowerCase(); 
+				if ($('.article-page').length) { 
+				var slickWidth = $('.article-list.slick-slide').width(); 
+				if ($('.ie9').length) 
+				{ slickWidth = $('.recirc-carousel.slick-initialized.slick-slider').width(); } 
+				$('.slick-list.draggable').css( 
+				{'width' : slickWidth} 
+				); 
+				if (!/android|webos|iphone|ipad|ipod|blackberry/i.test(usera)) { 
+				$('.article-list.slick-slide').children('li').css( 
+				{'width' : slickWidth} 
+				); 
+				$('.slick-list').css( 
+				{'width' : slickWidth} 
+				); 
+				} 
+				} 
+			 
+			 
+			 
+			 
+			 
+			 
+		    }
+		});
+	    return false;
+	}
+	
+
+	/*Script to handle Scroll*/
+	 $(window).bind('scroll', function() {
+		
+			$('.scrolltrace').each(function() {
+			   var post = $(this);
+			   var topp = post.position().top;
+			   var bott = post.position().top + post.height();
+			   var pos = $(window).scrollTop();
+			    if (pos>=topp && pos<=bott) {
+			       $(this).addClass('currentScr');
+			       if($('.currentScr').attr("articlelistlinks")!=window.location.href)
+				   {
+						var ua = window.navigator.userAgent;
+						var msie = ua.indexOf("MSIE ");
+
+						if (msie > 0){ 
+							
+						}else{
+								window.history.pushState({}, "", $('.currentScr').attr('articlelistlinks'));
+								load_article_ads();
+						}
+				   // Google Analytics  for Infinite Scroll
+					 ga('send', 'pageview', {
+								'page': $('.currentScr').attr('articlelistlinks'),
+								'title': $('.currentScr').attr('articlelisttitle')
+							});
+
+				    pSUPERFLY.virtualPage($('.currentScr').attr('articlelistlinks'), $('.currentScr').attr('articlelisttitle'));
+				$("nav.primary ul li.article-meta h2").html($('.currentScr').attr('articlelisttitle').substring(0,100));
+			       $("title").html($('.currentScr').attr('articlelisttitle'));
+						 
+						 
+						 var linktext = $('.currentScr').find(".anchor_subject").html();
+						 if (linktext!='') {
+						 var linkredirectval =$('.currentScr').find(".anchor_subject").attr('subjectlink');
+						 if(typeof linkredirectval!='undefined')
+						 {
+								var subject_head_link = "<a href='"+linkredirectval+"'>"+linktext+"</a>";
+								$('.tophead_subject').html(subject_head_link);
+						 }
+						 else
+						 {
+							 var subject_head_link = "";
+							$('.tophead_subject').html(subject_head_link);
+						 }
+							
+						 }
+			       
+			       pageChange = parseInt(pageChange) + 1;
+				   }
+				  /****** First ad beside title starts here ************/
+				   
+						   $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+							  if (i === 0 ) {
+								 if (isMobile.any()===null || isMobile.any()===undefined)
+								{
+									var mq = window.matchMedia( "(min-width: 1365px)" );
+								//console.log(mq.matches);
+									if (mq.matches===true) 
+									{ 
+											$(this).addClass('first-ad');
+											var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+											  $(this).css({
+												'top' : fullscreenPos,
+												'position': 'absolute',
+												'right': 85
+											  });
+										}
+								}
+							  }
+						});
+						$(window).bind('resize', function(e)
+							{
+						 $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+						  if (i === 0) 
+						  {
+
+						  if (isMobile.any()===null || isMobile.any()===undefined)
+						{ 
+									$(this).removeClass('first-ad');
+									var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+									  $(this).css({
+										 'top': 'inherit',
+										'position': 'relative',
+										'right': 0
+									  });
+								
+							}
+							}
+						});
+						});	
+						 /****** First ad beside title ends here ************/
+				 }
+			   else
+			   {
+			       $(this).removeClass('currentScr');
+			   }
+		       });
+			
+		if ( typeof PaywallWorking !== 'undefined' && PaywallWorking == 'on' )
+     {
+        var loadPoint = false;
+        var loadPointElement = $('.scroll_handler:eq('+pageCounterPaywall+')').position();      
+        if (typeof loadPointElement!=="undefined")
+        {
+           loadPoint = loadPointElement.top;
+        }
+     }
+     else
+     {
+        //var loadPoint = $('.footer-module .article-share:last').position().top; 
+        //var loadPoint = $('footer.recirc-block:last').position().top;	
+        var loadPoint = $('.article-header .article-share:last').position().top;
+        //var loadPoint = $('section.article-body:last').position().top;
+     }
+	
+		if  (loadPoint!=false && $(window).scrollTop() > loadPoint)
+		{ if($('.scrolltrace').length==count)
+		  { { loagAgn = true;
+		      if(loagAgn)
+			  {
+			count++;
+		 if (count < 6) {
+			 if(preventLoad_article==false){
+								loadArticle(count);//code
+				
+				}		
+		 }
+		 if (count==6) {
+			$('a.inifiniteLoader').hide();
+			$("#single_article_footer").show();
+		 }
+		 loagAgn = false;
+			  }
+		   }
+		  
+		  }
+		}
+		
+//		 if($(this).scrollTop() > 100){
+//            $('.goTop').stop().animate({
+//                bottom: '20px'    
+//                }, 500);
+//        }
+//        else{
+//            $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//            }, 500);
+//        }
+	});
+	
+	/*Script to handle Scroll close*/	
+	 
+//	$('.goTop').click(function() {
+//        $('html, body').stop().animate({
+//           scrollTop: 0
+//        }, 500, function() {
+//           $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//           }, 500);
+//        });
+//    });
+	
+	 // Script for Comment Sec
+	 $('body').on('click','.click_comment',function(event){
+	   event.preventDefault();
+	   $(this).closest('.article-footer').find('.commentContainer').slideToggle('slow', function() {
+         if ($(this).css('display')=='none') {
+           check_comment = false;//condition added for print
+         }
+         else{
+            check_comment = true;//condition added for print
+         }			
+		});
+		 $('html, body').animate({
+				scrollTop: $($(this).closest('.article-footer').find('.commentContainer')).offset().top
+			},2000);
+	 });
+	 
+	var list;
+	$('body').on('click','a.comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	var comment_link_respond = $(this);		
+	comment_link_respond.closest('.comment-form').find('.comment-status').html('');
+	list = $(this).closest('article').attr('id');
+
+	var PIDS = list.split('-');
+	$(this).closest('.comments-area').find('.comment-respond').find('#comment_parent').val(PIDS[PIDS.length-1]);
+	
+	});
+	
+	$('body').on('click','.cancel-comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	list=null;
+	});
+	
+	
+	$('body').on('click','.submit',function(event){
+		event.preventDefault();
+		$( ".comment-status" ).remove();
+	var commentform=$(this).closest('.comment-form'); // find the comment  form
+	    commentform.prepend('<div class="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+        var statusdiv=commentform.find('.comment-status'); // define the infopanel
+				var checkspace = $(this).closest('.comment-form').find("textarea#comment").val();
+		if (checkspace.replace(/\s/g, '').length && $(this).closest('.comment-form').find("textarea#comment").val()!='') {
+			statusdiv.html(' ');
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Add a status message
+			//Extract action URL from commentform
+			var formurl=commentform.attr('action');
+			
+				statusdiv.html('<p>Processing...</p>');
+				 $(this).attr('disabled','disabled');
+				var e = $(this);
+				$.ajax({
+						type: 'post',
+						url: formurl,
+						data: formdata,
+					  error: function(XMLHttpRequest, textStatus, errorThrown)
+						{
+							statusdiv.html(' ');
+							 $('.submit').removeAttr('disabled');
+							statusdiv.html('<p class="error_cmnt" >You might have left one of the fields blank, or be posting too quickly</p>');
+						},
+						success: function(data, textStatus){
+							var chkstatus_comment = $($.parseHTML(data)).filter(".chk_comment_class").attr('comment-status');
+							
+								if (chkstatus_comment=='spam') {
+									statusdiv.html('<p class="error_cmnt" >You have been blocked from commenting by <i>The Nation\'s</i> moderators.</p>');
+								}
+								else{
+									$('.submit').removeAttr('disabled'); 
+									$("textarea#comment").val('');
+									statusdiv.html('<p class="success_cmnt" ></p>');
+									if(e.closest(".comments-area").has("ol.comment-list").length > 0){
+										if(list != null){
+											e.closest(".comments-area").find('#'+list).after(data);
+										}
+										else{
+											e.closest(".comments-area").find('ol.comment-list').prepend(data);
+										}
+									}
+									else{
+										e.closest(".comments-area").prepend('<ol class="comment-list custom_comments"> </ol>');
+										e.closest(".comments-area").find('ol.comment-list').html(data);
+									}
+							}
+						}
+						
+				});
+				return false;
+			statusdiv.html('');
+		}else{
+			statusdiv.html('<p class="error_cmnt" >Please enter text in comment box.</p>');
+		}
+        }); 
+});
+// Print functionality
+function tn_print_fn()
+{            
+    var tn_current_url=window.location.href;
+    if (check_comment == true) {
+       window.open(tn_current_url+'?print=1&comment=1','_blank');
+    }
+    else{
+       window.open(tn_current_url+'?print=1','_blank');
+    }
+    
+    return false;
+}
+</script>
+ 
+<script>
+function add_action_tout_sailthru(post_id)
+{
+ var ajaxurl=ajax_object.ajax_url;
+	var sailthru_email_take_action = document.getElementById('take_action_sailthru_email_'+post_id).value;
+	if(sailthru_email_take_action!='')
+	{
+			var take_action_sailthru_list_final = document.getElementById('take_action_sailthru_list_final_'+post_id).value;
+			var action_tout_sailthru='action_tout_sailthru';
+			jQuery.ajax({
+			url:ajaxurl,
+			type:"POST",
+			data:"sailthru_email_take_action="+sailthru_email_take_action+"&take_action_sailthru_list_final="+take_action_sailthru_list_final+"&action="+action_tout_sailthru,
+			success:function(data){
+			//alert(data);
+			document.getElementById('action_tout_response_'+post_id).innerHTML=data;
+			document.getElementById('take_action_sailthru_email_'+post_id).value='';
+			}
+			});
+	}
+	else
+	{
+	var error_msg='<span style="color:#cc0e0e">Please Enter Email</span>';
+	document.getElementById('action_tout_response_'+post_id).innerHTML=error_msg;
+	}
+}
+jQuery(document).ready(function(){
+jQuery( ".action_tout_remove_gallery a" ).removeClass( "gallery imgHover" ).delay( 1000 );
+});
+/**************** First ad beside title starts here ************/
+jQuery(document).ready(function(){
+jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+var mq = window.matchMedia( "(min-width: 1365px)" );
+if (mq.matches===true) 
+	{
+			$(this).addClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  $(this).css({
+				'top' : fullscreenPos,
+				'position': 'absolute',
+				'right': 85
+			  });
+		}
+	}
+	}
+});
+});
+jQuery(window).bind('resize', function(e)
+{
+ jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+			jQuery(this).removeClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  jQuery(this).css({
+				 'top': 'inherit',
+				'position': 'relative',
+				'right': 0
+			  });
+		
+	}
+	}
+});
+});
+/**************** First ad beside title end here ************/
+</script>
+
+  <div id="show_light_box">
+</div>
+	</div>
+	</div>
+	<div id="single_article_footer" style="display: none">	<footer class="push">
+	<div class="row">
+	<div class="sitemap small-12 columns">
+		<div class="block home">
+			<h1 class="logo">
+					<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation"></a>
+				</h1>
+		</div>
+		<div class="block social">
+			<h2>Follow The Nation</h2>
+			<ul>
+				<li><a class="fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"></a></li>
+				<li><a class="tw" href="https://twitter.com/thenation" target="_blank"></a></li>
+				<li><a class="rs" href=" http://www.thenation.com/all-rss" target="_blank"></a></li>
+			</ul>
+			<h2>Get Email Updates</h2>
+			<p>Stay connected with everything Nation by signing up for our free daily newsletter. </p>
+			<div class="newsletter-signup">
+					<input type="email" class="newsletter-signup__email" id="newsletter_email" name="newsletter_email" required="required" placeholder="Email address">
+					<input type="button" id="newsletter_submit" value="" class="newsletter-signup__submit" />
+			</div>
+			
+			<div id="subscribe_newsletter"></div>
+		</div>
+		<div class="">
+			<aside id="nav_menu-5" class="widget widget_nav_menu block nation nav"><h2  class="expander"><a href="#">Sections</a></h2><div class="menu-footer-sections-container"><ul id="menu-footer-sections" class="menu"><li id="menu-item-119851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119851"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-119852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119852"><a href="http://www.thenation.com/world/">World</a></li>
+<li id="menu-item-119853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119853"><a href="http://www.thenation.com/economy/">Economy</a></li>
+<li id="menu-item-119850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119850"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115792" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-115792"><a href="http://www.thenation.com/subject/society/">Society</a></li>
+<li id="menu-item-116577" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-116577"><a href="http://www.thenation.com/subject/environment/">Environment</a></li>
+<li id="menu-item-119854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119854"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			   <aside id="nav_menu-4" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">The Nation</a></h2><div class="menu-footer-the-nation-container"><ul id="menu-footer-the-nation" class="menu"><li id="menu-item-116578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116578"><a title="About-us-and-contact" href="http://www.thenation.com/about-us-and-contact/">About</a></li>
+<li id="menu-item-178918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178918"><a href="http://www.thenation.com/advertise/">Advertise</a></li>
+<li id="menu-item-180633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180633"><a href="http://www.thenation.com/ebooks/">Books</a></li>
+<li id="menu-item-116581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116581"><a href="http://www.thenation.com/community-guidelines/">Comments Policy</a></li>
+<li id="menu-item-131108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131108"><a href="http://www.thenation.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-116583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116583"><a href="http://www.thenation.com/help/">Help</a></li>
+<li id="menu-item-178899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178899"><a href="http://www.thenation.com/jobs/">Jobs and Internships</a></li>
+<li id="menu-item-134910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134910"><a href="http://www.thenation.com/nation-builders/">Nation Builders</a></li>
+<li id="menu-item-179840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179840"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			  <aside id="nav_menu-3" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">Magazine</a></h2><div class="menu-footer-magazine-container"><ul id="menu-footer-magazine" class="menu"><li id="menu-item-134664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134664"><a href="http://www.thenation.com/issue/">Current Issue</a></li>
+<li id="menu-item-134728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134728"><a href="http://www.thenation.com/masthead/">Masthead</a></li>
+<li id="menu-item-116587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116587"><a href="http://www.thenation.com/archive/">Archive</a></li>
+<li id="menu-item-134846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134846"><a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a></li>
+<li id="menu-item-134847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134847"><a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a></li>
+<li id="menu-item-134727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134727"><a href="http://www.thenation.com/subscription-services/">Subscription Services</a></li>
+<li id="menu-item-134733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134733"><a href="http://www.thenation.com/events/">Events</a></li>
+<li id="menu-item-179839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179839"><a href="http://www.thenationreprints.com/">Reprints</a></li>
+</ul></div></div></aside>		</div>
+	</div>
+		<div class="copyright row">
+		<div class="small-12 columns">
+			<p>Copyright (c) 2016 The Nation Company LLC</p>
+		</div>
+	</div>
+	</footer>
+</div>
+
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script src='http://www.thenation.com/wp-content/plugins/tn-paywall/inc/js/paywall.js'></script><link rel='stylesheet' id='dashicons-css'  href='http://www.thenation.com/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.thenation.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.thenation.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/Magzine_issue_ajax.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/light_box.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/all.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/modernizr.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/comments_js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.thenation.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/pcd_login_popup.js?ver=4.2.4'></script>
+<script>
+function susbcribe_sailthru(form_value){        
+   var newsletterArray = new Array();var firstname ='';var lastname ='';var zippostal ='';var user_email ='';
+   jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         firstname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         lastname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         zippostal = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="email") {
+         user_email = jQuery(this).val();
+      }     
+   });
+   
+   jQuery(form_value).closest("form").find("input[name^='sft_newssletter_variables']").each(function() {
+      newsletterArray.push(jQuery(this).attr("id"));         
+   });      
+   var newsletter_variable=newsletterArray.join(",");
+   var origin_host=document.location.origin;
+  // console.log(firstname);
+   //console.log(lastname);
+  // console.log(zippostal);
+   //console.log(user_email);
+  //myWindow= window.open(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,"form_popup","width=400,height=400");
+ PopupCenter(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,'xtf','300','300');
+   //console.log(newsletterArray.join(","));
+  jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="email") {
+         jQuery(this).val('');
+      }     
+   });
+}  
+function PopupCenter(url, title, w, h) {
+    // Fixes dual-screen position                         Most browsers      Firefox
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    // Puts focus on the newWindow
+    if (window.focus) {
+        newWindow.focus();
+    }
+	setTimeout(function () { newWindow.close();}, 5000);
+}
+
+</script>
+<script type="text/javascript"  src="http://www.thenation.com/wp-content/themes/thenation/js/jquery.bxslider.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"442438c9d9","applicationID":"5436353","transactionName":"Z1JSYkYACEsAV0cKXV4YZURdTklRD1BWGxxAX0A=","queueTime":0,"applicationTime":1145,"ttGuid":"","agentToken":"","atts":"SxVRFA4aG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

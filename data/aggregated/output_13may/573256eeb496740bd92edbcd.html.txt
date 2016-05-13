@@ -1,0 +1,137 @@
+
+
+Thomas Bernhard, Ohlsdorf, Austria, 1981. (Barbara Klemm)
+
+Goethe Dies, translated from the German by James Reidel (Seagull; $21), is a brief and headlong collection—just four stories in 76 pages—but any reader susceptible to Thomas Bernhard’s charm will be transfixed by it in a few sentences. Bernhard, who died in 1989 at the age of 58, is one of the great stylists of the 20th century, and his writing is an irreducible essence, an ungovernable torrent of lunacy and glee, impossible to paraphrase but immediately recognizable.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211246-0','tn_culture_books_and_ideas_ros_halfpage_1','tn_culture_books_and_ideas_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+In the title story, Goethe dies as advertised. Before he does, however, he conceives a desire to summon Wittgenstein to his bedside (the two men are contemporaries in this reality). But Wittgenstein dies before the meeting can be arranged—and this is essentially all that happens. The story consists of the remarks, or an elaborate description of the remarks, that Goethe’s secretary and various associates make about his desire that the meeting should take place. This is a desire they aim to gratify or frustrate, according to obscure whims of their own. The narrator, who may be present for some of this and may be a fanciful version of Bernhard himself, is painstaking in his attribution of the most irrelevant statements, which produces wonderfully tortured formulations like “Riemer underscored that Goethe allegedly said…,” or, even better, this: “the idea of inviting Wittgenstein to Weimar occurred to Goethe at the end of February, thus said Riemer presently, and not at the beginning of March, as Kräuter maintained, and it was Kräuter who learned from Eckermann that Eckermann would prevent Wittgenstein from travelling to Weimar to see Goethe at all costs.”		
+The end of February, the beginning of March—which is it? Who is alleged to have said so, and when? Bernhard’s narrators approach their task with an air of deep and fanatical solemnity: They repeat themselves often, they repeat themselves again, and yet they hardly ever manage to say anything. The statements they organize with such care are often ludicrous, although it’s all the same to them. In the first story’s opening passage, the narrator reports that according to Riemer, “the hardest part of holding a conversation with a man who lies on his deathbed more or less motionless the whole time, a genius staring in the direction of the window, is to find the appropriate pitch in one’s own voice.”		
+Like Beckett—especially the Beckett of the strange early novel Watt—Bernhard makes a mockery of the act of narration. But if Beckett sings a bawdy song of resignation and paralysis, Bernhard is a poet of relentless, ecstatic outrage. Sometimes he has a particular grievance, as in “Going Up in Flames,” a letter in which a man describes a dream to an “erstwhile friend” whom he calls a “dream collector.” It takes him many hesitant and digressive pages to get there, and his prose is tormented and strangely punctuated, but all he’s trying to express is his hatred of Austria, his homeland. In this dream, “this entire disgusting, ultimately just awful, reeking Austria with all its vulgar and mean people, and with its world-famous churches and cloisters and theatres and concert halls, going up in flames and burning down before my eyes.” And it makes him glad, because if he can’t cease to be Austrian, at least he can hope that Austria itself will cease to be.						
+			.article-wrap .article-body aside.left.custom_background_211246			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+More often, though, Bernhard is interested in the outrage of existence itself. “Montaigne: A Story in Twenty-Two Installments,” begins like this: “From my family and thus from my tormentors, I found refuge in a corner of the tower….” The narrator’s family is contemptible to him because of their “assiduous vulgarity” and their obsession with business, but his fury is more universal. In another tortured sentence, he says that we must condemn our parents because they “made and whelped us in this horrific self-esteem and in their literal megalomania for breeding and put us in this more dreadful and odious and deadly than encouraging and conducive world.” Again and again, he curses his “begetters” for the crime of begetting him. And so should we all curse our begetters: “They led you into forests, they stuck you inside gloomy nurseries in order to destroy you, and they introduced you to people whom you immediately realized would be your destroyers.”		
+And yet, all the same, these stories are full of delight. It’s hard to account for it, and even harder to give an account of it. Why should it be so wonderful, for example, when the narrator of “Reunion” describes his relationship with his mother as a “machine of punishment”? How could it be even better when he goes on to say, “At breakfast I already looked utterly given up on life, like a person nearly destroyed, sitting at the table as the family’s shame”? Why isn’t it awful to imagine a young boy in this condition?		
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+In the title story, Goethe dies as advertised. Before he does, however, he conceives a desire to summon Wittgenstein to his bedside (the two men are contemporaries in this reality). But Wittgenstein dies before the meeting can be arranged—and this is essentially all that happens. The story consists of the remarks, or an elaborate description of the remarks, that Goethe’s secretary and various associates make about his desire that the meeting should take place. This is a desire they aim to gratify or frustrate, according to obscure whims of their own. The narrator, who may be present for some of this and may be a fanciful version of Bernhard himself, is painstaking in his attribution of the most irrelevant statements, which produces wonderfully tortured formulations like “Riemer underscored that Goethe allegedly said…,” or, even better, this: “the idea of inviting Wittgenstein to Weimar occurred to Goethe at the end of February, thus said Riemer presently, and not at the beginning of March, as Kräuter maintained, and it was Kräuter who learned from Eckermann that Eckermann would prevent Wittgenstein from travelling to Weimar to see Goethe at all costs.”		
+The end of February, the beginning of March—which is it? Who is alleged to have said so, and when? Bernhard’s narrators approach their task with an air of deep and fanatical solemnity: They repeat themselves often, they repeat themselves again, and yet they hardly ever manage to say anything. The statements they organize with such care are often ludicrous, although it’s all the same to them. In the first story’s opening passage, the narrator reports that according to Riemer, “the hardest part of holding a conversation with a man who lies on his deathbed more or less motionless the whole time, a genius staring in the direction of the window, is to find the appropriate pitch in one’s own voice.”		
+Like Beckett—especially the Beckett of the strange early novel Watt—Bernhard makes a mockery of the act of narration. But if Beckett sings a bawdy song of resignation and paralysis, Bernhard is a poet of relentless, ecstatic outrage. Sometimes he has a particular grievance, as in “Going Up in Flames,” a letter in which a man describes a dream to an “erstwhile friend” whom he calls a “dream collector.” It takes him many hesitant and digressive pages to get there, and his prose is tormented and strangely punctuated, but all he’s trying to express is his hatred of Austria, his homeland. In this dream, “this entire disgusting, ultimately just awful, reeking Austria with all its vulgar and mean people, and with its world-famous churches and cloisters and theatres and concert halls, going up in flames and burning down before my eyes.” And it makes him glad, because if he can’t cease to be Austrian, at least he can hope that Austria itself will cease to be.						
+			.article-wrap .article-body aside.left.custom_background_211246			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+More often, though, Bernhard is interested in the outrage of existence itself. “Montaigne: A Story in Twenty-Two Installments,” begins like this: “From my family and thus from my tormentors, I found refuge in a corner of the tower….” The narrator’s family is contemptible to him because of their “assiduous vulgarity” and their obsession with business, but his fury is more universal. In another tortured sentence, he says that we must condemn our parents because they “made and whelped us in this horrific self-esteem and in their literal megalomania for breeding and put us in this more dreadful and odious and deadly than encouraging and conducive world.” Again and again, he curses his “begetters” for the crime of begetting him. And so should we all curse our begetters: “They led you into forests, they stuck you inside gloomy nurseries in order to destroy you, and they introduced you to people whom you immediately realized would be your destroyers.”		
+And yet, all the same, these stories are full of delight. It’s hard to account for it, and even harder to give an account of it. Why should it be so wonderful, for example, when the narrator of “Reunion” describes his relationship with his mother as a “machine of punishment”? How could it be even better when he goes on to say, “At breakfast I already looked utterly given up on life, like a person nearly destroyed, sitting at the table as the family’s shame”? Why isn’t it awful to imagine a young boy in this condition?		
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+The end of February, the beginning of March—which is it? Who is alleged to have said so, and when? Bernhard’s narrators approach their task with an air of deep and fanatical solemnity: They repeat themselves often, they repeat themselves again, and yet they hardly ever manage to say anything. The statements they organize with such care are often ludicrous, although it’s all the same to them. In the first story’s opening passage, the narrator reports that according to Riemer, “the hardest part of holding a conversation with a man who lies on his deathbed more or less motionless the whole time, a genius staring in the direction of the window, is to find the appropriate pitch in one’s own voice.”		
+Like Beckett—especially the Beckett of the strange early novel Watt—Bernhard makes a mockery of the act of narration. But if Beckett sings a bawdy song of resignation and paralysis, Bernhard is a poet of relentless, ecstatic outrage. Sometimes he has a particular grievance, as in “Going Up in Flames,” a letter in which a man describes a dream to an “erstwhile friend” whom he calls a “dream collector.” It takes him many hesitant and digressive pages to get there, and his prose is tormented and strangely punctuated, but all he’s trying to express is his hatred of Austria, his homeland. In this dream, “this entire disgusting, ultimately just awful, reeking Austria with all its vulgar and mean people, and with its world-famous churches and cloisters and theatres and concert halls, going up in flames and burning down before my eyes.” And it makes him glad, because if he can’t cease to be Austrian, at least he can hope that Austria itself will cease to be.						
+			.article-wrap .article-body aside.left.custom_background_211246			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+More often, though, Bernhard is interested in the outrage of existence itself. “Montaigne: A Story in Twenty-Two Installments,” begins like this: “From my family and thus from my tormentors, I found refuge in a corner of the tower….” The narrator’s family is contemptible to him because of their “assiduous vulgarity” and their obsession with business, but his fury is more universal. In another tortured sentence, he says that we must condemn our parents because they “made and whelped us in this horrific self-esteem and in their literal megalomania for breeding and put us in this more dreadful and odious and deadly than encouraging and conducive world.” Again and again, he curses his “begetters” for the crime of begetting him. And so should we all curse our begetters: “They led you into forests, they stuck you inside gloomy nurseries in order to destroy you, and they introduced you to people whom you immediately realized would be your destroyers.”		
+And yet, all the same, these stories are full of delight. It’s hard to account for it, and even harder to give an account of it. Why should it be so wonderful, for example, when the narrator of “Reunion” describes his relationship with his mother as a “machine of punishment”? How could it be even better when he goes on to say, “At breakfast I already looked utterly given up on life, like a person nearly destroyed, sitting at the table as the family’s shame”? Why isn’t it awful to imagine a young boy in this condition?		
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+Like Beckett—especially the Beckett of the strange early novel Watt—Bernhard makes a mockery of the act of narration. But if Beckett sings a bawdy song of resignation and paralysis, Bernhard is a poet of relentless, ecstatic outrage. Sometimes he has a particular grievance, as in “Going Up in Flames,” a letter in which a man describes a dream to an “erstwhile friend” whom he calls a “dream collector.” It takes him many hesitant and digressive pages to get there, and his prose is tormented and strangely punctuated, but all he’s trying to express is his hatred of Austria, his homeland. In this dream, “this entire disgusting, ultimately just awful, reeking Austria with all its vulgar and mean people, and with its world-famous churches and cloisters and theatres and concert halls, going up in flames and burning down before my eyes.” And it makes him glad, because if he can’t cease to be Austrian, at least he can hope that Austria itself will cease to be.						
+			.article-wrap .article-body aside.left.custom_background_211246			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+More often, though, Bernhard is interested in the outrage of existence itself. “Montaigne: A Story in Twenty-Two Installments,” begins like this: “From my family and thus from my tormentors, I found refuge in a corner of the tower….” The narrator’s family is contemptible to him because of their “assiduous vulgarity” and their obsession with business, but his fury is more universal. In another tortured sentence, he says that we must condemn our parents because they “made and whelped us in this horrific self-esteem and in their literal megalomania for breeding and put us in this more dreadful and odious and deadly than encouraging and conducive world.” Again and again, he curses his “begetters” for the crime of begetting him. And so should we all curse our begetters: “They led you into forests, they stuck you inside gloomy nurseries in order to destroy you, and they introduced you to people whom you immediately realized would be your destroyers.”		
+And yet, all the same, these stories are full of delight. It’s hard to account for it, and even harder to give an account of it. Why should it be so wonderful, for example, when the narrator of “Reunion” describes his relationship with his mother as a “machine of punishment”? How could it be even better when he goes on to say, “At breakfast I already looked utterly given up on life, like a person nearly destroyed, sitting at the table as the family’s shame”? Why isn’t it awful to imagine a young boy in this condition?		
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+More often, though, Bernhard is interested in the outrage of existence itself. “Montaigne: A Story in Twenty-Two Installments,” begins like this: “From my family and thus from my tormentors, I found refuge in a corner of the tower….” The narrator’s family is contemptible to him because of their “assiduous vulgarity” and their obsession with business, but his fury is more universal. In another tortured sentence, he says that we must condemn our parents because they “made and whelped us in this horrific self-esteem and in their literal megalomania for breeding and put us in this more dreadful and odious and deadly than encouraging and conducive world.” Again and again, he curses his “begetters” for the crime of begetting him. And so should we all curse our begetters: “They led you into forests, they stuck you inside gloomy nurseries in order to destroy you, and they introduced you to people whom you immediately realized would be your destroyers.”		
+And yet, all the same, these stories are full of delight. It’s hard to account for it, and even harder to give an account of it. Why should it be so wonderful, for example, when the narrator of “Reunion” describes his relationship with his mother as a “machine of punishment”? How could it be even better when he goes on to say, “At breakfast I already looked utterly given up on life, like a person nearly destroyed, sitting at the table as the family’s shame”? Why isn’t it awful to imagine a young boy in this condition?		
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+And yet, all the same, these stories are full of delight. It’s hard to account for it, and even harder to give an account of it. Why should it be so wonderful, for example, when the narrator of “Reunion” describes his relationship with his mother as a “machine of punishment”? How could it be even better when he goes on to say, “At breakfast I already looked utterly given up on life, like a person nearly destroyed, sitting at the table as the family’s shame”? Why isn’t it awful to imagine a young boy in this condition?		
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+The reason it isn’t awful is that he’s not a real boy. He’s nothing at all like a real boy; he’s a rhetorical artifact. I don’t relate to these stories in any sense. I don’t care what they’re about. They are artificial constructions, and their joys are literary. The delight one senses is the delight of a person making something intricate and good from the grit and putty of life—and if the grit and putty are toxic on top of everything else, that’s even better; the transformation is so much more satisfying. Bernhard is a gleeful butcher who makes the best charcuterie from the most forlorn and desiccated roadkill.		
+		
+
+ Aaron Thier
+ Aaron Thier is the author of The Ghost Apple. His new novel, Mr. Eternity, will be published in August 2016.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

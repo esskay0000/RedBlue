@@ -1,0 +1,428 @@
+
+
+Monday Elationâ©
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208470-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+I am thrilled to my very core
+To see The Nation at the door.
+No better way to start the week
+Than to read the news that I seek
+From such an informed, friendly source.
+What a wonderful new resource!
+Don Wigal
+new york city
+Newsroom Blues
+A soon-to-be-former colleague passed me Dale Maharidgeâs piece on the state of journalism [âWritten Off,â March 21]. Itâs extremely timely, especially for me today. Comforting in that I know Iâm hardly alone, but scary because Iâm not sure the journalism we knew coming up in the business is ever coming back. As one of your subjects suggested: Thereâs just no profit margin anymore in sending reporters to the City Council meeting, or letting one reporter spend two weeks (or longer) on a single story.		
+Iâm 52, and Iâm leaving my job as an economics reporter at a financial website here in New York because the higher-ups recently decided that the site wonât be doing journalism anymore. I was told last week that I could stay on, but Iâd no longer be writing or reporting in any fashion. Instead, Iâd be pulling clips from the Internet and writing short blurbs for themâan entry-level job, essentially. This after nine years hereâyears that included the financial crisis, Bernie Madoff, the TARP bailouts, quantitative easing, interest-rate hikes, two presidential elections, etc.		
+So Iâm leaving. But Iâm lucky: A friend of mine is a high-end ghostwriter, and heâs promised me plenty of work. But the companyâs abrupt decision and the way it was handled was shocking. Bad on me, though: Like many others, I assumed it couldnât happen to me and hung around a little too long.		
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+I am thrilled to my very core
+To see The Nation at the door.
+No better way to start the week
+Than to read the news that I seek
+From such an informed, friendly source.
+What a wonderful new resource!
+Don Wigal
+new york city
+Newsroom Blues
+A soon-to-be-former colleague passed me Dale Maharidgeâs piece on the state of journalism [âWritten Off,â March 21]. Itâs extremely timely, especially for me today. Comforting in that I know Iâm hardly alone, but scary because Iâm not sure the journalism we knew coming up in the business is ever coming back. As one of your subjects suggested: Thereâs just no profit margin anymore in sending reporters to the City Council meeting, or letting one reporter spend two weeks (or longer) on a single story.		
+Iâm 52, and Iâm leaving my job as an economics reporter at a financial website here in New York because the higher-ups recently decided that the site wonât be doing journalism anymore. I was told last week that I could stay on, but Iâd no longer be writing or reporting in any fashion. Instead, Iâd be pulling clips from the Internet and writing short blurbs for themâan entry-level job, essentially. This after nine years hereâyears that included the financial crisis, Bernie Madoff, the TARP bailouts, quantitative easing, interest-rate hikes, two presidential elections, etc.		
+So Iâm leaving. But Iâm lucky: A friend of mine is a high-end ghostwriter, and heâs promised me plenty of work. But the companyâs abrupt decision and the way it was handled was shocking. Bad on me, though: Like many others, I assumed it couldnât happen to me and hung around a little too long.		
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Newsroom Blues
+A soon-to-be-former colleague passed me Dale Maharidgeâs piece on the state of journalism [âWritten Off,â March 21]. Itâs extremely timely, especially for me today. Comforting in that I know Iâm hardly alone, but scary because Iâm not sure the journalism we knew coming up in the business is ever coming back. As one of your subjects suggested: Thereâs just no profit margin anymore in sending reporters to the City Council meeting, or letting one reporter spend two weeks (or longer) on a single story.		
+Iâm 52, and Iâm leaving my job as an economics reporter at a financial website here in New York because the higher-ups recently decided that the site wonât be doing journalism anymore. I was told last week that I could stay on, but Iâd no longer be writing or reporting in any fashion. Instead, Iâd be pulling clips from the Internet and writing short blurbs for themâan entry-level job, essentially. This after nine years hereâyears that included the financial crisis, Bernie Madoff, the TARP bailouts, quantitative easing, interest-rate hikes, two presidential elections, etc.		
+So Iâm leaving. But Iâm lucky: A friend of mine is a high-end ghostwriter, and heâs promised me plenty of work. But the companyâs abrupt decision and the way it was handled was shocking. Bad on me, though: Like many others, I assumed it couldnât happen to me and hung around a little too long.		
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+A soon-to-be-former colleague passed me Dale Maharidgeâs piece on the state of journalism [âWritten Off,â March 21]. Itâs extremely timely, especially for me today. Comforting in that I know Iâm hardly alone, but scary because Iâm not sure the journalism we knew coming up in the business is ever coming back. As one of your subjects suggested: Thereâs just no profit margin anymore in sending reporters to the City Council meeting, or letting one reporter spend two weeks (or longer) on a single story.		
+Iâm 52, and Iâm leaving my job as an economics reporter at a financial website here in New York because the higher-ups recently decided that the site wonât be doing journalism anymore. I was told last week that I could stay on, but Iâd no longer be writing or reporting in any fashion. Instead, Iâd be pulling clips from the Internet and writing short blurbs for themâan entry-level job, essentially. This after nine years hereâyears that included the financial crisis, Bernie Madoff, the TARP bailouts, quantitative easing, interest-rate hikes, two presidential elections, etc.		
+So Iâm leaving. But Iâm lucky: A friend of mine is a high-end ghostwriter, and heâs promised me plenty of work. But the companyâs abrupt decision and the way it was handled was shocking. Bad on me, though: Like many others, I assumed it couldnât happen to me and hung around a little too long.		
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Iâm 52, and Iâm leaving my job as an economics reporter at a financial website here in New York because the higher-ups recently decided that the site wonât be doing journalism anymore. I was told last week that I could stay on, but Iâd no longer be writing or reporting in any fashion. Instead, Iâd be pulling clips from the Internet and writing short blurbs for themâan entry-level job, essentially. This after nine years hereâyears that included the financial crisis, Bernie Madoff, the TARP bailouts, quantitative easing, interest-rate hikes, two presidential elections, etc.		
+So Iâm leaving. But Iâm lucky: A friend of mine is a high-end ghostwriter, and heâs promised me plenty of work. But the companyâs abrupt decision and the way it was handled was shocking. Bad on me, though: Like many others, I assumed it couldnât happen to me and hung around a little too long.		
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+So Iâm leaving. But Iâm lucky: A friend of mine is a high-end ghostwriter, and heâs promised me plenty of work. But the companyâs abrupt decision and the way it was handled was shocking. Bad on me, though: Like many others, I assumed it couldnât happen to me and hung around a little too long.		
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+I worked with John Koopman at the Omaha World-Herald back in the late 1980s, before he headed west. Great times, unrecognizable in todayâs world: a bunch of us in the back of the newsroom after deadline, feet kicked up on desks, smoking away. When John and I were there, the World-Herald pretty much had a monopoly between Des Moines and Denver. As such, it printed money. Older reporters said they couldnât leave, referring to the companyâs âgolden handcuffsâ: a profit-sharing program that the paper bestowed on loyal employees. Imagine that.
+Most Popular1The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.2Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet3Bernie Sanders Should Keep Runningâbut Not Like This4Good News on Climate Changeâ¦ and Bad News5Why Hillary Clinton Doesnât Deserve the Black Vote
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+The Problem With Hillary Clinton Isnât Just Her Corporate Cash. Itâs Her Corporate Worldview.
+
+Why Mississippiâs New Anti-LGBT Law Is the Most Dangerous One To Be Passed Yet
+
+Bernie Sanders Should Keep Runningâbut Not Like This
+
+Good News on Climate Changeâ¦ and Bad News
+
+Why Hillary Clinton Doesnât Deserve the Black Vote
+
+In any case, there seemed to be a communal pact back then: Everyone read the World-Herald, so advertisers paid for those eyeballs and the profits paid for the community journalism we performed. (I was the police-beat reporter, and man was it fun.) It was an unwritten but nevertheless binding pact that worked on many levels, primarily because the community trusted us to provide them with important news, and we did our best to live up to that trust.		
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Today, with everyone on the Web scratching just to make a profit, itâs hardly surprising that the lowest common denominator dominates.		
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Thanks again for the timely piece. It really hit home.		
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Dunstan Prial
+caldwell, n.j.
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+I am so glad that Dale Maharidge has written about laid-off reporters. Thinking youâre protected and safely employed because journalists are special is like believing in Santa Claus. Too many of us have discovered too late that working in the public interest no longer comes with any guarantees. We are just like unemployed autoworkers with no place to go.		
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+After spending 30 years writing and editing the news, the only thing I was able to find at age 68 was a part-time gig teaching film and videoâand I just got laid off from that. Iâve put in for a tenured post at the state universityâs J-school, but I am chary of accepting the position if it is offered. How can I, in good conscience, inspire the next generation of reporters when I know so few of them will land jobs when they graduate, and those that do might be tossed out with yesterdayâs garbage at any moment?Peter White		
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Great article. I love the part about ageism. Funny how politicians, who are paid by our tax dollars, can work well into their 70s, yet an earnest journalist who spent a career telling truths gets ousted. Yet no one tells this story loud enough. Welcome to my world.		
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Barbara Benitez Curry
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+When Tests Fail Girls
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Andrew Hackerâs article on the gender gap in standardized math tests, â83 Secondsâ [March 21], was fascinating and resonated with my own experience. I was a boy who got As in math classes and top scores on standardized tests, but it was always clear to me that I was doing two very different and only loosely related things. Math class was about working carefully through a small number of problems and trying to get all of them right. Standardized tests were about taking an essentially infinite number of questionsâi.e., more than you could possibly answer in the time allottedâand getting as many right as possible. You moved fast, looked for those that were easy to solve, guessed if you could eliminate one or more answers, and abandoned anything you were having trouble with. As Hacker says, you gamed the system. I was lucky to be good in both arenas, but the notion that skill in one equaled skill in the other always struck me as silly.		
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+A simple first step in getting standardized tests to more accurately reflect meaningful math competence would be to eliminate the time pressure. Reduce the number of questions and/or expand the time allotted until virtually everyone finishes the test and has time to think carefully about each question.		
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Tim Joseph
+ithaca, n.y.â©
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Re Hackerâs article: So very true. Iâve observed this phenomenon up close. In addition to colleges rejecting the slower test-takers, top tech firms have rejected brilliant women paralyzed by tricky questions in telephone interviews. Itâs their loss (and societyâs) when they have no means of assessing thoughtfulness or the ability to synthesize disparate concepts, which always requires time and the diligence and sense of responsibility that lead to a job truly well done.
+Mary Van
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+Playing the Long Game
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+âBeyond Super Tuesdayâ [March 21] made some good points: The Democratic candidates need to remain in the spotlight and not cede all the election coverage to the crazies. Also, however crazy the crazies are, itâs going to be hard to take them down in November, so the Democrats need to be prepared. The long primary made both Clinton and Obama better candidates in 2008. Letâs see the best from Clinton and Sanders this time around.
+Erik Skamserâ©
+
+
+ Our Readers
+ Letters submitted by our readers are read and published in the magazine.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

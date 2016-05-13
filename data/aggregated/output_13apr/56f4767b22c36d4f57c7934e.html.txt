@@ -1,0 +1,139 @@
+
+	168
+      
+
+By
+
+Harriet Mallinson For Mailonline
+
+
+
+Published:
+  11:32 EST, 24 March 2016
+
+ | 
+Updated:
+  14:35 EST, 24 March 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3508056',
+                    'title': 'Talented parrot has been trained to go to the TOILET\u00A0',
+                    'url': 'http://www.dailymail.co.uk/news/article-3508056/Who-s-clever-girl-Talented-parrot-trained-TOILET.html',
+                    'eTwitterStatus': ' http://dailym.ai/21J2YpB via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+168
+shares
+
+ 
+          31
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          31
+
+View  comments
+
+A bird lover has trained her pet parrot to poop in the toilet on command.
+
+Pauline Guthrie bought an African Grey parrot five years ago after wanting one since she was a little girl.
+
+The 39-year-old from Paisley, Scotland, christened the bird Skylar and decided to try to have her toilet trained.
+
+Home videos: Pauline can be heard saying 'Do a wee jobby' as Skylar perches on the edge of the toilet seat. After some encouragement, the bird manages to do a poo and is rewarded with endless praise
+
+Talented: Skylar also boasts a impressive Keith Lemon impersonation. When Pauline asks her pet 'What does Keith Lemon say?', the animal shouts 'potatoes' - a reference to one of his hilarious catchphrases
+
+Her hard work paid off and now Skylar is happy to use her owner's loo and produce a 'jobby' on demand.
+
+In a series of hilarious home videos, Pauline can be heard saying 'Do a wee jobby' as Skylar perches on the edge of the toilet seat.
+
+After some encouragement, the bird manages to do a poo and is rewarded with endless praise.
+
+Other talents that Skylar boasts include a impressive Keith Lemon impersonation.
+
+When Pauline asks her pet 'What does Keith Lemon say?', the animal shouts 'potatoes' - a reference to one of his hilarious catchphrases.
+
+'She's the first parrot I've had,' Pauline said. 'I've wanted one since I was a little girl and saw one in a pet shop.
+
+'I got Skylar when she was just 12 weeks old and toilet trained her when she was a baby.
+
+'It was easy to do using treats. She learned how to do it in just a few hours and when she goes she'll usually say 'I'm a clever girl Mummy' afterwards.
+
+'Her favourite sayings include 'Wakey wakey get up' and 'get me a cuppa tea Mummy'. Her personality is very cheeky - when she wants something she will let you know.'
+
+She added: 'When she has done something naughty and knows it she tries to soften me up by saying 'Mummy you're so pretty...give me a kiss' - who could get mad at that?
+
+Clever: 'When she has done something naughty and knows it she tries to soften me up by saying 'Mummy you're so pretty...give me a kiss' - who could get mad at that?
+
+'About a year ago one of my neighbours knocked on my door to check that I was ok after hearing someone shouting for help. It turned out it was just Skylar - luckily they know her well now.'
+
+African Grey parrots are commonly kept as pets due to their amusing ability to mimic human speech.
+
+They are notorious for copying noises around their environment and then repeating them endlessly.Â 
+
+The bird is also highly intelligent and have been shown to perform at the cognitive level of a six-year-old child.
+
+Skylar also has a wide vocabulary which includes a range of strong swear words, and is able to imitate the sound of a turbocharged car.
+
+She can also bark like a dog, beatbox and regularly asks for 'kisses'.
+
+Pauline says her pet sometimes shouts 'help' and 'what the f***' loudly while sitting next to the window, alarming passers-by.
+
+Luckily, the neighbours know about the bird's antics and simply ignore her ramblings
+
+Great pet: Skylar also has a wide vocabulary which includes a range of strong swear words, and is able to imitate the sound of a turbocharged car. She can also bark like a dog, beatbox and regularly asks for 'kisses'
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

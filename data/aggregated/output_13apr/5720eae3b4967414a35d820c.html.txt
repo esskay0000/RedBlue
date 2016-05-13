@@ -1,0 +1,371 @@
+
+
+ (AP Photo / Lynne Sladky)
+
+By the time youâre done reading this article, roughly one person will likely have died from dangerous working conditions somewhere in America. It could happen in virtually any job, but itâs especially likely to happen to a Latino worker, maybe someone working on your office buildingâs roof. Thereâs also good chance theyâll be killed in a rigging mishap while extracting the natural gas powering your laptop, or perhaps theyâll be an immigrant woman killed in a farming accident while harvesting your groceries.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210624-0','tn_economy_economics_ros_halfpage_1','tn_economy_economics_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+The AFL-CIOâs new annual workplace-fatality report, based on 2014 federal labor statistics and Occupational Safety and Health Administration (OSHA) data, delivers the usual bad news, with some highlights revealing the social vulnerabilities affecting all our work lives, if not our deaths.		
+The roughly 3.8 million occupational injuries and illnesses reported in 2014 represent the myriad ways that the economy values capital over human life: from unmonitored toxic exposures at lucrative oil and gas fields, to construction workers falling from faulty scaffolding on million-dollar office towersâ150 work-related deaths daily. Tragedy was often preventable, but risking lives more profitable.		
+Latino workers remain among the most vulnerable, with a job fatality rate about 9 percent higher than the national rate, partially reflecting Latinosâ prevalence in high-risk, low-wage manual labor jobs. The total number of Latinos killed at work is up slightly, from 707 in 2010 to 804 in 2014; nearly two-thirds of those killed were immigrants.		
+Among industries, the oil and gas trade seems deadlier than ever: Workers perished at a devastating rate of â15.6 per 100,000 workers, nearly 5 times the national average,â resulting in an unprecedented 144 deaths in 2014. Despite the global decline of the natural-gas market in recent months, Rebecca Reindel of AFL-CIOâs Safety and Health Department says via e-mail that even if the fracking sector sheds jobs, the occupational dangers might not decline, but instead, rise as bosses tighten budgets: âWhile there might be fewer workers in the industry due to those changes, experience in safety and health tells us that when businesses need to cut corners for cost, safety and health is often the first and hardest hit. So even with lower employment, safety and health hazards could get worse for workers.â		
+While the horrific headlines about mass shootings in offices and schools represent freak events, workplace violence has remained a glaring problem: In 2014, nationwide, a total of â765 worker deaths were caused by violence,â with the vast majority of killings involving interpersonal violence (and a few dozen caused by animals).
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+The AFL-CIOâs new annual workplace-fatality report, based on 2014 federal labor statistics and Occupational Safety and Health Administration (OSHA) data, delivers the usual bad news, with some highlights revealing the social vulnerabilities affecting all our work lives, if not our deaths.		
+The roughly 3.8 million occupational injuries and illnesses reported in 2014 represent the myriad ways that the economy values capital over human life: from unmonitored toxic exposures at lucrative oil and gas fields, to construction workers falling from faulty scaffolding on million-dollar office towersâ150 work-related deaths daily. Tragedy was often preventable, but risking lives more profitable.		
+Latino workers remain among the most vulnerable, with a job fatality rate about 9 percent higher than the national rate, partially reflecting Latinosâ prevalence in high-risk, low-wage manual labor jobs. The total number of Latinos killed at work is up slightly, from 707 in 2010 to 804 in 2014; nearly two-thirds of those killed were immigrants.		
+Among industries, the oil and gas trade seems deadlier than ever: Workers perished at a devastating rate of â15.6 per 100,000 workers, nearly 5 times the national average,â resulting in an unprecedented 144 deaths in 2014. Despite the global decline of the natural-gas market in recent months, Rebecca Reindel of AFL-CIOâs Safety and Health Department says via e-mail that even if the fracking sector sheds jobs, the occupational dangers might not decline, but instead, rise as bosses tighten budgets: âWhile there might be fewer workers in the industry due to those changes, experience in safety and health tells us that when businesses need to cut corners for cost, safety and health is often the first and hardest hit. So even with lower employment, safety and health hazards could get worse for workers.â		
+While the horrific headlines about mass shootings in offices and schools represent freak events, workplace violence has remained a glaring problem: In 2014, nationwide, a total of â765 worker deaths were caused by violence,â with the vast majority of killings involving interpersonal violence (and a few dozen caused by animals).
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+The roughly 3.8 million occupational injuries and illnesses reported in 2014 represent the myriad ways that the economy values capital over human life: from unmonitored toxic exposures at lucrative oil and gas fields, to construction workers falling from faulty scaffolding on million-dollar office towersâ150 work-related deaths daily. Tragedy was often preventable, but risking lives more profitable.		
+Latino workers remain among the most vulnerable, with a job fatality rate about 9 percent higher than the national rate, partially reflecting Latinosâ prevalence in high-risk, low-wage manual labor jobs. The total number of Latinos killed at work is up slightly, from 707 in 2010 to 804 in 2014; nearly two-thirds of those killed were immigrants.		
+Among industries, the oil and gas trade seems deadlier than ever: Workers perished at a devastating rate of â15.6 per 100,000 workers, nearly 5 times the national average,â resulting in an unprecedented 144 deaths in 2014. Despite the global decline of the natural-gas market in recent months, Rebecca Reindel of AFL-CIOâs Safety and Health Department says via e-mail that even if the fracking sector sheds jobs, the occupational dangers might not decline, but instead, rise as bosses tighten budgets: âWhile there might be fewer workers in the industry due to those changes, experience in safety and health tells us that when businesses need to cut corners for cost, safety and health is often the first and hardest hit. So even with lower employment, safety and health hazards could get worse for workers.â		
+While the horrific headlines about mass shootings in offices and schools represent freak events, workplace violence has remained a glaring problem: In 2014, nationwide, a total of â765 worker deaths were caused by violence,â with the vast majority of killings involving interpersonal violence (and a few dozen caused by animals).
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+Latino workers remain among the most vulnerable, with a job fatality rate about 9 percent higher than the national rate, partially reflecting Latinosâ prevalence in high-risk, low-wage manual labor jobs. The total number of Latinos killed at work is up slightly, from 707 in 2010 to 804 in 2014; nearly two-thirds of those killed were immigrants.		
+Among industries, the oil and gas trade seems deadlier than ever: Workers perished at a devastating rate of â15.6 per 100,000 workers, nearly 5 times the national average,â resulting in an unprecedented 144 deaths in 2014. Despite the global decline of the natural-gas market in recent months, Rebecca Reindel of AFL-CIOâs Safety and Health Department says via e-mail that even if the fracking sector sheds jobs, the occupational dangers might not decline, but instead, rise as bosses tighten budgets: âWhile there might be fewer workers in the industry due to those changes, experience in safety and health tells us that when businesses need to cut corners for cost, safety and health is often the first and hardest hit. So even with lower employment, safety and health hazards could get worse for workers.â		
+While the horrific headlines about mass shootings in offices and schools represent freak events, workplace violence has remained a glaring problem: In 2014, nationwide, a total of â765 worker deaths were caused by violence,â with the vast majority of killings involving interpersonal violence (and a few dozen caused by animals).
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+Among industries, the oil and gas trade seems deadlier than ever: Workers perished at a devastating rate of â15.6 per 100,000 workers, nearly 5 times the national average,â resulting in an unprecedented 144 deaths in 2014. Despite the global decline of the natural-gas market in recent months, Rebecca Reindel of AFL-CIOâs Safety and Health Department says via e-mail that even if the fracking sector sheds jobs, the occupational dangers might not decline, but instead, rise as bosses tighten budgets: âWhile there might be fewer workers in the industry due to those changes, experience in safety and health tells us that when businesses need to cut corners for cost, safety and health is often the first and hardest hit. So even with lower employment, safety and health hazards could get worse for workers.â		
+While the horrific headlines about mass shootings in offices and schools represent freak events, workplace violence has remained a glaring problem: In 2014, nationwide, a total of â765 worker deaths were caused by violence,â with the vast majority of killings involving interpersonal violence (and a few dozen caused by animals).
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+While the horrific headlines about mass shootings in offices and schools represent freak events, workplace violence has remained a glaring problem: In 2014, nationwide, a total of â765 worker deaths were caused by violence,â with the vast majority of killings involving interpersonal violence (and a few dozen caused by animals).
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+The CIA Waterboarded the Wrong Man 83 Times in 1 Month
+
+African-American Voters Have an Understandable Reason to Support Hillary Clinton
+
+Brotherhood of Bullies: Bob Knight Endorses Donald Trump
+
+The Orange Rage Monster Acts Presidential
+
+Before âUnity,â Sanders Must Stay in the Fight
+
+Workplace homicide disproportionately affects black workers, who made up about 20 percent of those violently killed at work. Workplace violence also caused some 26,540 serious injuries in 2014. In a gruesome echo of the gender pay gap, two-thirds of job-related violence victims were women, who face rising rates of workplace violence or assault in the healthcare industry, including in residential care and home care services.		
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+Official injury counts are based on âlost timeâ incidents, essentially excluding those without direct impacts on economic productivity (for example, machinery-induced muscle trauma that a factory worker avoids reporting for fear of losing his job). Also excluded are the estimated 50,000 annual deaths from âchronic occupational diseases,â like cancer linked to workplace toxins. Moreover, the government estimates that over half of serious workplace injuries go unreported.						
+			.article-wrap .article-body aside.left.custom_background_210624			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Despite limited statistics, both regulators and the public can learn from data on occupational risk. Last year, OSHA launched a new real-time injury reporting initiative, compelling companies to report severe injuries on an ongoing basis, to allow for faster regulatory investigations and interventions.		
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+Yet, even when regulators respond swiftly, employers have little to fear: In fiscal year 2015, the average penalty for a federal OSHA violation was $2,148, and just $1,317 for a state-level violation. A dead worker doesnât cost much more: The median penalty for a lethal federal violation was $7,000. And while tens of millions have been injured or killed at work since the Occupational Safety and Health Act was passed in 1970, the study notes that âonly 89 cases have been prosecuted under the act, with defendants serving a total of 110 months in jail. During this time, there were more than 395,000 workplace fatalitiesâ¦about 20% of which were investigated by federal OSHA.â Meanwhile, the report notes, under another beleaguered federal regulatory protection, the Environmental Protection Act, fiscal year 2015 alone saw â185 defendants charged, resulting in 129 years of jail time and $200 million in fines and restitution.â					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-210624-2','tn_economy_economics_ros_halfpage_2','tn_economy_economics_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+Although there have been a few high-profile criminal prosecutions for worker deaths, sometimes under other federal or state statutes, generally corporate impunity shields even the most scandalized bosses (see Massey Coal executive Don Blankenshipâs tiny misdemeanor conviction last year for his role in West Virginiaâs Upper Big Branch Mine disaster). Workersâ lives are cheap, so the ultimate economic burden of unsafe jobs is drastically socialized onto the public, as occupational injury and illness costs the country an estimated â$250 billion to $370 billion a year.â		
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+The good news is that workplace deaths have steadily declined over the past 25 years: The occupational death rate was nine per 100,000 in 1992, compared to 3.4 per 100,000 today. And there have been some gradual regulatory enhancements, like a long-delayed new rule to control silica dust exposure for construction, industrial, and mining workers.		
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+But even amid these safety improvements, policymakers have simultaneously eroded the agencyâs resources and institutional power since the 1990s. There are 74,800 workers nationwide per OSHA inspector today, compared to 55,000 workers per inspector in 1992. Currently there are only enough resources to inspect each workplace every 145 years, up from once per 84 years in 1992.		
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+Itâs in some ways remarkable that OSHA has managed to make this progress even as its regulatory capacity withers. On the other hand, the gutting of the only federal agency devoted to keeping us safe on the job suggests that progress on worker protection is heading toward a plateau. In our economyâwhere racial and gender inequality arenât just unfortunate byproducts of neoliberal âgrowth,â but actually integral to itâthe state seems increasingly willing to accept a certain degree of unjust harm, for certain types of workers. Their preventable suffering is viewed less as a social problem requiring state intervention, than as another routine cost of doing business. So today, the question of whose lives matter at work, remains a question of whether a workerâs body is worth more dead or alive.		
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributingÂ writer forÂ The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

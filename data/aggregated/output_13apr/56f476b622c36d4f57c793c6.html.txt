@@ -1,0 +1,178 @@
+
+
+Abortion pills (CC BY 2.0) 
+
+A recent New York Times op-edÂ reported that last year there were 700,000 Google searches for how to self-induce abortion. Compare this number to the 1 million legal abortions estimated to take place each year.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206792-0','tn_society_science_and_health_ros_halfpage_1','tn_society_science_and_health_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+The connection between the attack on abortion rights and a spike in the number of people turning to the Internet for answers is clear: The state with the highest rate of searches was Mississippi, which has one remaining clinic as the result of laws passed in the state to limit access to abortion. In 2011, online searches for how to accomplish a do-it-yourself abortion jumped 40 percent, according to the Times. That same year, 92 provisions restricting access were enacted nationwide.
+Last week, a group of legal experts whoÂ haveÂ spent the last year reviewing the legal landscape of self-induced abortion in the United States hosted a webinar to share what theyâve learned about the risks and opportunities associated with abortions that happen outside the healthcare system. Itâs a topic that has been in the news a lot in recent years, including the case of Purvi Patel, the Indiana woman who was convicted of feticide in connection with an alleged self-induced abortion and is now serving 20 years in prison. Last year, Kenlissia Jones in Georgia was arrested and charged with murder for her use of the drug misoprostol to terminate her pregnancy. The charge was eventually dropped, but a misdemeanor charge of possession of a dangerous drug was not. There have been 17 known arrests or convictions connected to at-home abortions, according toÂ the newly launched Self-Induced Abortion (SIA) Legal Team. The team has identified 40 laws nationwideâincluding fetal homicide, chemical endangerment, accomplice liabilityâthat are potentially broken when someone terminates a pregnancy with help from a doula, babysitter, or someone else in a support role.
+The newly formed team is made up of self-described movement lawyers from Center on Reproductive Rights and Justice at Berkeley Law, Reproductive Health Technologies Project, Law Students for Reproductive Rights, National Advocates for Pregnant Women, and other organizations. The group sees stopping the criminalization of self-induced abortion as one of its goals and said this week that it will represent those in legal trouble or connect those in need with a trusted attorney. In a brochureÂ announcing its launch, the team defines self-induced abortion as âthe practice of self-administering pharmaceutical pills, traditional herbs, or other meansâ and describes the practice as âthe only available or acceptable method of abortion to growing numbers of people.âÂ 
+It is illegal to buy misoprostol online without a prescription in the US, and yetâas the trend in Google searches showsâitâs a risk an increasing number of people are willing to consider if not take. Itâs also possible to buy misoprostol over the counter in many Latin American countries, including Mexico, which may help explain why the practice of self-induced abortion appears to be more common in Texas than in the rest of the country. A studyÂ released late last year found that between 100,000 and 240,000 of the 5.9 million Texas women ages 18 to 49 have tried to end a pregnancy on their own without medical assistance. A number of recent reports out of the stateâwhere the enforcement of House Bill 2 could leave just 10 clinics open, pending a Supreme Court rulingâhave explored what obtaining pills in this way means for those who make that choice.
+Finding ways to support those who choose to self-induce abortion does not mean abandoning the fight to preserve access in healthcare settings, according to members of the legal team. âWe envision a world in which pregnant people have legal and actual access to the full panoply of abortion care options,” Jill E. Adams of U.C. Berkeleyâs Center on Reproductive Rights and Justice said on lastÂ weekâs call. 
+			.article-wrap .article-body aside.left.custom_background_206792			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+The connection between the attack on abortion rights and a spike in the number of people turning to the Internet for answers is clear: The state with the highest rate of searches was Mississippi, which has one remaining clinic as the result of laws passed in the state to limit access to abortion. In 2011, online searches for how to accomplish a do-it-yourself abortion jumped 40 percent, according to the Times. That same year, 92 provisions restricting access were enacted nationwide.
+Last week, a group of legal experts whoÂ haveÂ spent the last year reviewing the legal landscape of self-induced abortion in the United States hosted a webinar to share what theyâve learned about the risks and opportunities associated with abortions that happen outside the healthcare system. Itâs a topic that has been in the news a lot in recent years, including the case of Purvi Patel, the Indiana woman who was convicted of feticide in connection with an alleged self-induced abortion and is now serving 20 years in prison. Last year, Kenlissia Jones in Georgia was arrested and charged with murder for her use of the drug misoprostol to terminate her pregnancy. The charge was eventually dropped, but a misdemeanor charge of possession of a dangerous drug was not. There have been 17 known arrests or convictions connected to at-home abortions, according toÂ the newly launched Self-Induced Abortion (SIA) Legal Team. The team has identified 40 laws nationwideâincluding fetal homicide, chemical endangerment, accomplice liabilityâthat are potentially broken when someone terminates a pregnancy with help from a doula, babysitter, or someone else in a support role.
+The newly formed team is made up of self-described movement lawyers from Center on Reproductive Rights and Justice at Berkeley Law, Reproductive Health Technologies Project, Law Students for Reproductive Rights, National Advocates for Pregnant Women, and other organizations. The group sees stopping the criminalization of self-induced abortion as one of its goals and said this week that it will represent those in legal trouble or connect those in need with a trusted attorney. In a brochureÂ announcing its launch, the team defines self-induced abortion as âthe practice of self-administering pharmaceutical pills, traditional herbs, or other meansâ and describes the practice as âthe only available or acceptable method of abortion to growing numbers of people.âÂ 
+It is illegal to buy misoprostol online without a prescription in the US, and yetâas the trend in Google searches showsâitâs a risk an increasing number of people are willing to consider if not take. Itâs also possible to buy misoprostol over the counter in many Latin American countries, including Mexico, which may help explain why the practice of self-induced abortion appears to be more common in Texas than in the rest of the country. A studyÂ released late last year found that between 100,000 and 240,000 of the 5.9 million Texas women ages 18 to 49 have tried to end a pregnancy on their own without medical assistance. A number of recent reports out of the stateâwhere the enforcement of House Bill 2 could leave just 10 clinics open, pending a Supreme Court rulingâhave explored what obtaining pills in this way means for those who make that choice.
+Finding ways to support those who choose to self-induce abortion does not mean abandoning the fight to preserve access in healthcare settings, according to members of the legal team. âWe envision a world in which pregnant people have legal and actual access to the full panoply of abortion care options,” Jill E. Adams of U.C. Berkeleyâs Center on Reproductive Rights and Justice said on lastÂ weekâs call. 
+			.article-wrap .article-body aside.left.custom_background_206792			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+Last week, a group of legal experts whoÂ haveÂ spent the last year reviewing the legal landscape of self-induced abortion in the United States hosted a webinar to share what theyâve learned about the risks and opportunities associated with abortions that happen outside the healthcare system. Itâs a topic that has been in the news a lot in recent years, including the case of Purvi Patel, the Indiana woman who was convicted of feticide in connection with an alleged self-induced abortion and is now serving 20 years in prison. Last year, Kenlissia Jones in Georgia was arrested and charged with murder for her use of the drug misoprostol to terminate her pregnancy. The charge was eventually dropped, but a misdemeanor charge of possession of a dangerous drug was not. There have been 17 known arrests or convictions connected to at-home abortions, according toÂ the newly launched Self-Induced Abortion (SIA) Legal Team. The team has identified 40 laws nationwideâincluding fetal homicide, chemical endangerment, accomplice liabilityâthat are potentially broken when someone terminates a pregnancy with help from a doula, babysitter, or someone else in a support role.
+The newly formed team is made up of self-described movement lawyers from Center on Reproductive Rights and Justice at Berkeley Law, Reproductive Health Technologies Project, Law Students for Reproductive Rights, National Advocates for Pregnant Women, and other organizations. The group sees stopping the criminalization of self-induced abortion as one of its goals and said this week that it will represent those in legal trouble or connect those in need with a trusted attorney. In a brochureÂ announcing its launch, the team defines self-induced abortion as âthe practice of self-administering pharmaceutical pills, traditional herbs, or other meansâ and describes the practice as âthe only available or acceptable method of abortion to growing numbers of people.âÂ 
+It is illegal to buy misoprostol online without a prescription in the US, and yetâas the trend in Google searches showsâitâs a risk an increasing number of people are willing to consider if not take. Itâs also possible to buy misoprostol over the counter in many Latin American countries, including Mexico, which may help explain why the practice of self-induced abortion appears to be more common in Texas than in the rest of the country. A studyÂ released late last year found that between 100,000 and 240,000 of the 5.9 million Texas women ages 18 to 49 have tried to end a pregnancy on their own without medical assistance. A number of recent reports out of the stateâwhere the enforcement of House Bill 2 could leave just 10 clinics open, pending a Supreme Court rulingâhave explored what obtaining pills in this way means for those who make that choice.
+Finding ways to support those who choose to self-induce abortion does not mean abandoning the fight to preserve access in healthcare settings, according to members of the legal team. âWe envision a world in which pregnant people have legal and actual access to the full panoply of abortion care options,” Jill E. Adams of U.C. Berkeleyâs Center on Reproductive Rights and Justice said on lastÂ weekâs call. 
+			.article-wrap .article-body aside.left.custom_background_206792			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+The newly formed team is made up of self-described movement lawyers from Center on Reproductive Rights and Justice at Berkeley Law, Reproductive Health Technologies Project, Law Students for Reproductive Rights, National Advocates for Pregnant Women, and other organizations. The group sees stopping the criminalization of self-induced abortion as one of its goals and said this week that it will represent those in legal trouble or connect those in need with a trusted attorney. In a brochureÂ announcing its launch, the team defines self-induced abortion as âthe practice of self-administering pharmaceutical pills, traditional herbs, or other meansâ and describes the practice as âthe only available or acceptable method of abortion to growing numbers of people.âÂ 
+It is illegal to buy misoprostol online without a prescription in the US, and yetâas the trend in Google searches showsâitâs a risk an increasing number of people are willing to consider if not take. Itâs also possible to buy misoprostol over the counter in many Latin American countries, including Mexico, which may help explain why the practice of self-induced abortion appears to be more common in Texas than in the rest of the country. A studyÂ released late last year found that between 100,000 and 240,000 of the 5.9 million Texas women ages 18 to 49 have tried to end a pregnancy on their own without medical assistance. A number of recent reports out of the stateâwhere the enforcement of House Bill 2 could leave just 10 clinics open, pending a Supreme Court rulingâhave explored what obtaining pills in this way means for those who make that choice.
+Finding ways to support those who choose to self-induce abortion does not mean abandoning the fight to preserve access in healthcare settings, according to members of the legal team. âWe envision a world in which pregnant people have legal and actual access to the full panoply of abortion care options,” Jill E. Adams of U.C. Berkeleyâs Center on Reproductive Rights and Justice said on lastÂ weekâs call. 
+			.article-wrap .article-body aside.left.custom_background_206792			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+It is illegal to buy misoprostol online without a prescription in the US, and yetâas the trend in Google searches showsâitâs a risk an increasing number of people are willing to consider if not take. Itâs also possible to buy misoprostol over the counter in many Latin American countries, including Mexico, which may help explain why the practice of self-induced abortion appears to be more common in Texas than in the rest of the country. A studyÂ released late last year found that between 100,000 and 240,000 of the 5.9 million Texas women ages 18 to 49 have tried to end a pregnancy on their own without medical assistance. A number of recent reports out of the stateâwhere the enforcement of House Bill 2 could leave just 10 clinics open, pending a Supreme Court rulingâhave explored what obtaining pills in this way means for those who make that choice.
+Finding ways to support those who choose to self-induce abortion does not mean abandoning the fight to preserve access in healthcare settings, according to members of the legal team. âWe envision a world in which pregnant people have legal and actual access to the full panoply of abortion care options,” Jill E. Adams of U.C. Berkeleyâs Center on Reproductive Rights and Justice said on lastÂ weekâs call. 
+			.article-wrap .article-body aside.left.custom_background_206792			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+Finding ways to support those who choose to self-induce abortion does not mean abandoning the fight to preserve access in healthcare settings, according to members of the legal team. âWe envision a world in which pregnant people have legal and actual access to the full panoply of abortion care options,” Jill E. Adams of U.C. Berkeleyâs Center on Reproductive Rights and Justice said on lastÂ weekâs call. 
+			.article-wrap .article-body aside.left.custom_background_206792			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Instead, the SIA Legal Team will continue to investigate how public health advocates, midwives, and others who find themselves in a support role can legally share information about how abortion pills can be used at home. For example, how can someone give advice on where to get the pills and stay within the law? Whatâs the best way to create a website, smart phone app, or pamphlet that describes the pillsâ chemical makeup, side effects, and risks? How can advocates word the information they share so that itâs protected by the First Amendment?
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+Developing law and policy tools to answer questions such as these, expanding access to reliable information about self-induced abortion, shifting the culture so that the practice loses its stigma, and bringing an end to the prosecutions and arrests of people like Patel and Jones are all part of the work the team plans to take up. “In order to fully protect people currently and to move toward this vision of a different legal future, we needed to move forward on all four prongs of the strategy at the same time,” Adams said.
+
+
+ Dani McClain
+Twitter
+ Dani McClain is aÂ contributing writer forÂ The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Over 40 years ago, when abortion was illegal, my best friend (a Catholic) self induced an abortion by coat hanger. She bled to death. There were no abortion clinics or drugs. Women will always try to find a means to abort. It should be legal. Their lives should not be in danger.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,11 @@
+[
+  {
+    "category": "NYT", 
+    "active": true, 
+    "_id": {
+      "$oid": "5736438db4967416071ca2bf"
+    }, 
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", 
+    "title": "NYT > Politics"
+  }
+]

@@ -1,0 +1,1030 @@
+
+
+ (Chris Maddaloni / CQ Roll Call via AP Images)
+
+Thereâs a story being told about the 2016 presidential race that says big money in politics no longer matters all that much. After all, the narrative goes, just look at the glaring example of Jeb Bushâs inability to buy his way to the GOP nomination even after his campaign and Super PAC spent an astonishing $150 million. While itâs true that money isnât everything in politics, dismissing the influence of big money in politics couldnât be more wrong.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-206800-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+As Jeb Bush supporters discovered, money canât make someone a great candidateâbut it does function as a gatekeeper for one who is able to run a viable campaign in the first place. While access to money doesnât buy you victory, in todayâs campaign-finance landscape, you canât be victorious without itâand a lot of it. Whatâs more, big money skews policy priorities and buys access once candidates are elected into office. Sandersâs massive number of small donors notwithstanding, billionaires are still ruling the presidential race overall, with the 100 top donors eclipsing the contributions of the 2 million smallest donors. And as law and political science professor Rick Hasen has noted, just the âthreat of big money scares politicians away from taking positions against the donor class.â		
+Despite the âmoney doesnât matterâ narrative, everyday Americans understand that the system is rigged. Three in four Americans think the influence of money on politics is greater than in past years, and that elected officials âdonât care what people like me think.â Concern about money in politics is stronger than ever, as is the momentum to fix it. But for all of the talk about the millions of dollars in special-interest cash in the 2016 elections, the solutions to rebalance the system already taking root in cities and states across the country, outlined below, have garnered less attention.		
+Overturning Decisions Like Citizens United
+The Supreme Courtâs rulings in cases like Citizens United have left lawmakers unable to set commonsense limits on money in elections. But as soon as the decision was handed down six years ago, activists started organizing in their own communities as part of a long-term push to overturn it. That organizing has led 16 states and more than 680 cities and towns to call for a constitutional amendment to undo this damage. In 2016 voters in Washington, and potentially in California, will have the opportunity to vote directly on statewide measures in support of an amendment.		
+One of the towns that recently passed a resolution supporting an amendment is Derry, New Hampshire, where a retired special education teacher named Corinne Dodge led an effort to pass the measure through her cityâs conservative town council. Dodge became active in political organizing in the aftermath of the 2012 massacre at Sandy Hook Elementary School that left 20 children and six adults dead. She joined an organization of mothers focused on ending gun violence, but was frustrated by the inability to push forward even basic, popular gun-safety measures.		
+âI realized that nothing was going to happen on gun control, or on many other issues, until the money was out of politics,â Dodge said.		
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+As Jeb Bush supporters discovered, money canât make someone a great candidateâbut it does function as a gatekeeper for one who is able to run a viable campaign in the first place. While access to money doesnât buy you victory, in todayâs campaign-finance landscape, you canât be victorious without itâand a lot of it. Whatâs more, big money skews policy priorities and buys access once candidates are elected into office. Sandersâs massive number of small donors notwithstanding, billionaires are still ruling the presidential race overall, with the 100 top donors eclipsing the contributions of the 2 million smallest donors. And as law and political science professor Rick Hasen has noted, just the âthreat of big money scares politicians away from taking positions against the donor class.â		
+Despite the âmoney doesnât matterâ narrative, everyday Americans understand that the system is rigged. Three in four Americans think the influence of money on politics is greater than in past years, and that elected officials âdonât care what people like me think.â Concern about money in politics is stronger than ever, as is the momentum to fix it. But for all of the talk about the millions of dollars in special-interest cash in the 2016 elections, the solutions to rebalance the system already taking root in cities and states across the country, outlined below, have garnered less attention.		
+Overturning Decisions Like Citizens United
+The Supreme Courtâs rulings in cases like Citizens United have left lawmakers unable to set commonsense limits on money in elections. But as soon as the decision was handed down six years ago, activists started organizing in their own communities as part of a long-term push to overturn it. That organizing has led 16 states and more than 680 cities and towns to call for a constitutional amendment to undo this damage. In 2016 voters in Washington, and potentially in California, will have the opportunity to vote directly on statewide measures in support of an amendment.		
+One of the towns that recently passed a resolution supporting an amendment is Derry, New Hampshire, where a retired special education teacher named Corinne Dodge led an effort to pass the measure through her cityâs conservative town council. Dodge became active in political organizing in the aftermath of the 2012 massacre at Sandy Hook Elementary School that left 20 children and six adults dead. She joined an organization of mothers focused on ending gun violence, but was frustrated by the inability to push forward even basic, popular gun-safety measures.		
+âI realized that nothing was going to happen on gun control, or on many other issues, until the money was out of politics,â Dodge said.		
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Despite the âmoney doesnât matterâ narrative, everyday Americans understand that the system is rigged. Three in four Americans think the influence of money on politics is greater than in past years, and that elected officials âdonât care what people like me think.â Concern about money in politics is stronger than ever, as is the momentum to fix it. But for all of the talk about the millions of dollars in special-interest cash in the 2016 elections, the solutions to rebalance the system already taking root in cities and states across the country, outlined below, have garnered less attention.		
+Overturning Decisions Like Citizens United
+The Supreme Courtâs rulings in cases like Citizens United have left lawmakers unable to set commonsense limits on money in elections. But as soon as the decision was handed down six years ago, activists started organizing in their own communities as part of a long-term push to overturn it. That organizing has led 16 states and more than 680 cities and towns to call for a constitutional amendment to undo this damage. In 2016 voters in Washington, and potentially in California, will have the opportunity to vote directly on statewide measures in support of an amendment.		
+One of the towns that recently passed a resolution supporting an amendment is Derry, New Hampshire, where a retired special education teacher named Corinne Dodge led an effort to pass the measure through her cityâs conservative town council. Dodge became active in political organizing in the aftermath of the 2012 massacre at Sandy Hook Elementary School that left 20 children and six adults dead. She joined an organization of mothers focused on ending gun violence, but was frustrated by the inability to push forward even basic, popular gun-safety measures.		
+âI realized that nothing was going to happen on gun control, or on many other issues, until the money was out of politics,â Dodge said.		
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+The Supreme Courtâs rulings in cases like Citizens United have left lawmakers unable to set commonsense limits on money in elections. But as soon as the decision was handed down six years ago, activists started organizing in their own communities as part of a long-term push to overturn it. That organizing has led 16 states and more than 680 cities and towns to call for a constitutional amendment to undo this damage. In 2016 voters in Washington, and potentially in California, will have the opportunity to vote directly on statewide measures in support of an amendment.		
+One of the towns that recently passed a resolution supporting an amendment is Derry, New Hampshire, where a retired special education teacher named Corinne Dodge led an effort to pass the measure through her cityâs conservative town council. Dodge became active in political organizing in the aftermath of the 2012 massacre at Sandy Hook Elementary School that left 20 children and six adults dead. She joined an organization of mothers focused on ending gun violence, but was frustrated by the inability to push forward even basic, popular gun-safety measures.		
+âI realized that nothing was going to happen on gun control, or on many other issues, until the money was out of politics,â Dodge said.		
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+One of the towns that recently passed a resolution supporting an amendment is Derry, New Hampshire, where a retired special education teacher named Corinne Dodge led an effort to pass the measure through her cityâs conservative town council. Dodge became active in political organizing in the aftermath of the 2012 massacre at Sandy Hook Elementary School that left 20 children and six adults dead. She joined an organization of mothers focused on ending gun violence, but was frustrated by the inability to push forward even basic, popular gun-safety measures.		
+âI realized that nothing was going to happen on gun control, or on many other issues, until the money was out of politics,â Dodge said.		
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+âI realized that nothing was going to happen on gun control, or on many other issues, until the money was out of politics,â Dodge said.		
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+At a workshop about how activists can work for reforms to make the government more responsive to constituents, Dodge learned about the cities and states that had already passed resolutions calling for a constitutional amendment. At first, she was reluctant to lead the fight in Derry. The first time Dodge spoke at a town council meeting, she worried that people were thinking, in her words, âWhat does this lady want?â But she was persistent: drawing other residents into the effort, calling each council member individually, and distributing information about what an amendment would do. In the end, the Derry Town Council passed the resolution unanimously.
+Most Popular1There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act2Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives3Global Warmingâs Terrifying New Chemistry4Fear and Hate Drove Arizonaâs Republican Primary5How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+There Were 5-Hour Lines to Vote in Arizona Because the Supreme Court Gutted the Voting Rights Act
+
+Hereâs What a Man Who Studied Every Suicide Attack in the World Says About ISISâ Motives
+
+Global Warmingâs Terrifying New Chemistry
+
+Fear and Hate Drove Arizonaâs Republican Primary
+
+How Do You Decide to Have a Baby When Climate Change Is Remaking Life on Earth?
+
+The hard work of Dodge and thousands of others like her around the country has built momentum at the federal level. The proposed amendment in Congress, the Democracy for All Amendment, currently has 147 cosponsors in the House and 41 supporters in the Senate. The amendment garnered support from 55 senators in a 2014 vote on the measure.		
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+In addition, the recent death of Supreme Court Justice Antonin Scaliaâwith more vacancies likely in the next presidentâs time in officeâmeans a shifting composition of the High Court, which could have a transformative impact on its jurisprudence on money in politics issues.		
+Small-Donor Public Financing
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Twenty sixteen has provided a number of examples of the importance of small-dollar donors. ActBlue, which brings in small donations to support Democrats, recently hit $1 billion raised with an average contribution amount of $41. Bernie Sanders famously has an average online donation size of $27. But those facts shouldnât obscure the fact that, nationwide, big donors still dominate our political system. Close to half of the early money in the presidential races was provided by just 158 families. An elite, tiny slice of the country that tends to be older, white, rich, and male dominates our elections in a country that is increasingly diverse. But when ordinary Americans have incentives, like matching funds or vouchers, to make small donations to candidates they support, candidates no longer rely primarily on wealthy interests for funding.		
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+These types of small donor empowerment policies have already brought real change in states like Connecticut and Maine, and in cities like New York. A 2012 Brennan Center analysis of New York Cityâs public financing system, where the city matches small donations six-to-one, found that the system encourages the political participation of people from diverse backgrounds in a way not seen in statewide elections, where there is no such system. For example, âtwenty-four times more small donors from the poor and predominately black Bedford-Stuyvesant neighborhood and the surrounding communities gave money to candidates for the City Council than for the State Assembly.â		
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+These systems help break down the barriers preventing peopleâparticularly people from modest means, people of color, and womenâfrom running for office. One of the people whose engagement with politics dramatically changed following the implementation of New York Cityâs small donor system is Jumaane Williams, who was elected to the New York City Council in late 2009 using the clean-elections program. Williams, who describes himself as a âfirst-generation Brooklynite of West Indian parentageâ and who is a leader on issues like gun violence, affordable housing, and education, said the program âmade all the difference in the world.â		
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Without the clean-elections system in place, Williams said, âit would have been very difficult for someone like me to run a successful campaign.â				      
+      .cta.primary.IkWUsJwJaF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.IkWUsJwJaF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Legislation that would expand this type of small donor system to a national level, which could be done even before decisions like Citizens United are overturned, has already been proposed in Congress. Representative John Sarbanesâs Government By the People Act currently has 158 cosponsors in the Houseâand a comparable Senate bill, the Fair Elections Now Act, has 23 cosponsors.						
+			.article-wrap .article-body aside.left.custom_background_206800			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Americans agree we should pursue small donorâdriven solutions, and states and cities across the country are not waiting on Washington, DC, to act. Last yearâs election saw Maine voters passing a ballot initiative (55-45) to strengthen the stateâs clean-elections system. In Seattle, more than 60 percent of voters supported an initiative that includes establishment of a first-in-the-nation âdemocracy vouchersâ system giving everyone an opportunity to contribute to campaigns.		
+Disclosure of Political Spending
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Investigative journalist Jane Mayer calls tracing the flow of secret money in American politics today ânearly impossible.â		
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+âMany of the donors are exploiting a quirk in the tax code, by channeling their contributions through front groups that claim to be tax-exempt nonprofit âsocial welfareâ organizations that can legally hide the identities of their donors,â Mayer explains. âThe only way a reporter like myself can follow this âdark moneyâ is when the donors choose to identify themselves, or get sloppy, as happened with at least one meeting of the Koch network, when a guest list was left behind. Thatâs a pretty sad state of affairs.â		
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Groups that donât have to disclose their donors spent over $310 million in 2012, and are likely to spend far more in 2016. Even Supreme Court Justice Anthony Kennedy, who wrote the Citizens United decision, noted recently that today disclosure is ânot working the way it should.â		
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+There are a number of routes toward increased disclosure of political spending, from Congress passing legislation that allows Americans to see whoâs funding outside spending groups; to federal agencies issuing new requirements; to the president issuing an executive order requiring companies with federal contracts to disclose their political spending.		
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+The Federal Communications Commission (FCC) in particular is well positioned to adopt updated rules that would allow everyday Americans to know more about who is trying to influence them in ads. Requirements allowing the identification of whoâs behind political advertising are already on the books through Section 317 of the Communications Act. All the FCC would need to do is update its rules in light of the new realities of todayâs campaign-finance world, where a group with a vague name like âAmericans for Americaâ can be listed as the sponsor of an ad without revealing to the public who actually funded it.		
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+âIf donors were required to disclose all of their political contributions, as the Supreme Court intended when it decided the Citizens United case in 2010, reporters would then be able to connect the dots for the public between private interests, and the distortion of American politics and policy,â Mayer noted. âAs it is, we can only show part of the picture. Surely the public deserves the full story.â		
+Real Enforcement of Existing Rules
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Even in the midst of the push for new rules and laws reining in big money in politics, advocates know that laws about money in politics are only as good as their enforcement.		
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+Because the Federal Election Commission (FEC)âwhich is charged with monitoring money in elections and enforcing campaign finance lawsâis perpetually gridlocked and thus failing to do its job, âpeople feel free to ignoreâ the âfew rules that are left,â says FEC Commissioner Ellen Weintraub. A 2015 study by Public Citizen found that the total number of enforcement actions taken by the agency hovers near all-time lows, while the percent of deadlocked FEC votes âremains at unprecedented high levels.â		
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+One clear solution is that future appointments to the FEC must be people who are committed to holding accountable those who violate current rules. An alternative approach, advanced by Senator Tom Udall of New Mexico, would be to replace the FEC altogether; he introduced a bill last week to overhaul the FEC and put in its place a new agency that could avoid the partisan gridlock that has hamstrung the agencyâs work.		
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+âWithout a strong watchdog looking over their shoulders, Super PACs and billionaire donors have free rein to push the limits,â said Senator Udall. âItâs clear that the FEC has outlived its usefulness. We need a new agency empowered to ensure our elections are fair and democratic.â		
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+With the explosion of money in our elections in recent years, real enforcement of campaign-finance laws is critical to safeguarding the few protections that still remain in place.		
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+* * *		
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+From the Supreme Court vacancy to a presidential race where campaign-finance reform has become a central issue, 2016 will be a pivotal moment for our democracy. The reform plans proposed by both Hillary Clinton and Bernie Sanders largely reflect the priorities outlined above, while GOP candidates have mostly failed to propose real solutions to our money in politics crisis. And the campaigns of Senat0r Sanders, President Obama, and Senator Elizabeth Warren have provided important examples in recent years of the power of engaging small donors.		
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+From ballot questions addressing money in politics to large-scale civil disobedience and protest in the nationâs capital this April, activists are fighting to claim a democracy that works for all. There are entrenched interests on the other side, and the push for reform is undoubtedly an uphill battle. But even as 2016 puts on full display the extent to which big money is dominating our elections, it also highlights how weâre going to fix this problem: through a comprehensive agenda to fight big money, bolstered by the activism of everyday Americans.		
+		
+
+ Layne Amerikaner
+ Layne Amerikaner is the senior communications manager for writing and content at People For the American Way in Washington, DC. She is the co-author of Thinking Outside the Girl Box: Teaming Up With Resilient Youth in Appalachia, published by Ohio University Press in 2014. Amerikaner has a masterâs degree in public policy and womenâs studies from George Washington University.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Amendment MUST precede public financing - or fail miserably.  And that is the hard part!  In depth analysis:
+https://youtu.be/1k5Mio8FXd4
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

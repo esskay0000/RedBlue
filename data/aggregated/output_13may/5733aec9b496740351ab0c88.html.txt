@@ -1,0 +1,69 @@
+jQuery(function(){jQuery("#lbg_audio4_html5_shoutcast_2").audio4_html5({skin:"whiteControllers",playerWidth:500,responsive:true,initialVolume:0.5,autoPlay:false,volumeOffColor:"#dadada",volumeOnColor:"#FFFFFF",songTitleColor:"#000000",radioStationColor:"#000000",frameBehindPlayerColor:"#000000",imageBorderWidth:4,imageBorderColor:"#000000",showVolume:true,showRadioStation:false,showTitle:false,showNextPrevBut:true,autoHidePlayButton:true,showFacebookBut:false,facebookAppID:"",facebookShareTitle:"HTML5 Radio Player With Playlist - Shoutcast and Icecast",facebookShareDescription:"A top-notch responsive HTML5 Radio Player compatible with all major browsers and mobile devices.",showTwitterBut:false,beneathTitleBackgroundColor_VisiblePlaylist:"#c55151",beneathTitleBackgroundOpacity_VisiblePlaylist:100,beneathTitleBackgroundColor_HiddenPlaylist:"#c55151",beneathTitleBackgroundOpacity_HiddenPlaylist:100,beneathTitleBackgroundBorderColor:"#000000",beneathTitleBackgroundBorderWidth:3,translateRadioStation:"Radio Station: ",translateSongTitle:"Now Playing: ",translateReadingData:"reading data...",translateAllRadioStations:"ALL RADIO STATIONS",showPlaylistBut:true,showPlaylist:true,showPlaylistOnInit:true,playlistTopPos:6,playlistBgColor:"#c55151",playlistRecordBgOffColor:"#000000",playlistRecordBgOnColor:"#00000",playlistRecordBottomBorderOffColor:"#333333",playlistRecordBottomBorderOnColor:"#4d4d4d",playlistRecordTextOffColor:"#777777",playlistRecordTextOnColor:"#00b4f9",categoryRecordBgOffColor:"#000000",categoryRecordBgOnColor:"#252525",categoryRecordBottomBorderOffColor:"#2f2f2f",categoryRecordBottomBorderOnColor:"#2f2f2f",categoryRecordTextOffColor:"#777777",categoryRecordTextOnColor:"#00b4f9",numberOfThumbsPerScreen:7,playlistPadding:18,firstCateg:"ALL RADIO STATIONS",showCategories:true,selectedCategBg:"#000000",selectedCategOffColor:"#FFFFFF",selectedCategOnColor:"#00b4f9",selectedCategMarginBottom:12,showSearchArea:true,searchAreaBg:"#000000",searchInputText:"search...",searchInputBg:"#ffffff",searchInputBorderColor:"#333333",searchInputTextColor:"#333333",showPlaylistNumber:true,pathToAjaxFiles:"http://hw.infowars.com/wp-content/plugins/lbg-audio4-html5-shoutcast/audio4_html5/",nowPlayingInterval:15,grabLastFmPhoto:false,noImageAvailable:"/wp-content/plugins/lbg-audio4-html5-shoutcast/audio4_html5/noimageavailable.jpg"});});  http://stream-mp3.infowars.com:80/;              No HTML5 audio playback capabilities for this browser. Use Chrome Browser!  
+
+Noticed at around 10 am EST by security and cryptography researcher Matt Blaze, the white SUV was seen with a large Google Maps sticker on one of its rear windows.
+
+WTF? Pennsylvania State Police license plate reader SUV camouflaged as Google Street View vehicle. pic.twitter.com/0z4yo2rVoR
+
+— matt blaze (@mattblaze) May 11, 2016
+
+ “WTF? Pennsylvania State Police license plate reader SUV camouflaged as Google Street View vehicle,” Blaze wrote on Twitter.The photo, which quickly gained several hundred retweets, also shows two cameras on top of the vehicle believed to be LPRs or “License Plate Readers.”Speaking with Gizmodo writer Matt Novak, Pennsylvania State Trooper Adam Reed confirmed the equipment to be LPRs although he and the department denied owning the SUV.
+Matt, this is not a PSP vehicle. If this is LPR technology, other agencies and companies might make use of it. https://t.co/ekJrN4lF2h— PA State Police (@PAStatePolice) May 11, 2016 According to Blaze, the vehicle was not only parked near multiple marked police cars but even had a Pennsylvania State Police parking placard in the window and a “LoJack antenna array on the roof.”Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016 Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+“WTF? Pennsylvania State Police license plate reader SUV camouflaged as Google Street View vehicle,” Blaze wrote on Twitter.The photo, which quickly gained several hundred retweets, also shows two cameras on top of the vehicle believed to be LPRs or “License Plate Readers.”Speaking with Gizmodo writer Matt Novak, Pennsylvania State Trooper Adam Reed confirmed the equipment to be LPRs although he and the department denied owning the SUV.
+Matt, this is not a PSP vehicle. If this is LPR technology, other agencies and companies might make use of it. https://t.co/ekJrN4lF2h— PA State Police (@PAStatePolice) May 11, 2016 According to Blaze, the vehicle was not only parked near multiple marked police cars but even had a Pennsylvania State Police parking placard in the window and a “LoJack antenna array on the roof.”Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016 Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+The photo, which quickly gained several hundred retweets, also shows two cameras on top of the vehicle believed to be LPRs or “License Plate Readers.”Speaking with Gizmodo writer Matt Novak, Pennsylvania State Trooper Adam Reed confirmed the equipment to be LPRs although he and the department denied owning the SUV.
+Matt, this is not a PSP vehicle. If this is LPR technology, other agencies and companies might make use of it. https://t.co/ekJrN4lF2h— PA State Police (@PAStatePolice) May 11, 2016 According to Blaze, the vehicle was not only parked near multiple marked police cars but even had a Pennsylvania State Police parking placard in the window and a “LoJack antenna array on the roof.”Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016 Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+Speaking with Gizmodo writer Matt Novak, Pennsylvania State Trooper Adam Reed confirmed the equipment to be LPRs although he and the department denied owning the SUV.
+Matt, this is not a PSP vehicle. If this is LPR technology, other agencies and companies might make use of it. https://t.co/ekJrN4lF2h— PA State Police (@PAStatePolice) May 11, 2016 According to Blaze, the vehicle was not only parked near multiple marked police cars but even had a Pennsylvania State Police parking placard in the window and a “LoJack antenna array on the roof.”Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016 Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+
+Matt, this is not a PSP vehicle. If this is LPR technology, other agencies and companies might make use of it. https://t.co/ekJrN4lF2h— PA State Police (@PAStatePolice) May 11, 2016
+
+— PA State Police (@PAStatePolice) May 11, 2016
+
+ According to Blaze, the vehicle was not only parked near multiple marked police cars but even had a Pennsylvania State Police parking placard in the window and a “LoJack antenna array on the roof.”Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016 Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+According to Blaze, the vehicle was not only parked near multiple marked police cars but even had a Pennsylvania State Police parking placard in the window and a “LoJack antenna array on the roof.”Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016 Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+Plot thickens. Car was def. law enf & had a @PAStatePolice parking placard, but they say it isn’t one of theirs. https://t.co/WGQLuVrTUz— matt blaze (@mattblaze) May 11, 2016
+
+— matt blaze (@mattblaze) May 11, 2016
+
+ Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+Those discussing the photo speculated the SUV could belong to anyone from a repo company to a tow operator or bounty hunter.“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+“My experience is that this is either a tow operator or bounty hunter abusing a parking placard. Happens all the time in NYC,” one Twitter user wrote.Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+Twitter users, noting the potential legal issues surrounding the misuse of Google’s logo, alerted the tech company to the vehicle. Google has thus far refrained from making any public statements on the issue.
+
+
+Join our daily newsletter for breaking news, special articles, personal messages from Alex, exclusive store deals, and more.
+
+
+Receive the INFOWARS underground insider!
+
+
+
+
+
+
+
+
+Will Trump be able to dethrone Paul Ryan as RNC chairman?
+
+
+
+View Results
+

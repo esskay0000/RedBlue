@@ -1,0 +1,2101 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script>
+var articlereadbyUser = 0;
+var pageCounterPaywall = 0; 
+      function getCookie(name)
+      {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+      }
+      var checkCookie = getCookie('SESSchecknc');
+      if (checkCookie!='undefined' && checkCookie==1)
+      { 
+         var currentUrl = document.URL;
+         if (currentUrl.indexOf("?nc=1") > -1){ }
+         else
+         {
+            if (currentUrl.indexOf("?") > -1)
+            {
+               if (currentUrl.indexOf("&nc=1") > -1) {}
+               else{
+                  window.location.href = currentUrl+"&nc=1";                  
+               }            
+            }
+            else
+            {
+            window.location.href = currentUrl+"/?nc=1"; 
+			
+            }
+            //document.open('text/javascript');
+            //document.write('<script type="text/undefined">');
+         }
+      }
+</script>
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	 <meta charset="utf-8">
+		<!-- Always force latest IE rendering engine or request Chrome Frame -->
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+		<!-- Use title if it's in the page YAML frontmatter -->			
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common | The Nation</title>
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="">
+			<!-- Facebook META -->
+			<!--<meta property="fb:app_id" content="">-->
+			<meta property="og:site_name" content="The Nation">
+			<meta property="og:title" content="When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common">
+			<meta property="og:description" content="Tax avoidance by the wealthiest Americans—including the presidential front-runners—costs the US government an additional $130 billion per year.">
+			<!--<meta property="og:url" content="">-->
+			<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9-1440x756.jpg">
+			<meta property="og:type" content="website">
+			<!-- Twitter META -->
+			<meta name="twitter:title" content="When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common">
+			<meta name="twitter:description" content="Tax avoidance by the wealthiest Americans—including the presidential front-runners—costs the US government an additional $130 billion per year.">
+			<meta name="twitter:url" content="http://www.thenation.com/article/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common/">
+			<meta name="twitter:image" content="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9-1440x756.jpg">
+						<!-- Fav Icon -->
+			<!--<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />--->
+			<link rel="icon" type="image/ico" href="http://www.thenation.com/wp-content/themes/thenation/images/favicon.ico" />
+	<meta name="sailthru.image.full" content="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9-680x430.jpg" /> 
+<meta name="sailthru.image.thumb" content="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9-275x173.jpg" />
+<meta name="sailthru.title" content="When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common" />
+<meta name="sailthru.date" content="May 5th, 2016" />
+<meta name="sailthru.content_id" content="211520" />
+<meta name="sailthru.description" content="Tax avoidance by the wealthiest Americans—including the presidential front-runners—costs the US government an additional $130 billion per year." />
+<meta name="sailthru.tags" content="Banking,Class,Corporations,Economics,Economy,Election 2016,Elections,Ethical Economics,Executive Branch,Finance,Global Organizations,Government,Law,Political Figures,Politics,World,World Leaders," />
+<meta name="keywords" content="Donald Trump,Hillary Clinton,Panama Papers,Taxes" />
+<meta name="sailthru.author" content="Nomi Prins" />
+<script type="text/javascript">
+    (function() 
+	{
+        function loadHorizon() 
+		{
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+        	}
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+		{
+            	if (typeof oldOnLoad === 'function') 
+			{
+                	oldOnLoad();
+          		}
+            	Sailthru.setup({
+                	domain: 'horizon.thenation.com'
+            		});
+        	};
+    	})();
+</script>
+<!--Advertisements-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//kilomonj.net/adBlockDetector/12257" async defer></script>
+<!--<script class="kxct" data-id="JDkN7kNL" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN7kNL"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>-->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20564932" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20564932&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+<link href="http://www.thenation.com/wp-content/themes/thenation/stylesheets/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="There’s a pile of money hiding offshore. It’s true that jobs are also leaving the United States because American companies find it convenient to cut labor costs by moving manufacturing abroad, the economic issue you’re hearing most about in this election season." />
+<meta name="keywords" content="banking, class, corporations, economics, economy, election 2016, elections, ethical economics, executive branch, finance, global organizations, government, law, political figures, politics, world, world leaders, donald trump, hillary clinton, panama papers, taxes" />
+<meta property="fb:app_id" content="192399944158735" />
+<meta property="og:site_name" content="The Nation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common" />
+<meta property="og:url" content="http://www.thenation.com/article/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common/" />
+<meta property="og:description" content="There’s a pile of money hiding offshore. It’s true that jobs are also leaving the United States because American companies find it convenient to cut labor costs by moving manufacturing abroad, the economic issue you’re hearing most about in this election season." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2016-05-05T16:05:12+00:00" />
+<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="907" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2016-05-05T14:59:18+00:00" />
+<meta property="article:modified_time" content="2016-05-05T16:05:12+00:00" />
+<meta property="article:author" content="http://www.thenation.com/author/jessica_corbett/" />
+<meta property="article:publisher" content="https://www.facebook.com/TheNationMagazine" />
+<meta property="article:tag" content="banking" />
+<meta property="article:tag" content="class" />
+<meta property="article:tag" content="corporations" />
+<meta property="article:tag" content="economics" />
+<meta property="article:tag" content="economy" />
+<meta property="article:tag" content="election 2016" />
+<meta property="article:tag" content="elections" />
+<meta property="article:tag" content="ethical economics" />
+<meta property="article:tag" content="executive branch" />
+<meta property="article:tag" content="finance" />
+<meta property="article:tag" content="global organizations" />
+<meta property="article:tag" content="government" />
+<meta property="article:tag" content="law" />
+<meta property="article:tag" content="political figures" />
+<meta property="article:tag" content="politics" />
+<meta property="article:tag" content="world" />
+<meta property="article:tag" content="world leaders" />
+<meta property="article:tag" content="donald trump" />
+<meta property="article:tag" content="hillary clinton" />
+<meta property="article:tag" content="panama papers" />
+<meta property="article:tag" content="taxes" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TheNation" />
+<meta name="twitter:title" content="When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common" />
+<meta name="twitter:description" content="There’s a pile of money hiding offshore. It’s true that jobs are also leaving the United States because American companies find it convenient to cut labor costs by moving manufacturing abroad, the economic issue you’re hearing most about in this election season." />
+<meta name="twitter:image:src" content="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9.jpg" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="907" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Feed" href="http://www.thenation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Comments Feed" href="http://www.thenation.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common Comments Feed" href="http://www.thenation.com/article/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thenation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='defaultbasic-css'  href='http://www.thenation.com/wp-content/themes/thenation/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='thenation-stylesheet-all-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/all.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='basicfonts-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/fonts.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_calendar-jos-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_frontend-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style_submissions-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tn_stf_style-css'  href='http://www.thenation.com/wp-content/plugins/tn-sailthruforms/admin/assets/tn_sailthruforms_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.thenation.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/tn-customeditor//tinymce-dropcap.js?ver=4.2.4'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thenation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.13" />
+<link rel='canonical' href='http://www.thenation.com/article/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common/' />
+<link rel='shortlink' href='http://www.thenation.com/?p=211520' />
+<link rel="stylesheet" href="http://www.thenation.com/wp-content/plugins/solr-for-wordpress-on-pantheon/template/autocomplete.css" type="text/css" media="screen" />
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          //  $("#s").suggest("?method=autocomplete", {});
+          //  $("#search-value").suggest("?method=autocomplete", {});
+        });
+    </script>
+    <script type='text/javascript'>var pageCounterPaywall = 0; var scrollHolderPaywall = {};var maxarticlePaywall = 0; var current_articlePaywall = 0; var maxdaysPaywall = 0; var accesseddaysPaywall = 0; </script>				<!-- WordPress Popular Posts v3.2.1 -->
+				<script type="text/javascript">//<![CDATA[
+
+					// Create XMLHttpRequest object and set variables
+					var xhr = ( window.XMLHttpRequest )
+					  ? new XMLHttpRequest()
+					  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+					url = 'http://www.thenation.com/wp-admin/admin-ajax.php',
+					params = 'action=update_views_ajax&token=f9b08b87f7&id=211520';
+					// Set request method and target URL
+					xhr.open( "POST", url, true );
+					// Set request header
+					xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+					// Hook into onreadystatechange
+					xhr.onreadystatechange = function() {
+						if ( 4 == xhr.readyState && 200 == xhr.status ) {
+							if ( window.console && window.console.log ) {
+								window.console.log( xhr.responseText );
+							}
+						}
+					}
+					// Send request
+					xhr.send( params );
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.1 -->
+				<script src="http://www.thenation.com/wp-content/plugins/tn-paywall/inc/paywall-script.php?nc=1&paywallid=MjExNTIw&display=YmxvY2s="></script><script>
+jQuery(document).ready(function(){
+   jQuery('#search').submit(function(event){
+      if (jQuery('#search input:text').eq(0).val().length<1){
+	 return false;
+      }
+   });
+   jQuery('#searchbox').submit(function(event){
+      if (jQuery('#searchbox input:text').eq(0).val().length<1){
+	 return false;
+	 }
+   });
+});
+</script>
+</head>
+<!-- Quantcast Tag -->  <script type="text/javascript">  var _qevents = _qevents || [];    (function() {  var elem = document.createElement('script');  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";  elem.async = true;  elem.type = "text/javascript";  var scpt = document.getElementsByTagName('script')[0];  scpt.parentNode.insertBefore(elem, scpt);  })();    _qevents.push({  qacct:"p-krSvyk7fmpe57"  });  </script>    <noscript>  <div style="display:none;">  <img src="//pixel.quantserve.com/pixel/p-krSvyk7fmpe57.gif" border="0" height="1" width="1" alt="Quantcast"/>  </div>  </noscript>  <!-- End Quantcast tag -->
+<body>
+<!-- Google Analytics Code -->
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63392420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- Live Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code End -->
+<!-- Chartbeat code starts here -->
+<script type="text/javascript">
+  var _sf_async_config = { uid: 7841, domain: 'thenation.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.insertBefore(e, document.body.firstChild);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Chartbeat code ends here -->
+<!-- Google Mobile Interstitial Starts here -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script> 
+  (adsbygoogle = window.adsbygoogle || []).push({ 
+    google_ad_client: 'ca-pub-4976568202552923', 
+    enable_page_level_ads: true, 
+    interstitials: {google_ad_channel: 'ca-pub-4976568202552923'} 
+  }); 
+</script>
+<!-- Google Mobile Interstitial Ends here -->
+<!-- Advertisements -->
+<!---- Moat Script starts here -------->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/thenationcontent252XZzP54/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!---- Moat Script ends here --------->
+<script async="async" data-client-id="hBpPprgSpyyiDmn" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/esf.js"></script><script>
+    var pageCounterPaywall ;
+	var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+</script>
+<!-- Function to call Advertisements on entire website-->
+<script type='text/javascript'>
+   function call_ad(ad_type,ad_div,ad_name_desktop,ad_name_mobile,custom_targeting,key,values) {
+      if (typeof custom_targeting === 'undefined') { custom_targeting = false; }
+      if (typeof key === 'undefined') { key = null; }
+      if (typeof values === 'undefined') { values = null; }
+      var w,h,w1,h1;
+      var ad_name='';
+      if (ad_type == "leaderboard")
+	  {
+		 w = 728;
+		 h = 90;
+		 w1=970;
+		 h1=90;
+		 ad_name = ad_name_desktop;
+		 if (isMobile.any())
+		 {
+			 w = 320;
+			 h = 50;
+			 ad_name = ad_name_mobile;
+		 }
+      }
+      else if (ad_type == "halfpage")
+	  {
+		w = 300;
+		h = 250;
+		w1 = 300;
+		h1 = 600;
+		ad_name = ad_name_desktop;
+		if(isMobile.any())
+		{
+			w = 300;
+			h = 250;
+			w1 = 300;
+			h2 = 250;
+			ad_name = ad_name_mobile;
+		}		
+      }
+      else if (ad_type == "halfpage250") {
+	 w = 300;
+	 h = 250;
+	 ad_name = ad_name_desktop;
+      }
+      else if (ad_type == "pixel")
+	  {
+		var ad_pixel_name1 = "_pixel_2";
+		var ad_pixel_name_final=ad_name_desktop.indexOf(ad_pixel_name1);
+		//alert(ad_pixel_name_final);
+		if(articlereadbyUser!=0)
+		{
+		if(ad_pixel_name_final<=-1)
+		{
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===true) {
+			  return;
+			}
+		}
+		}
+		/*for hiding meterpaywall popups when pixel ads call ends here*/
+		
+		if(isMobile.any())
+		{
+		ad_name = ad_name_mobile;
+		}
+		else
+		{
+		ad_name = ad_name_desktop;
+		}
+		
+						w = 1;
+		h = 1;
+      }
+      //alert('ad_name: '+ad_name+'  div: '+ad_div+'  key: '+key+'  values: '+values);
+      googletag.cmd.push(function() {
+      var ad_slot = null;
+	  if(ad_type == "halfpage" || ad_type == "leaderboard") {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [[w, h],[w1,h1]], ad_div);
+	  }
+	  else {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [w, h], ad_div);
+	  }
+      if (custom_targeting==true && key && values)
+	  {
+		 for(i=0;i<key.length;i++) {
+			ad_slot = ad_slot.setTargeting(key[i], [values[i]]);
+		 }
+      }
+      ad_slot = ad_slot.addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      	  googletag.pubads().refresh([ad_slot]); // Since same ad unit might get repeated
+	  //setInterval(function(){googletag.pubads().refresh([ad_slot]);}, 10000);
+            googletag.enableServices();
+      });
+		googletag.cmd.push(function() {
+		googletag.display(ad_div);		
+      });
+   }
+</script>
+<div id="ad-pixel"></div>
+<div id="ad-pixel-2"></div>
+<div id="ad-leaderboard" class="push ad full-width leaderboard"></div>
+<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="desktop">
+	<div class="header-bar utility">
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="actions">
+			<li><a class="social-link fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"><span>Facebook</span></a></li>
+			<li><a class="social-link tw" href="https://twitter.com/thenation" target="_blank"><span>Twitter</span></a></li>
+						<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage" class="btn btn-yellow donate">Donate</a>
+			</li>
+									<li id="login_status">
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        <div class="lightbox-form">
+			<div class="lightbox-inner login_popup">
+				<div class="listing__hero row">
+					<div class="listing_form small-12 columns">
+						<!--<div class="closebutton"></div>-->
+                        <div class="login_top_msz">If you are a current Subscriber and are unable to log in, you may have to create a NEW username and password.  To do so, <a href="https://ssl.palmcoastd.com/06601/apps/LOGINSSO" target="_blank">click here</a> and use the “NEW USER” sign-up option.</div>
+						<h1>Log In</h1>
+						<div class="row primaryError" id="primaryError"  style="display: none">
+						 <div class="field form-field text-field small-12 columns error">
+									<p class="errormsg"></p>
+						 </div>
+						 </div>
+						<form action="index.html" class="search__form" onsubmit="return trigClick();"  name="lightboxform" id="lightboxform">
+								<div class="row">
+								<div class="field form-field e_mail_field_con text-field small-12 columns valid">
+									<input type="text" tabindex="1" name="e_mail" class="pcd_email" value="" id="e_mail" placeholder="" autocapitalize="off">
+									<label for="e_mail">Email *</label>
+															
+								</div>
+							</div>
+							<div class="row">
+								<div class="field form-field text-field pwd_field_con small-12 columns error">
+									<input type="password" tabindex="2" name="pwd" class="pcd_pwd" value="" id="pwd" placeholder="" minlength="2">
+									<label for="last_name">Password *</label>
+									             
+								</div>
+							</div>
+							
+							
+							<div class="row checkbox-row">
+								<div class="field form-field checkbox-field small-7 partsec columns">
+									<div class="checkbox">
+										<input type="checkbox" tabindex="4" value="None" id="box03" class="check_input" name="checkbox3" >
+										<label for="box03"></label>
+									</div>
+									<label for="box03">Remember Me</label>
+									 </div>
+								<div class="field form-field checkbox-field small-5 partsec columns pull-right"> <a tabindex="5" href="https://ssl.palmcoastd.com/06601/apps/-222532" style="padding: 0px !Important;">Forgot Your Password?</a></div>
+							</div>
+ 
+							<div class="row">
+								<div class="field form-field small-12 medium-6 partsec columns">
+									<div class="form-button" id="form-loading">
+									    <button class="primary-button pcdLoginButton" tabindex="3" type="submit" id="loginBut">Log In</button>
+									    <img class="loaderImg" src='http://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF' style="display: none" id="loader" alt="loader">
+								    </div>
+								</div>
+						        </div>
+							<div class="row">
+								<div class="field form-field small-12 medium-12 columns Subscriber_btn">									
+								If you are not a Subscriber, <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO" target="_blank">Subscribe</a> Now!<br />Back to <a href="http://www.thenation.com" >site</a>								
+								</div>
+						      </div>
+						</form>
+					</div>
+				</div>
+			</div>
+</div>					
+						</div>
+						
+									  <a href="http://www.thenation.com/login/" class="btn btn-yellow login">Log In</a>
+				 				</li>
+					</ul>
+		<!-- /.actions -->
+		<nav class="trending">
+						<div class="menu-keyword-menu-container"><ul id="menu-keyword-menu" class="menu"><li id="menu-item-199269" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-199269"><a href="http://www.thenation.com/subject/election-2016/">Election 2016</a></li>
+<li id="menu-item-210718" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210718"><a href="http://www.thenation.com/keyword/donald-trump/">Donald Trump</a></li>
+<li id="menu-item-207209" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207209"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>
+<li id="menu-item-211630" class="menu-item menu-item-type-taxonomy menu-item-object-admin-taxonomy menu-item-211630"><a href="http://www.thenation.com/admin-taxonomy/asking-for-a-friend/">Asking for a Friend</a></li>
+<li id="menu-item-211902" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-211902"><a href="http://www.thenation.com/keyword/voting-rights/">Voting Rights</a></li>
+</ul></div>		</nav>
+	</div>
+	</div>
+		<!-- /.trending -->
+	</div>
+	<!-- /.header-bar.utility -->
+
+	<div class="header-bar main" id="'navbar'">
+	<div class="row">
+		<nav role="navigation" class="primary small-12 columns">
+			<ul>
+				<li class="home">
+						<h1 class="logo">
+							<a href="http://www.thenation.com">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation" class="non-sticky">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation" class="sticky"/>
+							</a>
+						</h1>
+					</li>
+				<li class="news-links">
+									<div class="menu-subject-menu-container"><ul id="menu-subject-menu" class="menu"><li id="menu-item-186986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-201145" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li id="menu-item-201148" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li id="menu-item-116709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>				</li>
+				 
+				
+				<li class="article-meta">
+													 <h3 class="tophead_subject"><a href="http://www.thenation.com/subject/election-2016/">
+					Election 2016</a></h3>
+											<h2>When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common</h2>
+				</li>
+								<li class="quick-links">
+					<ul>
+														<li class="current-issue"><a href="http://www.thenation.com/issue/may-23-30-2016-issue/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+								<a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a>								</li>
+														<li class="search-toggle"><a href="#">Search</a></li>
+					</ul>
+				</li>
+				 
+				<li class="article-social">
+						<ul>
+							<li><a href="javascript:void(0)" class="social-article social-share fb"><span>Facebook</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share tw"><span>Twitter</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share email"><span>Email</span></a></li>
+						</ul>
+					</li>
+								</ul>
+		</nav>
+		</div>
+	<!-- /.primary -->
+	</div>
+
+	<!-- /.header-bar.main -->
+	<div class="header-bar search searchbardrop">
+	<div class="row">
+		<form action="http://www.thenation.com/" role="search" method="get" id="search" name="search">
+			<input type="text" placeholder="Search" name="ssearch">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		</div>
+	</div>
+</header>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+		$(".landing ul>li.news-links, .landing ul>li.quick-links").attr('style','display:inline !important');
+	});
+	</script>
+<!-- /#desktop -->
+<header id="mobile" class="push">
+	<div class="header-bar">
+		<a href="#mobile-menu" class="nav-toggle">
+			<span>Toggle Menu</span>
+		</a>
+		<h1 class="logo">
+			<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation"/></a>
+		</h1>
+						
+								  <a href="http://www.thenation.com/login/" class="my-profile"><span>Log In</span></a>
+				 							 
+	 	</div>
+	<!-- /.header-bar -->
+	<div id="mobile-menu" role="navigation">
+	<div class="mobile-scroll">
+	
+		<nav class="primary">
+			<ul>
+				<div class="menu-subject-menu-container"><ul id="menu-subject-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor current-menu-parent current-article-parent menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>			</ul>
+		</nav>
+		<nav class="utility">
+			<ul>
+												<li class="subscribe">
+								<a class="alert" href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**MOB">Subscribe</a>								</li>
+																					<li class="current-issue"><a href="http://www.thenation.com/issue/may-23-30-2016-issue/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+																</li>
+															<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a>
+			</li>
+			<!-- Login/Logout -->
+							<li>
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        					
+						</div>
+						
+									  
+				 <li id="login_status_mob_account"><a href="http://www.thenation.com/login/">Log In</a></li>
+				 				</li>
+							</ul>
+		</nav>
+		<div class="social">
+			<a class="social-icon icon-fb" target="_blank" href="https://www.facebook.com/TheNationMagazine">
+			<span>Facebook</span>
+			</a>
+			<a class="social-icon icon-tw" target="_blank" href="https://twitter.com/thenation">
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="search">
+			<form id="mobile-search" action="http://www.thenation.com/" role="search" method="get" name="search">
+			<!--<input type="text" placeholder="Search" class="clearable" name="s">-->
+			<input type="text" id="q" class="clearable" name="ssearch" placeholder="Search">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		
+		</div>
+		</div>
+	</div>
+	<!-- /#mobile-menu -->
+</header>
+	<div class="container push"><script type= "text/javascript">
+var preventLoad_article = false;
+var check_comment = false;
+jQuery(document).ready(function(){
+		});
+</script>
+
+
+<div class="article-wrap article-page " id="wrap">
+	<!-- Advertisements -->
+<script type="text/javascript">
+	var key = [];
+	var values = [];
+</script>
+		<script type="text/javascript">
+			key.push("tn_keyword");
+			values.push("'donald-tru', 'hillary-cl', 'panama-pap', 'taxes'");
+		</script>
+				<script type="text/javascript">
+			key.push("tn_author");
+			values.push("'nomi-p'");
+		</script>
+			<!-- Calling Header, Footer Leaderboards and Pixel Ads -->
+	<script type="text/javascript">
+		jQuery( document ).ready(function($) {
+			custom_targeting = false;
+			if (key.length > 0 && values.length > 0) {
+				custom_targeting = true;
+			}
+			call_ad('leaderboard','ad-leaderboard','tn_politics_campaigns_and_elections_ros_leaderboard_1','tn_politics_campaigns_and_elections_article_leaderboard_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel','tn_politics_campaigns_and_elections_article_pixel_1','tn_politics_campaigns_and_elections_article_pixel_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel-2','tn_politics_campaigns_and_elections_article_pixel_2','tn_politics_campaigns_and_elections_article_pixel_mobile_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_test_pixel','tn_test_pixel',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_test_pixel_2','tn_test_pixel_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_politics_campaigns_and_elections_article_pixel_1','tn_politics_campaigns_and_elections_article_pixel_1',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_politics_campaigns_and_elections_article_pixel_2','tn_politics_campaigns_and_elections_article_pixel_2',custom_targeting,key,values);
+			call_ad('leaderboard','div-gpt-ad-1428494597034-0','tn_politics_campaigns_and_elections_ros_leaderboard_1','tn_politics_campaigns_and_elections_article_leaderboard_mobile_1',custom_targeting,key,values);
+		});
+	</script>
+	<div class="postid-211520 scrolltrace " articlelisttitle="When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common" articlelistlinks="http://www.thenation.com/article/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common/" article-post-id="211520">
+	<article id="url-title">
+	<!-- Banner Image -->  
+			<header class="article-header">
+		<div class="article-header-content">
+					<ul class="article-info">
+				<li class="category"><a href="http://www.thenation.com/subject/election-2016/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/election-2016/">Election 2016</a></li><li class="subcategory"><a href="http://www.thenation.com/keyword/taxes/">Taxes</a></li><li class="subcategory"><a href="http://www.thenation.com/keyword/panama-papers/">Panama Papers</a></li>				</ul>
+		
+			<h1 class="title">When It Comes to Taxes, Donald Trump and Hillary Clinton Have 1 Thing in Common</h1>
+			<h2 class="subtitle">Tax avoidance by the wealthiest Americans—including the presidential front-runners—costs the US government an additional $130 billion per year. </h2>
+			<div class="byline">
+							<h2 class="author_name">By <a class="author" href="http://www.thenation.com/authors/nomi-prins/">Nomi Prins</a></h2>					<!--<h2>By </h2>-->
+								
+		
+				<h4 class="time is_date article_pub_time">May 5, 2016<!--<span><a href="" class="click_comment"></span><span>9 Comments</span></a>-->
+								
+				</h4>
+
+							</div>
+			<ul class="article-share">
+			<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+			</ul>
+			</div>
+		</header>
+					
+		
+		<section class="article-body  abody-211520">
+		<aside class="left full-width-mobile image wide indent">
+										<a class="gallery imgHover" href="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9.jpg" title="The UN estimates that tax dodging by multinational companies costs developing countries $100 billion a year. (Reuters / Mark Blinch)"><img src="http://www.thenation.com/wp-content/uploads/2015/05/dollars_rtr_img_9.jpg" alt="American Money"></a>
+										<p class="caption">The UN estimates that tax dodging by multinational companies costs developing countries $100 billion a year. <span class="credits">(Reuters / Mark Blinch)</span></p>
+							</aside>
+							<div style="clear:both"></div>		
+					<p>There’s a pile of money hiding offshore. It’s true that jobs are also leaving the United States because American companies find it convenient to cut labor costs by moving manufacturing abroad, the economic issue you’re hearing <a href="http://www.pbs.org/newshour/making-sense/trump-says-hell-bring-jobs-back-to-america-economists-are-skeptical/" target="_blank">most about</a> in this election season. But the stunning amount of money that continues to flow across American borders (and those of other countries), and eventually disappears into the pockets of the corporate and political elite, ultimately causes even more damage to our finances and our lives.<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-0" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>					<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211520-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					</script>
+										<aside class="left textaside">
+					
+						<div class="message"><p>This article originally appeared at <a target="_blank" href="http://www.tomdispatch.com/" target="_blank">TomDispatch.com</a>. To stay on top of important articles like these, <a target="_blank" href="https://app.e2ma.net/app/view:Join/signupId:43308/acctId:25612" target="_blank">sign up</a> to receive the latest updates from TomDispatch.com.</p></div>
+					</aside>
+						
+<p>While the two leading candidates for the presidency, Donald Trump and Hillary Clinton, have indeed suggested cosmetic fixes for a situation that only grows more extreme with the passage of time, they have themselves taken advantage of numerous tax “efficiency” strategies that make money evaporate. Of course, you shouldn’t doubt for a second that they’ll change their ways once in the Oval Office.		
+<p>As with so much in our American heritage, there’s a history to the “offshore” world, too. Finding places to shield money from tax collection first became commonplace among upper-crust industrialists, bankers, and even public servants back in the 1920s. Treasury Secretary Andrew Mellon, a millionaire mogul who served presidents Calvin Coolidge, Warren Harding, and Herbert Hoover (and had a knack for cutting taxes on the wealthy), left office under mounting congressional probes into his tax-evasion strategies.		
+<p>Fast-forward about a century and tax dodging has been woven into the fabric of the lives of the affluent and corporate worldwide in an extraordinary way. According to an April 2016 <a href="http://www.oxfam.org.uk/media-centre/press-releases/2016/04/fifty-biggest-global-us-companies-stash-over-one-trillion-dollars-offshore" target="_blank">Oxfam report</a>, the top 50 US companies are hoarding more than $1.4 trillion in cash offshore.		
+<p>What’s more, for every dollar that these firms spent lobbying Congress for “favorable” tax treatment (a collective total of $2.6 billion between 2008 and 2014), they received $130 dollars in tax breaks and $4,000 in subsidies from the US government. These companies, including Pfizer, Goldman Sachs, Dow Chemical, Chevron, Walmart, IBM, and Procter &amp; Gamble, created “an opaque and secretive network” of more than 1,600 company subsidiaries located in tax havens that they decided to disclose. (Because of the weak reporting requirements of the Securities and Exchange Commission, there could be thousands more.) <a href="http://ctj.org/pdf/pre0316.pdf" target="_blank">According to</a> a March 3 report from the Citizens for Tax Justice, the Fortune 500 companies are now saving $695 billion in federal income taxes on a total of $2.4 trillion in offshore holdings.		
+<p>Americans can’t afford to ignore such tax games, since we’re the ones who, in effect, wind up paying the taxes these firms don’t. For government policymakers, such tax evasion is a grim matter of attrition, since the United States (and other countries) plunge ever deeper into debt thanks to such antics and then find themselves cutting services or raising taxes on us to cover the gap between the money they’re losing and the taxes they’re collecting.<aside class="right hidden-on-mobile most-popular-plus-ad"><div class="most-popular hover_b_remove">
+									<h3>Most Popular</h3><div class="popular-article"><h4>1</h4><p><a href="http://www.thenation.com/article/note-to-exxon-lying-about-climate-change-isnt-free-speech-its-fraud/">Note to Exxon: Lying About Climate Change Isn’t Free Speech—It’s Fraud</a></p></div><div class="popular-article"><h4>2</h4><p><a href="http://www.thenation.com/article/why-bernie-didnt-get-my-vote/">Why Bernie Didn’t Get My Vote</a></p></div><div class="popular-article"><h4>3</h4><p><a href="http://www.thenation.com/article/voter-suppression-is-the-only-way-donald-trump-can-win/">Voter Suppression Is the Only Way Donald Trump Can Win</a></p></div><div class="popular-article"><h4>4</h4><p><a href="http://www.thenation.com/article/for-profit-colleges-have-found-a-new-way-to-hoodwink-their-students/">For-Profit Colleges Have Found a New Way to Hoodwink Their Students</a></p></div><div class="popular-article"><h4>5</h4><p><a href="http://www.thenation.com/article/this-former-fisherman-is-now-farming-the-most-sustainable-food-on-earth-underwater/">This Former Fisherman Is Now Farming the Most Sustainable Food on Earth—Underwater</a></p></div></aside>		
+<p>Not only are such firms unpatriotic, they are parasitic and while they’re at it, they use similar techniques—let’s not call it theft (though it is)—to avoid tax payments in the poorest places on Earth. As Oxfam <a href="http://www.oxfamamerica.org/static/media/files/Broken_at_the_Top_FINAL_EMBARGOED_4.12.2016.pdf" target="_blank">reports</a>, “the biggest burden” of tax havens “falls on the poorest people.” In the process, they only increase already oppressive levels of inequality globally.		
+<p>Tax “secrecy” specialists—people working in the money-hiding field—help rich individuals, multinational corporations, political leaders, terrorists, and organized crime groups divert cash and capital, sometimes in staggering amounts, from local economies into an obscure, complex, multi-layered global financial network that operates outside any national or international regulatory or tax system. Given this, isn’t it a little surprising that the top candidates for the presidency barely pay lip service to the impact of such hidden money? What toothless policies they have proposed to deal with the phenomenon will do little or nothing to change it.		
+<h6>The Panama Papers</h6>
+<p>US trade agreements generally include rosy promises about partnering with regional economies around the world to encourage the flow of goods and services across borders. At the same time, they generally are focused on the obliteration of barriers that in any way restrict money from flowing out of the United States or into the embrace of other nations. The free movement of capital, or financial globalization as it’s called, has been a bedrock Washington policy for a century and, since the 1980s, places like Panama—a renowned tax haven—have abetted this process.		
+<p>A month ago, the International Consortium of Investigative Journalists released a <a href="https://panamapapers.icij.org/" target="_blank">trove of documents</a>, 2.6 terabytes of them, <a href="http://www.tomdispatch.com/blog/176136/includes%2520more%2520than%25204.8%2520million%2520emails,%25203%2520million%2520database%2520files,%2520and%25202.1%2520million%2520PDFs" target="_blank">including</a> “more than 4.8 million emails, 3 million database files, and 2.1 million PDFs.” These were <a href="http://www.wired.com/2016/04/reporters-pulled-off-panama-papers-biggest-leak-whistleblower-history/" target="_blank">turned over</a> by an undisclosed source (“John Doe”), communicating through encrypted channels to avoid repercussions. Now known as “the Panama Papers,” they reveal how elite multinational companies, the super rich, and government figures have engaged in tax-dodging practices engineered by a single Panama City–based law firm, Mossack Fonseca (MF).					<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-2" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>							<script type="text/javascript">
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211520-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						</script>
+								
+<p>In addition to public officials and billionaires, more than 500 global banks, their subsidiaries and branches, have registered at least 15,600 shell companies there using MF’s services. That word “shell” is descriptively accurate since such “companies” rarely have employees and are commonly no more than a post-office box providing a façade through which books can be doctored, taxes dodged, losses concealed, and money-laundering and other criminal actions carried out. And keep in mind that MF, which acts for approximately 300,000 companies, is only the <a href="http://www.theguardian.com/news/2016/apr/08/mossack-fonseca-law-firm-hide-money-panama-papers" target="_blank">fourth-largest provider</a> of such offshore services globally.		
+<p>One mega-bank that used its services extensively was <a href="https://panamapapers.icij.org/graphs/" target="_blank">HSBC</a>, which created an astonishing 2,300 shell companies with that law firm’s help. We’ll return to HSBC.						<style>
+			.article-wrap .article-body aside.left.custom_background_211520			 {
+			 background:#5000b2 !important;
+			 }
+			 </style>
+				<aside class="left takeaction indent custom_background_211520">
+					<div class="action_tout_heading"><p><p>LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS</p></p></div>
+					<form action="" name="sailthru_action_tout_form" method="post">
+					<input type="email" name="email" id="take_action_sailthru_email_211520" class="take_action_sailthru_email" Placeholder="Enter Email">
+									<input type="hidden" name="take_action_sailthru_list_final" id="take_action_sailthru_list_final_211520" value="daily_tout,master,daily">
+					<div class="cta"><p>
+										<input type="button" class="take_action_sailthru_submit" name="submit_sailthru" value="SIGN UP" onclick="add_action_tout_sailthru(211520)"></p></div>
+					</form>
+				<p id="action_tout_response_211520"></p>
+				</aside>
+				
+<p>Mossack Fonseca’s <a href="http://www.mossfon.com/" target="_blank">official mission</a>, it claims, is “to deliver quality, reliable and comprehensive services to our worldwide clients in the legal, trust, investment consultancy, and digital solution fields.” That’s code for helping select establishment outfits and dubious enterprises to avoid paying taxes on profits, investments, or money made from buying and selling real estate, luxury yachts or planes, oil wells, weapons, or drugs, among other things.		
+<p>Secrecy is its calling card. <a href="http://www.theguardian.com/news/2016/apr/03/what-you-need-to-know-about-the-panama-papers" target="_blank">Tax havens</a>, or locales amenable to tax dodging, whether in the Caribbean, Central America, <a href="http://www.financialsecrecyindex.com/PDF/Switzerland.pdf" target="_blank">Switzerland</a> (still the world’s top location for financial secrecy), or for that matter the state of <a href="http://www.nytimes.com/2016/04/08/business/need-to-hide-some-income-you-dont-have-to-go-to-panama.html" target="_blank">Delaware</a>, exist to circumvent tax laws. Period. And these operations are so shady that even the functionaries working in the shadows to establish such secret accounts are barely aware of exactly who owns them, where the money came from, or where it’s going. For regulators, prosecutors, and tax collectors, the opacity is far worse.		
+<p>You don’t necessarily have to be rich or powerful to access the services of such offshore firms and banks, but it helps. Some havens take anyone ready to put up a minimum of $25,000, while others demand staggering sums. Western Samoa, for instance, requires a cool <a href="http://www.lectlaw.com/filesh/bbg34.htm" target="_blank">$10 million</a> to get started.      <style>
+      .cta.primary.QMBQDoBplm{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.QMBQDoBplm a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      </style>
+      <aside class="siderail__item full cta primary right article_action_right QMBQDoBplm">
+   <div class="item__content">
+            <h3>GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+</h3>
+            <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**ARL" target="_blank" class="btn">Subscribe</a>   
+   </div>   
+</aside>
+ 
+
+										
+<p>The most alarming aspect of the Panama Papers revelations was not MF’s clientele, or even its secretive practices, but that what it does is completely “legal.” Nor was this the first such disclosure. In <a href="https://www.icij.org/blog/2014/11/lux-leaks-causes-tax-storm-government-media-response" target="_blank">November 2014</a>, for instance, the “<a href="http://www.theguardian.com/business/2015/jun/19/tax-havens-money-cayman-islands-jersey-offshore-accounts" target="_blank">Luxleaks</a>” scandal involving a whole “menagerie of Luxembourg-based tax schemes,” as <em>The Guardian</em> <a href="http://www.theguardian.com/business/2014/nov/05/-sp-luxembourg-tax-files-tax-avoidance-industrial-scale" target="_blank">put it</a>, was disclosed by two whistle-blowers from the accounting firm PricewaterhouseCoopers. (Luxembourg is a major European tax haven.) Citigroup, Deutsche Bank, Facebook, HSBC, JPMorgan Chase, and Microsoft were on the list of its more than 350 multinational “tax avoiders.”		
+<h6>Avoiding vs. Evading Taxes and Corporate Inversions</h6>
+<p>Avoiding and evading taxes are technically considered different kinds of acts, the former being legal in the United States, the latter not. <a href="https://www.irs.gov/irm/part25/irm_25-001-001.html#d0e80" target="_blank">According to</a> the Internal Revenue Service, “Taxpayers have the right to reduce, avoid, or minimize their taxes by legitimate means.” Tax evasion, on the other hand, involves an “act to evade or defeat a tax, or payment of tax” by “deceit, subterfuge, camouflage, concealment, attempts to color or obscure events, or make things seem other than they are.”		
+<p>The line between the two is obviously thin and vague, but both practices result in the same thing: paying fewer taxes or hiding money.		
+<p>The subject of tax avoidance and evasion has generally gotten little traction on the campaign trail in election 2016, the exception being corporate “inversions.” These happen when, for example, an American company merges with a foreign one in a tax haven, and so gets a lower tax rate by reincorporating (filling out some paperwork) there. This, too, is “legal,” although it represents the purest form of corporate tax evasion. Perhaps you won’t be surprised to learn that the practice began <a href="http://www.motherjones.com/politics/2015/02/foreign-overseas-tax-inversion-evasion-obama" target="_blank">in Panama</a> about 30 years ago.		
+<p>In 2014, companies with household names like Apple, Microsoft, Pfizer, and General Electric avoided paying a collective <a href="http://www.ibtimes.com/tax-dodge-apple-pfizer-among-top-companies-added-nearly-90b-their-offshore-cash-1835968" target="_blank">$90 billion</a> in taxes through inversion strategies. Apple <a href="http://www.ibtimes.com/us-tax-evasion-cases-apple-ge-among-american-companies-holding-21-trillion-offshore-2129580" target="_blank">led that list</a>, holding $181.1 billion offshore. That’s a lot of iPhone sales.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-4" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211520-4','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<h6>The Leading Candidates and Hidden Money</h6>
+<p>Tax havens are, in essence, perfectly “legal” criminal facilities designed to steal money from the rest of us. The two leading candidates in this election season, however, aren’t talking about closing down tax havens for good (which would piss off lots of rich people, banks, drug cartels, and terrorists). They are instead focused on getting companies to voluntarily repatriate, or return, profits made abroad for taxation purposes or on closing tax “loopholes” that allow money to disappear. Neither, however, offers much detail as to what that means.		
+<p>Both do share one thing, however, when it comes to tax havens: Hillary Clinton and Donald Trump have companies registered at the same address (also “shared” by 285,000 other companies) in Wilmington, Delaware. In other words, they make use of the “Delaware loophole” that allows for the legal shifting of earnings from elsewhere in the country to the ultimate tax haven state in the US. Neither, as Rupert Neate of <em>The Guardian</em> has <a href="http://www.theguardian.com/business/2016/apr/25/delaware-tax-loophole-1209-north-orange-trump-clinton" target="_blank">written</a>, has been willing to offer any explanation for this. That’s the political beauty of loopholes: Closing one is different from eradicating an entire practice, but suffices as a promise.		
+<h6>Hillary</h6>
+<p>Hillary has gone after tax havens before. In 2004, as a New York senator, she vowed to <a href="http://www.thenation.com/article/too-much-bad-thing" target="_blank">close</a> tax loopholes for “people who create a mailbox, or a drop, or send one person to sit on the beach in some island paradise and claim that it is their offshore headquarters.” She introduced no bills to do so, however.		
+<p>She has spoken out against corporate tax inversions, too. She wants Congress to prevent them by imposing what she <a href="https://www.hillaryclinton.com/briefing/factsheets/2015/12/08/ending-inversions-and-investing-in-america/" target="_blank">calls</a> a “commonsense 50%” threshold on them; in other words, as long as a company keeps at least half of its operations in this country, it would be considered a US company for tax purposes, no matter the inversions. She also has favored an “exit tax” to ensure that multinationals pay a “fair” share of US taxes owed on earnings stored overseas. Both of these suggestions would put some modest limits on offshore tax dodging (after the fact), but not come within a country mile of banning it.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-5" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211520-5','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>On such subjects, she can sound strong indeed at appropriate moments. In <a href="http://www.ibtimes.com/political-capital/election-2016-hillary-clinton-pledges-end-tax-move-her-donors-have-used-2293636" target="_blank">February 2016</a>, for instance, she said, “We need to go after a company like Johnson Controls that is trying to avoid paying taxes after all of us bailed it out by pretending to sell itself in a so-called inversion in Europe.” It evidently didn’t matter to her that the same automotive parts company set to merge with Tyco International (based in Ireland to dodge taxes) had donated money to the Clinton Foundation charity as recently as December 2015. (Johnson Controls <a href="http://www.thedailybeast.com/articles/2016/02/04/hillary-clinton-s-corporate-villain-hits-back.html" target="_blank">denied</a> Hillary’s claims that it had received a bailout during the financial crisis.)		
+<p>Hillary, lest we forget, joined the board of directors of the the Clinton Foundation, the family charity, in 2013. She <a href="https://www.bostonglobe.com/news/politics/2015/04/16/clinton-foundation-only-allowing-six-foreign-countries-donate/A2flfieY3giKysnZjlxqXJ/story.html" target="_blank">resigned</a> in April 2015 to run for president. Now, keeping it in the family, her husband, Bill, and her daughter, Chelsea, remain standing members of the board. Spawned from the William J. Clinton Foundation, founded in 1997, the charity has raised $2 billion, has about <a href="https://www.washingtonpost.com/politics/the-inside-story-of-how-the-clintons-built-a-2-billion-global-empire/2015/06/02/b6eab638-0957-11e5-a7ad-b430fc1d3f5c_story.html" target="_blank">2,000 employees</a> (including at times members of Hillary’s political team), and boasts an annual budget of $223 million.		
+<p>Like many gilt-edged couples, Hillary and Bill Clinton have themselves utilized onshore and offshore tax loopholes. In 2010, they <a href="http://www.bloomberg.com/news/articles/2014-06-17/wealthy-clintons-use-trusts-to-limit-estate-tax-they-back" target="_blank">used</a> a common tax-dodging technique by placing their multimillion-dollar home in Chappaqua, New York, in a “residence trust.” After he left office, Bill spent five years as an “<a href="http://www.bloomberg.com/news/articles/2010-03-04/the-other-ron-burkle" target="_blank">adviser</a>” to billionaire (now ex-pal) Ron Burkle’s investment fund, Yucaipa Global, which had funds registered in the Cayman Islands and Dubai. That alliance netted Bill at least <a href="http://www.bloomberg.com/news/articles/2010-03-04/the-other-ron-burkle" target="_blank">$15 million</a>.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-6" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211520-6','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>Hillary’s bedrock thinking on money flowing out of the US and into the offshore world can best be seen in her <a href="http://www.state.gov/secretary/20092013clinton/rm/2012/10/199953.htm" target="_blank">support</a> for the 2012 <a href="https://ustr.gov/trade-agreements/free-trade-agreements/panama-tpa" target="_blank">US-Panama Trade Promotion Agreement</a> when she was secretary of state. The agreement removed “barriers to US services, including financial services,” which actually simplified the process of squirreling money away in or through Panama by allowing it to flow freely into that country.		
+<p>The Clinton Foundation inhales donations from people using tax havens (including Panama). Although Hillary denounced Mossack Fonseca’s dealings on cue after the Panama Papers story broke, a number of individuals and multinationals that have contributed to the foundation used MF to establish offshore accounts, according to <a href="http://www.mcclatchydc.com/news/politics-government/election/article72215012.html" target="_blank">McClatchy</a>. These include Canadian mining billionaire Frank Giustra who features in the foundation’s $25 million top-tier donor bracket, and two firms tied to Ng Lap Seng, the Chinese billionaire implicated in a major donor scandal involving the Clintons and the Democratic National Committee.		
+<p>Similarly, in a <a href="https://www.hillaryclinton.com/speeches/remarks-economy-new-school-new-york/" target="_blank">speech</a> she gave at the New School in July 2015, Hillary highlighted the “criminal behavior” of global bank HSBC. In 2012, the behemoth financial institution agreed to a <a href="http://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M2012121192" target="_blank">record</a> $1.92 billion settlement with the Department of Justice and the Treasury Department for enabling drug cartel <a href="http://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M20121211" target="_blank">money laundering</a> and violating US sanctions by conducting transactions for customers in Iran, Libya, Sudan, and Burma. She vowed, “On my watch, it will change.”		
+<p>Yet, in 2014, the Clinton Foundation <a href="http://www.ibtimes.com/hillary-clinton-touts-banking-reform-bashes-hsbc-despite-clinton-charitable-2006413" target="_blank">accepted</a> between $500,000 and $1 million from that bank.		
+<p>The Panama Papers are but one conflicted instance in which Hillary’s stated beliefs, her actions, and the generosity of her friends and acquaintances came together in a contradictory fashion. The evidence suggests that tax dodgers will, in fact, be able to breathe a sigh of relief if she becomes president. Her actions are likely to—if you’ll excuse the expression—trump her words when it comes to curtailing the behavior of offshore scofflaws in significant ways. And speaking of Trump…							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-7" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211520-7','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<h6>The Donald</h6>
+<p>Consider the fact that The Donald won’t even disclose his tax returns. His indignantly delivered <a href="http://www.wsj.com/articles/donald-trump-resists-calls-for-tax-returns-1456531076" target="_blank">explanation</a> is that they are “under audit.” Under the circumstances, don’t hold your breath. Perhaps he doesn’t make nearly as much money as he claims—or maybe he has an embarrassing tax-haven habit. Who knows?		
+<p>Ironically, Mossack Fonseca’s Panama City headquarters is located a mere <a href="https://www.google.com/maps/dir/Mossack+Fonseca+%26+Co.,+Calle+54+Este,+Panama+City,+Panama/Trump%C2%AE+International+Hotel+%26+Tower+Panama,+Calle+Col%C3%B3n,+Panama+City+0833-00321,+Panama/@8.9804328,-79.5177884,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x8faca9a8209b2537:0x4c6c18457c11652a!2m2!1d-79.519368!2d8.981683!1m5!1m1!1s0x8faca8b59db6f5f3:0x19af71efdb705e43!2m2!1d-79.5069291!2d8.9756929" target="_blank">seven-minute drive</a> from the Trump International Hotel and Towers in Panama City. (If you’re interested, its <a href="https://www.trumphotelcollection.com/panama/" target="_blank">website</a> is pitching a bargain on rooms at “15% off our currently available Best Unrestricted Rate.”) That decadent complex is one of many sketchy enterprises to which Trump lent his name for licensing purposes. According to his (unaudited) personal financial disclosure <a href="https://www.scribd.com/doc/272297762/Donald-Trump-s-Financial-Disclosures" target="_blank">report</a> filed with the Federal Election Commission, the deal earned him $5 million. In true Trumpian style, <a href="http://bigstory.ap.org/article/a0a52f4617cc4eb098ce99834683fb93/condo-owners-panama-tell-trump-youre-fired" target="_blank">lawsuits</a> and battles surround the endeavor.		
+<p>Under the tax plan he’s touting in his presidential campaign, US businesses would see a <a href="https://www.donaldjtrump.com/positions/tax-reform" target="_blank">reduction</a> in their maximum tax rate from 35 percent to 15 percent. This lower rate (“one of the best in the world”) would, he claims, render corporate inversions unnecessary. The Donald apparently hopes that corporate America will be so eternally grateful to him that they’ll move their money back onshore and pay taxes on it voluntarily (though most of them already don’t pay the top tax rate here anyway).		
+<p>Trump’s views on a “<a href="http://thinkprogress.org/economy/2015/08/24/3694491/trump-tax-populism/" target="_blank">repatriation tax holiday</a>” that would let companies bring home their overseas stashes on a one-time basis for little or nothing have shifted over the course of his candidacy. Last year, he proposed the repatriation of hidden funds without penalty or <a href="http://fortune.com/2015/08/21/trump-goes-easy-on-tax-dodgers/" target="_blank">taxation</a> of any kind. Now he’s advocating a more populist one-time 10 percent tax on them.							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-8" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211520-8','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>Although a key promise of his tax reform plan is to end the practice of stockpiling money in offshore accounts by American companies, he has personally invested in many of the companies that do so. As CBS News <a href="http://www.cbsnews.com/news/trump-puts-his-money-in-companies-that-stash-cash-abroad/" target="_blank">noted</a>, in October 2015, Trump owned stock in 22 of the top 30 <em>Fortune</em> 500 companies ranked by their number of offshore subsidiaries. It’s a group that has engineered 1,225 tax-haven subsidiaries holding $1.4 trillion. Of course, Trump has a keen understanding of the practices that disguise or shelter money from taxes. As he <a href="http://www.businessinsider.com/donald-trump-tax-rate-mitt-romney-2016-1" target="_blank">explained</a> to supporters in Iowa this January, when it comes to his own business enterprises, “I pay as little as possible. I use every single thing in the book.”		
+<h6>Bernie</h6>
+<p>As far as we know, Bernie has no personal experience with tax havens and has a far more structured plan than either of the leading candidates to combat their money-sucking, tax-dodging prowess. His policies would prevent American companies from avoiding US taxes through inversions, block them from escaping taxes by establishing a post-office box in a tax-haven site, and end the practice of letting corporations defer paying taxes on profits from offshore subsidiaries.		
+<p>In the real world, financial speculation, crime, and tax evasion—sorry for this word again—trump the highly touted goal of “free trade” when it comes to tax havens. Bernie understood this well when he voted against the Panama “free trade” agreement of 2011. In a Senate speech on the subject, he presciently <a href="http://thehill.com/blogs/ballot-box/presidential-races/275240-sanders-predicted-panama-papers-in-2011" target="_blank">noted</a> that “Panama is a world leader when it comes to allowing large corporations and wealthy Americans to evade US taxes by stashing their cash in offshore tax havens. And the Panama free trade agreement would make this bad situation much worse.”		
+<p>He was right then and he remains right today. Unfortunately, no one was listening or interested in acting on his warning—certainly not Hillary, who, as secretary of state, <a href="http://www.state.gov/secretary/20092013clinton/rm/2012/10/199953.htm" target="_blank">characterized</a> the agreement as “an example of the Obama Administration’s commitment to economic statecraft and deepening our economic engagement throughout the world.”							<aside class="ad full-width-mobile right grey_back">
+				<div id="ad-halfpage-211520-9" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+										call_ad('halfpage','ad-halfpage-211520-9','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+									});
+								</script>
+										
+<p>In practical terms, Bernie went significantly further than Hillary by formulating actual legislation on the subject. Last April, he introduced the <a href="http://www.budget.senate.gov/democratic/public/index.cfm/2015/4/new-bill-to-curb-tax-dodging-corporations" target="_blank">Corporate Tax Dodging Prevention Act of 2015</a> in the Senate. Among other things, it aspires to “prevent corporations from sheltering profits in tax havens like Bermuda and the Cayman Islands and would stop rewarding companies that ship jobs and factories overseas with tax breaks.”		
+<p>Regarding inversions, he would <a href="https://berniesanders.com/issues/making-the-wealthy-pay-fair-share/" target="_blank">treat companies</a> as American for tax purposes if they were majority-owned by US interests and operating in this country. Even his plan, however, would fall short unless it made inversions illegal—and too many companies are invested in not letting that happen.		
+<h6>Ted</h6>
+<p>Ted would abolish the Internal Revenue Service and enable people and companies to file taxes on a postcard, so there’s no real point in further analysis of his “positions” on tax havens.		
+<h6>Missing Money Costs</h6>
+<p>As of 2014, according to Gabriel Zucman, University of California economist and author of <a href="http://www.press.uchicago.edu/ucp/books/book/chicago/H/bo20159822.html" target="_blank"><em>The Hidden Wealth of Nations</em></a>, at least $7.6 trillion, or approximately 8 percent of global financial wealth, was “missing” somewhere offshore. His analysis demonstrates that the sorts of tax-dodging practices we’ve been discussing put governments across the planet in the red by approximately <a href="https://theintercept.com/2016/04/05/heres-the-price-countries-pay-for-tax-evasion-exposed-in-panama-papers/" target="_blank">$200 billion</a> annually. Tax avoidance by major US companies costs governments an additional $130 billion per year since nearly a third of their profits are hidden offshore.		
+<p>The UN <a href="http://www.oxfam.org.uk/media-centre/press-releases/2016/04/fifty-biggest-global-us-companies-stash-over-one-trillion-dollars-offshore" target="_blank">estimates</a> that tax dodging by multinational companies costs developing countries $100 billion a year, an amount “equivalent to what it would cost to provide basic life-saving health services or safe water and sanitation to more than 2.2 billion people.”		
+<p>There are, in other words, harrowing costs to tax dodging. When the wealthy and powerful hide money from governments or speculate with it in sneaky ways, it destabilizes economies and enables the commission of crimes that place a further burden on ordinary people. When money flows from the economic necessities needed by the less privileged to the top fraction of a percent of the world’s population and is then hidden offshore, essentially “disappeared,” it’s a net drain on and a blow to the world economy. This impacts jobs and the quality of our future. Unfortunately, the leading candidates in this election year aren’t championing a major change for the better.		
+<p><em>Additional reporting by Craig Wilson.</em>		
+		</section>
+		<footer class="article-footer narrow">
+
+			   		<div class="footer-module comments">
+			<!-- Comments count function -->
+				<a class="click_comment" href="">9 Comments</a>
+			</div>
+						<div class="footer-module">
+				<ul class="article-share">
+					<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+				</ul>
+			</div>
+			<!--<div class="footer-module narrow supplemental-info">
+							</div>-->
+			
+			<div class="footer-module narrow author-bio">
+									<p><span><a href="http://www.thenation.com/authors/nomi-prins/"> Nomi Prins</a>
+												</span> <a href="http://www.nomiprins.com/">Nomi Prins</a> is a senior fellow at <a href="http://www.demos.org/home.cfm">Demos</a>, a nonpartisan public policy think tank. Before becoming a journalist, she served as a managing director for Goldman Sachs in New York. She is the author of <i>Other People's Money: The Corporate Mugging of America</i>, <i>Jacked: How "Conservatives" Are Picking Your Pocket</i> and <i>It Takes a Pillage: Behind the Bailouts, Bonuses, and Backroom Deals From Washington to Wall Street</i>. She is a frequent commentator on CNBC and the BBC.</em></p><br/>
+						</div>
+							<div class="footer-module narrow contact-us">
+					<p>To submit a correction for our consideration, click <a target=_blank href=/corrections>here.</a>										</p>
+					<p>For Reprints and Permissions, click <a target="_blank" href="http://www.thenationreprints.com/services/reprints/">here.</a></p>
+				</div>
+				
+			<div id="comments_211520" class="commentContainer" style="display:none">
+			<div id="comments" class="comments-area">
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/article/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">In order to comment, you must be logged in as a paid subscriber. <a href="#TB_inlinepcd_login?width=600&height=550&inlineId=login-content-id-pcd_login" class="thickbox comment_login_link"> Click here to log in</a> or subscribe.</p>												</div><!-- #respond -->
+						<!--<h2 class="comments-title">
+					</h2>-->
+		<div class="comment_sorting_setting_outer">
+    <div class="sort_com_label">Sort comments By:</div>
+				<select id="comment_sorting_setting" name="comment_sorting_setting" class="comment_sorting_setting" comment_postid="211520" my-ajax-url="http://www.thenation.com/wp-admin/admin-ajax.php">
+					<option sort-attr="1"  selected=selected>Chronological Order</option>
+					<option sort-attr="2"  >Most Liked</option>
+				</select>
+			</div>
+<div class="clear"></div>
+		<ol class="comment-list custom_comments">
+			   <li id="comment-2109913088" class="comment byuser comment-author-600094775 even thread-even depth-1">
+   <article id="div-comment-2109913088" commentIDVal="2109913088" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Brent Holman</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T23:11:33+00:00">
+								May 6, 2016 at 11:11 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Used to be, that Corporate entities were allowed to exist by the State; &amp; WE are ALL the State. Now they seem to think they own the State, &amp; maybe they do, in fact.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913088,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>2</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913088,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109913058" class="comment byuser comment-author-002482735 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109913058" commentIDVal="2109913058" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Bruce Stenman</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T17:26:28+00:00">
+								May 6, 2016 at 5:26 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>It is important to understand that tax avoidance and the creation of offshore tax havens has been driven by the interests of presidential administrations going back to Lyndon Johnson and Richard Nixon. They needed drug income to be stored as US dollars to offset the deficits created by the countries wars in Asia. As they now depend on oil dollars to prop up debt they have also depended for half a century on drug profits to do the same. Small wonder that the CIA was enlisted to facilitate the importing of cocaine into the US with men like Oliver North. The war on drugs is a fiction and only serves to keep black men in prison where they provide a slave labor force and even when released from prison they are denied the right to vote and are ex-cons and so discrimination is legal under the laws of this country. <br />
+<br />
+As Bernie Sanders well knows the entire system is corrupt and it infects all three branches of government. No band-aid fixes by Clinton will address the core structural issues and no amateur who has had everything handed to him and never had to pay for his own mistakes as with Trump is going to even know where to start or who to employ.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913058,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>9</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913058,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109913038" class="comment byuser comment-author-000576108 even thread-even depth-1">
+   <article id="div-comment-2109913038" commentIDVal="2109913038" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Rosemary Agonito</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T15:31:51+00:00">
+								May 6, 2016 at 3:31 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Yet another reason, in a very long list of reasons, not to support Hillary with her phony financial &quot;reform&quot; plans. (Trump&apos;s &quot;deals&quot; we already knew about.) Nauseating, especially since we can&apos;t count on the mainstream media to expose any of this.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913038,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>9</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913038,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109913018" class="comment byuser comment-author-000294496 odd alt thread-odd thread-alt depth-1 parent">
+   <article id="div-comment-2109913018" commentIDVal="2109913018" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Charles Pack</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T13:39:03+00:00">
+								May 6, 2016 at 1:39 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Thanks for this important article. However, with Hillary and the Donald both on the wrong side, who will do anything about it?</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913018,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>4</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913018,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109913089" class="comment byuser comment-author-600122477 even depth-2 parent">
+   <article id="div-comment-2109913089" commentIDVal="2109913089" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">David Gurarie</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T23:26:55+00:00">
+								May 6, 2016 at 11:26 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Bernie Sanders, of course.<br />
+I wish he could run as independent</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913089,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>2</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913089,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+<ol class="children">
+   <li id="comment-2109913124" class="comment byuser comment-author-600124309 odd alt depth-3">
+   <article id="div-comment-2109913124" commentIDVal="2109913124" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Greg Parry</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-07T19:08:52+00:00">
+								May 7, 2016 at 7:08 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Here&apos;s a link to a petition you can sign urging Bernie to run as an independent in the general if he doesn&apos;t get the Democratic Party&apos;s nomination: http://www.movement4bernie.org/run-all-the-way</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913124,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>1</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109913124,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912982" class="comment byuser comment-author-600138275 even thread-even depth-1">
+   <article id="div-comment-2109912982" commentIDVal="2109912982" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Ray Launier</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T10:18:31+00:00">
+								May 6, 2016 at 10:18 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Great, in-depth investigative journalism! This article should be forwarded to all tax-paying U.S. citizens, before the 2016 general election.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912982,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>12</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912982,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912980" class="comment byuser comment-author-600116263 odd alt thread-odd thread-alt depth-1">
+   <article id="div-comment-2109912980" commentIDVal="2109912980" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Ron Bernhardt</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-06T09:05:21+00:00">
+								May 6, 2016 at 9:05 am							</time>
+											</div><!-- .comment-metadata -->
+										<p>Thanks Nomi for shining a light on THE MOST IMPORTANT ISSUE facing our beleaguered country. It was so funny when Bernie was being attacked for being a one issue candidate - I always thought he was making the point that Wall Street/corporate fraud and the billions/trillions they are stealing from the rest of us (our treasury) was first in need of fixing.  I&apos;ve felt this way since the bailout and then more strongly when  the Citizens United decision basically legalized corruption so judges from coast to coast could be bought.  It doesn&apos;t take a rocket scientist of economics to understand that if trillions stolen were returned to the treasury we could embark on a myriad of needed endeavors to restore better living conditions to the populace without raising taxes on the working folk who&apos;ve never stopped paying them.  It would be bad enough if these .1 % of 1%ers actually needed ANY of the money they&apos;re hoarding but it&apos;s appalling when they have such excess and people are dying because their water supply is poisoned or they can&apos;t afford medical services.  And Bernie is the ONLY one in the race standing up against this outrage. I suppose the others just haven&apos;t noticed or think it would no longer trickle down and create jobs. And the GOP still wants austerity (cut cut cut basic services) and never ending subsidies for big oil and more military spending.  As long as we&apos;re united I guess we should blindly follow our &quot;leaders&quot; as they make our country great again with more of the same!</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912980,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>14</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912980,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+   <li id="comment-2109912916" class="comment byuser comment-author-600092860 even thread-even depth-1">
+   <article id="div-comment-2109912916" commentIDVal="2109912916" class="comment-body ">
+   		<div class="comment-content">
+					<b class="fn">Francis Louis Szot</b> <span class="says">says:</span>					<div class="comment-metadata">
+							<time datetime="2016-05-05T17:13:41+00:00">
+								May 5, 2016 at 5:13 pm							</time>
+											</div><!-- .comment-metadata -->
+										<p>Well, maybe someone should tell our “leaders” about this. Who will tell our “leaders”? If they only knew, we could “get something done”, and maybe even “make America great again”.</p>
+					<div class="ldc-cmt-box clearfix"><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912916,'c_like')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/up.png" alt="upimg"/>(<span>10</span>)</span><span class="ldc-ul_cont" onclick="alter_ul_post_values(this,2109912916,'c_dislike')" ><img src="http://www.thenation.com/wp-content/themes/thenation/images/down.png" alt="downimg"/>(<span>0</span>)</span></div>										
+													</div><!-- .comment-content -->
+
+				
+			</article>
+			
+</li><!-- #comment-## -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+					
+</div><!-- #comments -->			</div>
+					</footer>
+		<footer class="article-footer recirc-block">
+			<div class="footer-module full-width-mobile recirc-block">
+					<div class="recirc column" id="recirccol-211520">
+					<ul class="tag-browser">
+					 
+							<li><a name="election-2016" class="other" href="#">Election 2016</a></li>
+						 
+							<li><a name="taxes" class="other" href="#">Taxes</a></li>
+				 
+							<li><a name="panama-papers" class="other" href="#">Panama Papers</a></li>
+										
+					</ul>
+					<div class="recirc-carousel" id="recirccar-211520">
+														<ul id="election-2016" class="article-list">
+																		<li>
+										<time>Today 11:52 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/its-time-for-a-tea-party-of-the-left/">It’s Time For a Tea Party of the Left</a> <span class="author">
+																	By Waleed Shahid																		</span></h2>
+									</li>
+																		<li>
+										<time>Today 10:15 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/against-trump-clinton-should-resist-the-temptation-of-triangulation/">Against Trump, Clinton Should Resist the Temptation of Triangulation</a> <span class="author">
+																	By Katrina vanden Heuvel																		</span></h2>
+									</li>
+																	</ul>
+														<ul id="taxes" class="article-list">
+														<li>
+								<time>Apr 18, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/today-is-tax-day-are-corporations-paying-their-fair-share/">Today Is Tax Day—Are Corporations Paying Their Fair Share?</a> <span class="author">									By Michelle Chen								</span></h2>
+							</li>
+														<li>
+								<time>Apr 08, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/capitalist-deserter-pfizer-just-got-a-spanking/">Capitalist Deserter Pfizer Just Got a Spanking</a> <span class="author">									By William Greider								</span></h2>
+							</li>
+													</ul>
+												<ul id="panama-papers" class="article-list">
+														<li>
+								<time>Apr 18, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/today-is-tax-day-are-corporations-paying-their-fair-share/">Today Is Tax Day—Are Corporations Paying Their Fair Share?</a> <span class="author">									By Michelle Chen								</span></h2>
+							</li>
+														<li>
+								<time>Apr 12, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/the-welcome-rebellion-in-the-democratic-party/">The Welcome Rebellion in the Democratic Party</a> <span class="author">									By Katrina vanden Heuvel								</span></h2>
+							</li>
+													</ul>
+												
+					</div>
+				</div>
+				<style>
+.tout.footer.donate.GWWXRdCoMS{
+background: #cc0e0e !important;
+}
+.tout.footer.donate p{color: #ffffff !important;}
+.tout.footer.donate .btn{
+   border:3px solid #ffffff !important;
+   color: #ffffff !important;
+   background: #cc0e0e !important;
+}
+.tout.footer.donate .btn:hover{
+   background:#ffffff !important;
+   color:#cc0e0e !important;
+}
+</style>
+<div class="tout footer donate column GWWXRdCoMS">
+   <div class="donate-wrapper">
+             <p>“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+</p>
+            <div class="donate-grid"><a href="https://ssl.palmcoastd.com/06601/apps/ANNIVERSARY2?ikey=I**RR2" target="_blank" class="btn">Subscribe to The Nation</a></div>   </div>
+</div>
+							</div>
+		</footer>
+		</article>
+
+
+<script type="text/javascript">
+  //  googletag.cmd.push(function() {
+  //  googletag.defineSlot('/1004953/tn_article_leaderboard_2', [728, 90], 'div-gpt-ad-1428494597034-0').
+  //  setTargeting("test","infinitescroll").
+  //  addService(googletag.pubads());
+  //
+  // // Infinite scroll requires SRA
+  // googletag.pubads().enableSingleRequest();
+  //
+  // // Disable initial load, we will use refresh() to fetch ads.
+  // // Calling this function means that display() calls just
+  // // register the slot as ready, but do not fetch ads for it.
+  // googletag.pubads().disableInitialLoad();
+  //
+  // // Enable services
+  // googletag.enableServices();
+  //});
+    
+  
+ // Function to generate unique names for slots
+ var nextSlotId = 1;
+ function generateNextSlotName() {
+   var id = nextSlotId++;
+   return 'adslot' + id;
+ }
+	var nextSlotIdSide = 1;
+	function generateNextSlotNameSide() {
+	  var idSide = nextSlotIdSide++;
+	  return 'slotSide' + idSide;
+	}
+
+</script>
+	
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+   //googletag.display('div-gpt-ad-1428494597034-0');
+});
+</script>
+	 <div id="ad-interarticle"   class="ad full-width interarticle position-relative">
+		<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+		<div id="div-gpt-ad-1428494597034-0"> 
+<!--     <script>
+        // Call display() to register the slot as ready
+        // and refresh() to fetch an ad.
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-1428494597034-0');
+          googletag.pubads().refresh();
+        });
+     </script> 
+--> </div>
+	</div>
+	 <!--<div id='div-gpt-ad-1428494597034-0' class="push ad full-width leaderboard"></div>-->
+	
+	<a class="inifiniteLoader"><img src="http://www.thenation.com/wp-content/themes/thenation/images/infi_loader.gif" /></a>
+	</div>
+					</div><!-- article wrap -->
+	<!--<a class="goTop" title="Scroll Top"><img src="http://www.thenation.com/wp-content/themes/thenation/images/scroll_arrow.png" /></a>-->
+<!-- Including  Body content image in gallery -->
+	<!-- Including  Body content image in  gallery -->
+	<script>
+	       function runSlider(ele)
+	    {   
+			 ele.bxSlider({
+  adaptiveHeight: true,
+ adaptiveHeightSpeed: 500,
+  infiniteLoop: false,
+  hideControlOnEnd: false,
+  pager: false
+});
+return false;
+		}
+
+	   
+		 jQuery(document).ready(function(){
+		 var flag = false;
+		 $('section.article-body img').each(function() {
+		   
+			 if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 {
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+             if(flag)
+			{
+			 runSlider($('.gallery-2'));
+			}
+	});
+	</script>
+	<script>	
+jQuery(document).ready(function(){
+  $e = $('.article-body').children().last();   
+   $t = $e.prop("tagName");
+   var tagsArray = ['FORM','ASIDE'];
+   var anothertagsArray = {'UL':'li','OL':'li','BLOCKQUOTE':'p'};
+   if(jQuery.inArray($t, tagsArray )!='-1')
+   {} 
+   else
+   {    
+      if($t in anothertagsArray)
+      {
+         $('.article-body > p:last-of-type').toggleClass('changed');
+         $e.find(anothertagsArray[$t]+':last').addClass('redotclass');         
+      }    
+   }
+});
+jQuery(document).ready(function(){
+$('figure').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+   if($(this).hasClass('alignright')||$(this).hasClass('alignleft') || $(this).hasClass('aligncenter'))
+   { 
+     $(this).after('<div class="clear"></div>');
+	}
+	});
+
+	//jQuery('.click_comment').click(function(){
+	//			console.log("called     "+'#comments_211520' );
+	//		$( '#comments_211520' ).toggle();
+	//		$('html, body').animate({
+	//			scrollTop: $('#comments_211520').offset().top
+	//		},2000);
+	//		return false;
+	//	});
+});
+</script>
+	<script>// Scroll IF # id exist in URL
+	jQuery(document).ready(function($){
+	var url_id = window.location.hash.substr(1);
+	if(url_id!='')
+	{
+	var s = url_id;
+	var n = s.indexOf('/');
+	if(n!=''&& typeof n!= 'undefined')
+	{
+		var id_var = s.substring(0, n != -1 ? n : s.length);
+		//alert(id_var);
+		
+				$('html, body').animate({
+					scrollTop: $('#'+id_var).offset().top
+				},2000);
+				return false;
+			
+		}
+	}
+	});
+	</script>
+	
+	<script type="text/javascript">
+/*script to handle Back Button Event */
+var pageChange = 1;
+jQuery.noConflict();
+if(window.attachEvent) {
+    window.attachEvent('onpopstate', datHash);
+}
+function datHash(event)
+{
+	//event.preventDefault();
+	var str = $('#goback').val();
+	if(str=='')
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	else
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	return false;
+}
+/*script to handle Back Button Event */
+
+</script>
+<!--Alternate Popup code start-->
+<!--Alternate Popup code End--> 
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+	$('.post-edit-link').attr('href', function( _, action){
+    return action.replace('https', 'http');
+});
+    });
+
+jQuery(document).ready(function($) {
+	
+//	(function(window, undefined) {
+//    // Define variables
+//    var History = window.History,
+//        State = History.getState();
+//
+//    // Bind statechange event
+//    History.Adapter.bind(window, 'statechange', function() {
+//        var State = History.getState();
+//    });
+//	})(window);
+	
+	$('a.inifiniteLoader').hide();
+	var count = 1;
+	var loagAgn = false;
+	/*Script to handle Article Load Ajax*/
+	function loadArticle(pageNumber){
+		$('a.inifiniteLoader').show('fast');
+		$.ajax({
+		    url: "http://www.thenation.com/wp-admin/admin-ajax.php",
+		    type:'POST',
+			cache: false,
+			dataType: 'json',
+		    data: {action:'infinite_scroll',page_no: pageNumber, loop_file: 'articleload',slug:'banking,class,corporations,economics,economy,election-2016,elections,ethical-economics,executive-branch,finance,global-organizations,government,law,political-figures,politics,world,world-leaders',curr_post_id:'211520',baseInfo:'{"SERVER_SOFTWARE":"nginx\/1.8.1","REQUEST_URI":"\/article\/when-it-comes-to-taxes-donald-trump-and-hillary-clinton-have-one-thing-in-common\/","USER":"80f0f26fd1154ab5b51ad47f94135d18","HOME":"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18","FCGI_ROLE":"RESPONDER","QUERY_STRING":"","REQUEST_METHOD":"GET","CONTENT_TYPE":"","CONTENT_LENGTH":"","SCRIPT_NAME":"\/index.php","DOCUMENT_URI":"\/index.php","DOCUMENT_ROOT":"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/code","SERVER_PROTOCOL":"HTTP\/1.1","GATEWAY_INTERFACE":"CGI\/1.1","REMOTE_ADDR":"54.84.50.126","REMOTE_PORT":"21154","SERVER_ADDR":"10.223.145.104","SERVER_PORT":"12962","SERVER_NAME":"endpointd7026e54.chios.panth.io","REDIRECT_STATUS":"200","PATH_INFO":"","PATH_TRANSLATED":"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/code","HTTPS":"OFF","SCRIPT_FILENAME":"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/code\/\/index.php","HTTP_HOST":"www.thenation.com","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko\/20100101 Firefox\/45.0","HTTP_ACCEPT_ENCODING":"gzip","HTTP_ACCEPT_LANGUAGE":"en-US","HTTP_COOKIE":"has_js=1","HTTP_SURROGATE_CAPABILITY":"styx=\\\"ESI\/1.0\\\"","HTTP_USER_AGENT_HTTPS":"OFF","HTTP_VIA":"HTTP\/1.1 ECS (iad\/18D9)","HTTP_X_FORWARDED_FOR":"54.84.50.126, 198.7.24.217, 198.7.24.217","HTTP_X_FORWARDED_PROTO":"http","HTTP_X_HOST":"www.thenation.com","HTTP_X_PANTHEON_CLIENT_IP":"54.84.50.126","HTTP_X_PANTHEON_STYX":"1","HTTP_X_PROTO":"http:\/\/","HTTP_X_VARNISH":"30705894","PHP_SELF":"\/index.php","REQUEST_TIME_FLOAT":"1462895855.5426","REQUEST_TIME":"1462895855","PRESSFLOW_SETTINGS":"{\\\"conf\\\":{\\\"pressflow_smart_start\\\":true,\\\"pantheon_binding\\\":\\\"80f0f26fd1154ab5b51ad47f94135d18\\\",\\\"pantheon_site_uuid\\\":\\\"672ae238-dede-44f4-9243-89a591c2cc46\\\",\\\"pantheon_environment\\\":\\\"live\\\",\\\"pantheon_tier\\\":\\\"live\\\",\\\"pantheon_index_host\\\":\\\"18f9ce30-8984-49c6-a353-771e7a1a88ef-private.panth.io\\\",\\\"pantheon_index_port\\\":449,\\\"redis_client_host\\\":\\\"10.223.242.45\\\",\\\"redis_client_port\\\":10000,\\\"redis_client_password\\\":\\\"f7862bd887a04097b9c0c40dd322708a\\\",\\\"file_public_path\\\":\\\"sites\/default\/files\\\",\\\"file_private_path\\\":\\\"sites\/default\/files\/private\\\",\\\"file_directory_path\\\":\\\"sites\/default\/files\\\",\\\"file_temporary_path\\\":\\\"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/tmp\\\",\\\"file_directory_temp\\\":\\\"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/tmp\\\",\\\"css_gzip_compression\\\":false,\\\"js_gzip_compression\\\":false,\\\"page_compression\\\":false,\\\"error_level\\\":0},\\\"databases\\\":{\\\"default\\\":{\\\"default\\\":{\\\"host\\\":\\\"10.223.144.42\\\",\\\"port\\\":10000,\\\"username\\\":\\\"pantheon\\\",\\\"password\\\":\\\"b35cb8c7d81b4ff0a54a7af315773f96\\\",\\\"database\\\":\\\"pantheon\\\",\\\"driver\\\":\\\"mysql\\\"}}},\\\"drupal_hash_salt\\\":\\\"b444002d80740b3d94cc5e42e4945dbc224fd3134e65b580da60215ffe4c8bf3\\\",\\\"config_directory_name\\\":\\\"config\\\"}","FRAMEWORK":"wordpress","DOCROOT":"\/","FILEMOUNT":"wp-content\/uploads","AUTH_KEY":"VHpmJoHTr14kv2qyk4zD6NrSc3IqAUmZxtz0nUnwkNA=","SECURE_AUTH_KEY":"zuloHYH0e\/uwY8+VFQ\/rgob0NrMXhmIsg9ymhQ4uBTg=","LOGGED_IN_KEY":"2m+ff0Ly0rHeTX0y0XQjPbiJWgk2aCET7rTjb+zMW5c=","NONCE_KEY":"JMqPWPpuEU03WW4UaqSzKy1gkcWsavf\/LHKLgHKzusc=","AUTH_SALT":"Q7pT2rIMICgULXTEtMwYfknUKfI0Yaog3PBcoVMI7F8=","SECURE_AUTH_SALT":"a3AFHfpntT3bMHQ5x\/6oFBL2AUyT\/sRYoO2W8Zz5hws=","LOGGED_IN_SALT":"+gVdi3DCKSVclyPORyNbSyHp2Gx9F81RWiMAwMV3hGg=","NONCE_SALT":"JcwHG4IRUl\/DsS0Va2+Z15HXCQKQmnIsDS8mbPoP8w4=","CACHE_HOST":"10.223.242.45","CACHE_PORT":"10000","CACHE_PASSWORD":"f7862bd887a04097b9c0c40dd322708a","REPLICA_DB_HOST":"10.223.240.192","REPLICA_DB_PORT":"10000","REPLICA_DB_USER":"pantheon","REPLICA_DB_PASSWORD":"51bc58f755ba453a9c36b3f5794b3513","REPLICA_DB_NAME":"pantheon","DB_HOST":"10.223.144.42","DB_PORT":"10000","DB_USER":"pantheon","DB_PASSWORD":"b35cb8c7d81b4ff0a54a7af315773f96","DB_NAME":"pantheon","PANTHEON_INDEX_HOST":"10.223.96.36","PANTHEON_INDEX_PORT":"449","PANTHEON_SITE":"672ae238-dede-44f4-9243-89a591c2cc46","PANTHEON_SITE_NAME":"thenation","PANTHEON_ENVIRONMENT":"live","PANTHEON_INFRASTRUCTURE_ENVIRONMENT":"live","PATH":"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/bin:\/usr\/local\/bin:\/bin:\/usr\/bin:\/srv\/bin","PHPRC":"\/srv\/bindings\/80f0f26fd1154ab5b51ad47f94135d18\/php.ini"}'},
+		    success: function(receivedHTML){
+			if (typeof receivedHTML == 'object') 
+			{
+				if(typeof receivedHTML.html!=='undefined' && receivedHTML.html!='')
+				{
+					html = receivedHTML.html;
+				}
+			}
+			else
+			{
+				$('a.inifiniteLoader').hide();
+				$("#single_article_footer").show();
+			}
+			//html = receivedHTML.html;
+			$('a.inifiniteLoader').hide('1000');
+			$("#wrap").append(html);    // This will be the div where our content will be loaded
+			var postID = $($.parseHTML(html)).filter(".scrolltrace").attr('article-post-id');
+			
+			$('.abody-'+postID).children('p:first-of-type').html(function (i, html) {
+if ($('.abody-'+postID).children('img').length == "0") {
+var text = $('.abody-'+postID).children('p:first-of-type').html();
+$('.abody-'+postID).children('p:first-of-type').html(text.replace(/^(<.?>)?([A-Za-z0-9])/g,'$1<span class="dropcap">$2</span>'));
+}
+});        
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===false) 
+			{		  
+				/*for hiding meterpaywall popups when pixel ads call ends here*/
+				/****Alternate Popup code start*********/
+				var enable_alterpopup_check;
+				enable_alterpopup_check ='';
+				if(typeof(enable_alterpopup_check) != "undefined" && enable_alterpopup_check == 1) 
+				{ 
+					var alternate_article_no;
+					alternate_article_no = '';
+					if(pageCounterPaywall % alternate_article_no == 0 && pageCounterPaywall!=0)
+					{
+						show_lightbox('','');
+					}
+				}
+				/******Alternate Popup code End********/
+			}
+			pageCounterPaywall++;
+			ajaxCarousel(postID);
+			/** Slider Content **/
+			var flag = false;
+			$('section.article-body:last img').each(function() {
+			if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 { 
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+
+			 if(flag){
+			var k = $('section.article-body:last').find('.gallery-2').bxSlider({
+				  adaptiveHeight: true,
+				 adaptiveHeightSpeed: 500,
+				  infiniteLoop: false,
+				  hideControlOnEnd: false,
+				  pager: false
+				});
+			 k.reloadSlider();
+			 }
+			 /* Slider Content End */
+			 
+			 
+			 var usera = navigator.userAgent.toLowerCase(); 
+				if ($('.article-page').length) { 
+				var slickWidth = $('.article-list.slick-slide').width(); 
+				if ($('.ie9').length) 
+				{ slickWidth = $('.recirc-carousel.slick-initialized.slick-slider').width(); } 
+				$('.slick-list.draggable').css( 
+				{'width' : slickWidth} 
+				); 
+				if (!/android|webos|iphone|ipad|ipod|blackberry/i.test(usera)) { 
+				$('.article-list.slick-slide').children('li').css( 
+				{'width' : slickWidth} 
+				); 
+				$('.slick-list').css( 
+				{'width' : slickWidth} 
+				); 
+				} 
+				} 
+			 
+			 
+			 
+			 
+			 
+			 
+		    }
+		});
+	    return false;
+	}
+	
+
+	/*Script to handle Scroll*/
+	 $(window).bind('scroll', function() {
+		
+			$('.scrolltrace').each(function() {
+			   var post = $(this);
+			   var topp = post.position().top;
+			   var bott = post.position().top + post.height();
+			   var pos = $(window).scrollTop();
+			    if (pos>=topp && pos<=bott) {
+			       $(this).addClass('currentScr');
+			       if($('.currentScr').attr("articlelistlinks")!=window.location.href)
+				   {
+						var ua = window.navigator.userAgent;
+						var msie = ua.indexOf("MSIE ");
+
+						if (msie > 0){ 
+							
+						}else{
+								window.history.pushState({}, "", $('.currentScr').attr('articlelistlinks'));
+								load_article_ads();
+						}
+				   // Google Analytics  for Infinite Scroll
+					 ga('send', 'pageview', {
+								'page': $('.currentScr').attr('articlelistlinks'),
+								'title': $('.currentScr').attr('articlelisttitle')
+							});
+
+				    pSUPERFLY.virtualPage($('.currentScr').attr('articlelistlinks'), $('.currentScr').attr('articlelisttitle'));
+				$("nav.primary ul li.article-meta h2").html($('.currentScr').attr('articlelisttitle').substring(0,100));
+			       $("title").html($('.currentScr').attr('articlelisttitle'));
+						 
+						 
+						 var linktext = $('.currentScr').find(".anchor_subject").html();
+						 if (linktext!='') {
+						 var linkredirectval =$('.currentScr').find(".anchor_subject").attr('subjectlink');
+						 if(typeof linkredirectval!='undefined')
+						 {
+								var subject_head_link = "<a href='"+linkredirectval+"'>"+linktext+"</a>";
+								$('.tophead_subject').html(subject_head_link);
+						 }
+						 else
+						 {
+							 var subject_head_link = "";
+							$('.tophead_subject').html(subject_head_link);
+						 }
+							
+						 }
+			       
+			       pageChange = parseInt(pageChange) + 1;
+				   }
+				  /****** First ad beside title starts here ************/
+				   
+						   $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+							  if (i === 0 ) {
+								 if (isMobile.any()===null || isMobile.any()===undefined)
+								{
+									var mq = window.matchMedia( "(min-width: 1365px)" );
+								//console.log(mq.matches);
+									if (mq.matches===true) 
+									{ 
+											$(this).addClass('first-ad');
+											var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+											  $(this).css({
+												'top' : fullscreenPos,
+												'position': 'absolute',
+												'right': 85
+											  });
+										}
+								}
+							  }
+						});
+						$(window).bind('resize', function(e)
+							{
+						 $('.currentScr aside.right:not(.waypointed)').each(function(i) {
+						  if (i === 0) 
+						  {
+
+						  if (isMobile.any()===null || isMobile.any()===undefined)
+						{ 
+									$(this).removeClass('first-ad');
+									var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+									  $(this).css({
+										 'top': 'inherit',
+										'position': 'relative',
+										'right': 0
+									  });
+								
+							}
+							}
+						});
+						});	
+						 /****** First ad beside title ends here ************/
+				 }
+			   else
+			   {
+			       $(this).removeClass('currentScr');
+			   }
+		       });
+			
+		if ( typeof PaywallWorking !== 'undefined' && PaywallWorking == 'on' )
+     {
+        var loadPoint = false;
+        var loadPointElement = $('.scroll_handler:eq('+pageCounterPaywall+')').position();      
+        if (typeof loadPointElement!=="undefined")
+        {
+           loadPoint = loadPointElement.top;
+        }
+     }
+     else
+     {
+        //var loadPoint = $('.footer-module .article-share:last').position().top; 
+        //var loadPoint = $('footer.recirc-block:last').position().top;	
+        var loadPoint = $('.article-header .article-share:last').position().top;
+        //var loadPoint = $('section.article-body:last').position().top;
+     }
+	
+		if  (loadPoint!=false && $(window).scrollTop() > loadPoint)
+		{ if($('.scrolltrace').length==count)
+		  { { loagAgn = true;
+		      if(loagAgn)
+			  {
+			count++;
+		 if (count < 6) {
+			 if(preventLoad_article==false){
+								loadArticle(count);//code
+				
+				}		
+		 }
+		 if (count==6) {
+			$('a.inifiniteLoader').hide();
+			$("#single_article_footer").show();
+		 }
+		 loagAgn = false;
+			  }
+		   }
+		  
+		  }
+		}
+		
+//		 if($(this).scrollTop() > 100){
+//            $('.goTop').stop().animate({
+//                bottom: '20px'    
+//                }, 500);
+//        }
+//        else{
+//            $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//            }, 500);
+//        }
+	});
+	
+	/*Script to handle Scroll close*/	
+	 
+//	$('.goTop').click(function() {
+//        $('html, body').stop().animate({
+//           scrollTop: 0
+//        }, 500, function() {
+//           $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//           }, 500);
+//        });
+//    });
+	
+	 // Script for Comment Sec
+	 $('body').on('click','.click_comment',function(event){
+	   event.preventDefault();
+	   $(this).closest('.article-footer').find('.commentContainer').slideToggle('slow', function() {
+         if ($(this).css('display')=='none') {
+           check_comment = false;//condition added for print
+         }
+         else{
+            check_comment = true;//condition added for print
+         }			
+		});
+		 $('html, body').animate({
+				scrollTop: $($(this).closest('.article-footer').find('.commentContainer')).offset().top
+			},2000);
+	 });
+	 
+	var list;
+	$('body').on('click','a.comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	var comment_link_respond = $(this);		
+	comment_link_respond.closest('.comment-form').find('.comment-status').html('');
+	list = $(this).closest('article').attr('id');
+
+	var PIDS = list.split('-');
+	$(this).closest('.comments-area').find('.comment-respond').find('#comment_parent').val(PIDS[PIDS.length-1]);
+	
+	});
+	
+	$('body').on('click','.cancel-comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	list=null;
+	});
+	
+	
+	$('body').on('click','.submit',function(event){
+		event.preventDefault();
+		$( ".comment-status" ).remove();
+	var commentform=$(this).closest('.comment-form'); // find the comment  form
+	    commentform.prepend('<div class="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+        var statusdiv=commentform.find('.comment-status'); // define the infopanel
+				var checkspace = $(this).closest('.comment-form').find("textarea#comment").val();
+		if (checkspace.replace(/\s/g, '').length && $(this).closest('.comment-form').find("textarea#comment").val()!='') {
+			statusdiv.html(' ');
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Add a status message
+			//Extract action URL from commentform
+			var formurl=commentform.attr('action');
+			
+				statusdiv.html('<p>Processing...</p>');
+				 $(this).attr('disabled','disabled');
+				var e = $(this);
+				$.ajax({
+						type: 'post',
+						url: formurl,
+						data: formdata,
+					  error: function(XMLHttpRequest, textStatus, errorThrown)
+						{
+							statusdiv.html(' ');
+							 $('.submit').removeAttr('disabled');
+							statusdiv.html('<p class="error_cmnt" >You might have left one of the fields blank, or be posting too quickly</p>');
+						},
+						success: function(data, textStatus){
+							var chkstatus_comment = $($.parseHTML(data)).filter(".chk_comment_class").attr('comment-status');
+							
+								if (chkstatus_comment=='spam') {
+									statusdiv.html('<p class="error_cmnt" >You have been blocked from commenting by <i>The Nation\'s</i> moderators.</p>');
+								}
+								else{
+									$('.submit').removeAttr('disabled'); 
+									$("textarea#comment").val('');
+									statusdiv.html('<p class="success_cmnt" ></p>');
+									if(e.closest(".comments-area").has("ol.comment-list").length > 0){
+										if(list != null){
+											e.closest(".comments-area").find('#'+list).after(data);
+										}
+										else{
+											e.closest(".comments-area").find('ol.comment-list').prepend(data);
+										}
+									}
+									else{
+										e.closest(".comments-area").prepend('<ol class="comment-list custom_comments"> </ol>');
+										e.closest(".comments-area").find('ol.comment-list').html(data);
+									}
+							}
+						}
+						
+				});
+				return false;
+			statusdiv.html('');
+		}else{
+			statusdiv.html('<p class="error_cmnt" >Please enter text in comment box.</p>');
+		}
+        }); 
+});
+// Print functionality
+function tn_print_fn()
+{            
+    var tn_current_url=window.location.href;
+    if (check_comment == true) {
+       window.open(tn_current_url+'?print=1&comment=1','_blank');
+    }
+    else{
+       window.open(tn_current_url+'?print=1','_blank');
+    }
+    
+    return false;
+}
+</script>
+ 
+<script>
+function add_action_tout_sailthru(post_id)
+{
+ var ajaxurl=ajax_object.ajax_url;
+	var sailthru_email_take_action = document.getElementById('take_action_sailthru_email_'+post_id).value;
+	if(sailthru_email_take_action!='')
+	{
+			var take_action_sailthru_list_final = document.getElementById('take_action_sailthru_list_final_'+post_id).value;
+			var action_tout_sailthru='action_tout_sailthru';
+			jQuery.ajax({
+			url:ajaxurl,
+			type:"POST",
+			data:"sailthru_email_take_action="+sailthru_email_take_action+"&take_action_sailthru_list_final="+take_action_sailthru_list_final+"&action="+action_tout_sailthru,
+			success:function(data){
+			//alert(data);
+			document.getElementById('action_tout_response_'+post_id).innerHTML=data;
+			document.getElementById('take_action_sailthru_email_'+post_id).value='';
+			}
+			});
+	}
+	else
+	{
+	var error_msg='<span style="color:#cc0e0e">Please Enter Email</span>';
+	document.getElementById('action_tout_response_'+post_id).innerHTML=error_msg;
+	}
+}
+jQuery(document).ready(function(){
+jQuery( ".action_tout_remove_gallery a" ).removeClass( "gallery imgHover" ).delay( 1000 );
+});
+/**************** First ad beside title starts here ************/
+jQuery(document).ready(function(){
+jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+var mq = window.matchMedia( "(min-width: 1365px)" );
+if (mq.matches===true) 
+	{
+			$(this).addClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  $(this).css({
+				'top' : fullscreenPos,
+				'position': 'absolute',
+				'right': 85
+			  });
+		}
+	}
+	}
+});
+});
+jQuery(window).bind('resize', function(e)
+{
+ jQuery('aside.right:not(.waypointed)').each(function(i) {
+  if (i === 0) 
+  {
+
+  if (isMobile.any()===null || isMobile.any()===undefined)
+{
+			jQuery(this).removeClass('first-ad');
+			var fullscreenPos = $(this).parent().parent().find('.title').eq(0).position().top;
+			  jQuery(this).css({
+				 'top': 'inherit',
+				'position': 'relative',
+				'right': 0
+			  });
+		
+	}
+	}
+});
+});
+/**************** First ad beside title end here ************/
+</script>
+
+  <div id="show_light_box">
+</div>
+	</div>
+	</div>
+	<div id="single_article_footer" style="display: none">	<footer class="push">
+	<div class="row">
+	<div class="sitemap small-12 columns">
+		<div class="block home">
+			<h1 class="logo">
+					<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation"></a>
+				</h1>
+		</div>
+		<div class="block social">
+			<h2>Follow The Nation</h2>
+			<ul>
+				<li><a class="fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"></a></li>
+				<li><a class="tw" href="https://twitter.com/thenation" target="_blank"></a></li>
+				<li><a class="rs" href=" http://www.thenation.com/all-rss" target="_blank"></a></li>
+			</ul>
+			<h2>Get Email Updates</h2>
+			<p>Stay connected with everything Nation by signing up for our free daily newsletter. </p>
+			<div class="newsletter-signup">
+					<input type="email" class="newsletter-signup__email" id="newsletter_email" name="newsletter_email" required="required" placeholder="Email address">
+					<input type="button" id="newsletter_submit" value="" class="newsletter-signup__submit" />
+			</div>
+			
+			<div id="subscribe_newsletter"></div>
+		</div>
+		<div class="">
+			<aside id="nav_menu-5" class="widget widget_nav_menu block nation nav"><h2  class="expander"><a href="#">Sections</a></h2><div class="menu-footer-sections-container"><ul id="menu-footer-sections" class="menu"><li id="menu-item-119851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119851"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-119852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119852"><a href="http://www.thenation.com/world/">World</a></li>
+<li id="menu-item-119853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119853"><a href="http://www.thenation.com/economy/">Economy</a></li>
+<li id="menu-item-119850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119850"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115792" class="menu-item menu-item-type-taxonomy menu-item-object-subject current-article-ancestor menu-item-115792"><a href="http://www.thenation.com/subject/society/">Society</a></li>
+<li id="menu-item-116577" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-116577"><a href="http://www.thenation.com/subject/environment/">Environment</a></li>
+<li id="menu-item-119854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119854"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			   <aside id="nav_menu-4" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">The Nation</a></h2><div class="menu-footer-the-nation-container"><ul id="menu-footer-the-nation" class="menu"><li id="menu-item-116578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116578"><a title="About-us-and-contact" href="http://www.thenation.com/about-us-and-contact/">About</a></li>
+<li id="menu-item-178918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178918"><a href="http://www.thenation.com/advertise/">Advertise</a></li>
+<li id="menu-item-180633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180633"><a href="http://www.thenation.com/ebooks/">eBooks</a></li>
+<li id="menu-item-116581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116581"><a href="http://www.thenation.com/community-guidelines/">Comments Policy</a></li>
+<li id="menu-item-131108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131108"><a href="http://www.thenation.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-116583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116583"><a href="http://www.thenation.com/help/">Help</a></li>
+<li id="menu-item-178899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178899"><a href="http://www.thenation.com/jobs/">Jobs and Internships</a></li>
+<li id="menu-item-134910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134910"><a href="http://www.thenation.com/nation-builders/">Nation Builders</a></li>
+<li id="menu-item-179840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179840"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			  <aside id="nav_menu-3" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">Magazine</a></h2><div class="menu-footer-magazine-container"><ul id="menu-footer-magazine" class="menu"><li id="menu-item-134664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134664"><a href="http://www.thenation.com/issue/">Current Issue</a></li>
+<li id="menu-item-134728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134728"><a href="http://www.thenation.com/masthead/">Masthead</a></li>
+<li id="menu-item-116587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116587"><a href="http://www.thenation.com/archive/">Archive</a></li>
+<li id="menu-item-134846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134846"><a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a></li>
+<li id="menu-item-134847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134847"><a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a></li>
+<li id="menu-item-134727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134727"><a href="http://www.thenation.com/subscription-services/">Subscription Services</a></li>
+<li id="menu-item-134733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134733"><a href="http://www.thenation.com/events/">Events</a></li>
+<li id="menu-item-179839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179839"><a href="http://www.thenationreprints.com/">Reprints</a></li>
+</ul></div></div></aside>		</div>
+	</div>
+		<div class="copyright row">
+		<div class="small-12 columns">
+			<p>Copyright (c) 2016 The Nation Company LLC</p>
+		</div>
+	</div>
+	</footer>
+</div>
+
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script src='http://www.thenation.com/wp-content/plugins/tn-paywall/inc/js/paywall.js'></script><link rel='stylesheet' id='dashicons-css'  href='http://www.thenation.com/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.thenation.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.thenation.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/Magzine_issue_ajax.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/light_box.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/all.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/modernizr.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/comments_js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.thenation.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/pcd_login_popup.js?ver=4.2.4'></script>
+<script>
+function susbcribe_sailthru(form_value){        
+   var newsletterArray = new Array();var firstname ='';var lastname ='';var zippostal ='';var user_email ='';
+   jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         firstname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         lastname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         zippostal = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="email") {
+         user_email = jQuery(this).val();
+      }     
+   });
+   
+   jQuery(form_value).closest("form").find("input[name^='sft_newssletter_variables']").each(function() {
+      newsletterArray.push(jQuery(this).attr("id"));         
+   });      
+   var newsletter_variable=newsletterArray.join(",");
+   var origin_host=document.location.origin;
+  // console.log(firstname);
+   //console.log(lastname);
+  // console.log(zippostal);
+   //console.log(user_email);
+  //myWindow= window.open(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,"form_popup","width=400,height=400");
+ PopupCenter(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,'xtf','300','300');
+   //console.log(newsletterArray.join(","));
+  jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="email") {
+         jQuery(this).val('');
+      }     
+   });
+}  
+function PopupCenter(url, title, w, h) {
+    // Fixes dual-screen position                         Most browsers      Firefox
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    // Puts focus on the newWindow
+    if (window.focus) {
+        newWindow.focus();
+    }
+	setTimeout(function () { newWindow.close();}, 5000);
+}
+
+</script>
+<script type="text/javascript"  src="http://www.thenation.com/wp-content/themes/thenation/js/jquery.bxslider.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"442438c9d9","applicationID":"5436353","transactionName":"Z1JSYkYACEsAV0cKXV4YZURdTklRD1BWGxxAX0A=","queueTime":0,"applicationTime":1218,"ttGuid":"","agentToken":"","atts":"SxVRFA4aG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

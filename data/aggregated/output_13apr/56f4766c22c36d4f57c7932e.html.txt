@@ -1,0 +1,157 @@
+
+	248
+      
+
+By
+
+Corey Charlton for MailOnline
+
+
+
+Published:
+  07:38 EST, 24 March 2016
+
+ | 
+Updated:
+  13:21 EST, 24 March 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3507691',
+                    'title': 'Devout Christians across the world celebrate Easter',
+                    'url': 'http://www.dailymail.co.uk/news/article-3507691/Devout-Christians-world-celebrate-Easter-resurrection-Jesus-Christ-bloody-enactments-violent-whipping-candlelight-vigils.html',
+                    'eTwitterStatus': ' http://dailym.ai/1LJoAk3 via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+248
+shares
+
+ 
+         146
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+         146
+
+View  comments
+
+Re-enactments of the crucifixion of Jesus, violent flagellation ceremonies and parades and pilgrimages are among the spectacular and deeply religious ceremonies taking place across Christian communities this week.
+
+Held to mark the beginning of Easter, the celebrations across the globe all take on varying forms according to local Christian customs and ancient traditions.
+
+In the Philippines, Roman Catholics have been photographed prostrating in front of a chapel as they are whipped in their annual ceremony flagellation ceremony.
+
+The capital Manila is also hosting street plays featuring actors playing the role of a tortured Jesus Christ and Roman soldiers in the deeply observant Christian country.
+
+
+
+
+
+Believers around the world mark the Holy Week of Easter in celebration of the crucifixion and resurrection of Jesus Christ, according to the New Testament.
+
+Roman Catholics prostrate in front of a chapel while still bearing the wounds caused by a bloody flagellation ceremony in Manila
+
+Hooded penitents wait for their turn to have their back wounds cleaned after the ceremony in the Philippines today
+
+An actor playing the role of Jesus Christ makes his way through the the streets of Manila during the city's Holy Week celebrations
+
+Covered in blood and carrying a tunic, he was whipped by actors playing Roman soldiers during the religious re-enactment
+
+There ceremony known as Cristo de las Injurias, or the Silent Procession, in Zamora, Spain sees its 2,300 members swear to keep silent in the city's cathedral
+
+The penitents from the one of the city's Christian brotherhoods stand in formation with hoods and candles in the spectacular ceremony
+
+The silent ceremony makes its way through the city streets in Zamora as the city celebrated the Holy Week of Easter
+
+In nearby Alicante, an effigy of Jesus Christ nailed to the cross is carried through the city streets at night
+
+Two members of theÂ Cofradia de los Universitarios brotherhood in Granada take part in the deeply religious procession
+
+Catholics in Jalisco, Mexico, take part in the 400-year-old ceremony known as 'The Bath of the Christ'
+
+The pilgrimage involves a march during which members tend to an effigy of Jesus Christ lying bloodied on the cross
+
+A man watches the ceremony take part during the week Holy Week - which runs for one week worldwide up until Easter Sunday
+
+The bloody effigy of Jesus Christ was watched by hundreds as it was carried through the streets of the city
+
+Catholic faithful participate in the pilgrimage known as 'The Bath of the Christ' in the municipality of San Martin de Hidalgo
+
+In Costa Rica, Catholics tied coloured tape to a statue of Jesus inside the San Antonio de Padua Church
+
+The taping ceremony forms the beginning of the procession known as 'Jesus Nazareno of the Tapes'
+
+Penitents on their knees carrying the 'Christ tied to the column' during the Holy Week procession in Alcala de Henares near Madrid
+
+Dressed in their burgundy capes with hoods, the 'Santa Veracruz' brotherhood mark Holy Week in northern Spain
+
+Penitents of the 'Cristo de las Injurias' brotherhood wait inside a church before they take part in the 'Procesion del Silencio'
+
+This lantern-holding group parade through Calahorra, Spain, as millions of people around the world mark the Holy Week
+
+Hooded people march through the streets as part of Holy Week in Calahorra, northern Spain, yesterdayÂ 
+
+Penitents play the drums as they take part in the procession of the 'Santa Veracruz' brotherhood
+
+Hundreds of processions take place throughout Spain during the Easter Holy Week
+
+Masked penitents take part in the procession of the 'Santa Veracruz' brotherhood, during Holy Week in Calahorra, northern Spain
+
+Pope Francis blows inside an amphora containing holy oil during a mass in St Peter's Basilica at the Vatican today
+
+Pope Francis holds the famous Book of the Gospels during the Chrism Mass in the Vatican today
+
+Resonates pics of the Shia Muslims DM printed recen...
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

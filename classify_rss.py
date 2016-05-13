@@ -138,8 +138,8 @@ for i in array:
             print predicted
 print "The number of input documents is ", len(array)
 print "The number of test results is ", len(pred_arry)
-# print array[10]
-# print pred_arry[10]
+print array[10]
+print pred_arry[10]
 
-# for doc, category in zip(docs_new, predicted):
-#     print('%r => %s' % (doc, category))
+for doc, category in zip(docs_new, predicted):
+    print('%r => %s' % (doc, category))

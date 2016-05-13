@@ -1,0 +1,271 @@
+
+
+ (Shutterstock)
+
+We have a pretty good idea of what climate change will do to the landscape: melt it, flood it, tear it up in freak superstorms, turn it into desert. But what will climate change do to us—to our bodies and minds? 
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-208369-0','tn_environment_environmental_issues_ros_halfpage_1','tn_environment_environmental_issues_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+On Monday, the White House released a major report that tries to answer that question, drawing on research from eight federal agencies. The coming health crisis it describes is ugly, and wide ranging. An extra 11,000 premature deaths each year by 2030 from extreme heat waves; babies born too early, and too small; millions of children struggling to breathe because of rising pollution, ground-level ozone, allergens, and wildfire smoke; the spread of mosquito-born infections like West Nile virus and waterborne pathogens like Legionnaire’s disease; food contaminated with salmonella and E.coli, or leached of its nutrients, as rising carbon dioxide levels lowers the concentration of protein and essential minerals in wheat, rice, potatoes, and other crops. 
+
+
+							After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often.
+						
+ 
+Even more startling are the report’s projections of how climate change will affect our brains. “Mental health consequences of climate change range from minimal stress and distress symptoms to clinical disorders, such as anxiety, depression, post-traumatic stress, and suicidal thoughts,” the report reads. It draws on a body of evidence linking the experience of extreme weather events, displacement, and other environmental degradation to mental illness. Even just hearing about climate change on the news, or reading reports like this one, can cause anxiety.
+After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often as they had before. Alcohol consumption shot up. Women who’d lost their homes in the storm and had to live in temporary housing tried to kill themselves almost 80 percent more often than women nationally. Women who lived through the Katrina while pregnant had higher rates of PTSD and postpartum depression than other pregnant women who hadn’t experienced the storm. Similar effects have been reported after other disasters: In 1992, after Hurricane Andrew hit Miami-Dade county, the rate of suicide-homicide there doubled. 
+
+
+							Heat waves have been linked to an increased risk of suicide, as well as to aggression and violence.
+						
+ 
+Heat waves have also been linked to an increased risk of suicide, as well as to aggression and violence. “There is potential for increases in human conflict” due to rising temperatures, the report warns, though “the causal linkages between climate change and conflict are complex and the evidence is still emerging.” And even slower-paced climactic shifts can have profound psychological impacts. For instance, long-term drought in Australia has been linked to a suicide spike among male farmers. In Brazil, residents of a drought-stricken city had higher rates of stress and anxiety than people living in areas with plenty of water. Researchers have even found associations between exposure to air pollution and suicide attempts. 
+Sometimes the mental health effects may surface as a consequence of other climate-driven illnesses or infections. West Nile virus and Lyme disease, which often causes long-term pain and fatigue, can lead to depression, and can impair cognitive and neurological function. Iron deficiencies and other forms of malnutrition, which are expected to rise as changing weather patterns affect food production, can cause depression, particularly in children. 
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+On Monday, the White House released a major report that tries to answer that question, drawing on research from eight federal agencies. The coming health crisis it describes is ugly, and wide ranging. An extra 11,000 premature deaths each year by 2030 from extreme heat waves; babies born too early, and too small; millions of children struggling to breathe because of rising pollution, ground-level ozone, allergens, and wildfire smoke; the spread of mosquito-born infections like West Nile virus and waterborne pathogens like Legionnaire’s disease; food contaminated with salmonella and E.coli, or leached of its nutrients, as rising carbon dioxide levels lowers the concentration of protein and essential minerals in wheat, rice, potatoes, and other crops. 
+
+
+							After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often.
+						
+ 
+Even more startling are the report’s projections of how climate change will affect our brains. “Mental health consequences of climate change range from minimal stress and distress symptoms to clinical disorders, such as anxiety, depression, post-traumatic stress, and suicidal thoughts,” the report reads. It draws on a body of evidence linking the experience of extreme weather events, displacement, and other environmental degradation to mental illness. Even just hearing about climate change on the news, or reading reports like this one, can cause anxiety.
+After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often as they had before. Alcohol consumption shot up. Women who’d lost their homes in the storm and had to live in temporary housing tried to kill themselves almost 80 percent more often than women nationally. Women who lived through the Katrina while pregnant had higher rates of PTSD and postpartum depression than other pregnant women who hadn’t experienced the storm. Similar effects have been reported after other disasters: In 1992, after Hurricane Andrew hit Miami-Dade county, the rate of suicide-homicide there doubled. 
+
+
+							Heat waves have been linked to an increased risk of suicide, as well as to aggression and violence.
+						
+ 
+Heat waves have also been linked to an increased risk of suicide, as well as to aggression and violence. “There is potential for increases in human conflict” due to rising temperatures, the report warns, though “the causal linkages between climate change and conflict are complex and the evidence is still emerging.” And even slower-paced climactic shifts can have profound psychological impacts. For instance, long-term drought in Australia has been linked to a suicide spike among male farmers. In Brazil, residents of a drought-stricken city had higher rates of stress and anxiety than people living in areas with plenty of water. Researchers have even found associations between exposure to air pollution and suicide attempts. 
+Sometimes the mental health effects may surface as a consequence of other climate-driven illnesses or infections. West Nile virus and Lyme disease, which often causes long-term pain and fatigue, can lead to depression, and can impair cognitive and neurological function. Iron deficiencies and other forms of malnutrition, which are expected to rise as changing weather patterns affect food production, can cause depression, particularly in children. 
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+
+							After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often.
+						
+
+
+Even more startling are the report’s projections of how climate change will affect our brains. “Mental health consequences of climate change range from minimal stress and distress symptoms to clinical disorders, such as anxiety, depression, post-traumatic stress, and suicidal thoughts,” the report reads. It draws on a body of evidence linking the experience of extreme weather events, displacement, and other environmental degradation to mental illness. Even just hearing about climate change on the news, or reading reports like this one, can cause anxiety.
+After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often as they had before. Alcohol consumption shot up. Women who’d lost their homes in the storm and had to live in temporary housing tried to kill themselves almost 80 percent more often than women nationally. Women who lived through the Katrina while pregnant had higher rates of PTSD and postpartum depression than other pregnant women who hadn’t experienced the storm. Similar effects have been reported after other disasters: In 1992, after Hurricane Andrew hit Miami-Dade county, the rate of suicide-homicide there doubled. 
+
+
+							Heat waves have been linked to an increased risk of suicide, as well as to aggression and violence.
+						
+ 
+Heat waves have also been linked to an increased risk of suicide, as well as to aggression and violence. “There is potential for increases in human conflict” due to rising temperatures, the report warns, though “the causal linkages between climate change and conflict are complex and the evidence is still emerging.” And even slower-paced climactic shifts can have profound psychological impacts. For instance, long-term drought in Australia has been linked to a suicide spike among male farmers. In Brazil, residents of a drought-stricken city had higher rates of stress and anxiety than people living in areas with plenty of water. Researchers have even found associations between exposure to air pollution and suicide attempts. 
+Sometimes the mental health effects may surface as a consequence of other climate-driven illnesses or infections. West Nile virus and Lyme disease, which often causes long-term pain and fatigue, can lead to depression, and can impair cognitive and neurological function. Iron deficiencies and other forms of malnutrition, which are expected to rise as changing weather patterns affect food production, can cause depression, particularly in children. 
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+After Hurricane Katrina, New Orleans residents thought of suicide or made plans for it more than twice as often as they had before. Alcohol consumption shot up. Women who’d lost their homes in the storm and had to live in temporary housing tried to kill themselves almost 80 percent more often than women nationally. Women who lived through the Katrina while pregnant had higher rates of PTSD and postpartum depression than other pregnant women who hadn’t experienced the storm. Similar effects have been reported after other disasters: In 1992, after Hurricane Andrew hit Miami-Dade county, the rate of suicide-homicide there doubled. 
+
+
+							Heat waves have been linked to an increased risk of suicide, as well as to aggression and violence.
+						
+ 
+Heat waves have also been linked to an increased risk of suicide, as well as to aggression and violence. “There is potential for increases in human conflict” due to rising temperatures, the report warns, though “the causal linkages between climate change and conflict are complex and the evidence is still emerging.” And even slower-paced climactic shifts can have profound psychological impacts. For instance, long-term drought in Australia has been linked to a suicide spike among male farmers. In Brazil, residents of a drought-stricken city had higher rates of stress and anxiety than people living in areas with plenty of water. Researchers have even found associations between exposure to air pollution and suicide attempts. 
+Sometimes the mental health effects may surface as a consequence of other climate-driven illnesses or infections. West Nile virus and Lyme disease, which often causes long-term pain and fatigue, can lead to depression, and can impair cognitive and neurological function. Iron deficiencies and other forms of malnutrition, which are expected to rise as changing weather patterns affect food production, can cause depression, particularly in children. 
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+
+							Heat waves have been linked to an increased risk of suicide, as well as to aggression and violence.
+						
+
+
+Heat waves have also been linked to an increased risk of suicide, as well as to aggression and violence. “There is potential for increases in human conflict” due to rising temperatures, the report warns, though “the causal linkages between climate change and conflict are complex and the evidence is still emerging.” And even slower-paced climactic shifts can have profound psychological impacts. For instance, long-term drought in Australia has been linked to a suicide spike among male farmers. In Brazil, residents of a drought-stricken city had higher rates of stress and anxiety than people living in areas with plenty of water. Researchers have even found associations between exposure to air pollution and suicide attempts. 
+Sometimes the mental health effects may surface as a consequence of other climate-driven illnesses or infections. West Nile virus and Lyme disease, which often causes long-term pain and fatigue, can lead to depression, and can impair cognitive and neurological function. Iron deficiencies and other forms of malnutrition, which are expected to rise as changing weather patterns affect food production, can cause depression, particularly in children. 
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+Sometimes the mental health effects may surface as a consequence of other climate-driven illnesses or infections. West Nile virus and Lyme disease, which often causes long-term pain and fatigue, can lead to depression, and can impair cognitive and neurological function. Iron deficiencies and other forms of malnutrition, which are expected to rise as changing weather patterns affect food production, can cause depression, particularly in children. 
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+Climate change also makes it harder to treat those same mental health problems. Superstorms can damage hospitals and prevent first responders from doing their jobs. Some of the medication prescribed for depression, insomnia, anxiety disorders, and other psychological issues affect the way bodies regulate temperature, which means that they can become risky in cold snaps or heat waves. A quarter of the people who died during a heat wave in Wisconsin in 2012 were taking medication to treat a mental illness.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_208369			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+The psychological impact of hurricanes, drought, and other climate-related damage builds cumulatively, explains the White House report, such that people living in areas vulnerable to repeated storm damage,—often poor people of color— or people with a history of mental illness and PTSD, experience more profound psychological effects. The report identifies children, the elderly, the homeless, pregnant women, and indigenous communities with a “close connection” to their environment as being at particular risk.				
+					
+					
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+The report is intended to shore up support for the Paris climate agreement and for the Clean Power Plan, which has been challenged in court. It certainly speaks to the need for more urgent action by political leaders. But the mental health chapter offers a compelling reason for the rest of us to get involved with the climate movement, too, or to work on adaptation projects: There’s some evidence that doing so can be a buffer against climate-related anxiety and stress. Though the research is still emerging, “such engagement both addresses the threat and helps manage the emotional responses as people come to terms with—and adjust their understandings and lives in the context of—climate change.”
+
+
+ Zoë Carpenter
+Twitter
+ Zoë Carpenter is The Nation’s associate Washington editor.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

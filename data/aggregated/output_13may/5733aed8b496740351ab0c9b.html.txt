@@ -1,0 +1,163 @@
+
+	525
+      
+
+By
+
+Siofra Brennan For Mailonline
+
+
+
+Published:
+  04:56 EST, 11 May 2016
+
+ | 
+Updated:
+  11:03 EST, 11 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'Femail';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3584353',
+                    'title': 'Calvin Klein is blasted for ad showing an upskirt picture of a model',
+                    'url': 'http://www.dailymail.co.uk/femail/article-3584353/Calvin-Klein-blasted-underwear-ad-showing-upskirt-picture-model.html',
+                    'eTwitterStatus': ' http://dailym.ai/1rUvDNm via @' + twitterVia,
+                    'articleChannelFollowButton': 'Femail',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+525
+shares
+
+ 
+         438
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+         438
+
+View  comments
+
+Their racy underwear ads starring Kendall Jenner have already grabbed attention, but Calvin Klein's latest offering is grabbing attention on social media for the wrong reasons.
+
+The advert featuring Danish actress Klara Kristen, 22, features an upskirt shot that shows off her spotty underwear, inner thighs and buttocks with the caption: 'I flash in #mycalvins'.
+
+However, the racy image has been branded creepy, sexist and 'fodder for paedophiles' since the design house posted it to Instagram yesterday. 
+
+Scroll down for video 
+
+Calvin Klein's latest underwear ad featuring an upskirt shot of actress Klara Kristin has caused controversy after being posted to Instagram with followers branding it 'creepy' and sexist 
+
+Mail Online has contacted Calvin Klein for comment.
+
+Although actress Klara is in her twenties, followers argued that the ad make her look a lot younger.
+
+X_reloved_x commented: 'This is really off. What is Calvin Klein advertising in this her spotty undies?? She looks more like a 12-year-old. Good picture for paedophiles.'
+
+Hybridsymphony agreed with their argument, saying: 'Misogynistic rubbish bordering on peadophilia. Gross. Some disturbed old guys wet dream. 
+
+
+
+X_reloved_x was upset by the ad, saying it made the actress look a lot younger than her 22 years 
+
+Hybridsymphony agreed the actress looked younger and branded the ad 'misogynistic rubbish.'
+
+Hybridsymphony posted a long rant in response to another user who didn't understand what the problem with the ad was
+
+Grxcelefeuvre replied to support Hybridsymphony's point saying she felt sickened by the photo shoot 
+
+'I'm so sick of advertisers doing this. Parading teenage girls as sex symbols and advertising women's stuff in overtly sexualised ways.'
+
+In response to another user who didn't understand what she problem with the ad was, she explained: 'It's making out that she's a young teen girl. That's THE POINT. 
+
+'The message is one of misogyny, disrespect and patriarchal pseudo-paedophillia. I object to that. It weakens society and panders to mental illness. This brand can do better so there's no excuse.'
+
+ 
+
+ 
+
+
+
+
+
+The ad was branded 'unnecessary' by several followers who felt it showed too much 
+
+Grxcelefeuvre replied to support Hybridsymphony's point. 
+
+'I feel the same as you. It's quite sickening that companies do photo shoots like this,' she said. 
+
+Xxsighhalexa, however, was a dissenting voice in the argument. 
+
+'No girl, you're slut shaming,' she said. 'This grown ass woman consented to this photo shoot and has every right to do it.'
+
+
+
+
+
+
+
+Erila_laI'm was not impressed however, saying they were no prude but the ad is 'ridiculous', while Nicolalondon said it was 'disgusting and unnecessary', adding she would be unfollowing Calvin Klein. 
+
+Truu_lover1219 agreed that the ad was a 'little too much' and that it showed more than people wanted to see.  
+
+Meanwhile Anna_marie_94 wrote: 'Wtf? This is a really strange and unnecessary advertisement.'
+
+Cutecurlycat had strong words, saying the ad was 'so wrong' and 'so creepy'.
+
+
+
+'This isn't cutting edge, or innovative or directional or anything else you're trying to tell yourselves in the marketing department,' she said. 'It smacks of desperation.'
+
+Larsonmark branded the racy ad 'distasteful' and Eishamarie89 added: 'Way to make everyone following CK a sexual predator.'
+
+Aybuke.gumus was yet another who branded the ad 'creepy' while l0vezen added: 'Upskirt is a porn category!'
+
+
+                                	Share what you think
+                                
+
+The comments below have been moderated in advance.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

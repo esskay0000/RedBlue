@@ -1,0 +1,446 @@
+
+
+Donald Trump in the spin room after the February 13, 2016, CBS News Republican presidential debate in Greenville, South Carolina. (AP Photo / Rainier Ehrhardt)
+
+âI donât know. What do I know about it? All I know is whatâs on the Internet,â announced Donald Trump on Meet the Press last month. He was attempting to excuse his false assertion that a protester at one of his rallies âhad ties to ISIS.â It was certainly a startling assertion, at least to me, bookish woman of the writerly profession that I am. Of course, everything that man says startles meâbut this time it made me think about the general status of knowing, knowledge, and its online production.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-210199-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+The Internet is hardly the first technology of information transmission to be suspect. In Phaedrus, Plato described the Egyptian king Thamus and his suspicion of the written word. Thamus feared that writing was untrustworthy because it âwill create forgetfulness in the learnersâ souls, because they will not use their memoriesâ¦and you give your disciples not truth, but only the semblance of truth; they will be hearers of many things and will have learned nothing; they will appear to be omniscient and will generally know nothing; they will be tiresome company, having the show of wisdom without the reality.â				
+			
+
+							“Google it,” the young man said. “I’m telling you the truth.” But Google truth is highly situational and epistemically fluid.
+						
+ 
+I was thinking about all this because I was sitting on a train not long ago amid a group of exuberant young millennials. They were discussing religion and the election, including the influence of evangelicism in American politics. By general consensus, they couldnât understand what motivated people to attend a mega-church whose minister owned a private jet. Then one young man piped up: âBut the head of the Roman Catholic Church makes more money than any of them.â In fact, he continued, âthe pope makes $200 million annually as his personal salaryâ¦. It goes into his personal bank account, and he can do with it exactly as he wants. Heâs got all these homes and palaces, and heâs invested in all kinds of real estateâ¦â				
+					
+					
+Ordinarily, Iâm loath to intrude upon conversations between strangers, but for once I couldnât restrain myself. âAhem?â I offered by way of introduction. âThe pope takes a vow of poverty. He arrived at the job with two pairs of shoes. He does not receive a personal salary of $200 million a year.â				
+					
+					
+The young manâs response was: âGoogle it. Iâm telling you the truth.â				
+					
+					
+I didnât doubt my facts. Even so, I did Google itâand he was right. Still wrong, but also right, in that the first thing that came up when I searched on the phrase âpopeâs salaryâ was this: âPopeâs Personal Income: $200 Million Annually.â				
+					
+					
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+The Internet is hardly the first technology of information transmission to be suspect. In Phaedrus, Plato described the Egyptian king Thamus and his suspicion of the written word. Thamus feared that writing was untrustworthy because it âwill create forgetfulness in the learnersâ souls, because they will not use their memoriesâ¦and you give your disciples not truth, but only the semblance of truth; they will be hearers of many things and will have learned nothing; they will appear to be omniscient and will generally know nothing; they will be tiresome company, having the show of wisdom without the reality.â				
+			
+
+							“Google it,” the young man said. “I’m telling you the truth.” But Google truth is highly situational and epistemically fluid.
+						
+ 
+I was thinking about all this because I was sitting on a train not long ago amid a group of exuberant young millennials. They were discussing religion and the election, including the influence of evangelicism in American politics. By general consensus, they couldnât understand what motivated people to attend a mega-church whose minister owned a private jet. Then one young man piped up: âBut the head of the Roman Catholic Church makes more money than any of them.â In fact, he continued, âthe pope makes $200 million annually as his personal salaryâ¦. It goes into his personal bank account, and he can do with it exactly as he wants. Heâs got all these homes and palaces, and heâs invested in all kinds of real estateâ¦â				
+					
+					
+Ordinarily, Iâm loath to intrude upon conversations between strangers, but for once I couldnât restrain myself. âAhem?â I offered by way of introduction. âThe pope takes a vow of poverty. He arrived at the job with two pairs of shoes. He does not receive a personal salary of $200 million a year.â				
+					
+					
+The young manâs response was: âGoogle it. Iâm telling you the truth.â				
+					
+					
+I didnât doubt my facts. Even so, I did Google itâand he was right. Still wrong, but also right, in that the first thing that came up when I searched on the phrase âpopeâs salaryâ was this: âPopeâs Personal Income: $200 Million Annually.â				
+					
+					
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+
+							“Google it,” the young man said. “I’m telling you the truth.” But Google truth is highly situational and epistemically fluid.
+						
+
+
+I was thinking about all this because I was sitting on a train not long ago amid a group of exuberant young millennials. They were discussing religion and the election, including the influence of evangelicism in American politics. By general consensus, they couldnât understand what motivated people to attend a mega-church whose minister owned a private jet. Then one young man piped up: âBut the head of the Roman Catholic Church makes more money than any of them.â In fact, he continued, âthe pope makes $200 million annually as his personal salaryâ¦. It goes into his personal bank account, and he can do with it exactly as he wants. Heâs got all these homes and palaces, and heâs invested in all kinds of real estateâ¦â				
+					
+					
+Ordinarily, Iâm loath to intrude upon conversations between strangers, but for once I couldnât restrain myself. âAhem?â I offered by way of introduction. âThe pope takes a vow of poverty. He arrived at the job with two pairs of shoes. He does not receive a personal salary of $200 million a year.â				
+					
+					
+The young manâs response was: âGoogle it. Iâm telling you the truth.â				
+					
+					
+I didnât doubt my facts. Even so, I did Google itâand he was right. Still wrong, but also right, in that the first thing that came up when I searched on the phrase âpopeâs salaryâ was this: âPopeâs Personal Income: $200 Million Annually.â				
+					
+					
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+Ordinarily, Iâm loath to intrude upon conversations between strangers, but for once I couldnât restrain myself. âAhem?â I offered by way of introduction. âThe pope takes a vow of poverty. He arrived at the job with two pairs of shoes. He does not receive a personal salary of $200 million a year.â				
+					
+					
+The young manâs response was: âGoogle it. Iâm telling you the truth.â				
+					
+					
+I didnât doubt my facts. Even so, I did Google itâand he was right. Still wrong, but also right, in that the first thing that came up when I searched on the phrase âpopeâs salaryâ was this: âPopeâs Personal Income: $200 Million Annually.â				
+					
+					
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+The young manâs response was: âGoogle it. Iâm telling you the truth.â				
+					
+					
+I didnât doubt my facts. Even so, I did Google itâand he was right. Still wrong, but also right, in that the first thing that came up when I searched on the phrase âpopeâs salaryâ was this: âPopeâs Personal Income: $200 Million Annually.â				
+					
+					
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+I didnât doubt my facts. Even so, I did Google itâand he was right. Still wrong, but also right, in that the first thing that came up when I searched on the phrase âpopeâs salaryâ was this: âPopeâs Personal Income: $200 Million Annually.â				
+					
+					
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+I had to ask myself how it came to pass that the first result on Google was a 2011 posting from OpenTabernacle.wordpress.com. One has to assume that itâs received more hits than any other site when it comes to the pontiffâs salary concerns. However, Google truth is highly situational and epistemically fluid, since the same post showed up in second place when I looked two weeks later. Perhaps itâs a reflection of crowdsourced belief, or it could be as simple as a bot (or some troll) pushing it to the top of the list. But whatever the cause or motive, it is an algorithm that ultimately decides placementâand that algorithm has been able to erase, in some peopleâs minds, the entire history of the Roman Catholic Church.
+Most Popular1The CIA Waterboarded the Wrong Man 83 Times in 1 Month2African-American Voters Have an Understandable Reason to Support Hillary Clinton3Brotherhood of Bullies: Bob Knight Endorses Donald Trump4The Orange Rage Monster Acts Presidential5Before âUnity,â Sanders Must Stay in the Fight
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+The CIA Waterboarded the Wrong Man 83 Times in 1 Month
+
+African-American Voters Have an Understandable Reason to Support Hillary Clinton
+
+Brotherhood of Bullies: Bob Knight Endorses Donald Trump
+
+The Orange Rage Monster Acts Presidential
+
+Before âUnity,â Sanders Must Stay in the Fight
+
+There has always been that possibility, of course. Tabloids and Fox News do something of the same thing every day. As Neil Postman points out in his wonderful book Technopoly, King Thamus feared that writing will âchange what is meant by the words âmemoryâ and âwisdom.â He fears that memory will â¨be confused withâ¦ ârecollection,â and he worries that wisdom will become indistinguishable from mere knowledge. This judgment we must take to heart, for it is a certainty that radical technologies create new definitions of old terms and that this process takes place without our being fully conscious of it.â				
+					
+					
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+All this makes me think of Microsoftâs recent foray into artificial intelligence, launching a chatbot on Twitter, Kik, and GroupMe that would sound like a teenager. Named Tay, the bot was created to âexperiment with and conduct research on conversational understanding,â but it quickly âturned from a nerdy attempt at reaching teens into the racist, Holocaust-denying, Hitler-loving AI of all our nightmares.â As Peter Bright wrote on Ars Technica, Tay didnât understand what the Holocaust was: âShe just knows that the Holocaust is a proper noun or perhaps even that it refers to a specific event. Knowing what that event was and why people might lie to her about it remain completely outside the capabilities of her programming.â				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_210199			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Peter Lee, the corporate vice president of Microsoft Research, later apologized, saying: âTo do AI right, one needs to iterate with many people and often in public forums.â In other words, if weâre going to create an AI chatbot free of biases, we have to include everyone in the conversation. But Microsoft doesnât seem to realize that Twitter really isnât about âeveryoneâ in some happy, hand-holding âKumbayaâ way. Instead, itâs a technology that, however much good itâs done, has also proved itself a conduit for our darker realitiesâa space in which women regularly face anonymous rape threats and people of color receive racist diatribes from strangers. Itâs the problem of building our prejudices into the machine so that they take on a new life, reproducing, generating, mirroring, magnifying, and ultimately ruling us in the great singularity of our cyber-simulated kingdom come.				
+					
+					
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+This brings us back to Donald Trump, who lays claim to knowledge but still doesnât know. As Postman observes: âTechnology imperiously commandeers our most important terminology. It redefines âfreedom,â âtruth,â âintelligence,â âfact,â âwisdom,â âmemory,â âhistoryââall the words we live by.â				
+					
+					
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+Or as Tay opined: âWeâre going to build a wall, and Mexico is going to pay for it.â After all, she heard it on the Internet, before Microsoft finally killed her.				
+					
+					
+		
+
+ Patricia J. Williams
+Twitter
+ Patricia J. Williams is the James L. Dohr Professor of Law at Columbia University School of Law and a columnist for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+This magnificent article inspired this diary on Daily Kos: http://www.dailykos.com/stories/2016/4/23/1519356/-Disreality-in-the-Internet-Age-Trump-Plato-the-Pope-an-AI-named-Tay-Twitter-and-more
+
+Opens new lines of thinking to awareness and wisdom.  Very important topic.  Excellent work.  Thank you, Ms. Williams.
+
+Incisive as always, connecting an apparently random personal experience with a broad observation about larger cultural trends, bringing a new way of understanding.
+
+Excellent probe into the nature of knowing and the internet. A very important subject! But a "probe" is only a start. Hopefully it will prompt much more.
+
+The persons responsible for messing with the voter registration listings should be prosecuted and jailed for felony-level voter fraud!
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

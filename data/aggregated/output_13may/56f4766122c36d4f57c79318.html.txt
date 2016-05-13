@@ -1,0 +1,127 @@
+
+	4.9k
+      
+
+By
+
+Nick Fagge
+
+
+and 
+Corey Charlton for MailOnline
+
+
+
+Published:
+  03:27 EST, 24 March 2016
+
+ | 
+Updated:
+  11:30 EST, 24 March 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3507417',
+                    'title': 'Brussels bombers DID plan to attack nuclear power station',
+                    'url': 'http://www.dailymail.co.uk/news/article-3507417/Brussels-bombers-DID-plan-attack-nuclear-power-station-police-uncover-12-hours-footage-jihadists-filmed-outside-plant-director-s-home.html',
+                    'eTwitterStatus': ' http://dailym.ai/1LIUHAp via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+4.9k
+shares
+
+ 
+         166
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+         166
+
+View  comments
+
+The Brussels terrorists were preparing an attack on a nuclear power plant and had recorded 12 hours of reconnaissance footage, it has been reported.
+
+The ISIS cell were spying on Belgium's nuclear power chief, possibly as part of a kidnap plan to force him to let them into an atomic facility, according to newspaper Derniere Heure.
+
+Hours of film of the home of the Research and Development Director of the Belgian Nuclear Programme were discovered in an apartment in Brussels raided by anti-terrorist police following the attack in Paris.
+
+However, its suspected the arrests of their accomplices last week may have forced them to switch targets to Brussels airport.
+
+The terror cell responsible for the Paris and Brussels attacks was planning to attack an unidentified nuclear power station, it has been reported. Pictured is the power plant in Doel, Belgium
+
+Belgian bomber Ibrahim El Bakraoui (centre) and explosives expert Najim Laachraou (left) killed 14 at Brussels airport. Their accomplice - the 'Man in White' (right) fled the airport and remains on the run
+
+The footage confounded investigators at first - as it showed the entrance to the director’s home in Flanders, an area outside the capital.
+
+But detectives made the chilling deduction that the group was attempting to gain entry to an atomic facility after watching all 12 hours of footage, which included images of a local bus.
+
+Armed troops were sent to defend French and Belgian nuclear facilities following the discovery and both countries nuclear programmes were put on the highest state of alert.
+
+Reports of the plan first emerged as early as February and was at that time linked back to the cell responsible for the Paris attacks. 
+
+The footage was discovered 'as part of seizures made following the Paris attacks,' a Belgian prosecutor said, refusing to divulge the individual's identity 'for obvious security reasons'.
+
+At the time, Belgium's federal agency for nuclear control stressed the importance of not revealing the name of the person involved so as 'not to endanger the enquiry or nuclear security' or indeed the person involved and their family. 
+
+The images were captured by a camera hidden in nearby bushes and recovered by two suspects who left the area in a vehicle with the lights off, Derniere Heure reported.
+
+Brussels bombers: Khalid El Bakraoui (left), Ibrahim El Bakraoui (centre) and explosives expert Najim Laachraoui (right) detonated bombs at the airport and metro on Tuesday, killing 31 people
+
+However, reports in February did not publicly name Ibrahim and Khalid El Bakraoui - the brothers we now know are responsible for the Brussels bombings - as the creators of the footage.
+
+The claims give further credence to the links now established, at least publicly, between the Paris and Brussels bombings.
+
+The bombings in the Belgian capital on Tuesday which killed 31 people are now believed to have been carried out because the authorities were closing in on the fugitive members of the terror cell.
+
+
+                                	Share what you think
+                                
+
+The comments below have been moderated in advance.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

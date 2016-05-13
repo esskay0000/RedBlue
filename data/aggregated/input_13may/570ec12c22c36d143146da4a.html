@@ -1,0 +1,1940 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <script type="text/javascript">
+  if(typeof String.prototype.trim !== 'function') {
+    String.prototype.trim = function() {
+      return this.replace(/^\s+|\s+$/g, '');
+    }
+  }
+
+  function hasCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+      var c = ca[i].trim();
+      if (c.indexOf(name)==0) return true;
+    }
+    return false;
+  }
+
+  function deleteCookie(cname) {
+    //set to a past expiration to delete cookie
+    setCookie(cname, "delete", -2);
+  }
+
+  function setCookie(cname,cvalue,exdays) {
+    if (typeof exdays != "undefined") {
+      var d = new Date();
+      d.setTime(exdays);
+      var expires = "expires="+d.toGMTString();
+      document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/";
+    } else {
+      document.cookie = cname + "=" + cvalue + "; path=/";
+    }
+  }
+
+  function getCookie(cname) {
+      var name = cname + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0; i<ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1);
+          if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+      }
+      return "";
+  }
+</script>
+
+  
+
+    <script type="text/javascript">
+      //<![CDATA[
+      
+  
+    
+        var suppressWelcomeAd = false;
+      
+  
+
+      var isiPad = navigator.userAgent.match(/iPad/i) != null;
+      var isFb = navigator.userAgent.match(/facebookexternalhit/i) != null;
+      // iPad detection and  check for onswipe_redirect=never in the URL
+      if (isiPad && !hasCookie("desktopPreferred")) {
+        function getUrlVar(key){
+          var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
+          return result && encodeURIComponent(result[1]) || "";
+        }
+        if (getUrlVar("onswipe_redirect") == "never") {
+          // set cookie to enable welcome ad for iPad
+          setCookie("desktopPreferred", "1");
+        }
+      }
+      if (!hasCookie("welcomeAdViewed") && (!isiPad || isiPad && hasCookie("desktopPreferred")) && !isFb) {
+        setCookie("cookiesEnabled", "1");
+        if (hasCookie("cookiesEnabled"))  {
+          deleteCookie("cookiesEnabled");
+          currentDate = new Date();
+          eod = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 23, 59, 0, 0);
+          setCookie("welcomeAdViewed", "1", Math.round((eod.getTime())));
+
+          if (!suppressWelcomeAd) {
+
+            // Set cookie with referrer for Omniture script to use
+            if (document.referrer == "") {
+              setCookie("referrer:" + window.location, "Typed/Bookmarked");
+            } else {
+              // trick for getting the hostname
+              var host_tmp = document.createElement("a");
+              host_tmp.href = document.referrer;
+
+              setCookie("referrer:" + window.location, host_tmp.hostname);
+            }
+
+
+            window.location = 'http://cdn.nextgov.com/nextgov/interstitial.html?v=2.1.1&rf=' + encodeURIComponent(window.location);
+          }
+        }
+      }
+
+      //]]>
+    </script>
+
+  
+
+
+  
+  
+    <!--[if !IE]> -->
+    <script type="text/javascript" src="http://assets.onswipe.com/synapse/on.js?usr=nextgov" id="onswipe_synapse"></script>
+    <!-- <![endif]-->
+  
+
+
+  <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"96589ef288","agent":"","transactionName":"YAQDN0JTXxdYBRUMDllOJxZeUUUNVghOEgRVEggXVUEfClweFQIOQT4XClVFQl5JEwMJCEQJBAdvQl4XTQ==","applicationID":"6113376","errorBeacon":"bam.nr-data.net","applicationTime":61}</script>
+
+  <meta property="article:publisher" content="http://www.facebook.com/Nextgov" />
+  <meta property="fb:admins" content="578600878" />
+  <meta property="og:site_name" content="Nextgov" />
+  
+  
+<meta name="sailthru.author" content="Jack Moore"/>
+<meta name="sailthru.date" content="2016-04-11T19:47:24Z"/>
+<meta name="sailthru.description" content="OPM is conducting market research to find companies that can perform automated social media tracking and other types of Web crawling."/>
+<meta name="sailthru.title" content="OPM Seeks Social Media Tracking for Background Checks "/>
+<meta name="sailthru.tags" content="social-media,security-clearance,channel-nextgov-&gt;-cio-briefing,type-story,length-medium,site-nextgov"/>
+<meta name="sailthru.images.full" content="http://cdn.nextgov.com/media/img/upload/2016/04/11/041116socialtrackingNG.jpg"/>
+<meta name="sailthru.images.thumb" content="http://cdn.nextgov.com/media/img/upload/2016/04/11/041116socialtrackingNG/sailthru-thumbnail.jpg"/>
+  
+
+  <title>OPM Seeks Social Media Tracking for Background Checks  - Nextgov.com</title>
+
+  
+    
+        
+    
+      <link rel="canonical" href="http://www.nextgov.com/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/" />
+    
+  
+    
+
+
+  <meta name="keywords" content="opm, social media, security clearance, background investigations" />
+  <meta name="description" content="OPM is conducting market research to find companies that can perform automated social media tracking and other types of Web crawling." />
+
+  
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+
+  var GEMG = GEMG || {};
+  (function(){
+    GEMG.GPT = {
+      ad_unit: '/617/nextgov.com/section_ciobriefing/content/pid_127380',
+      base_ad_unit: '/617/nextgov.com',
+      targeting: {
+        page: {
+          
+          'keywords': ['background-investigations','opm','security-clearance','social-media'],
+          
+          'post_id': ['127380'],
+          
+          'primary_category': ['cio-briefing'],
+          
+          'categories': ['big-data','federal-news','technology'],
+          
+          'referring_domain': ['drudgereport.com']
+          
+        },
+        slot: {}
+      }
+    };
+  })();
+</script>
+
+
+  
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic&subset=latin' rel='stylesheet' type='text/css'>
+
+  <script type="text/javascript" src="http://cdn.nextgov.com/compressed/jinja/js/bad62310c892.js"></script>
+
+  <link rel="stylesheet" href="http://cdn.nextgov.com/compressed/jinja/css/nextgov-c43d1f6d0fbd.css" type="text/css" media="all" />
+
+  <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-all.css?v=3.22.1" media="screen"/>
+  <![endif]-->
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie.css?v=3.22.1" media="screen"/>
+  <![endif]-->
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-8.css?v=3.22.1" media="screen"/>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">
+    //<![CDATA[
+    stLight.options({
+      publisher: "3cf7ffb5-3f0d-4c31-9c9f-84d731418e4c",
+      onhover: false
+    });
+    //]]>
+  </script>
+  
+  <meta property="og:title" content="OPM Seeks Social Media Tracking for Background Checks " />
+  <meta property="og:type" content="article" />
+
+  <meta property="og:description" content="OPM is conducting market research to find companies that can perform automated social media tracking and other types of Web crawling." />
+  <meta property="og:image" content="http://cdn.nextgov.com/media/img/upload/2016/04/11/041116socialtrackingNG.jpg" />
+
+  
+  <meta property="og:url" content="http://www.nextgov.com/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/" />
+  
+
+  
+  <meta name="twitter:description" content="OPM is conducting market research to find companies that can perform automated social media tracking and other types of Web crawling.">
+  
+  <meta name="twitter:image" content="http://cdn.nextgov.com/media/img/upload/2016/04/11/041116socialtrackingNG/open-graph.jpg">
+  
+  <meta name="twitter:title" content="OPM Seeks Social Media Tracking for Background Checks ">
+  
+  <meta name="twitter:site" content="@nextgov">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  
+
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.nextgov.com/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/" />
+  <!-- Passes clicks through flyin. For most browsers, pointer-events:none handles this. -->
+  <!-- May need to include IE 10 later -->
+  <!--[if lte IE 9]>
+    <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.forward-clicks.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+          $(".flyin-container").forwardEvents(".flyin .label, .flyin .headline, .flyin .meta");
+      });
+    </script>
+  <![endif]-->
+
+  <link media="all" rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/social_tools/css/social_tools.css?v=3.22.1" />
+  <link media="all" rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/social_tools/css/social_tools_stacked.css?v=3.22.1" />
+  <link media="all" rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/social_tools/css/social_tools_small_logo.css?v=3.22.1" />
+
+  <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+  <script type="text/javascript" src="http://cdn.nextgov.com/social_tools/js/social_tools.js?v=3.22.1"></script>
+  <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  
+    
+    <script type="text/javascript">
+    //<![CDATA[
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-395628-3']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    //]]>
+    </script>
+  
+
+  
+    <script type="text/javascript">
+  __reach_config = {
+    authors: ['Jack Moore'],
+    channels: ['Nextgov','Nextgov::CIO Briefing'],
+    
+    date: '2016-04-11T19:47:24Z',
+    
+    iframe: true,
+    pid: '543d862cd70ba01425000003',
+    tags: ['Nextgov','Nextgov::CIO Briefing','opm',' social media',' security clearance',' background investigations'],
+    title: 'OPM Seeks Social Media Tracking for Background Checks  \u002D Nextgov.com',
+    url: 'http://www.nextgov.com/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/',
+    domain: 'www.nextgov.com',
+    ignore_errors: false
+  };
+  (function(){
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'text/javascript';
+    s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+  })();
+</script>
+  
+
+</head>
+<body class="no-js  ng-post">
+
+  
+  <script type="text/javascript">
+//<![CDATA[
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.server="www.nextgov.com"
+s.channel="nextgov cio briefing"
+s.pageName="opm seeks social media tracking for background checks  - nextgov cio briefing - jack moore"
+s.prop1=""
+s.prop2="0"
+s.prop3="opm seeks social media tracking for background checks  - nextgov cio briefing - jack moore"
+s.prop4="/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/"
+s.prop5=""
+s.prop6="Nextgov &gt; CIO Briefing"
+s.prop7="nextgov cio briefing"
+s.prop8="nextgov cio briefing - post"
+s.prop9=""
+s.prop10=""
+s.prop11="15:00"
+s.prop12="Monday"
+s.prop13="weekday"
+s.prop14=""
+s.prop15="jack moore"
+s.prop16="opm, social media, security clearance, background investigations"
+s.prop17="OPM Seeks Social Media Tracking for Background Checks "
+s.prop18="april 11, 2016 03:47 pm"
+s.prop19="opm seeks social media tracking for background checks  - nextgov cio briefing - jack moore"
+s.prop20=""
+s.prop21="opm seeks social media tracking for background checks  - nextgov cio briefing - jack moore"
+s.prop22=""
+s.prop23=""
+s.prop24=""
+s.prop25=""
+s.prop26=""
+s.prop27=""
+s.prop32="False"
+s.prop34=""
+s.prop35=""
+s.prop36=""
+s.prop37=""
+s.prop38=""
+s.prop39="Error: not set"
+s.hier1="nextgov cio briefing/post/opm seeks social media tracking for background checks "
+s.hier2=""
+s.hier3=""
+
+if ((typeof(Govexec) != "undefined") && (typeof(Govexec.get_format)=== 'function')){
+  s.prop38 = Govexec.get_format();
+}
+
+if (typeof(adblock) != 'undefined' && adblock) {
+  s.prop32 = "True";
+}
+
+// Collect referrer; override omniture referrer; clear cookie
+var referrerCookieName = "referrer:" + window.location;
+var referredThroughInterstitial = document.referrer.indexOf("interstitial.html") > -1;
+s.prop50 = (referredThroughInterstitial) ? "true" : "false";
+if (referredThroughInterstitial) {
+  if (hasCookie(referrerCookieName)) {
+    var originalReferrer = getCookie(referrerCookieName);
+
+    // Might be Typed/Bookmarked or Referrer (see layout file)
+    s.prop39 = originalReferrer;
+  } else {
+    // Referrer cookie lost
+    s.prop39 = "Referrer Lost"
+  }
+} else {
+  // Not routed through interstitial
+  if (document.referrer != "") {
+    // Not routed through interstitial; set prop39 to standard referrer
+
+    // trick for getting the hostname
+    var host_tmp = document.createElement("a");
+    host_tmp.href = document.referrer;
+
+    s.prop39 = host_tmp.hostname;
+  } else {
+    // No referrer; URL was directly entered / bookmarked
+    s.prop39 = "Typed/Bookmarked";
+  }
+}
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code) document.write(s_code)
+if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-');
+//]]>
+</script> 
+<noscript>
+	<div>
+		<a href="http://www.omniture.com" title="Web Analytics" ><img
+src="http://metrics.nextgov.com/b/ss/atlanticnextgov2012/1/H.17--NS/0"
+height="1" width="1" alt="" /></a>
+	</div>
+</noscript>
+<!--/DO NOT REMOVE/-->
+
+  
+    
+
+<div class="ng-skybox">
+  <p class="ng-skybox-title">
+    <span class="ng-skybox-title-text">
+      recommended reading
+    </span>
+    <span class="ng-skybox-title-slashes"></span>
+  </p>
+  <ul class="ng-skybox-posts">
+    
+      
+        <li class="ng-skybox-post">
+  <span class="ng-skybox-post-slashes"></span>
+  <div class="ng-skybox-post-inner">
+
+    
+
+    <a class="ng-skybox-post-link"
+      
+        href="/cybersecurity/2016/04/gsa-quizzes-companies-cyber-capabilities/127424/?oref=ng-skybox"
+      
+
+      
+    >
+      <span class="ng-skybox-post-title">
+        GSA Quizzes Companies on Cyber Capabilities
+      </span>
+    </a>
+  </div>
+</li>
+      
+    
+      
+        <li class="ng-skybox-post">
+  <span class="ng-skybox-post-slashes"></span>
+  <div class="ng-skybox-post-inner">
+
+    
+
+    <a class="ng-skybox-post-link"
+      
+        href="/cio-briefing/2016/04/national-weather-service-will-stop-yelling-forecasts-you/127399/?oref=ng-skybox"
+      
+
+      
+    >
+      <span class="ng-skybox-post-title">
+        National Weather Service Will Stop Yelling Forecasts At You
+      </span>
+    </a>
+  </div>
+</li>
+      
+    
+      
+        <li class="ng-skybox-post">
+  <span class="ng-skybox-post-slashes"></span>
+  <div class="ng-skybox-post-inner">
+
+    
+
+    <a class="ng-skybox-post-link"
+      
+        href="/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/?oref=ng-skybox"
+      
+
+      
+    >
+      <span class="ng-skybox-post-title">
+        OPM Seeks Social Media Tracking for Background Checks 
+      </span>
+    </a>
+  </div>
+</li>
+      
+    
+      
+        
+          <li class="ng-skybox-post ng-skybox-post-sponsor-content">
+  <span class="ng-skybox-post-slashes"></span>
+  <div class="ng-skybox-post-inner">
+
+    
+      <img class="ng-tracking-pixel" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/617/nextgov.com/tracking-pixel&amp;sz=1x1&amp;t=tracking-pixel%3D00017&amp;c=12345" width="0" height="0" alt=""/>
+    
+
+    <a class="ng-skybox-post-link"
+      
+        href="http://pubads.g.doubleclick.net/gampad/clk?id=123481415&amp;iu=/617/nextgov.com/click-tracker"
+      
+
+      
+        target="_blank"
+      
+    >
+      <span class="ng-skybox-post-title">
+        The Best Time to Transform Your Network is Now
+      </span>
+    </a>
+  </div>
+</li>
+        
+      
+    
+  </ul>
+</div>
+  
+
+  <div class="ng-topad">
+    
+<div
+  
+  class="ad ad-topleader"
+>
+	<div class="ad-container">
+    
+    
+
+  
+    
+      <script
+        class="ad-stub ad-stub-desktop"
+        data-ad-unit="/617/nextgov.com/section_ciobriefing/content/pid_127380"
+        data-ad-sizes="728x90,970x250"
+        
+        
+        
+          data-ad-targeting='9ac529ce-2ae4-4300-8e59-0d76dc5f422d'
+        
+      >
+      
+        GEMG.GPT.targeting.slot['9ac529ce-2ae4-4300-8e59-0d76dc5f422d'] = {
+        
+          'pos': [
+            'topleader'
+          ],
+        
+          'level': [
+            '1'
+          ]
+        
+        };
+      
+      </script>
+    
+  
+
+  
+    
+      <noscript class="ad-noscript">
+        
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=1&amp;sz=728x90%7C970x250&amp;c=146202963&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dtopleader%26level%3D1">
+            <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=1&amp;sz=728x90%7C970x250&amp;c=146202963&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dtopleader%26level%3D1"/>
+          </a>
+        
+      </noscript>
+    
+  
+
+
+  </div>
+</div>
+
+
+  </div>
+
+  <div id="wrapper">
+    <div class="w1">
+      <div class="w2">
+        <header id="header">
+          <div class="container_12">
+
+            <div class="top-block">
+              <h1 class="logo"><a href="/?oref=ng-logo">Nextgov</a></h1>
+              
+                
+
+  <nav class="ng-header-contents">
+    <div class="ng-header-contents-toprow">
+      <span class="ng-header-contents-title">TRENDING</span>
+      <span class="ng-header-contents-title-slashes"></span>
+      <ul class="ng-social-follow">
+        <li class="ng-social-follow-item">
+          <a class="ng-social-follow-link facebook" href="http://www.facebook.com/Nextgov">facebook</a>
+        </li>
+        <li class="ng-social-follow-item">
+          <a class="ng-social-follow-link twitter" href="http://twitter.com/#!/nextgov/">twitter</a>
+        </li>
+        <li class="ng-social-follow-item">
+          <a class="ng-social-follow-link google-plus" href="https://plus.google.com/117520345336146276455" rel="publisher">google plus</a>
+        </li>
+        <li class="ng-social-follow-item">
+          <a class="ng-social-follow-link rss" href="/rss/all/">rss</a>
+        </li>
+      </ul>
+    </div>
+    <div class="ng-header-contents-bottomrow">
+      <ul class="ng-header-contents-posts">
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cio-briefing/2016/04/new-programs-wants-startups-sell-government-will-they-work/127314/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Schedule 70
+            </span>
+          </a>
+          
+            <span class="ng-header-contents-post-link-slashes">//</span>
+          
+        </li>
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cybersecurity/2016/04/lawmakers-want-answers-stolen-hhs-laptop-potentially-contained-personal-info-millions/127282/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Stolen Laptop
+            </span>
+          </a>
+          
+            <span class="ng-header-contents-post-link-slashes">//</span>
+          
+        </li>
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cybersecurity/2016/04/former-nsa-deputy-director-wants-coded-messages-all/127261/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Encryption
+            </span>
+          </a>
+          
+            <span class="ng-header-contents-post-link-slashes">//</span>
+          
+        </li>
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cio-briefing/2016/04/critics-white-houses-20-percent-open-source-software-policy-not-enough/127154/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Open Source Software
+            </span>
+          </a>
+          
+            <span class="ng-header-contents-post-link-slashes">//</span>
+          
+        </li>
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cybersecurity/2016/03/phishing-attempts-targeting-veterans-are-rise-dont-blame-new-website-va-says/126866/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Veteran Phishing
+            </span>
+          </a>
+          
+            <span class="ng-header-contents-post-link-slashes">//</span>
+          
+        </li>
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cybersecurity/2016/03/dhs-agencies-reported-321-cases-potential-ransomware/127107/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Ransomware
+            </span>
+          </a>
+          
+            <span class="ng-header-contents-post-link-slashes">//</span>
+          
+        </li>
+      
+        <li class="ng-header-contents-post">
+          <a class="ng-header-contents-post-link"
+            
+              href="/cio-briefing/2016/04/are-cios-blame-legacy-it-crisis/127171/?oref=ng-trending"
+            
+            
+          >
+            <span class="ng-header-contents-post-title">
+              Legacy IT
+            </span>
+          </a>
+          
+        </li>
+      
+      </ul>
+      <form action="/search" method="get" class="ng-search-box search-form">
+        <fieldset class="ng-search-box-input-container">
+          <input class="ng-search-box-input ng-search-box-text" type="text" name="q" value="Search Nextgov ..."/>
+          <button class="ng-search-box-input ng-search-box-submit" type="submit">
+            <span class="ng-search-box-submit-arrow"></span>
+          </button>
+        </fieldset>
+      </form>
+    </div>
+  </nav>
+
+              
+            </div>
+          </div>
+        </header>
+
+        <nav class="skinny-nav">
+  <div class="skinny-nav-content-wrapper">
+    <ul class="skinny-nav-items">
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-technology-news"
+            href="/technology-news/?oref=ng-nav"
+          >News</a>
+        </li>
+      
+        <li class="skinny-nav-item active">
+          <a
+            class="skinny-nav-item-link skinny-nav-cio-briefing"
+            href="/cio-briefing/?oref=ng-nav"
+          >CIO Briefing</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-emerging-tech"
+            href="/emerging-tech/?oref=ng-nav"
+          >Emerging Tech</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-cloud-computing"
+            href="/cloud-computing/?oref=ng-nav"
+          >Cloud</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-cybersecurity"
+            href="/cybersecurity/?oref=ng-nav"
+          >Cybersecurity</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-mobile"
+            href="/mobile/?oref=ng-nav"
+          >Mobile</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-health"
+            href="/health/?oref=ng-nav"
+          >Health</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-defense"
+            href="/defense/?oref=ng-nav"
+          >Defense</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-big-data"
+            href="/big-data/?oref=ng-nav"
+          >Big Data</a>
+        </li>
+      
+        <li class="skinny-nav-item">
+          <a
+            class="skinny-nav-item-link skinny-nav-fed-tech"
+            href="/nextgov-sponsored/fed-tech/?oref=ng-nav"
+          >Sponsored: FedTech</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+
+
+        <div id="gutter">
+          
+<div
+  
+  class="ad ad-gutter"
+>
+	<div class="ad-container">
+    
+    
+
+  
+    
+      <script
+        class="ad-stub ad-stub-desktop"
+        data-ad-unit="/617/nextgov.com/section_ciobriefing/content/pid_127380"
+        data-ad-sizes="460x800"
+        
+        
+        
+          data-ad-targeting='7d4b3183-79a2-4079-b9d6-be020541808c'
+        
+      >
+      
+        GEMG.GPT.targeting.slot['7d4b3183-79a2-4079-b9d6-be020541808c'] = {
+        
+          'pos': [
+            'gutter'
+          ],
+        
+          'level': [
+            '2'
+          ]
+        
+        };
+      
+      </script>
+    
+  
+
+  
+    
+  
+
+
+  </div>
+</div>
+
+
+        </div>
+
+        <div class="main-holder container_12">
+          
+            <div id="content" class="grid_8">
+                
+  
+
+  
+
+
+
+  <section class="visual visual2">
+    <header class="heading with-background shortened">
+      <h2>
+        <span class="outer">
+          <span class="inner"><span class="inner-inner">OPM Seeks Social Media Tracking for Background Checks </span></span>
+        </span>
+      </h2>
+    </header>
+    
+      <div class="image">
+        
+          <img src="http://cdn.nextgov.com/media/img/upload/2016/04/11/041116socialtrackingNG/nextgov-medium.jpg" alt="" title="" height="284" width="471" />
+        
+        <p>
+          
+          
+            10 FACE/Shutterstock.com
+          
+        </p>
+      </div>
+    
+
+    
+      <div class="info-column with-image">
+        
+
+<div class="meta meta2">
+    
+  <span class="author">
+    By 
+    <a href="/voices/jack-moore/9116/" >Jack Moore</a>
+  </span>
+    
+    
+    <span class="date">April 11, 2016</span>
+    
+      <a href="#disqus_thread" class="comments disqus-count" data-disqus-identifier="post_127380"></a>
+    
+</div>
+
+        
+          
+            <a href="http://www.govexec.com/newsletters/?oref=ng-subscribe" class="subscribe-link" rel="external">
+  <strong class="title-newsletter"><span>NEXTGOV</span><br/><span>NEWSLETTER</span></strong>
+  <span class="btn-subscribe">SUBSCRIBE</span>
+</a>
+          
+        
+
+        
+  <section class="stories">
+    <header>
+      <h2>
+        
+          related stories
+        
+      </h2>
+    </header>
+    
+      <div class="block">
+        <a href="/cio-briefing/2016/02/could-twitter-savvy-teens-help-government-tackle-social-media-screening/126292/?oref=ng-relatedstories">Could Twitter-Savvy Teens Help Government Tackle Social Media Screening?</a>
+        
+          <a href="/cio-briefing/2016/02/could-twitter-savvy-teens-help-government-tackle-social-media-screening/126292/?oref=ng-relatedstories#disqus_thread" class="comments disqus-count" data-disqus-identifier="post_126292"></a>
+        
+      </div>
+    
+      <div class="block">
+        <a href="/cybersecurity/2016/02/new-it-plan-secure-security-clearance-docs-headed-another-disaster/126220/?oref=ng-relatedstories">Is the New IT Plan to Protect Security Clearance Docs ‘Headed for Another Disaster?' </a>
+        
+          <a href="/cybersecurity/2016/02/new-it-plan-secure-security-clearance-docs-headed-another-disaster/126220/?oref=ng-relatedstories#disqus_thread" class="comments disqus-count" data-disqus-identifier="post_126220"></a>
+        
+      </div>
+    
+      <div class="block">
+        <a href="/cybersecurity/2016/02/could-more-secure-online-browser-protect-background-check-hack-victims/125644/?oref=ng-relatedstories">Could a More Secure Online Browser Protect Background Check Hack Victims?</a>
+        
+          <a href="/cybersecurity/2016/02/could-more-secure-online-browser-protect-background-check-hack-victims/125644/?oref=ng-relatedstories#disqus_thread" class="comments disqus-count" data-disqus-identifier="post_125644"></a>
+        
+      </div>
+    
+      <div class="block">
+        <a href="/cybersecurity/2015/08/nations-24-hour-hack-watch-center-missing-three-quarters-industry/119392/?oref=ng-relatedstories">The Nation’s 24-Hour Cyber Watch Center Still Has Some Empty Seats </a>
+        
+          <a href="/cybersecurity/2015/08/nations-24-hour-hack-watch-center-missing-three-quarters-industry/119392/?oref=ng-relatedstories#disqus_thread" class="comments disqus-count" data-disqus-identifier="post_119392"></a>
+        
+      </div>
+    
+  </section>
+
+      </div>
+    
+
+    <article class="article">
+      <div class="article-holder article-for-flyin">
+        <div class="wysiwyg-container">
+
+      
+        
+        
+        <div class="share-section stacked floating with-counts" data-url="http://www.nextgov.com/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/">
+  
+  
+
+    <ul class="social-buttons">
+      <li class="social-button facebook unavailable">
+        <a href="https://www.facebook.com/dialog/feed?picture=http%3A%2F%2Fcdn.nextgov.com%2Fmedia%2Fimg%2Fupload%2F2016%2F04%2F11%2F041116socialtrackingNG%2Fopen-graph.jpg&redirect_uri=http%3A%2F%2Fwww.nextgov.com&link=http%3A%2F%2Fwww.nextgov.com%2Fcio-briefing%2F2016%2F04%2Fopm-seeking-social-media-tracking-background-checks%2F127380%2F&app_id=622609557824468&display=popup"
+          target="_blank"
+        >Share this on Facebook</a>
+      </li>
+      <li class="social-button twitter unavailable">
+        <a href="https://twitter.com/share?url=http%3A%2F%2Fwww.nextgov.com%2Fcio-briefing%2F2016%2F04%2Fopm-seeking-social-media-tracking-background-checks%2F127380%2F&text=OPM+Seeks+Social+Media+Tracking+for+Background+Checks+&via=nextgov"
+          target="_blank"
+        >Tweet this on Twitter</a>
+      </li>
+      <li class="social-button google-plus unavailable">
+        <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.nextgov.com%2Fcio-briefing%2F2016%2F04%2Fopm-seeking-social-media-tracking-background-checks%2F127380%2F"
+          target="_blank"
+        >Share this on Google Plus</a>
+      </li>
+      <li class="social-button linkedin unavailable">
+      <a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwww.nextgov.com%2Fcio-briefing%2F2016%2F04%2Fopm-seeking-social-media-tracking-background-checks%2F127380%2F&mini=true&summary=OPM+is+conducting+market+research+to+find+companies+that+can+perform+automated+social+media+tracking+and+other+types+of+Web+crawling.&source=Nextgov.com&title=OPM+Seeks+Social+Media+Tracking+for+Background+Checks+"
+          target="_blank"
+        >Share this on LinkedIn</a>
+      </li>
+      
+      
+    </ul>
+  
+
+
+<div class="tools">
+    <ul>
+        <li>
+          <a href="javascript:Void();" class="print" rel="nofollow" onclick="window.open('/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/print/', 'print', 'width=700, height=700, scrollbars=yes');return false;">
+            Print this article</a>
+        </li>
+        <li>
+          <a href="javascript:Void();" class="email st_email_custom" displayText='Email'>Email this article</a>
+        </li>
+        <li>
+          <a href="#" id="increaseFont" class="resize">Increase size</a>
+        </li>
+    </ul>
+</div>
+
+
+</div>
+      
+
+        <div class="wysiwyg">
+          
+            <p>The Office of Personnel Management is preparing for a pilot program to automatically track public social media postings of people applying for security clearances.</p>
+
+<p>OPM is conducting market research to find companies that can perform automated social media tracking and other types of Web crawling as part of the background investigation process, according to an April 8 <a href="https://www.fbo.gov/?s=opportunity&amp;mode=form&amp;id=6c480c2488859128bb91251ed8cd4513&amp;tab=core&amp;_cview=0">request for information</a> posted online. Responses from interested companies are due by April 15.</p>
+
+<p>OPM is looking for companies that can automatically browse &ldquo;publicly available electronic information,&rdquo; which includes information posted to news and media sites; Facebook, Twitter and other social media postings; blog postings; online court records, updates to photo and video-sharing sites; and information gleaned from online e-commerce sites, such as Amazon and eBay.</p>
+
+<p>OPM is interested in companies that have fully automated capabilities -- &ldquo;with no human intervention,&rdquo; according to the RFI -- with the ability to search for information &ldquo;in the parts of the World Wide Web whose contents are not indexed by standard search engines.&rdquo;</p>
+
+<p>Companies should also have a &ldquo;robust identity matching algorithm&rdquo; that won&rsquo;t get tricked by similar names and return irrelevant results.</p>
+
+<p>The pilot project tests the feasibility of obtaining social media tracking from commercial vendors and will be a joint effort between OPM, which is responsible for performing most federal employee background checks, and the Office of the Director of National Intelligence, according to an OPM spokesman.</p>
+<div
+  
+  class="ad ad-injector"
+>
+	<div class="ad-container">
+    
+    
+
+  
+    
+      <script
+        class="ad-stub ad-stub-desktop"
+        data-ad-unit="/617/nextgov.com/section_ciobriefing/content/pid_127380"
+        data-ad-sizes="300x300"
+        
+        
+        
+          data-ad-targeting='3d6b832a-748d-4674-a730-e87113c07ef0'
+        
+      >
+      
+        GEMG.GPT.targeting.slot['3d6b832a-748d-4674-a730-e87113c07ef0'] = {
+        
+          'pos': [
+            'injector'
+          ],
+        
+          'level': [
+            '0'
+          ]
+        
+        };
+      
+      </script>
+    
+  
+
+  
+    
+      <noscript class="ad-noscript">
+        
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?sz=300x300&amp;c=263464635&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dinjector%26level%3D0">
+            <img src="http://pubads.g.doubleclick.net/gampad/ad?sz=300x300&amp;c=263464635&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dinjector%26level%3D0"/>
+          </a>
+        
+      </noscript>
+    
+  
+
+
+  </div>
+</div>
+
+
+
+<p>Testing of the new tech will be conducted on a population of 400 investigations, the spokesman said, although there&rsquo;s still no word on when the pilot project is set to get underway.</p>
+
+<p>The new solicitation is the latest in a series of government initiatives to explore the use of social media in the background investigation process. Some of these efforts have been stymied by missed deadlines and unclear policy.</p>
+
+<p>Pentagon and intelligence officials are leading an effort to establish &ldquo;continuous evaluation&rdquo; of clearance-holders using automated data checks to replace periodic reinvestigations that currently occur only once every five or 10 years.</p>
+
+<p>Intelligence officials had planned to have a continuous evaluation capability in place for the most sensitive clearance holders by December 2014 but missed the deadline, according to progress updates <a href="https://www.performance.gov/node/3407/view?view=public#progress-update">posted on Performance.gov</a>. Officials now plan to roll out the new program in phases, with at least 5 percent of top-secret clearance holders being continuously evaluated by March 2017.&nbsp;As of December, about 225,000 personnel undergo the automatic checks.</p>
+
+<p>A public-records continuous evaluation project is also currently underway at the&nbsp;State Department, according to the Performance.gov update.</p>
+
+<p>At a hearing in February, federal officials told lawmakers they were still <a href="http://www.nextgov.com/cio-briefing/2016/02/could-twitter-savvy-teens-help-government-tackle-social-media-screening/126292/">working out the kinks in government policy</a> for more widespread use of social media in the clearance process.</p>
+
+<p>Last June, OPM <a href="http://www.nextgov.com/cio-briefing/2015/06/opm-appears-have-canceled-solicitation-social-media-tracking/115351/">awarded a sole source contract</a> to California-based tech company Social Intelligence for a preliminary pilot program examining social media in the clearance process.</p>
+
+<p>Under the terms of the contract, Social Intelligence, which has also participated in DOD social media pilots, was to provide 400 reports of publicly available online&nbsp;information over the following six to nine months.</p>
+
+<p>The security clearance process has been rocked by controversy in recent years.</p>
+
+<p>Last summer, OPM announced it had fallen victim to a massive data breach affecting millions of&nbsp;background investigation records. Even earlier, critics raised questions about OPM&rsquo;s handling of background checks, pointing to potential missed red flags in the backgrounds of National Security Agency contractor Edward Snowden and other so-called &ldquo;insider threats.&rdquo;</p>
+
+<p>In January, the Obama administration announced plans <a href="http://www.nextgov.com/cybersecurity/2016/01/after-opm-hack-pentagon-store-and-secure-sensitive-security-clearance-docs/125338/">to overhaul the process</a>, establishing a new National Background Investigations Bureau and tasking the Defense Department with the responsibility for storing and securing sensitive files.</p>
+
+          
+        </div>
+      </div>
+      </div>
+
+      
+
+
+      
+        <div class="related-partner-posts box recommended-for-you ng">
+          <h5>recommended for you</h5>
+          <ul class="partner-related-posts"></ul>
+        </div>
+      
+
+      
+
+
+      
+
+      
+        <div class="post-threatwatch-promo">
+          
+            <a href="/cybersecurity/threatwatch/?oref=TW_article_module">
+              <h3>Threatwatch Alert</h3>
+              <div><h4>Thousands of cyber attacks occur each day</h4></div>
+              <span>See the latest threats</span>
+            </a>
+          
+        </div>
+      
+
+      
+      <div class="btn-holder">
+        <a href="#comments-container" class="btn-green">ADD A COMMENT</a>
+      </div>
+      
+
+    </article>
+  </section>
+
+  
+
+  
+
+  
+
+  <section class="featured earthbox">
+    <div class="col">
+      <ul>
+        
+          
+            <li >
+              <a href="http://www.routefifty.com/assets/whats-next-state-cios-and-state-government-it/portal/?OREF=earthbox" target="_blank">
+                <img src="http://cdn.nextgov.com/media/img/upload/2016/01/11/RF_-_NASCIO_ebook_cover_9Zuv06z/skybox.JPG"
+     alt=""
+     title=""
+     
+     height="89" 
+     width="148" 
+/>
+
+
+                <strong>Available Now: Route Fifty's NASCIO Conference Review</strong>
+              </a>
+            </li>
+          
+        
+          
+            <li >
+              <a href="http://www.nextgov.com/assets/nextgov-emerging-technology/portal/" target="_blank">
+                <img src="http://cdn.nextgov.com/media/img/upload/2015/12/02/NG_q4_Ebook_cover_fjuE7GV/skybox.PNG"
+     alt=""
+     title=""
+     
+     height="89" 
+     width="148" 
+/>
+
+
+                <strong>Emerging Technology: The Government of the Future Has Arrived</strong>
+              </a>
+            </li>
+          
+        
+          
+            <li >
+              <a href="http://www.govexec.com/assets/issue-brief-data-analytics-strategic-asset-government/portal/" target="_blank">
+                <img src="http://cdn.nextgov.com/media/img/upload/2015/11/13/data-driving-eval_XPGDWKT/skybox.png"
+     alt=""
+     title=""
+     
+     height="89" 
+     width="148" 
+/>
+
+
+                <strong>Big Data, Big Challenges</strong>
+              </a>
+            </li>
+          
+        
+          
+            <li class="omega">
+              <a href="http://www.defenseone.com/news/2014/10/d-brief/96299/" target="_blank">
+                <img src="http://cdn.nextgov.com/media/img/upload/2014/10/15/Highlight-box-Dbrief_1/skybox.jpg"
+     alt=""
+     title=""
+     
+     height="89" 
+     width="148" 
+/>
+
+
+                <strong>Get Smart. Get The D Brief</strong>
+              </a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </section>
+
+  
+
+
+
+  <section class="sponsor-area ad-converser-outer-container">
+    <div id="no-bg"  class="stories sponsor-area2">
+    <header class="heading">
+      <h2>FROM OUR SPONSORS</h2>
+    </header>
+      
+<div
+  
+  class="ad ad-converser"
+>
+	<div class="ad-container">
+    
+    
+
+  
+    
+      <script
+        class="ad-stub ad-stub-desktop"
+        data-ad-unit="/617/nextgov.com/section_ciobriefing/content/pid_127380"
+        data-ad-sizes="600x300"
+        
+        
+        
+          data-ad-targeting='64e85496-674a-4f1c-ba31-1a50afea3d72'
+        
+      >
+      
+        GEMG.GPT.targeting.slot['64e85496-674a-4f1c-ba31-1a50afea3d72'] = {
+        
+          'pos': [
+            'converser'
+          ],
+        
+          'level': [
+            '3'
+          ]
+        
+        };
+      
+      </script>
+    
+  
+
+  
+    
+      <noscript class="ad-noscript">
+        
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=2&amp;sz=600x300&amp;c=50427891&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dconverser%26level%3D2">
+            <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=2&amp;sz=600x300&amp;c=50427891&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dconverser%26level%3D2"/>
+          </a>
+        
+      </noscript>
+    
+  
+
+
+  </div>
+</div>
+
+
+    </div>
+  </section>
+
+  
+    <section class="sponsor-area full-width ad-converser-alt">
+      
+      <div id="sponsored-posts">
+        <header class="heading">
+          <h2 class="mark-heading">sponsored</h2>
+        </header>
+        <ul>
+        
+          <li>
+            <a href="http://www.defenseone.com/news/2014/10/d-brief/96299/?oref=ng-sponsored" class="link">Get Smart. Get The D Brief.  <span class="arrow"></span></a> Subscribe to Defense One&#39;s new national security newsletter.
+          </li>
+         
+        </ul>
+      </div>
+    </section>
+  
+
+  
+  <section class="comments-block">
+    <header class="heading">
+      <h2 class="mark-heading">JOIN THE DISCUSSION</h2>
+    </header>
+    <p class="legal">
+      By using this service you agree not to post material that is obscene, harassing, defamatory, or
+      otherwise objectionable. Although Nextgov does not monitor comments posted to this site (and has
+      no obligation to), it reserves the right to delete, edit, or move any material that it deems to
+      be in violation of this rule.
+    </p>
+  </section>
+  <section id="comments-container" class="comments-area">
+    <div id="disqus_thread"></div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    
+      var disqus_category_id ='1428858';
+    
+    //]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+    var disqus_shortname = 'nextgov';
+    var disqus_identifier = 'post_127380';
+    
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    //]]>
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+    <div id="static_comments" style="display:none;"></div>
+  </section>
+  
+
+            </div>
+            <aside id="sidebar" class="grid_4">
+              
+  
+    
+                
+                  
+<div
+  
+  class="ad ad-topblock"
+>
+	<div class="ad-container">
+    
+    
+
+  
+    
+      <script
+        class="ad-stub ad-stub-desktop"
+        data-ad-unit="/617/nextgov.com/section_ciobriefing/content/pid_127380"
+        data-ad-sizes="300x250,300x1000,300x600"
+        
+        
+        
+          data-ad-targeting='a3e62bbc-9230-4160-8aa1-5f09f6a0c7d8'
+        
+      >
+      
+        GEMG.GPT.targeting.slot['a3e62bbc-9230-4160-8aa1-5f09f6a0c7d8'] = {
+        
+          'pos': [
+            'topblock'
+          ],
+        
+          'level': [
+            '4'
+          ]
+        
+        };
+      
+      </script>
+    
+  
+
+  
+    
+      <noscript class="ad-noscript">
+        
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=3&amp;sz=300x600%7C300x250%7C300x1000&amp;c=678540421&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dtopblock%26level%3D3">
+            <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=3&amp;sz=300x600%7C300x250%7C300x1000&amp;c=678540421&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dtopblock%26level%3D3"/>
+          </a>
+        
+      </noscript>
+    
+  
+
+
+  </div>
+</div>
+
+
+                
+
+                
+                  
+                  
+                    <div class="side-block">
+                      <h3>PROMOTIONS</h3>
+                      <ul class="list">
+
+                      
+                        <li>
+                          <a href="http://www.nextgov.com/assets/smarter-computers-new-ways-protecting-against-hacks/portal/?oref=highlight" target="_blank">
+                            <img src="http://cdn.nextgov.com/media/img/upload/2016/04/13/ng-smartercomputers_kZuVQWM/promoted.png"
+     alt=""
+     title=""
+     
+     height="50" 
+     width="80" 
+/>
+
+
+                            <span class="text-holder">
+
+                              
+
+                            <strong>Smarter Computers: New Ways of Protecting Against Hacks</strong> // Get this eBook to learn the new ways agencies are leveraging smarter technology to protect both consumers and agencies.
+
+                            </span>
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="http://www.nextgov.com/assets/biggest-contracts-2016/portal/?oref=highlight" target="_blank">
+                            <img src="http://cdn.nextgov.com/media/img/upload/2016/03/18/NG_contracts_ebook_cover_ad_lPzvLN4/promoted.JPG"
+     alt=""
+     title=""
+     
+     height="50" 
+     width="80" 
+/>
+
+
+                            <span class="text-holder">
+
+                              
+
+                            <strong>The Biggest IT Contracts of 2016</strong> // $100+ billion is up for grabs
+
+                            </span>
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="http://www.nextgov.com/assets/2016-cyberthreats-trends/portal/" target="_blank">
+                            <img src="http://cdn.nextgov.com/media/img/upload/2016/01/25/Cover_1_hnGAKtj/promoted.jpg"
+     alt=""
+     title=""
+     
+     height="50" 
+     width="80" 
+/>
+
+
+                            <span class="text-holder">
+
+                              
+
+                            <strong>2016 Cyberthreats & Trends</strong> // Read about the tools the government is pursuing in the face of unpredictable cyberthreats
+
+                            </span>
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="http://www.nextgov.com/assets/nextgov-emerging-technology/portal/" target="_blank">
+                            <img src="http://cdn.nextgov.com/media/img/upload/2015/12/02/NG_q4_Ebook_cover_IKn7r4c/promoted.PNG"
+     alt=""
+     title=""
+     
+     height="50" 
+     width="80" 
+/>
+
+
+                            <span class="text-holder">
+
+                              
+                              <span class="sponsored">eBook</span>
+                              
+
+                            <strong>Emerging Technology: The Government of the Future Has Arrived</strong> // Download Nextgov&#39;s latest eBook
+
+                            </span>
+                          </a>
+                        </li>
+                      
+                      </ul>
+                    </div>
+                  
+                
+
+                <div class="side-block">
+                  <h3>FREE NEWSLETTERS</h3>
+                  <form action="/newsletters/subscribe/" data-form-name="right-column-subscribe" method="post" id="newsletter-signup" class="newsletters-form">
+                    <input type="hidden" name="newsletter_signup_source" value="ng-right-rail"/>
+
+                    <fieldset>
+                      <div class="form-block">
+                        <ul class="form-list">
+                          <li>
+                            <input type="checkbox" name="newsletter:newsletter_ng_today" id="newsletter:newsletter_ng_today" class="checkbox" value="1" >
+                            <label for="newsletter:newsletter_ng_today">Nextgov Today</label>
+                          </li>
+                          <li>
+                            <input type="checkbox" name="newsletter:newsletter_ng_health_it" id="newsletter:newsletter_ng_health_it" class="checkbox" value="1"  >
+                            <label for="newsletter:newsletter_ng_health_it">Health IT</label>
+                          </li>
+                          <li>
+                            <input type="checkbox" name="newsletter:newsletter_rf_today" id="newsletter:newsletter_rf_today" class="checkbox" value="1"  >
+                            <label for="newsletter:newsletter_rf_today">Route Fifty Today</label>
+                          </li>
+                          <li>
+                            <input type="checkbox" name="newsletter:newsletter_research_and_insights" id="newsletter:newsletter_research_and_insights" class="checkbox" value="1"  >
+                            <label for="newsletter:newsletter_research_and_insights">Research &amp; Insights</label>
+                          </li>
+                          <li>
+                            <input type="checkbox" name="newsletter:newsletter_ng_threatwatch" id="newsletter:newsletter_ng_threatwatch" class="checkbox" value="1" />
+                            <label for="newsletter:newsletter_ng_threatwatch">Nextgov ThreatWatch</label>
+                          </li>
+                        </ul>
+                        <div class="btn-holder">
+                          <a href="http://www.govexec.com/newsletters/" class="link">see all</a>
+                        </div>
+                        <div class="text-box">
+                          <input type="text" id="email_address" name="email_address" value="Enter your email address here..." class="text">
+                        </div>
+                      </div>
+                      <input type="submit" value="subscribe" class="btn-submit">
+                    </fieldset>
+                  </form>
+                </div>
+
+                
+                  
+                    
+<div
+  
+  class="ad ad-bottomblock"
+>
+	<div class="ad-container">
+    
+    
+
+  
+    
+      <script
+        class="ad-stub ad-stub-desktop"
+        data-ad-unit="/617/nextgov.com/section_ciobriefing/content/pid_127380"
+        data-ad-sizes="300x250"
+        
+        
+        
+          data-ad-targeting='445d3978-7dfc-45af-9f8d-f2aecf435a20'
+        
+      >
+      
+        GEMG.GPT.targeting.slot['445d3978-7dfc-45af-9f8d-f2aecf435a20'] = {
+        
+          'pos': [
+            'bottomblock'
+          ],
+        
+          'level': [
+            '5'
+          ]
+        
+        };
+      
+      </script>
+    
+  
+
+  
+    
+      <noscript class="ad-noscript">
+        
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=4&amp;sz=300x250&amp;c=208586804&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dbottomblock%26level%3D4">
+            <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=4&amp;sz=300x250&amp;c=208586804&amp;iu=%2F617%2Fnextgov.com%2Fsection_ciobriefing%2Fcontent%2Fpid_127380&amp;t=noscript%3Dtrue%26referring_domain%3Ddrudgereport.com%26pos%3Dbottomblock%26level%3D4"/>
+          </a>
+        
+      </noscript>
+    
+  
+
+
+  </div>
+</div>
+
+
+                  
+                
+
+                
+
+
+
+<div class="side-block">
+  <h3>blogs</h3>
+  <ul class="list list2">
+    
+    
+    
+    
+      <li>
+        <a href="/emerging-tech/emerging-tech-blog/2016/03/pentagon-innovation-national-security-imperative/126972/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-emerging-tech-blog.jpg?v=3.22.1" alt="Emerging Tech" width="142" height="54" >
+          <span class="text-holder"><strong>Pentagon: ‘Innovation is a National Security Imperative’ </strong><em class="text">Emerging Tech <em class="author">by 
+    Frank Konkel</em></em></span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/technology-news/tech-insider/2016/04/turning-damage-control-digital-modernization/127177/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-tech-insider.jpg?v=3.22.1" alt="Tech Insider" width="142" height="54" >
+          <span class="text-holder"><strong>Turning Damage Control into Digital Modernization </strong><em class="text">Tech Insider <em class="author">by 
+    Jeffrey Neal and 
+    Peter Wilson</em></em></span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/cio-briefing/wired-workplace/2016/04/what-makes-good-coder/127274/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-wired-workplace.jpg?v=3.22.1" alt="Wired Workplace" width="142" height="54" >
+          <span class="text-holder"><strong>What Makes a Good Coder? </strong><em class="text">Wired Workplace <em class="author">by 
+     Quora</em></em></span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+                
+  
+    
+                  
+
+<div class="side-block">
+	<h3 class="text-links">sponsored links</h3>
+	<ul class="list list3">
+        <script type="text/javascript" src="http://jlinks.industrybrains.com/jsct?sid=885&amp;ct=GOVERNMENT_EXECUTIVE_ROS&amp;num=5&amp;layt=3&amp;fmt=simp"></script>
+	
+        
+            
+        
+		<li>
+			<span class="text-holder"><strong><a href="http://www.thespacereport.org/">The Space Report Online</a></strong> The Space Report Online is your guide to global space activity - 10 years of industry, policy and trend data - when you need it. <a href="http://www.thespacereport.org/" rel="external">www.thespacereport.org</a></span>
+		</li>
+	
+	</ul>
+</div>
+
+                
+  
+
+              
+  
+
+            </aside>
+          
+        </div>
+        
+      </div>
+    </div>
+    <footer id="footer">
+      <div class="footer-holder">
+        <div class="footer-frame container_12">
+          <strong class="logo"><a href="/">Nextgov</a></strong>
+          <div class="menus-holder">
+            <div class="row">
+              <ul class="footer-menu">
+                <li><a href="/about/">About</a></li>
+                <li><a href="/about/contact/">Contact Us</a></li>
+                <li><a href="http://www.govexec.com/events/">Events</a></li>
+                <li><a href="http://www.govexecmediagroup.com/">Advertise</a></li>
+                <li><a href="/about/list-rentals/">List Rentals</a></li>
+                <li><a href="/about/site-map/">Site Map</a></li>
+                <li><a href="/about/privacy-policy/">Privacy Policy</a></li>
+                <li><a href="/about/terms-and-conditions/">Terms &amp; Conditions</a></li>
+              </ul>
+            </div>
+            <div class="row">
+              <ul class="footer-menu footer-menu2">
+                <li><a href="http://www.govexec.com/">GovExec</a></li>
+                <li><a href="http://www.defenseone.com/">Defense One</a></li>
+                <li><a href="http://qz.com/" rel="external">Quartz</a></li>
+                <li><a href="http://www.nationaljournal.com/" rel="external">National Journal</a></li>
+                <li><a href="http://www.theatlantic.com/" rel="external">The Atlantic</a></li>
+                <li><a href="http://www.citylab.com/" rel="external">CityLab</a></li>
+              </ul>
+            </div>
+            <p class="copyright">&copy; 2016 by National Journal Group, Inc. All rights reserved.
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  
+    <!-- Newsletter modal -->
+    <div id="modal_window">
+      <div id="modal_window_content"><img src="http://cdn.nextgov.com/images/ajax-loading.gif" width="32" height="32" alt="Loading..." /></div>
+      <a href="#" class="close_button"><img src="http://cdn.nextgov.com/images/close-circle.png" alt="Close window" width="30" height="30" /></a>
+    </div>
+  
+
+  
+  
+    
+    
+    
+    
+    <div class="flyin-container"
+     data-flyin-setting='sailthru'
+     data-flyin-site-name='Nextgov'
+     data-flyin-site-url='http://www.nextgov.com'
+     data-flyin-horizon-domain='horizon.nextgov.com'
+     data-flyin-concierge-tag='site-nextgov'
+     data-flyin-title='OPM Seeks Social Media Tracking for Background Checks '
+     data-flyin-url='http://www.nextgov.com/cio-briefing/2016/04/opm-seeking-social-media-tracking-background-checks/127380/'
+     data-flyin-curated-on='None'
+     data-flyin-next-article-url='/cio-briefing/2016/04/mobile-devices-dhs-hr-software-top-list-federal-it-waste/127465/'
+     data-flyin-next-article-title='Mobile Devices, HR Software Top List of Federal IT Waste'
+     data-flyin-curated-urls='None'
+     data-flyin-fb-app-id='622609557824468'
+     data-flyin-twitter-handle='@Nextgov'
+     data-flyin-facebook-site-name='Nextgov'>
+
+  <div class="flyin" id="flyin_open">
+    <div class="label">
+      <a href="#" id="closer">Close [ x ]</a>
+      <strong>More from Nextgov</strong>
+    </div>
+    <div id="sailthru-flyin">
+
+    </div>
+  </div>
+</div>
+
+<div class="flyin-container">
+  <div class="flyin closed" id="flyin_closed">
+    <div class="label">
+      &nbsp;
+    </div>
+    <div class="headline">
+      <a href="#" id="opener">Next Story</a>
+    </div>
+    <div class="meta addthis_toolbox">
+      &nbsp;
+    </div>
+  </div>
+</div>
+
+
+
+<script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.flyin.js?v=3.22.1"></script>
+  
+
+
+  
+    
+      
+      
+    <script type="text/javascript">
+    //<![CDATA[
+      var _sf_async_config={uid:17396,domain:"nextgov.com"};
+
+      _sf_async_config.title = "OPM Seeks Social Media Tracking for Background Checks ";
+
+      (function(){
+        function loadChartbeat() {
+          window._sf_endpt=(new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat.js");
+          document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+        loadChartbeat : function() { oldonload(); loadChartbeat(); };
+      })();
+    //]]>
+    </script>
+      <script type="text/javascript">
+_bizo_data_partner_id = "1016";
+</script>
+<script type="text/javascript">
+(function() {
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";
+b.async = true;
+b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=1016&fmt=gif" />
+</noscript>
+    
+    <script type="text/javascript">
+//<![CDATA[
+    var disqus_shortname = 'nextgov';
+    var disqus_all_shortnames = {'routefifty': 'routefifty', 'defenseone': 'defenseone', 'govexec': 'govexec', 'nextgov': 'nextgov'};
+    (function () {
+        var scriptElement = document.createElement('script'); scriptElement.async = true;
+        scriptElement.type = 'text/javascript';
+        scriptElement.src = 'http://cdn.nextgov.com/js/custom_disqus_count_ng.js?v=2.1.4';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(scriptElement);
+    }());
+    //]]>
+</script>
+
+    
+  
+  <script type="text/javascript" src="https://ak.sail-horizon.com/horizon/v1.js"></script>
+<script type="text/javascript">
+  $(function() {
+    // Sailthru Concierge
+    if (window.Sailthru) {
+    
+      Sailthru.setup({
+        domain: 'horizon.nextgov.com',
+        
+        spider: true,
+        
+        concierge: false
+      });
+    
+    }
+  });
+</script>
+  
+
+  
+
+  <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+  
+  <!-- audience pixels -->
+<script type='text/javascript'>
+  var axel = Math.random() + '';
+  var a = axel * 10000000000000;
+  document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/617/DFPAudiencePixel;ord=' + a + ';dc_seg=64548730?" width=1 height=1 border=0/>');
+</script>
+<noscript>
+  <img src="http://pubads.g.doubleclick.net/activity;dc_iu=/617/DFPAudiencePixel;ord=1;dc_seg=64548730?" width=1 height=1 border=0/>
+</noscript>
+
+  <script src="http://cdn.nextgov.com/js/handlebars-v1.3.0.js?v=3.22.1"></script>
+  <script id="handlebars-flyin" class="handlebars-template" type="text/x-handlebars-template">
+    
+<div class="share-section small-logo"
+   data-url="{{{share_url}}}">
+
+    <ul class="social-buttons">
+      <li class="social-button facebook unavailable">
+        <a href="https://www.facebook.com/dialog/feed?link={{{facebook_link}}}&amp;description={{{facebook_description}}}&amp;display=popup&amp;app_id={{{facebook_app_id}}}&amp;redirect_uri={{{facebook_redirect_uri}}}"
+          target="_blank"
+        >Share this on Facebook</a>
+      </li>
+      <li class="social-button twitter unavailable">
+        <a href="https://twitter.com/share?via={{{twitter_via}}}&amp;text={{{twitter_text}}}&amp;url={{{twitter_url}}}"
+          target="_blank"
+        >Tweet this on Twitter</a>
+      </li>
+      <li class="social-button google-plus unavailable">
+        <a href="https://plus.google.com/share?url={{{googleplus_url}}}"
+          target="_blank"
+        >Share this on Google Plus</a>
+      </li>
+      <li class="social-button linkedin unavailable">
+      <a href="http://www.linkedin.com/shareArticle?mini=true&amp;title={{{linkedin_title}}}&amp;source={{{linkedin_source}}}&amp;summary={{{linkedin_summary}}}&amp;url={{{linkedin_url}}}"
+          target="_blank"
+        >Share this on LinkedIn</a>
+      </li>
+      <li class="social-button comment disqus-handlebar">
+        <a class="disqus-count"
+          href="{{{disqus_share_url}}}?oref=flyin-disqus#disqus_thread"
+          data-disqus-identifier="post_{{{disqus_id}}}"
+        >Leave a comment</a>
+      </li>
+    </ul>
+</div>
+  </script>
+  
+  
+    <script src="//my.hellobar.com/8ae21c40b5c769c517be5afd24e3534b2573eb1e.js" type="text/javascript" charset="utf-8" async="async"></script>
+  
+
+
+  <script>
+  
+    GEMG.GPT.body.init();
+  
+  </script>
+
+</body>
+</html>

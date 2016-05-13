@@ -1,0 +1,171 @@
+
+	455
+      
+
+By
+
+Sophie Haslett For Daily Mail Australia
+
+
+
+Published:
+  00:29 EST, 10 May 2016
+
+ | 
+Updated:
+  02:07 EST, 10 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'Femail';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3580484',
+                    'title': 'Expert recommends an afternoon sleep to function at top capacity\u00A0',
+                    'url': 'http://www.dailymail.co.uk/femail/article-3580484/Expert-recommends-afternoon-sleep-function-capacity.html',
+                    'eTwitterStatus': ' http://dailym.ai/24IUDcg via @' + twitterVia,
+                    'articleChannelFollowButton': 'Femail',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+455
+shares
+
+ 
+          22
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          22
+
+View  comments
+
+Even though we spend approximately a third of our lives sleeping, one Australian expert says that we're doing it all wrong.
+
+According to Ms Fiona Kerr, the  neural specialist from the University of Adelaide, we should all indulge in an 'afternoon nap' in order to function at full capacity.
+
+'There's really interesting work done on not only taking a nap, but the length of naps,' she tells Daily Mail Australia.
+
+Scroll down for video 
+
+Nap time: Even though we spend approximately a third of our lives sleeping, one Australian expert - Fiona Kerr - says we're doing it all wrong, and that we should have an afternoon nap (pictured) to function at top capacity
+
+* Expert Fiona Kerr advocates a 15-30 minute daily nap.
+
+* According to Ms Kerr, this can increase alertness, memory, cognition and mood.
+
+* She says that a nap is like 'cleaning your inbox'.
+
+* Naps help you to store, retain and recall information faster and more effectively. 
+
+* For the beginner napper, find a quiet, dark place and minimise stimulus.
+
+* Close your eyes and concentrate on your breathing for 20 minutes - even if you don't sleep you will feel refreshed.
+
+* Ms Kerr describes a nap as a 'shower for the brain'. 
+
+'The best nap is really the 15-30 minute nap. It increases alertness, memory, cognition and mood.'
+
+Ms Kerr will discuss the issue of sleep, how long we should do it for and when in a special programme for Insight, at 8.30pm on Tuesday on SBS.
+
+'Naps are good for people because they serve as a cleaning the inbox function,' she says.
+
+'If you have regular naps, you will store, retain and recall information faster and more effectively.'
+
+One lifelong sufferer of insomnia, 29-year-old Ally Nicolopoulos, says she has had on and off issues with sleeping since childhood, adding that they have been chronic in the past year:
+
+'I can go a complete night without sleep, and then the next night I'll similarly sleep for just one or two hours,' she says.
+
+'I've tried everything, from sleeping pills to quitting caffeine to alcohol, to try and sleep better. At the moment nothing works, but I do think if I were a regular sleeper that a daily siesta would be  useful.'
+
+Interesting programme: Ms Kerr will discuss the issue of sleep, how long we should do it for and when in a special programme for Insight, at 8.30pm on Tuesday on SBS
+
+Insomnia victim: Ally Nicolopoulos (pictured), 29, suffers from insomnia and has had bad sleep since childhood - she has tried everything from alcohol to sleeping pills and quitting caffeine
+
+Hard time: 'I can go a complete night without sleep, and then the next night I'll similarly sleep for just one or two hours,' she says
+
+The upcoming TV programme plans to look at sleep and how much the nation is getting, as well as hearing stories from the likes of Ms Nicolopoulos and other insomnia sufferers:
+
+'There is a period of no man's land for napping, and you can have too much,' warns Ms Kerr.
+
+'Between 30 and 60 minutes isn't good, because your brain thinking it's heading into REM mode. 
+
+'Equally, if you have more than one and a half hours, your brain thinks it's going into its full sleep cycle, which explains the fuzzy head feeling people get when they're woken after this period.'
+
+When it comes to her advise for beginner nappers, Ms Kerr says practice makes perfect:
+
+'You will get better at it,' she promises.
+
+'But at the beginning, try going to a quiet, dark place and cut down as much stimulus as possible. Relax for the 20 minutes and concentrate on your breathing. 
+
+'Even if you don't sleep you'll feel refreshed. The other week I curled up under my desk for 20 minutes in order to get a small amount of shut eye.'
+
+Sleep advice: Ms Kerr says that her advice for beginner nappers is to go to a quiet, dark place and minimise stimulus - she says you will get better at napping 
+
+As for the benefits, the experts all say that regular daily naps will enhance your productivity no end:
+
+'A nap is like a shower for your brain,' she says.
+
+'It's about taking the pieces we have to juggle all of the time, and putting them down for a minute.'
+
+Looks like they're not just for your nana, then.
+
+The Insight Sleep special is on Tuesday 10 May at 8.30pm on SBS. 
+
+Extreme benefits: According to Ms Kerr, a nap is like a 'shower for the brain' - it's about taking the pieces we have to juggle all of the time, and putting them down for a moment
+
+
+
+
+
+
+
+
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
