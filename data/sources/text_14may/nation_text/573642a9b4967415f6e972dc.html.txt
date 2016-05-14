@@ -1,0 +1,614 @@
+
+
+Stephanie Meyers votes at Mason Elementary School on March 15, 2016 in St. Louis, Missouri. (Cristina M. Fletes / St. Louis Post-Dispatch via AP) 
+
+Missouri Republicans have been trying for a decade to enact a strict voter-ID law, and 2016 could finally be their year.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-212322-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+On Thursday, the GOP-controlled legislature passed a new voter-ID bill and a companion ballot initiative changing the state Constitution that must be approved by voters, most likely in November. (Governor Jay Nixon can still veto the bill, but the legislature has a super-majority to override him.)		
+“It has been a priority for us in the past, but not to the level it has been a priority this year,” said the bill’s sponsor, State Senator Will Kraus.		
+Voter ID has long been an obsession for Missouri Republicans. They have been blocked on three different occasions from enacting such a law, which is why they are now asking voters to weaken protections for voting rights in the state Constitution to allow it. Writes David Graham of The Atlantic:		
+A 2006 attempt was passed and signed into law, but the state supreme court struck it down as an unconstitutional infringement on the right to vote, in part because it forced citizens to assume the cost of obtaining ID.		
+In 2011, Governor Nixon vetoed another attempt. There were not enough votes to override him. The following year, state Republicans tried again, this time using a constitutional amendment to sidestep the supreme court ruling. But a judge ruled that attempt unconstitutional, too, and it was excluded from the ballot.		
+Missouri Democrats filibustered against the current bill, noting that 5 percent of the electorate—220,000 registered voters—lack a government-issued photo ID, according to the secretary of state’s office, and it would cost the state nearly $17 million to implement in the first three years. (State Senator Kiki Curls read from my book Give Us the Ballot during the filibuster, pointing out how people like Congressman John Lewis nearly died fighting for voting rights.)		
+As a result, the legislature passed a compromise, allowing voters without a photo ID to sign a statement under penalty of perjury confirming their identify and provide a non-photo ID, like a utility bill or bank statement, which is already required under current law.		
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+On Thursday, the GOP-controlled legislature passed a new voter-ID bill and a companion ballot initiative changing the state Constitution that must be approved by voters, most likely in November. (Governor Jay Nixon can still veto the bill, but the legislature has a super-majority to override him.)		
+“It has been a priority for us in the past, but not to the level it has been a priority this year,” said the bill’s sponsor, State Senator Will Kraus.		
+Voter ID has long been an obsession for Missouri Republicans. They have been blocked on three different occasions from enacting such a law, which is why they are now asking voters to weaken protections for voting rights in the state Constitution to allow it. Writes David Graham of The Atlantic:		
+A 2006 attempt was passed and signed into law, but the state supreme court struck it down as an unconstitutional infringement on the right to vote, in part because it forced citizens to assume the cost of obtaining ID.		
+In 2011, Governor Nixon vetoed another attempt. There were not enough votes to override him. The following year, state Republicans tried again, this time using a constitutional amendment to sidestep the supreme court ruling. But a judge ruled that attempt unconstitutional, too, and it was excluded from the ballot.		
+Missouri Democrats filibustered against the current bill, noting that 5 percent of the electorate—220,000 registered voters—lack a government-issued photo ID, according to the secretary of state’s office, and it would cost the state nearly $17 million to implement in the first three years. (State Senator Kiki Curls read from my book Give Us the Ballot during the filibuster, pointing out how people like Congressman John Lewis nearly died fighting for voting rights.)		
+As a result, the legislature passed a compromise, allowing voters without a photo ID to sign a statement under penalty of perjury confirming their identify and provide a non-photo ID, like a utility bill or bank statement, which is already required under current law.		
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+“It has been a priority for us in the past, but not to the level it has been a priority this year,” said the bill’s sponsor, State Senator Will Kraus.		
+Voter ID has long been an obsession for Missouri Republicans. They have been blocked on three different occasions from enacting such a law, which is why they are now asking voters to weaken protections for voting rights in the state Constitution to allow it. Writes David Graham of The Atlantic:		
+A 2006 attempt was passed and signed into law, but the state supreme court struck it down as an unconstitutional infringement on the right to vote, in part because it forced citizens to assume the cost of obtaining ID.		
+In 2011, Governor Nixon vetoed another attempt. There were not enough votes to override him. The following year, state Republicans tried again, this time using a constitutional amendment to sidestep the supreme court ruling. But a judge ruled that attempt unconstitutional, too, and it was excluded from the ballot.		
+Missouri Democrats filibustered against the current bill, noting that 5 percent of the electorate—220,000 registered voters—lack a government-issued photo ID, according to the secretary of state’s office, and it would cost the state nearly $17 million to implement in the first three years. (State Senator Kiki Curls read from my book Give Us the Ballot during the filibuster, pointing out how people like Congressman John Lewis nearly died fighting for voting rights.)		
+As a result, the legislature passed a compromise, allowing voters without a photo ID to sign a statement under penalty of perjury confirming their identify and provide a non-photo ID, like a utility bill or bank statement, which is already required under current law.		
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Voter ID has long been an obsession for Missouri Republicans. They have been blocked on three different occasions from enacting such a law, which is why they are now asking voters to weaken protections for voting rights in the state Constitution to allow it. Writes David Graham of The Atlantic:		
+A 2006 attempt was passed and signed into law, but the state supreme court struck it down as an unconstitutional infringement on the right to vote, in part because it forced citizens to assume the cost of obtaining ID.		
+In 2011, Governor Nixon vetoed another attempt. There were not enough votes to override him. The following year, state Republicans tried again, this time using a constitutional amendment to sidestep the supreme court ruling. But a judge ruled that attempt unconstitutional, too, and it was excluded from the ballot.		
+Missouri Democrats filibustered against the current bill, noting that 5 percent of the electorate—220,000 registered voters—lack a government-issued photo ID, according to the secretary of state’s office, and it would cost the state nearly $17 million to implement in the first three years. (State Senator Kiki Curls read from my book Give Us the Ballot during the filibuster, pointing out how people like Congressman John Lewis nearly died fighting for voting rights.)		
+As a result, the legislature passed a compromise, allowing voters without a photo ID to sign a statement under penalty of perjury confirming their identify and provide a non-photo ID, like a utility bill or bank statement, which is already required under current law.		
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+A 2006 attempt was passed and signed into law, but the state supreme court struck it down as an unconstitutional infringement on the right to vote, in part because it forced citizens to assume the cost of obtaining ID.		
+In 2011, Governor Nixon vetoed another attempt. There were not enough votes to override him. The following year, state Republicans tried again, this time using a constitutional amendment to sidestep the supreme court ruling. But a judge ruled that attempt unconstitutional, too, and it was excluded from the ballot.		
+
+In 2011, Governor Nixon vetoed another attempt. There were not enough votes to override him. The following year, state Republicans tried again, this time using a constitutional amendment to sidestep the supreme court ruling. But a judge ruled that attempt unconstitutional, too, and it was excluded from the ballot.		
+
+Missouri Democrats filibustered against the current bill, noting that 5 percent of the electorate—220,000 registered voters—lack a government-issued photo ID, according to the secretary of state’s office, and it would cost the state nearly $17 million to implement in the first three years. (State Senator Kiki Curls read from my book Give Us the Ballot during the filibuster, pointing out how people like Congressman John Lewis nearly died fighting for voting rights.)		
+As a result, the legislature passed a compromise, allowing voters without a photo ID to sign a statement under penalty of perjury confirming their identify and provide a non-photo ID, like a utility bill or bank statement, which is already required under current law.		
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+As a result, the legislature passed a compromise, allowing voters without a photo ID to sign a statement under penalty of perjury confirming their identify and provide a non-photo ID, like a utility bill or bank statement, which is already required under current law.		
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+However, a similar compromise in North Carolina failed to prevent widespread problems at the polls during this year’s primary, with poll workers wrongly telling voters they needed photo ID and administering “spelling tests” to minority voters that seemed like the literacy tests of yesteryear. More than 1,300 ballots were rejected because voters did not provide the proper ID.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
+
+Michael Ratner, 1943–2016
+
+Get Ready for a Wave of Green Civil Disobedience, America
+
+“The experience in North Carolina tells us the information doesn’t trickle down to voters, who will only hear ‘photo ID is required’ and that will be a deterrent to voting,” says Denise Lieberman, a lawyer with the Advancement Project who lives in St. Louis.		
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Lieberman’s 85-year-old mother, Joy, is one of the people who could be impacted by the voter-ID law. Though she’s voted since 1952 and was an elected official for 25 years, the first name she uses on all government documents, including her voter registration card, is actually her middle name, which is not included on her original birth certificate from 1931. When her driver’s license expires, Joy’s birth certificate may not be accepted as proper documentation for obtaining a voter ID.		
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+The weakening of voting rights protections in Missouri’s constitution—which, unlike the US Constitution, explicitly protects the right to vote—could also lead to future voting restrictions, like proof of citizenship for voter registration or a tougher voter-ID law, and will make it more difficult to challenge such laws in state court. (A federal challenge under the Voting Rights Act is still possible.)		
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+The Missouri GOP’s obsession with voter fraud dates back to the 2000 election, when a botched voter purge in St. Louis led to chaos on Election Day and polls were briefly kept open late to give people more time to vote, which Missouri Republicans wrongly blamed for US Senator John Ashcroft’s close loss. “Democrats in the city of St. Louis are trying to steal this election,” Missouri GOP Senator Kit Bond alleged. After Ashcroft became George W. Bush’s attorney general, a new right-wing voter-fraud crusade was born. Ashcroft’s son, Jay, a Republican candidate for secretary of state, is now a leading proponent of the voter-ID ballot initiative.		
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Despite repeatedly crying wolf, Missouri Republicans haven’t offered any evidence of voter impersonation to justify the voter-ID law. “There has not been a single case of voter impersonation fraud reported to the Secretary of State’s office,” reports Secretary of State Jason Kander, a Democrat who is now running for the US Senate.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212322-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+The ten-year voter-ID push has more to do with the intersection of race and political power.						
+			.article-wrap .article-body aside.left.custom_background_212322			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+LIKE THIS? GET MIORE OF OUR BEST REPORTING AND ANAYLSIS
+
+
+
+
+
+
+Missouri is one of the most racially divided states in the country, a fact vividly reflected by the protests in Ferguson. The ACLU is currently suing Ferguson’s school board for violating the VRA by preventing minority candidates from being elected.		
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+After Mike Brown’s death, the executive director of the Missouri Republican Party denounced efforts to register black voters in the city. “If that’s not fanning the political flames, I don’t know what is,” Matt Wills said. “I think it’s not only disgusting but completely inappropriate.”		
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Based on national data, the Advancement Project found that “African Americans, seniors, people with disabilities, the working poor and students are twice as likely to lack a non-expired state ID.” Lieberman calls the voter-ID law “part of a national backlash to increased political participation by people of color.”		
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+African Americans in St. Louis and Kansas City—the constituencies most impacted by the ID law—are the core of the Democratic Party in Missouri. A poll last month showed Hillary Clinton leading Donald Trump 42 to 40 percent in the state. Trump led Clinton 46 to 34 percent among white voters, but Clinton led Trump by 84 to 4 percent among black voters.		
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+“Missouri Republicans became really good at equating all things Democratic with all things urban and all things urban with all things black,” says Jeff Smith, a former Missouri state senator and professor of urban policy at The New School.		
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Unlike in 2012, when 10 major voting restrictions were blocked in court, this year the effort to make it harder to vote is succeeding. Because of a gutted VRA and conservative courts, 17 states have new voting restrictions in effect for the first time and 15 states have new or tougher voter-ID laws.		
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+Voters in Missouri will weigh in this November, and opponents of the voter-ID law will look toward Minnesota, which became the first state to defeat a similar ballot initiative in 2012. Though it was initially supported by 80 percent of the public, opponents of the photo-ID law, including Governor Mark Dayton, argued that it would have disenfranchised eligible voters (including members of the military and seniors), dumped an unfunded mandate on counties, and imperiled popular reforms like same-day voter registration. On Election Day, 52 percent of Minnesotans opposed the amendment.		
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+This will be a tougher sell in Missouri, but Minnesota shows it’s possible. The St. Louis Post-Dispatch called the bill “an unnecessary, punitive and highly partisan law.”		
+		
+
+ Ari Berman
+Twitter
+ Ari Berman is a senior contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+The Rethuglican party motto: Righting wrongs where there aren&apos;t any. Seems the old voter registration act worked fine. It just kept Rethuglicans from getting elected. Thank the loons (Clownservatives) on the Supreme court.
+
+Republicans hate to have their egos crushed- like Ashcroft losing a race to a dead man. Move all the Republicans to Texas then give Texas back to Mexico.
+What an explosion of hate that would bring out.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

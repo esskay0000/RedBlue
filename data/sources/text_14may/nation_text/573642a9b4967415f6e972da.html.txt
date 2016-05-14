@@ -1,0 +1,534 @@
+
+
+A woman walks past public housing in the Tremé neighborhood of New Orleans.  (AP Photo / Gerald Herbert)
+
+Every year, masses of people head home from prison, eager to start life on the outside, and end up stranded on the street. Because of draconian drug war–era regulations, many are freed from prison only to get locked out of the basic human right to housing.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-212166-0','tn_society_law_ros_halfpage_1','tn_society_law_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+But the politics of public housing are starting to tip toward fostering inclusion rather than punishment.		
+The New Orleans Housing Authority (HANO) board just approved one of the most comprehensive reforms to housing-admission rules for the formerly incarcerated, to help them reintegrate with their home communities. The pending revised rules would establish a review panel to assess each formerly incarcerated person’s application individually, holistically weighing the person’s background, the severity of the conviction, rehabilitation efforts since incarceration, and the person’s current circumstances and family situation. In addition to standardizing the review process and ensuring oversight by a formal body, the reforms would prevent the housing authority from automatically evicting whole families based on one members’ rap sheet.		
+Along with other “reentry” reforms, such as limiting criminal background checks for employment, expanding public-housing access is critical for people struggling to stabilize and reconnect with family after imprisonment.		
+On the national level, the Department of Housing and Urban Development’s (HUD) policy on public-housing admissions could be overhauled through new legislation, the Fair Chance Housing Act, which would direct local housing agencies to review the “totality” of a formerly incarcerated person’s background in admission and eviction reviews. HUD-sponsored housing authorities nationwide would be curtailed from excluding people based solely on, for example, arrests without conviction or long-past juvenile offenses.		
+The proposed reforms would, however, leave many barriers to housing intact. Some federal crimes would still trigger an absolute ban: a sex-offense conviction resulting in being permanently placed on a sex-offender registry, and manufacturing methamphetamine inside federal housing.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Michael Ratner, 1943–20164These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall5Get Ready for a Wave of Green Civil Disobedience, America
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+But the politics of public housing are starting to tip toward fostering inclusion rather than punishment.		
+The New Orleans Housing Authority (HANO) board just approved one of the most comprehensive reforms to housing-admission rules for the formerly incarcerated, to help them reintegrate with their home communities. The pending revised rules would establish a review panel to assess each formerly incarcerated person’s application individually, holistically weighing the person’s background, the severity of the conviction, rehabilitation efforts since incarceration, and the person’s current circumstances and family situation. In addition to standardizing the review process and ensuring oversight by a formal body, the reforms would prevent the housing authority from automatically evicting whole families based on one members’ rap sheet.		
+Along with other “reentry” reforms, such as limiting criminal background checks for employment, expanding public-housing access is critical for people struggling to stabilize and reconnect with family after imprisonment.		
+On the national level, the Department of Housing and Urban Development’s (HUD) policy on public-housing admissions could be overhauled through new legislation, the Fair Chance Housing Act, which would direct local housing agencies to review the “totality” of a formerly incarcerated person’s background in admission and eviction reviews. HUD-sponsored housing authorities nationwide would be curtailed from excluding people based solely on, for example, arrests without conviction or long-past juvenile offenses.		
+The proposed reforms would, however, leave many barriers to housing intact. Some federal crimes would still trigger an absolute ban: a sex-offense conviction resulting in being permanently placed on a sex-offender registry, and manufacturing methamphetamine inside federal housing.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Michael Ratner, 1943–20164These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall5Get Ready for a Wave of Green Civil Disobedience, America
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+The New Orleans Housing Authority (HANO) board just approved one of the most comprehensive reforms to housing-admission rules for the formerly incarcerated, to help them reintegrate with their home communities. The pending revised rules would establish a review panel to assess each formerly incarcerated person’s application individually, holistically weighing the person’s background, the severity of the conviction, rehabilitation efforts since incarceration, and the person’s current circumstances and family situation. In addition to standardizing the review process and ensuring oversight by a formal body, the reforms would prevent the housing authority from automatically evicting whole families based on one members’ rap sheet.		
+Along with other “reentry” reforms, such as limiting criminal background checks for employment, expanding public-housing access is critical for people struggling to stabilize and reconnect with family after imprisonment.		
+On the national level, the Department of Housing and Urban Development’s (HUD) policy on public-housing admissions could be overhauled through new legislation, the Fair Chance Housing Act, which would direct local housing agencies to review the “totality” of a formerly incarcerated person’s background in admission and eviction reviews. HUD-sponsored housing authorities nationwide would be curtailed from excluding people based solely on, for example, arrests without conviction or long-past juvenile offenses.		
+The proposed reforms would, however, leave many barriers to housing intact. Some federal crimes would still trigger an absolute ban: a sex-offense conviction resulting in being permanently placed on a sex-offender registry, and manufacturing methamphetamine inside federal housing.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Michael Ratner, 1943–20164These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall5Get Ready for a Wave of Green Civil Disobedience, America
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+Along with other “reentry” reforms, such as limiting criminal background checks for employment, expanding public-housing access is critical for people struggling to stabilize and reconnect with family after imprisonment.		
+On the national level, the Department of Housing and Urban Development’s (HUD) policy on public-housing admissions could be overhauled through new legislation, the Fair Chance Housing Act, which would direct local housing agencies to review the “totality” of a formerly incarcerated person’s background in admission and eviction reviews. HUD-sponsored housing authorities nationwide would be curtailed from excluding people based solely on, for example, arrests without conviction or long-past juvenile offenses.		
+The proposed reforms would, however, leave many barriers to housing intact. Some federal crimes would still trigger an absolute ban: a sex-offense conviction resulting in being permanently placed on a sex-offender registry, and manufacturing methamphetamine inside federal housing.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Michael Ratner, 1943–20164These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall5Get Ready for a Wave of Green Civil Disobedience, America
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+On the national level, the Department of Housing and Urban Development’s (HUD) policy on public-housing admissions could be overhauled through new legislation, the Fair Chance Housing Act, which would direct local housing agencies to review the “totality” of a formerly incarcerated person’s background in admission and eviction reviews. HUD-sponsored housing authorities nationwide would be curtailed from excluding people based solely on, for example, arrests without conviction or long-past juvenile offenses.		
+The proposed reforms would, however, leave many barriers to housing intact. Some federal crimes would still trigger an absolute ban: a sex-offense conviction resulting in being permanently placed on a sex-offender registry, and manufacturing methamphetamine inside federal housing.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Michael Ratner, 1943–20164These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall5Get Ready for a Wave of Green Civil Disobedience, America
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+The proposed reforms would, however, leave many barriers to housing intact. Some federal crimes would still trigger an absolute ban: a sex-offense conviction resulting in being permanently placed on a sex-offender registry, and manufacturing methamphetamine inside federal housing.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3Michael Ratner, 1943–20164These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall5Get Ready for a Wave of Green Civil Disobedience, America
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+Michael Ratner, 1943–2016
+
+These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
+
+Get Ready for a Wave of Green Civil Disobedience, America
+
+Although the HANO reforms purport to prevent arbitrary exclusion based on past criminality, they would enable authorities to consider suspected history of drug or alcohol use over the past year—a provision that many rights advocates fear would lead to even more severe discrimination if used to pre-criminalize merely perceived behavior, without a conviction.		
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+The major systemic barrier to housing in New Orleans and nationwide remains pervasive stigma and structural discrimination, particularly in poor black communities traumatized by generations of “zero tolerance” policing.		
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+Data is lacking on how many people have historically been rejected from public housing due to criminal records. But advocates say constant rejections, in both employment and housing, have created a mass culture of discouragement among the formerly incarcerated. Colette Tippy of STAND With Dignity, an organizing campaign of the New Orleans Workers’ Center for Racial Justice, says that because many assume conviction records automatically bar people from admission to any public housing, “it was a combination of ‘word on the street’ and actual policy, that really excluded the vast majority of people who have had any criminal convictions from public housing.”						
+			.article-wrap .article-body aside.left.custom_background_212166			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+As homelessness, prison, and mental illness overlap as reinforcing crises, housing could mean the difference between rebuilding your life and sleeping rough. One 1990s survey of homeless people showed that “18 percent had been incarcerated in a state or federal prison,” and about half had spent at least five days in jail.		
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+At a HANO public hearing in March, Marlene Kennedy, who had just finished serving several years, testified about housing and economic barriers linked to incarceration:		
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+I did what they told me to do, but where do you want me to live now?… Back under the bridge and live like a squatter? You can go home tonight and rest—[but] I don’t know where I’m going to sleep tonight.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212166-2','tn_society_law_ros_halfpage_2','tn_society_law_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+
+
+Housing stability and family ties are a crucial intervention. A survey of the formerly incarcerated by the Ella Baker Center revealed that about two-thirds of respondents relied on their families to secure housing—which proved a bigger help to them than “Reentry programs, nonprofits, and faith-based organizations combined.”		
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+In New Orleans, the families of the formerly incarcerated have proven tenacious campaigners. Stand with Dignity activist Calvin “Cosmo” Russell testified about his families’ struggle to stay intact in public housing:		
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+We can’t keep having people coming out of jail and going right back…. I have a son coming home, and he’s going to need somewhere to stay—and guess what, I’m going to take a risk with my son. I will hide him on the roof. I’ll hide him under the bed. But I’ll have him here.		
+
+Tippy says the struggles of the formerly incarcerated reflect a more fundamental scarcity: “The broader issue is that there’s not enough subsidized housing to house people in New Orleans, given that income inequality is so high.”		
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+According to the National Low Income Housing Coalition (NLIHC), residents earning up to about 30 percent of the area median income (about $12,600 for a one-person household), face an unmet need for more than 40,500 rental units across the New Orleans Metro Area.		
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+Aside from severely limited public-housing stock, residents face 20,000-plus long waiting lists for subsidized rentals run by private landlords under the federal Section 8 voucher program. Nonetheless, voucher subsidies have been vastly expanded in recent years as a “market-based” alternative to project-based public housing, which was systematically destroyed and shrunken following Hurricane Katrina. Neither HANO nor the proposed federal legislation would keep subsidized landlords from applying their own, potentially discriminatory background checks on people with convictions.		
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+NLIHC analyst Elayne Weiss says via e-mail that, given the enormous housing needs, the policy is deliberately  accommodating: “The problem is that if HUD (and the legislation) got too prescriptive, it would dissuade private landlords from participating in the program.”		
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+Housing-access policies continue to reflect the economic oppression that drives both mass incarceration and privatization of an essential social resource—secure housing. As the New Orleans advocacy group Voice of the Ex-offender (VOTE) observed: “Our city has invested in prison cells rather than proper responses to homelessness, addiction, mental illness, unemployment, and poor education. We have invested in one form of subsidized housing, cages, above all others.”		
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+So incarceration still casts a long shadow, even after release: When the formerly imprisoned find virtually every door in society closed to them, the one option left to get a roof over their heads might lie behind bars.		
+		
+
+ Michelle Chen
+Twitter
+ Michelle Chen is a contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

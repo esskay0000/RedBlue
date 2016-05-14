@@ -1,0 +1,108 @@
+LONDON — It's May and the sun is finally out after a long British winter. For many that means one thing: Festival season.
+
+It's a good occasion to disconnect from technology, go off the grid and enjoy a few days of carefree excitement. Or not. 
+
+Along with booze, music and mud — a lot of mud — British festivals may have another feature: mass surveillance. 
+
+Last year, Leicestershire police scanned the faces of 90,000 festival-goers at Download Festival, checking them against a list of wanted criminals across the country. It was the first time anywhere in the UK that facial recognition technology — NeoFace — was used at a public outdoor event.
+
+Privacy campaigners — and Muse frontman Matt Bellamy — expressed their fury at authorities after they casually mentioned the use of the surveillance project on Police Oracle, a police news and information website. Police didn't use any other method to warn festival-goers about the controversial initiative. 
+
+It's not yet clear whether UK authorities will use facial technology at music festivals this year. 
+
+Leicestershire Police told Mashable: "There are no plans to use live time facial recognition technologies during music festivals or other events in the next few months."
+
+But they added that NeoFace will continue to be used by the force to identify suspects.
+
+
+
+Glastonbury says it won't be using facial recognition.
+
+Image:  Joel Ryan/Invision/AP
+
+Glastonbury Festival told Mashable facial recognition won't be used at its event while Download and Reading/Leeds did not respond to our request for comment.
+
+Facial recognition is similar to obtaining an individual's fingerprints. Authorities told Mashable facial recognition technology is "speeding up investigations," and results over the past few months "have been very promising.
+
+"The force has demonstrated how the NeoFace system can also save officers hours, even days by cutting out the need to go through its database of detained people’s photographs one by one," Leicestershire police said.
+
+The software can compare dozens of measurements between key facial features on the subject's face from CCTV or police body cameras images against the 120,000 photos on the Leicestershire force's database of people it's has arrested and held in custody over the past few years.
+
+Police told Mashable there is "absolutely nothing to concern privacy campaigners." 
+
+"Since we began using the system in May 2013, the force has been as open and as transparent as it can and recognises legitimate concerns."
+
+However, campaigners say its accuracy remains questionable, besides other issues around lack of consent and lack of understanding about how the data is processed, shared and stored. 
+
+Biometrics commissioner Alastair MacGregor, an independent advisor to the British government, has warned that image databases and face recognition could be used to track people's movements by "combining widespread CCTV and access to a huge searchable database of facial images."
+
+"The concept of facial recognition is moving towards a Blade Runner-type future. The question is: did I really give informed and explicit consent to this? Where's the transparency?" Raj Samani, CTO at Intel Security, told Mashable.
+
+"In the case of festivals, it raises a lot of questions around what is done with our data once the event is over," he says.
+
+In order for facial recognition to be of use, the data has to be stored. But it's unclear how the data is stored and protected or for how long it remains and when it's deleted. 
+
+It's nearly impossible to find out who the dataset is shared with or cross-referenced against, Christopher Weatherhead, technology officer at Privacy International, told Mashable.
+
+"For example is the imagery being compared to law enforcement databases, medical databases, or social media profiles?" he said. 
+
+"Festival-goers should not be treated like suspects just because they wish to enjoy an event."
+
+Privacy risks from apps
+
+Many of the larger British music festivals are non-transferable, ticketed events, requiring a photograph — meaning there's a clear link between the ticket and the reveller purchasing it.
+
+Weatherhead says it means festival organisers "have a large dataset" of unique and personally identifiable information before the attendee even arrives at the event.
+
+The dataset includes contact and account information, payment and billing, information posted online or on a third-party social media site, personal preferences about products and so on.
+
+Then, at the event, credit card transactions, open Wi-Fi access, and mobile apps can all leak private information. 
+
+Apps can be susceptible to exploitation because unlike web browsing they offer no guarantees that secure communication is taking place. Browsers are also risky as password and private information can be easily hacked by authorities and criminals from the open Wi-Fi, Weatherhead said.
+
+"The organisers and their various partners are potentially able to access attendees’ data footprint, which can be huge and highly revealing," says Weatherhead.
+
+With official apps, organisers can collect information about the user's GPS location, the device's unique identifier, the type of device or version of the operating system used; they can look at how often the app is used and where it was downloaded; they can also scan the music library in order to send information about events in the area. Not every festival app is set up to collect all this information.
+
+When you download the Download Festival official app, a series of requests to access the user's accounts, profile data, calendar, location, photos, files and Wi-Fi info shows up.
+
+Organisers of festivals such as Download, Isle of Wight, British Summer Time, Latitude say in their privacy statements that private data may be shared with parent companies, event partners, selected third parties, service providers, police and government agencies. 
+
+In some cases, the information-sharing includes the transfer of data to other countries, even outside the European Union, with laws that may not protect privacy rights as extensively as those in the UK. 
+
+
+
+Image:  Download Festival App
+
+"The digital footprint we generate at festivals creates a picture of our tastes, our interests, our friends, and our habits," Sara Ogilvie, Policy officer at Liberty told Mashable.
+
+"Recent attacks by hackers on major companies like TalkTalk show just how easy it is for criminals to get hold of such highly valuable information too. Festivals are supposed to be relaxing, but getting back to work to discover you have to change your passwords isn’t fun."
+
+
+
+Find out what's happening with the data you're sharing, experts say.
+
+Image:  PA Wire/Press Association Images
+
+What can you do? 
+
+Generally speaking, British people aged 18-24 are slightly less concerned about privacy when using the Internet when compared with the general population, according to polling of 52,000 people by YouGov.
+
+The least worried are the so-called "Selfie-stylers," a term coined by YouGov to indicate individuals who keep up with web trends. While just 36% agree with the statement, "I don't worry too much about privacy when using Internet," that figure rises to 46% among "Selfie-stylers."
+
+What can festival revellers do to avoid having their privacy breached? 
+
+Not much, according to experts. 
+
+"Digital data is like a tattoo, it's difficult to erase," said Samani. 
+
+"Once you give up your data, it's out there and as the case of Ashley Madison shows, it's not easy to delete it. 
+
+"What are they going to do with my data? That's the question you should ask yourself before buying your festival ticket. And make sure you're comfortable to whom you give information with."
+
+As the festival season approaches, it's something you might want to consider, along with the weather forecast. 
+
+Have something to add to this story? Share it in the comments.
+
+
+

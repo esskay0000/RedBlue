@@ -2,8 +2,8 @@ import os
 import bs4
 import codecs
 
-CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/html/wsj_html/WSJ/"
-TARGET_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/text/wsj_text/"
+CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/html_14may/wsj_html/wsj/"
+TARGET_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/text_14may/wsj_text/"
 
 def transform_corpus(source=CORPUS_ROOT, target=TARGET_ROOT):
     """

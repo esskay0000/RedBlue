@@ -1,0 +1,11 @@
+[
+  {
+    "category": "MSNBC", 
+    "active": true, 
+    "_id": {
+      "$oid": "573641c1b4967415ddee81e2"
+    }, 
+    "link": "http://www.msnbc.com/feeds/latest", 
+    "title": "msnbc.com Latest Headlines"
+  }
+]

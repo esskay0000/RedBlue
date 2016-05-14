@@ -1,0 +1,11 @@
+[
+  {
+    "category": "USA_Today", 
+    "active": true, 
+    "_id": {
+      "$oid": "573645a0b49674163917502d"
+    }, 
+    "link": "http://rssfeeds.usatoday.com/TP-OnPolitics", 
+    "title": "USATODAY - On Politics"
+  }
+]
