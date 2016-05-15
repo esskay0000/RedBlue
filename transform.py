@@ -2,8 +2,8 @@ import os
 import bs4
 import codecs
 
-CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/html_14may/wsj_html/wsj/"
-TARGET_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/text_14may/wsj_text/"
+CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/html_15may/wsj_html/wsj/"
+TARGET_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/text_15may/wsj_text/"
 
 def transform_corpus(source=CORPUS_ROOT, target=TARGET_ROOT):
     """
@@ -24,7 +24,7 @@ def transform_document(source, target):
     writes it to the target file for further processing.
     """
     # Open and read the source, parsing HTML
-    with codecs.open(source, 'r', 'utf-8') as doc:
+    with codecs.open(source, 'r', 'ISO-8859-1') as doc:
         soup = bs4.BeautifulSoup(doc.read(), "html.parser")
 
         # Open and read the target

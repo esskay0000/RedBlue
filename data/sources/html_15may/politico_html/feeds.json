@@ -1,0 +1,11 @@
+[
+  {
+    "category": "Politico", 
+    "active": true, 
+    "_id": {
+      "$oid": "5736448db49674161e928c8a"
+    }, 
+    "link": "http://www.politico.com/rss/politics.xml", 
+    "title": "Politics"
+  }
+]

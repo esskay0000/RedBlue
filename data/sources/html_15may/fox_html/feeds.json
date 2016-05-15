@@ -1,0 +1,11 @@
+[
+  {
+    "category": "Fox", 
+    "active": true, 
+    "_id": {
+      "$oid": "573630feb4967414a906a506"
+    }, 
+    "link": "http://feeds.foxnews.com/foxnews/politics", 
+    "title": "FOX News"
+  }
+]

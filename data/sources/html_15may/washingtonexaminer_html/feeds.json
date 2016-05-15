@@ -1,0 +1,20 @@
+[
+  {
+    "category": "WashingtonExaminer", 
+    "active": true, 
+    "_id": {
+      "$oid": "57364761b4967416842c8aac"
+    }, 
+    "link": "http://www.washingtonexaminer.com/rss/politics", 
+    "title": "WashingtonExaminer.com RSS"
+  }, 
+  {
+    "category": "WashingtonExaminer", 
+    "active": true, 
+    "_id": {
+      "$oid": "57375e8622c36d1a674fd27d"
+    }, 
+    "link": "http://washingtonexaminer.com/rss/politics", 
+    "title": "WashingtonExaminer.com RSS"
+  }
+]
