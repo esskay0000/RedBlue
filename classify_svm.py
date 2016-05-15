@@ -23,8 +23,10 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.random_projection import sparse_random_matrix
 from sklearn.svm import SVC
 from sklearn import svm
+from sklearn import grid_search
 from sklearn.feature_extraction import text
 import lxml
+import pprint
 
 ## For data exploration
 import pandas as pd
@@ -41,7 +43,7 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
 #CONNECTING TO THE DATASET
-CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/debate_data"
+CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/debate_data/"
 #You will have to insert your own path to the transcript data folder here.#
 
 def load_data(root=CORPUS_ROOT):
@@ -287,32 +289,62 @@ with open (modelpath + 'model2000.pkl', 'wb') as f:
 #     pickle.dump(X_train_tfidf_11000,f)
 
 #Loading Fitted Estimator of Interest
-with open (path + 'model2000.pkl', 'rb') as f:
+with open (modelpath + 'model2000.pkl', 'rb') as f:
     model_svm = pickle.load(f)
 
-# MAKING PREDICTIONS USING RSS FEED OPERATIONAL DATA
-# Inserting new data into the SVM model and classifying it
+# Take text-formatted RSS feeds, open them for reading, append them to
+# an array, and make predictions on the array
 
-pred_arry = []
-array = []
+def get_instances_from_files(path):
+    docs = []
 
-data_dir = '/Users/Goodgame/desktop/RedBlue/output_13apr/'
-for doc in os.listdir(output_dir):
-    if doc == ".DS_Store": continue # Skip the .DS_Store file
-    array.append(doc)
-for i in array:
-    with codecs.open(output_dir + i, 'r', 'utf-8') as f:
-        var = f.read()
-        if os.path.getsize(output_dir + i) > 0:
-            X_new_tfidf = tfidf.transform(var)
-            X_new_tsvd = tsvd.transform(X_new_tfidf)
-            predicted = model_svm.predict(X_new_tsvd)
-            pred_arry.append(predicted)
-            print predicted
-print "The number of input documents is ", len(array)
-print "The number of test results is ", len(pred_arry)
-print array[10]
-print pred_arry[10]
+    for doc in os.listdir(path):
 
-for doc, category in zip(docs_new, predicted):
-    print('%r => %s' % (doc, category))
+        if doc.startswith('.'): continue # Ignore hidden files
+        # Open the file for reading
+        with codecs.open(os.path.join(path, doc), 'r', 'utf-8') as f:
+            data = f.read() # f is the file handle, now data is the string
+            docs.append(data)
+
+    # Now that we're done going through all the files, give back docs
+    return docs
+
+dataset = get_instances_from_files('/Users/Goodgame/desktop/RedBlue/data/sources/text_15may/nyt_text/')
+X = tfidf.transform(dataset)
+X_new_tsvd = tsvd.transform(X)
+preds = model_svm.predict(X_new_tsvd)
+
+print "Here are the results, printed in an array:"
+pprint.pprint(preds)
+print "Here are the number of predictions in the array:"
+print len(preds)
+
+
+#For each news source, where there is an output of values in "array:"
+
+reparray= []
+for i,j in enumerate(preds):
+	if j == 'rep':
+		reparray.append(i)
+
+rep = len(reparray)
+rep = float(rep)
+print "Here is the number of red results: ", rep
+
+
+demarray= []
+for i,j in enumerate(preds):
+	if j == 'dem':
+		demarray.append(i)
+
+dem = len(demarray)
+dem = float(dem)
+print "Here is the number of blue results: ", dem
+
+#Calcualte the distribution a news source's documents' predicted values:
+
+percentrep = (rep/len(preds))*100
+percentdem = (dem/len(preds))*100
+
+print "Percentage of red results: %", percentrep
+print "Percentage of blue results: %", percentdem

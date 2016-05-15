@@ -39,7 +39,7 @@ import matplotlib.pyplot as plt
 import pprint
 
 #CONNECTING TO THE DATASET
-CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/debate_data"
+CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/debate_data/"
 #You will have to insert your own path to the transcript data folder here.#
 
 def load_data(root=CORPUS_ROOT):
@@ -139,7 +139,7 @@ def get_instances_from_files(path):
     # Now that we're done going through all the files, give back docs
     return docs
 
-dataset = get_instances_from_files('/Users/Goodgame/desktop/RedBlue/output_13apr/')
+dataset = get_instances_from_files('/Users/Goodgame/desktop/RedBlue/data/sources/text_15may/nyt_text/')
 X = tfidf.transform(dataset)
 preds = model.predict(X)
 
