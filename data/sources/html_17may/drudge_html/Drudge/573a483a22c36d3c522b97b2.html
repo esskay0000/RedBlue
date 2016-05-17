@@ -1,0 +1,984 @@
+
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://opengraphprotocol.org/schema/' lang='en' class='no-js'>
+    <head>
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8'><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgECUlFTGwcGUlFbBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+        <title>Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party - Inside Edition</title>
+        <meta name='description' content="&quot;They promised me multiple times that it would not be a hit piece, and clearly it was,&quot; she told IE."/>
+        <meta name='keywords' content="trump, brewer, lane, rowanne, pool, flattered, donald, piece, girl, stunning"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="robots" content="all" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <!-- Google Publisher Tag -->
+        <link href="https://plus.google.com/104304424115513428440"; rel="publisher" />
+
+
+        
+    <meta property='fb:admins' content='3111204' />
+    <meta property='og:site_name' content='Inside Edition' />
+    <meta property='og:title' content="Rowanne Brewer Lane Says She Was Flattered To Be Called 'A Stunning Trump Girl' At Pool Party"/>
+    <meta property='og:description' content="&quot;They promised me multiple times that it would not be a hit piece, and clearly it was,&quot; she told IE."/>
+    <meta property='og:type' content='article'/>
+    <meta property='og:url' content='http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at'/>
+    <meta property='og:image' content='http://www.insideedition.com/images/stories/1605/16413.jpg'/>
+    <meta property='og:image:width' content='1280'/>
+    <meta property='og:image:height' content='720'/>
+    <meta property='fb:pages' content='71728150722' />
+    <meta name='twitter:site' content='@insideedition' />
+    <meta name='twitter:card' content='summary_large_image' />
+    <meta name='twitter:url' content='http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at' />
+    <meta name='twitter:title' content="Rowanne Brewer Lane Says She Was Flattered To Be Called 'A Stunning Trump Girl' At Pool Party" />
+    <meta name='twitter:description' content="&quot;They promised me multiple times that it would not be a hit piece, and clearly it was,&quot; she told IE." />
+    <meta name='twitter:image' content='http://www.insideedition.com/images/stories/1605/16413.jpg' />
+
+    <link rel="canonical" href="http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at" />        <link rel='shortcut icon' href='/images/favicon.ico' />
+        <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic,300italic,300,100italic,100,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,300italic,300,100italic,100,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <link type='text/css' rel='stylesheet' href='/stylesheets/custom.css' />
+    <link type='text/css' rel='stylesheet' href='/stylesheets/bcspinner.css' />
+                <script type="text/javascript" src="/javascripts/site.js"></script>
+        <script type="text/javascript" src="/javascripts/misc.js"></script>
+        <script type="text/javascript" src="/javascripts/pagination.js"></script>
+        <script type="text/javascript" src="/javascripts/videos.js"></script>
+        <script type="text/javascript" src="/javascripts/photos.js"></script>
+        <script type="text/javascript" src="/javascripts/polls.js"></script>
+        <script type="text/javascript" src="/javascripts/modules.js"></script>
+        <script src="https://insideedition.ep.livefyre.com/media/aW5zaWRlZWRpdGlvbi5lcC5saXZlZnlyZS5jb20=/javascripts/customprofiles.js"></script>
+        <script type="text/JavaScript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+        <script type="text/javascript" src="/javascripts/brightcove.js"></script>
+        <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+
+        <script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ab4e7516-48e4-4103-93e0-88d13f006887",popup:true,servicePopup:true,doNotHash:true,doNotCopy:false,shorten:false,hashAddressBar:false});</script><script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+    /* GPT responsive ad calls
+     *
+     *  Sizes:
+     *  1400 - Infinite
+     *  1024 - 1400
+     *  740 - 1024
+     *  330 - 740
+     *  0 - 330
+     *
+     */
+
+    var gptAdSlots = [];
+    googletag.cmd.push(function () {
+
+        //Define page skin sizes
+        var page_skin = googletag.sizeMapping().
+                addSize([0, 0], [1, 5]).
+                addSize([300, 0], [1, 4]).
+                addSize([740, 0], [1, 3]).
+                addSize([1024, 0], [1, 2]).
+                addSize([1400, 0], [1, 1])
+                .build();
+
+        //Define above the fold leaderboard sizes
+        var leaderboard_atf = googletag.sizeMapping().
+                addSize([0, 0], [88, 31]).
+                addSize([300, 0], [[300, 50], [320, 50]]).
+                addSize([740, 0], [728, 90]).
+                addSize([1024, 0], [[970, 90], [728, 90], [970, 250]]).
+                addSize([1400, 0], [[970, 90], [728, 90], [970, 250]]).
+                build();
+
+        //Define below the fold leaderboard sizes
+        var leaderboard_btf = googletag.sizeMapping().
+                addSize([0, 0], [88, 31]).
+                addSize([300, 0], [[300, 50], [320, 50]]).
+                addSize([740, 0], [728, 90]).
+                addSize([1024, 0], [728, 90]).
+                addSize([1400, 0], [728, 90]).
+                build();
+
+        //Define above the fold medium rectangle sizes
+        var medium_atf = googletag.sizeMapping().
+                addSize([0, 0], [88, 31]).
+                addSize([300, 0], [[300, 250], [320, 50]]).
+                addSize([740, 0], [[300, 600], [300, 250]]).
+                addSize([1024, 0], [[300, 600], [300, 250]]).
+                addSize([1400, 0], [[300, 600], [300, 250]]).
+                build();
+
+        //Define first below the fold medium rectangle sizes
+        var medium_btf = googletag.sizeMapping().
+                addSize([0, 0], [88, 31]).
+                addSize([300, 0], [[300, 250], [320, 50]]).
+                addSize([740, 0], [300, 250]).
+                addSize([1024, 0], [300, 250]).
+                addSize([1400, 0], [300, 250]).
+                build();
+
+        //Define second below the fold medium rectangle sizes
+        var medium_btf_2 = googletag.sizeMapping().
+                addSize([0, 0], [88, 31]).
+                addSize([300, 0], [[300, 250], [320, 50]]).
+                addSize([740, 0], [300, 250]).
+                addSize([1024, 0], [300, 250]).
+                addSize([1400, 0], [300, 250]).
+                build();
+
+        //Define page skin slots
+        gptAdSlots[0] = googletag.defineSlot('/4840/Inside_Edition/headlines/article', [1, 1], 'div-gpt-ad-Inside_Edition-headlines/article-0').
+                defineSizeMapping(page_skin).
+                addService(googletag.pubads()).
+                setTargeting("pos", ["skin"]);
+
+        //Define above the fold leaderboard slots
+        gptAdSlots[1] = googletag.defineSlot('/4840/Inside_Edition/headlines/article', [970, 90], 'div-gpt-ad-Inside_Edition-headlines/article-1').
+                defineSizeMapping(leaderboard_atf).
+                addService(googletag.pubads()).
+                setTargeting("pos", ["atf", "header"]);
+
+        //Define below the fold leaderboard slots
+        gptAdSlots[2] = googletag.defineSlot('/4840/Inside_Edition/headlines/article', [300, 250], 'div-gpt-ad-Inside_Edition-headlines/article-2').
+                defineSizeMapping(medium_atf).
+                addService(googletag.pubads()).
+                setTargeting("pos", ["atf", "a"]);
+
+        //Define above the fold medium rectangle slots
+        gptAdSlots[3] = googletag.defineSlot('/4840/Inside_Edition/headlines/article', [300, 250], 'div-gpt-ad-Inside_Edition-headlines/article-3').
+                defineSizeMapping(medium_btf).
+                addService(googletag.pubads()).
+                setTargeting("pos", ["btf", "b"]);
+
+        //Define first below the fold medium rectangle slots
+        gptAdSlots[4] = googletag.defineSlot('/4840/Inside_Edition/headlines/article', [728, 90], 'div-gpt-ad-Inside_Edition-headlines/article-4').
+                defineSizeMapping(leaderboard_btf).
+                addService(googletag.pubads()).
+                setTargeting("pos", ["btf", "anchor"]);
+
+        // Start ad fetching
+        googletag.pubads().set("page_url", "http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at"); //Replace URL with current page URL
+        googletag.pubads().setTargeting("node", "headlines-16413");//replace 123456789 with CRM node id
+        googletag.pubads().setTargeting("kw", ["trump", "brewer", "lane", "rowanne", "pool", "flattered", "donald", "piece", "girl", "stunning"]);//replace test with meta keywords field, comma separated, each term in quotes
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-411704-1', 'auto');
+ga('send', 'pageview');
+</script>                            <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party - Inside Edition",
+  "alternativeHeadline": "Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party - Inside Edition",
+  "image": [
+  "http://www.insideedition.com/images/stories/1605/16413.jpg"
+  ],
+  "datePublished": "2016-05-16T08:05:00-0400",
+  "description": "&quot;They promised me multiple times that it would not be a hit piece, and clearly it was,&quot; she told IE."
+
+}
+
+            </script>
+
+
+        
+        </head>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top darkGreyBg">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+                <div class="branding pull-left no-margin-padding">
+          <a href="/" class="noTrans">
+           <img src="../images/logo.png" alt="Inside Edition" class="logo">
+          </a>
+        </div>
+              </div>
+
+
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                 
+        <div class="mobileFull">
+          <div class="navWatch">
+            <a href="/listings">
+              <p class="grey robotoCondensedLight">
+                Watch on&nbsp;<span class="icon-tv2 icon iconXlg grey"></span>
+              </p>
+            </a>
+          </div>
+        </div>
+
+        <div class="mobileFull">
+          <form id="search" class="navbar-form" role="search" action="/search" method="post" _lpchecked="1">
+            <fieldset class="form-group">
+                <input class="form-control robotoLight" id="search-field-header" type="text" name="search">
+                <script>
+                    site.listen('search-field-header', 'focus', searchfield);
+                </script>
+            </fieldset>
+            <button type="submit" class="submitBtn"><span class="icon-magnifying47 icon darkGrey"></span></button>
+          </form>
+        </div>
+          
+        <div class="mobileFull">
+          <div class="navSocial">
+            <a href="http://www.facebook.com/Inside.Edition" target="_blank" class="noTrans">
+              <p class="circleTextmd mediumGreyBg">
+                <span class="icon-facebook-3 icon iconLg darkGrey"></span>
+              </p>
+            </a>
+            <a href="http://twitter.com/insideedition" target="_blank" class="noTrans">
+              <p class="circleTextmd mediumGreyBg">
+                <span class="icon-twitter icon iconLg darkGrey"></span>
+              </p>
+            </a>
+            <a href="https://instagram.com/insideedition/" target="_blank" class="noTrans">
+              <p class="circleTextmd mediumGreyBg">
+                <span class="icon-instagram icon iconLg darkGrey"></span>
+              </p>
+            </a>
+            <a href="https://www.youtube.com/insideedition" target="_blank" class="noTrans">
+              <p class="circleTextmd mediumGreyBg">
+                <span class="icon-youtube18 icon iconLg darkGrey"></span>
+              </p>
+            </a>
+            <a href="http://www.insideedition.com/community#rssfeeds" class="noTrans"> 
+              <p class="circleTextmd mediumGreyBg">
+                <span class="icon-rss9 icon iconLg darkGrey"></span>
+              </p>
+            </a>
+          </div>
+        </div>
+          
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav><script>document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script>
+<script>
+COMSCORE.beacon({
+c1 : 2,
+c2 : "8628780",
+c3 : "8628780",
+c4 : "http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at",
+c5 : "",
+c6 : "",
+c15 : ""
+});</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8628780&c3=8628780&c4=http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at&cj=1" /></noscript>
+<script src="//assets.adobedtm.com/398c7586c180f65472202cc7e5d30952000089f5/satelliteLib-f120c95ed224b5a8d849d41dbeb1d76c47675432.js"></script>
+<div id="site" class="main_background">
+        <div class="ad-unit billboard center-block">
+        <div id="div-gpt-ad-Inside_Edition-headlines/article-1">
+            <script type="text/javascript">
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-Inside_Edition-headlines/article-1');
+                });
+            </script>
+        </div>
+    </div>
+
+<div class="container">
+    <!-- HERO SECTION -->
+    <div class='blog-header'>
+        <p class='section-breadcrumb uppercase robotoCondensedBold red'>Headlines</p>
+
+        <h1 class='blog-title robotoThin darkGrey'>Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party</h1>
+        <hr class='lrg'>
+        <p class='blog-post-meta robotoCondensedLight darkGrey'>by <span class='byline robotoCondensedMedium'>Inside Edition</span> 11:05 AM EDT, May 16, 2016</p>
+    </div>
+    <div id="socialFloatVert">
+    <span class="st_facebook_large white" displaytext="Facebook"></span>
+    <span class="st_twitter_large white" st_url="http://ietv.co/1srIVlx" st_via="InsideEdition" displaytext="Twitter" st_title="Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party"></span>
+    <span class="st_email_large white" displaytext="Email"></span>
+    <span class="st_pinterest_large white" displaytext="Pintrest"></span>
+    <span class="st_googleplus_large white" displaytext="Google+"></span>
+</div>    <div class="blog-hero">
+        
+           <div class="BCouter" id="main-video">
+               <!-- FALLBACK CHROMELESS PLAYER -->
+               <script>
+                site.BC['playerID'] = '4122383861001';
+                site.BC['playerKey'] = 'AQ~~,AAABl3NGjUk~,c86X7VwaxEde1l-zYF_hprx1BitBXjfc';
+                site.BC['auto'] = true;
+                site.BC['linkBaseURl'] = "http://ietv.co/1srIVlx";
+                site.video('8516', 100, 100, 'main-video');
+                </script>
+
+               <!--  <video
+                    data-account="1749985693001"
+                    data-player="16e850ac-0b5c-4cc7-940f-10777a21b19c"
+                    data-embed="default"
+                    id="iesimple"
+                    class="video-js" controls></video>
+                <script
+                    src="//players.brightcove.net/1749985693001/16e850ac-0b5c-4cc7-940f-10777a21b19c_default/index.min.js"></script>
+                <script src="//players.brightcove.net/videojs-ima3/videojs.ima3.min.js"></script>
+                <link href="//players.brightcove.net/videojs-ima3/videojs.ima3.min.css" rel="stylesheet">
+-->
+            </div>
+
+            <!-- FALLBACK CHROMELESS PLAYER
+                <script>
+                site.BC['playerID'] = '4122383861001';
+                site.BC['playerKey'] = 'AQ~~,AAABl3NGjUk~,c86X7VwaxEde1l-zYF_hprx1BitBXjfc';
+                site.BC['auto'] = true;
+                site.video('8516', 100, 100, 'main-video');
+                </script>
+
+            <!--
+            <script type="text/JavaScript">
+                // Initialise player
+
+                var brightcovePlayer = videojs('iesimple');
+
+                // When the player's ready, let's get started
+                brightcovePlayer.ready(function(){
+                    var myAdUrl = "//pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/4840/Inside_Edition/videos/article&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at&description_url=http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at&correlator=1463437084&cmsid=932";
+
+
+                    // Use the Brightcove Video Cloud catalogue to pull out a video by ID
+                    brightcovePlayer.catalog.getVideo('ref:8516', function(error, video) {
+                        // Log its details to the console
+                        console.log(video);
+                        vidId=video.id;
+
+
+
+                        var econ = getEconomics('8516');
+                        console.log(econ);
+                        /**
+                         * only display ads if video is ad supported
+                         */
+                        if (econ !== "FREE") {
+
+                            //build ad URL
+                            console.log('before Ad IMA');
+                            myAdUrl = myAdUrl + "&vid=" + vidId;
+                            console.log("AdUrl: " + myAdUrl);
+                            // load IMA plugin
+                            brightcovePlayer.ima3({
+                                prerollTimeout: 5000,
+                                serverUrl: myAdUrl
+                            });
+
+                        }
+
+                                                var viralIframe = '<iframe src="//players.brightcove.net/1749985693001/220a60f0-3b4b-4083-b9fd-2adcd1d69276_default/index.html?updateAdUrlRefId=ref:8516" width="640" height="360" frameborder=0></iframe>';
+
+                        //social variables
+                        var options = {
+                            "embedCode":viralIframe
+                        };
+
+                        brightcovePlayer.social(options);
+
+
+                        // Load the video source files into the player
+                        brightcovePlayer.catalog.load(video);
+
+                    })
+                });
+
+            </script>
+            -->
+            </div>
+    <div class="row blog-body">
+
+        <!-- MAIN SECTION -->
+        <div class="col-sm-8 blog-main rightFloatMain">
+            <div class="blog-post">
+                <p>A front page story in <a href="http://www.nytimes.com/2016/05/15/us/politics/donald-trump-women.html?_r=1" target="_blank"><em>The New York Times</em></a>&nbsp;about <a href="http://www.insideedition.com/headlines/16127-more-than-a-dozen-arrested-as-protests-turn-violent-outside-california-trump-rally">Donald Trump's dealings</a>&nbsp;with women over the years has led to some backlash against the newspaper.&nbsp;</p>
+<p>One of the former models quoted in the story, which ran on <em>The Times</em>' front page Saturday, Rowanne Brewer Lane, is now blasting its&nbsp;reporters, claiming they were dishonest about what the story was supposed to be.</p>
+<p>&ldquo;I'm extremely upset. Basically, they lied to me,&rdquo; she told Inside Edition. &ldquo;They promised me multiple times that it would not be a hit piece, and clearly it was.&rdquo;</p>
+<p><strong><a href="http://www.insideedition.com/headlines/16383-trump-denies-he-posed-as-his-own-publicist-to-brag-about-exploits-with-women">Read: Trump Denies He Posed as His Own Publicist To Brag About Exploits With Women</a></strong></p>
+<p>Brewer Lane, who dated Trump in 1990, says The Times distorted her words.</p>
+<p>The newspaper ran a lengthy front-page story Saturday alleging Trump had made "unwelcome romantic advances" and indulged in "unsettling workplace conduct" and crude behavior in the past.</p>
+<p><em>The Times</em> report details a 1990 pool party at Trump&rsquo;s Mar-A-Lago estate in Florida where Brewer Lane first met the real estate tycoon.</p>
+<p>The newspaper says Trump had <a href="http://www.insideedition.com/headlines/16364-sydney-leathers-responds-to-anthony-weiner-documentary-i-feel-like-i-had-ptsd-from-it">barely met her</a> when he asked her to put on a swimsuit.</p>
+<p><em>The Times</em> wrote that the 26-year-old model put on the bikini and when she came out, Trump said, "wow."</p>
+<p>The 44-year-old Trump was in the midst of a divorce from first wife Ivana.</p>
+<p>Trump then took the young model to the pool and said, "that is a stunning Trump girl, isn&rsquo;t it?," Brewer Lane told <em>the Times.</em></p>
+<p><em>The Times</em> called the incident "a debasing face-to-face encounter."</p>
+<p>But Brewer Lane says it was anything but, telling Inside Edition: "I told <em>The Times</em> that I was flattered by that comment, I was shocked and flattered."</p>
+<p>She said she wasn&rsquo;t offended and it was "the exact opposite of what they depicted." She added "I feel betrayed and deceived" by <em>The New York Times.</em></p>
+<p>Once they began dating, she says the billionaire was "gentlemanly."</p>
+<p>&ldquo;I never saw Donald be disrespectful to a woman, I met a lot of women when I was with Donald, a lot that worked with him, for him, and a lot that did not and he was very graceful to every one of them,&rdquo; she told Inside Edition.</p>
+<p>Another woman quoted in the story is a former Miss Utah, Temple Taggart.</p>
+<p>According to the Times, Taggart was competing in the 1997 Miss USA pageant, and was "startled by how forward he was with young contestants like her."</p>
+<p>"He kissed me directly on the lips. I thought, 'oh my God, gross,&rsquo;&rdquo; she told the paper.</p>
+<p>"I think there were a few other girls that he kissed on the mouth. I was like, 'Wow, that's inappropriate.'"</p>
+<p>Trump disputes the kissing claim.</p>
+<p><a href="http://www.insideedition.com/headlines/16130-trump-bodyguard-once-accused-of-having-affair-with-marla-maples-never-got-over-the-scandal"><strong>Read:&nbsp;Trump Bodyguard Once Accused of Having Affair With Marla Maples Never Got Over The Scandal, Ex-Wife Says</strong></a></p>
+<p>The two <em>Times</em> reporters who wrote the piece, Michael Barbaro and Megan Twohey, appeared on <em>CBS This Morning</em> Monday.</p>
+<p>"I think readers of the story can digest what happened to her [Brewer Lane]," Barbaro said.</p>
+<p>Twohey said the motive of the article was "to go behind the scenes and examine how Trump has behaved with <a href="http://www.insideedition.com/headlines/14328-whatever-happened-to-trumps-second-wife-marla-maples">women in private</a>. Not just in recent years, but going back to his days in the military school in the 1960s."</p>
+<p>After backlash from Brewer Lane, Barbaro defended the story, saying: &ldquo;There is not a single dimension to this story because there is not a single dimension to Donald Trump.&rdquo;</p>
+<p>Trump tweeted a barrage of responses, calling it a "failing" newspaper.</p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">The <a href="https://twitter.com/nytimes">@nytimes</a> is so dishonest. Their hit piece cover story on me yesterday was just blown up by Rowanne Brewer, who said it was a lie!</p>
+&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/732196260636151808">May 16, 2016</a></blockquote>
+<script charset="utf-8" type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Wow, Rowanne Brewer, the most prominently depicted woman in the failing <a href="https://twitter.com/nytimes">@nytimes</a> story yesterday, was on <a href="https://twitter.com/foxandfriends">@foxandfriends</a> saying Times lied</p>
+&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/732197065820913668">May 16, 2016</a></blockquote>
+<script charset="utf-8" type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<p><br /> <br /> <br />In a statement to Inside Edition, <em>The New York Times</em> said: "Ms. Brewer Lane was quoted fairly, accurately and at length. The story provides context for the reader including that the swimsuit scene was the 'start of a whirlwind romance' between Ms. Brewer Lane and Mr. Trump."</p>
+<p><a href="http://www.insideedition.com/headlines/16381-trump-reacts-to-bombshell-report-that-bill-clinton-charity-gave-2-million-to-friends-company"><em>Watch: Trump Reacts To 'Bombshell' Report That Bill Clinton Charity Gave $2 Million To Friend's Company</em></a></p>                                                                                <style type="text/css">
+                            .video { position: relative; }
+
+                            .video a {
+                                position: absolute;
+                                display: block;
+                                background: url(/images/play-button.png);
+                                height: 200px;
+                                width: 200px;
+                                top: 5px;
+                                left: 5px;
+                                text-align: center;
+                                background-repeat: no-repeat;
+                            }
+
+                        </style>
+                        <p>
+                        <div class="video">
+                            <img src="http://www.insideedition.com/images/videos/1605/8498.jpg" />
+                            <a href="http://www.insideedition.com/videos/8498-trump-reacts-to-report-that-bill-clintons-charity-gave-2m-to-friends-company"></a>
+                        </div>
+                        </p>
+                        <!-- on mobile display picture only  -->
+
+                    
+
+
+                                <p style="display:inline-block;">
+                    <span class="st_facebook_large fbShare" st_url="http://ietv.co/1srIVlx"
+                          st_title="Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party" st_image="http://www.insideedition.com/images/stories/1605/16413.jpg"
+                          displaytext="Facebook"></span>
+                    <span class="st_twitter_large twShare" st_url="http://ietv.co/1srIVlx" st_via="InsideEdition"
+                          st_title="Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party" displaytext="Twitter"></span>
+                </p>
+            </div>
+            <div class="modules-bottom multiple">
+
+            <div class="OUTBRAIN" data-src="http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at" data-widget-id="AR_7" data-ob-template="insideedition" ></div>
+    <div id="livefyre"></div>
+<div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div></div>
+        </div>
+
+        <!-- SIDEBAR SECTION -->
+        <div class="col-md-4 blog-sidebar">
+			<div class="sidebar-module">
+				<div class="ad-unit medRec">
+					<div id="div-gpt-ad-Inside_Edition-headlines/article-2">
+						<script type="text/javascript">
+							googletag.cmd.push(function () {
+								googletag.display('div-gpt-ad-Inside_Edition-headlines/article-2');
+							});
+						</script>
+					</div>
+				</div>
+			</div>
+                        				<h3 class="robotoCondensedLight darkGrey heading">Related Coverage</h3>
+				<hr class="sml"></hr>
+                                                        <div class="sidebar-module">
+                        <a href="/headlines/16192-ex-model-who-dated-trump-says-he-still-loved-marla-maples-after-their-split">
+                            <div class="imgBg labelContainer">
+                                <img src="/images/stories/1605/16192.jpg">
+                            </div>
+                            <h3 class="robotoCondensedLight darkGrey">Ex-Model Who Dated Trump Says He Still Loved Marla Maples After Their Split</h3>
+                        </a>
+
+                        <div class="inlineBlock socialSmall">
+                            <span class="st_facebook_large white" st_url="http://ietv.co/1W7dlWD"
+                                  st_title="Ex-Model Who Dated Trump Says He Still Loved Marla Maples After Their Split" st_image="http://www.insideedition.com/images/stories/1605/16192.jpg"
+                                  displaytext="Facebook"></span>
+                            <span class="st_twitter_large white" st_url="http://ietv.co/1W7dlWD"
+                                  st_via="InsideEdition" st_title="Ex-Model Who Dated Trump Says He Still Loved Marla Maples After Their Split"
+                                  displaytext="Twitter"></span>
+                            <span class="st_email_large white" st_url="http://ietv.co/1W7dlWD"
+                                  st_title="Ex-Model Who Dated Trump Says He Still Loved Marla Maples After Their Split" st_image="http://www.insideedition.com/images/stories/1605/16192.jpg"
+                                  displaytext="Email"></span>
+                        </div>
+                    </div>
+                                                        <div class="sidebar-module">
+                        <a href="/headlines/14514-donald-trumps-ex-says-he-spoke-about-a-presidential-run-25-years-ago">
+                            <div class="imgBg labelContainer">
+                                <img src="/images/stories/1602/14514.jpg">
+                            </div>
+                            <h3 class="robotoCondensedLight darkGrey">Donald Trump's Ex Says He Spoke About a Presidential Run 25 Years Ago</h3>
+                        </a>
+
+                        <div class="inlineBlock socialSmall">
+                            <span class="st_facebook_large white" st_url="http://ietv.co/1SQEMjW"
+                                  st_title="Donald Trump's Ex Says He Spoke About a Presidential Run 25 Years Ago" st_image="http://www.insideedition.com/images/stories/1602/14514.jpg"
+                                  displaytext="Facebook"></span>
+                            <span class="st_twitter_large white" st_url="http://ietv.co/1SQEMjW"
+                                  st_via="InsideEdition" st_title="Donald Trump's Ex Says He Spoke About a Presidential Run 25 Years Ago"
+                                  displaytext="Twitter"></span>
+                            <span class="st_email_large white" st_url="http://ietv.co/1SQEMjW"
+                                  st_title="Donald Trump's Ex Says He Spoke About a Presidential Run 25 Years Ago" st_image="http://www.insideedition.com/images/stories/1602/14514.jpg"
+                                  displaytext="Email"></span>
+                        </div>
+                    </div>
+                                        <div class="modules-sidebar multiple">
+<div class='sidebar-module sidebar-module-inset lightGreyBg no-margin-bottom trendingWidget'>
+<h3 class='robotoCondensedLight darkGrey heading'>Trending <span class='red'>Up</span></h3>
+<ol class='list-unstyled robotoCondensedLight module-trending'>
+   
+            <hr class="sml">
+                <li>
+                    <a href="/headlines/16297-girl-11-is-scalped-and-possibly-disfigured-for-life-after-getting-her-hair-caught-in" title="Girl, 11, Is Scalped and Possibly Disfigured for Life After Getting Her Hair Caught in Carnival Ride">
+                        <span class="no-margin-left left25">
+                        <div class="imgBg">
+                         <img src="/images/stories/1605/16297.jpg" alt="1">
+                        </div>
+                        </span>
+                        <p class="left75 pAdjust robotoCondensedLight trendingText">
+                         <span class="red robotoCondensedBold">1.&nbsp;</span><span class="trendingContent">Girl, 11, Scalped By Carnival Ride</span>
+                        </p>
+                    </a>
+                    <div class="inlineBlock socialSmall">
+                        <span class="st_facebook_large white" style="background:none;" st_url="http://ietv.co/1Wlerhi" st_title="Girl, 11, Is Scalped and Possibly Disfigured for Life After Getting Her Hair Caught in Carnival Ride" st_image="http://www.insideedition.com/images/stories/1605/16297.jpg" st_summary="" displaytext="Facebook"></span>
+                        <span class="st_twitter_large white" st_url="http://ietv.co/1Wlerhi" st_via="InsideEdition" st_title="Girl, 11, Is Scalped and Possibly Disfigured for Life After Getting Her Hair Caught in Carnival Ride" displaytext="Twitter"></span>
+                        <span class="st_email_large white" st_url="http://ietv.co/1Wlerhi" st_title="Girl, 11, Is Scalped and Possibly Disfigured for Life After Getting Her Hair Caught in Carnival Ride" st_image="http://www.insideedition.com/images/stories/1605/16297.jpg" st_summary="" displaytext="Email"></span>
+                    </div>      
+                </li>
+           
+            <hr class="sml">
+                <li>
+                    <a href="/headlines/16301-dad-of-missing-girl-9-stunned-that-uncle-abducted-her-it-was-a-deep-down" title="Dad of Missing Girl, 9, Stunned That Uncle Abducted Her: 'It Was A Deep Down Evil Inside Him'">
+                        <span class="no-margin-left left25">
+                        <div class="imgBg">
+                         <img src="/images/stories/1605/16301.jpg" alt="2">
+                        </div>
+                        </span>
+                        <p class="left75 pAdjust robotoCondensedLight trendingText">
+                         <span class="red robotoCondensedBold">2.&nbsp;</span><span class="trendingContent">Missing Girl's Dad Stunned That Uncle Abducte...</span>
+                        </p>
+                    </a>
+                    <div class="inlineBlock socialSmall">
+                        <span class="st_facebook_large white" style="background:none;" st_url="http://ietv.co/1T74uTK" st_title="Dad of Missing Girl, 9, Stunned That Uncle Abducted Her: &#39;It Was A Deep Down Evil Inside Him&#39;" st_image="http://www.insideedition.com/images/stories/1605/16301.jpg" st_summary="" displaytext="Facebook"></span>
+                        <span class="st_twitter_large white" st_url="http://ietv.co/1T74uTK" st_via="InsideEdition" st_title="Dad of Missing Girl, 9, Stunned That Uncle Abducted Her: &#39;It Was A Deep Down Evil Inside Him&#39;" displaytext="Twitter"></span>
+                        <span class="st_email_large white" st_url="http://ietv.co/1T74uTK" st_title="Dad of Missing Girl, 9, Stunned That Uncle Abducted Her: &#39;It Was A Deep Down Evil Inside Him&#39;" st_image="http://www.insideedition.com/images/stories/1605/16301.jpg" st_summary="" displaytext="Email"></span>
+                    </div>      
+                </li>
+           
+            <hr class="sml">
+                <li>
+                    <a href="/headlines/16349-momma-goose-asks-officer-for-help-untangling-baby-from-balloon-string" title="Momma Goose Asks Officer For Help Untangling Baby From Balloon String">
+                        <span class="no-margin-left left25">
+                        <div class="imgBg">
+                         <img src="/images/stories/1605/16349.jpg" alt="3">
+                        </div>
+                        </span>
+                        <p class="left75 pAdjust robotoCondensedLight trendingText">
+                         <span class="red robotoCondensedBold">3.&nbsp;</span><span class="trendingContent">Momma Goose Asks Officer For Help Untangling ...</span>
+                        </p>
+                    </a>
+                    <div class="inlineBlock socialSmall">
+                        <span class="st_facebook_large white" style="background:none;" st_url="http://ietv.co/1T6NUhs" st_title="Momma Goose Asks Officer For Help Untangling Baby From Balloon String" st_image="http://www.insideedition.com/images/stories/1605/16349.jpg" st_summary="" displaytext="Facebook"></span>
+                        <span class="st_twitter_large white" st_url="http://ietv.co/1T6NUhs" st_via="InsideEdition" st_title="Momma Goose Asks Officer For Help Untangling Baby From Balloon String" displaytext="Twitter"></span>
+                        <span class="st_email_large white" st_url="http://ietv.co/1T6NUhs" st_title="Momma Goose Asks Officer For Help Untangling Baby From Balloon String" st_image="http://www.insideedition.com/images/stories/1605/16349.jpg" st_summary="" displaytext="Email"></span>
+                    </div>      
+                </li>
+           
+            <hr class="sml">
+                <li>
+                    <a href="/headlines/16375-9-year-old-carlie-trent-found-safe-by-citizens-who-hold-uncle-at-gunpoint-until" title="9-Year-Old Carlie Trent Found Safe by Citizens Who Hold Uncle at Gunpoint Until Authorities Arrive">
+                        <span class="no-margin-left left25">
+                        <div class="imgBg">
+                         <img src="/images/stories/1605/16375.jpg" alt="4">
+                        </div>
+                        </span>
+                        <p class="left75 pAdjust robotoCondensedLight trendingText">
+                         <span class="red robotoCondensedBold">4.&nbsp;</span><span class="trendingContent">9-Year-Old Carlie Trent Found Safe</span>
+                        </p>
+                    </a>
+                    <div class="inlineBlock socialSmall">
+                        <span class="st_facebook_large white" style="background:none;" st_url="http://ietv.co/1NscM6v" st_title="9-Year-Old Carlie Trent Found Safe by Citizens Who Hold Uncle at Gunpoint Until Authorities Arrive" st_image="http://www.insideedition.com/images/stories/1605/16375.jpg" st_summary="" displaytext="Facebook"></span>
+                        <span class="st_twitter_large white" st_url="http://ietv.co/1NscM6v" st_via="InsideEdition" st_title="9-Year-Old Carlie Trent Found Safe by Citizens Who Hold Uncle at Gunpoint Until Authorities Arrive" displaytext="Twitter"></span>
+                        <span class="st_email_large white" st_url="http://ietv.co/1NscM6v" st_title="9-Year-Old Carlie Trent Found Safe by Citizens Who Hold Uncle at Gunpoint Until Authorities Arrive" st_image="http://www.insideedition.com/images/stories/1605/16375.jpg" st_summary="" displaytext="Email"></span>
+                    </div>      
+                </li>
+           
+            <hr class="sml">
+                <li>
+                    <a href="/headlines/16320-carnival-scalping-horror-was-not-caused-by-malfunction-or-operator-error-officials" title="Carnival Scalping Horror Was Not Caused By Malfunction or Operator Error: Officials">
+                        <span class="no-margin-left left25">
+                        <div class="imgBg">
+                         <img src="/images/stories/1605/16320.jpg" alt="5">
+                        </div>
+                        </span>
+                        <p class="left75 pAdjust robotoCondensedLight trendingText">
+                         <span class="red robotoCondensedBold">5.&nbsp;</span><span class="trendingContent">Malfunction Didn't Cause Carnival Scalping</span>
+                        </p>
+                    </a>
+                    <div class="inlineBlock socialSmall">
+                        <span class="st_facebook_large white" style="background:none;" st_url="http://ietv.co/23FG2Ze" st_title="Carnival Scalping Horror Was Not Caused By Malfunction or Operator Error: Officials" st_image="http://www.insideedition.com/images/stories/1605/16320.jpg" st_summary="" displaytext="Facebook"></span>
+                        <span class="st_twitter_large white" st_url="http://ietv.co/23FG2Ze" st_via="InsideEdition" st_title="Carnival Scalping Horror Was Not Caused By Malfunction or Operator Error: Officials" displaytext="Twitter"></span>
+                        <span class="st_email_large white" st_url="http://ietv.co/23FG2Ze" st_title="Carnival Scalping Horror Was Not Caused By Malfunction or Operator Error: Officials" st_image="http://www.insideedition.com/images/stories/1605/16320.jpg" st_summary="" displaytext="Email"></span>
+                    </div>      
+                </li>
+        </ol>
+</div>
+    <div class="sidebar-module sidebar-module-inset redBg">
+        <div class="fullWidth white uppercase center connectSocial">
+            <p class="robotoCondensedBold">Connect For Updates</p>
+            <div class="inlineBlock center">
+                <a href="http://www.facebook.com/Inside.Edition" target="_blank"><p class="circleTextsm"><span class="icon-facebook-1 icon"></span></p></a>
+                <a href="http://twitter.com/insideedition" target="_blank"><p class="circleTextsm"><span class="icon-twitter-1 icon"></span></p></a>
+                <a href="https://instagram.com/insideedition/" target="_blank"><p class="circleTextsm"><span class="icon-instagram icon"></span></p></a>   
+                <a href="https://www.youtube.com/insideedition" target="_blank"><p class="circleTextsm"><span class="icon-youtube18 icon"></span></p></a>
+                <a href="http://www.insideedition.com/community#rssfeeds" target="_blank"><p class="circleTextsm"><span class="icon-rss9-1 icon"></span></p></a>
+            </div>
+        </div>
+    </div>
+
+                <div class="OUTBRAIN" data-src="http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at" data-widget-id="SB_2" data-ob-template="insideedition" ></div>
+    <div class='sidebar-module'>
+<div id="zergnet-widget-29713"></div>
+<script language="javascript" type="text/javascript">
+(function()
+{ var zergnet = document.createElement('script'); zergnet.type = 'text/javascript'; zergnet.async = true; zergnet.src = 'http://www.zergnet.com/zerg.js?id=29713'; var znscr = document.getElementsByTagName('script')[0]; znscr.parentNode.insertBefore(zergnet, znscr); }
+)();
+</script>
+</div>
+<div class='sidebar-module'>
+    <div class='ad-unit medRec'>
+        <div id="div-gpt-ad-Inside_Edition-headlines/article-3">
+    <script type="text/javascript">
+        googletag.cmd.push(function () {
+            googletag.display('div-gpt-ad-Inside_Edition-headlines/article-3');
+        });
+    </script>
+</div>    </div>
+</div>
+</div>
+        </div>
+    </div>
+    <div class='ad-unit billboard center-block'>
+        <div id="ad-unit billboard center-block">
+    <div id="div-gpt-ad-Inside_Edition-headlines/article-4">
+        <script type="text/javascript">
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-Inside_Edition-headlines/article-4');
+            });
+        </script>
+    </div>
+</div>    </div>
+    <div class='blog-module ourPartners'>
+<h3 class='blog-title robotoCondensedLight darkGrey'>From Our Partners</h3>
+<hr class='lrg'>
+<div class='col-md-4 borderGrey'>
+<ol class='list-unstyled robotoCondensedNormal black sidebar-module-inset'>
+<li><a target='_blank' href='http://www.etonline.com/news/188863_katy_perry_and_orlando_bloom_pack_on_the_pda_at_cannes/'><p class='robotoCondensedNormal'>Katy Perry and Orlando Bloom Pack on the PDA at Cannes After Selena Gomez Romance Rumors</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.etonline.com/tv/188858_exclusive_chris_harrison_says_jojo_bachelorette_season_is_full_of_man_cry/'><p class='robotoCondensedNormal'>EXCLUSIVE: Chris Harrison Says JoJo's 'Bachelorette' Season is Full of 'Man Cry', Reveals He Wants to Retire Soon!</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.etonline.com/fashion/188864_beyonce_vs_mariah_carey_the_same_balmain_minidress/'><p class='robotoCondensedNormal'>Beyonce and Mariah Carey Rock the Same Balmain Minidress: Who Wore It Best?</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.etonline.com/news/188857_exclusive_real_housewives_of_beverly_hills_star_kyle_richards_talks_rocky_friendship_with_yolanda_foster/'><p class='robotoCondensedNormal'>EXCLUSIVE: 'Real Housewives of Beverly Hills' Star Kyle Richards Talks Rocky Friendship With Yolanda Foster</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.etonline.com/news/188735_ashley_graham_on_relationship_with_food_body_weight_struggles_term_plus_size_exclusive/'><p class='robotoCondensedNormal'>EXCLUSIVE: Ashley Graham Gets Candid on Her 'Relationship With Food' and What's Next!</p></a></li>
+</ol>
+<span class='xlightGreyBg spanFull'>
+<a target='_blank' href='http://www.etonline.com' title='ET'>
+<span class='xlightGreyBg spanFull'><span class='partnerSprite et'></span></span>
+</a>
+</span>
+</div>
+<div class='col-md-4 borderGrey'>
+<ol class='list-unstyled robotoCondensedNormal black sidebar-module-inset'>
+<li><a target='_blank' href='http://www.rachaelrayshow.com/recipes/22817_tina_wu_s_philly_cheesesteak_rolls/'><p class='robotoCondensedNormal'>Tina Wuâs Philly Cheesesteak Rolls</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.rachaelrayshow.com/recipes/22820_spicy_pizza_rolls/'><p class='robotoCondensedNormal'>Spicy Pizza Rolls</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.rachaelrayshow.com/celebs/22833_what_joy_behar_wishes_for_donald_trump/'><p class='robotoCondensedNormal'>What Joy Behar Wishes for Donald Trump</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.rachaelrayshow.com/celebs/22834_joy_behar_dishes_on_her_view_co_hosts_becoming_like_annoying_siblings/'><p class='robotoCondensedNormal'>Joy Behar Dishes on Her âViewâ Co-Hosts Becoming Like 'Annoying Siblings'</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.rachaelrayshow.com/celebs/22835_joy_behar_jokes_that_she_wants_a_menage_a_trois_with_who/'><p class='robotoCondensedNormal'>Joy Behar Jokes That She Wants a Menage a Trois with Who?</p></a></li>
+</ol>
+<span class='xlightGreyBg spanFull'>
+<a target='_blank' href='http://www.rachaelrayshow.com' title='Rachael Ray'>
+<span class='xlightGreyBg spanFull'><span class='partnerSprite rachaelray'></span></span>
+</a>
+</span>
+</div>
+<div class='col-md-4 borderGrey'>
+<ol class='list-unstyled robotoCondensedNormal black sidebar-module-inset'>
+<li><a target='_blank' href='http://www.newser.com/story/225150/cancer-stricken-farmers-sue-monsanto-over-roundup.html'><p class='robotoCondensedNormal'>Cancer-Stricken Farmers Sue Monsanto Over Roundup</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.newser.com/story/225182/64-year-old-is-first-in-us-to-have-penis-transplant.html'><p class='robotoCondensedNormal'>64-Year-Old Is First in US to Have Penis Transplant</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.newser.com/story/225147/report-human-rat-dna-found-in-burgers.html'><p class='robotoCondensedNormal'>Report: Human, Rat DNA Found in Burgers</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.newser.com/story/225188/mickey-dees-yanks-brand-ambassador-out-of-schools.html'><p class='robotoCondensedNormal'>Mickey Dee's Yanks 'Brand Ambassador' Out of Schools</p></a></li>
+<hr class='sml'>
+<li><a target='_blank' href='http://www.newser.com/story/225104/wv-mom-dies-after-fla-plastic-surgery.html'><p class='robotoCondensedNormal'>WV Mom Dies After Fla. Plastic Surgery</p></a></li>
+</ol>
+<span class='xlightGreyBg spanFull'>
+<a target='_blank' href='http://www.newser.com' title='Newser'>
+<span class='xlightGreyBg spanFull'><span class='partnerSprite newser'></span></span>
+</a>
+</span>
+</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+    var lf_config = [{
+        "collectionMeta": "eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlJvd2FubmUgQnJld2VyIExhbmUgU2F5cyBTaGUgV2FzIEZsYXR0ZXJlZCB0byBCZSBDYWxsZWQgJ0EgU3R1bm5pbmcgVHJ1bXAgR2lybCcgYXQgUG9vbCBQYXJ0eSIsInVybCI6Imh0dHA6XC9cL3d3dy5pbnNpZGVlZGl0aW9uLmNvbVwvaGVhZGxpbmVzXC8xNjQxMy1yb3dhbm5lLWJyZXdlci1sYW5lLXNheXMtc2hlLXdhcy1mbGF0dGVyZWQtdG8tYmUtY2FsbGVkLWEtc3R1bm5pbmctdHJ1bXAtZ2lybC1hdCIsImNoZWNrc3VtIjoiMTdiYjIzMjg5NjM2YWZhNzY3ZWYwNGMyOTc4NTJjNGUiLCJhcnRpY2xlSWQiOiIxNjQxMyJ9.HmdR3JmM5GBwJvP7VIwKT4rp9j-g2n7Nhb2H8L1Pl68",
+        "checksum": "17bb23289636afa767ef04c297852c4e",
+        "siteId": "372080",
+        "el": "livefyre",
+        "articleId": "16413",
+        "maxVisible": "10"
+    }];
+    var authDelegate = new fyre.conv.SPAuthDelegate({engage: {app: 'cbstv.auth.fyre.co'}});
+    var conv = fyre.conv.load({"network": "cbstvdistribution.fyre.co", "authDelegate": authDelegate}, lf_config);
+    processing = true;
+</script><footer class='blog-footer lightGreyBg'>
+    <div class='container'>
+
+        <div class='col-sm-2'>
+          <h3 class='robotoCondensedNormal'>About us</h3>
+          <ol>
+            <li class='robotoCondensedLight'>
+              <a href='/bios'>
+                Bios
+              </a>
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='/awards'>
+                Awards
+              </a>                
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='/contact'>
+                Contact
+              </a>  
+            </li>
+          </ol>
+        </div>
+
+        <div class='col-sm-2'>
+          <h3 class='robotoCondensedNormal'>Connect</h3>
+          <ol>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.facebook.com/Inside.Edition' target='_blank'>
+                Facebook
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://twitter.com/insideedition' target='_blank'>
+                Twitter
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='https://instagram.com/insideedition/' target='_blank'>
+                Instagram
+              </a> 
+            </li>
+              <li class='robotoCondensedLight'>
+                  <a href='https://plus.google.com/104304424115513428440' target='_blank'>
+                      Google+
+                  </a>
+              </li>
+            <li class='robotoCondensedLight'>
+              <a href='https://www.youtube.com/insideedition' target='_blank'>
+                YouTube
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.insideedition.com/community#rssfeeds' target='_blank'>
+                RSS
+              </a> 
+            </li>
+          </ol>
+        </div>
+
+        <div class='col-sm-2'>
+          <h3 class='robotoCondensedNormal'>Watch on TV</h3>
+          <ol>
+            <li class='robotoCondensedLight'>
+              <a href='/listings'>
+                Local Listings
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='/submit'>
+                Submit a Story
+              </a> 
+            </li>
+          </ol>
+        </div>
+
+        <div class='col-sm-2'>
+          <h3 class='robotoCondensedNormal'>Sites we love</h3>
+          <ol>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.cbsnews.com/' target='_blank'>
+                CBS News
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.tvguide.com/' target='_blank'>
+                TV Guide
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.tv.com/' target='_blank'>
+                TV.com
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.etonline.com/' target='_blank'>
+                ETonline
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.metacritic.com/'target='_blank'>
+                Metacritic
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.last.fm/' target='_blank'>
+                Last.fm
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.metrolyrics.com/' target='_blank'>
+                Metrolyrics
+              </a> 
+            </li>
+            <li class='robotoCondensedLight'>
+              <a href='http://www.rachaelrayshow.com/' target='_blank'>
+                Rachael Ray Show
+              </a> 
+            </li>
+
+          </ol>
+        </div>
+
+        <div class='col-sm-2'>
+          <div class='footerSocial'>
+           <a href='http://www.facebook.com/Inside.Edition' class='noTrans' target='_blank'>
+              <p class='circleTextmd borderGrey'>
+                <span class='icon-facebook-3 icon iconLg grey'></span>
+              </p>
+            </a>
+            <a href='http://twitter.com/insideedition' class='noTrans' target='_blank'>
+              <p class='circleTextmd borderGrey'>
+                <span class='icon-twitter icon iconLg grey'></span>
+              </p>
+            </a>
+            <a href='https://instagram.com/insideedition/' class='noTrans' target='_blank'>
+              <p class='circleTextmd borderGrey'>
+                <span class='icon-instagram icon iconLg grey'></span>
+              </p>
+            </a>
+            <a href='https://www.youtube.com/insideedition' class='noTrans' target='_blank'>
+              <p class='circleTextmd borderGrey'>
+                <span class='icon-youtube18 icon iconLg grey'></span>
+              </p>
+            </a>
+            <a href='http://www.insideedition.com/community#rssfeeds' class='noTrans'target='_blank'> 
+              <p class='circleTextmd borderGrey'>
+                <span class='icon-rss9 icon iconLg grey'></span>
+              </p>
+            </a>
+          </div>
+        </div>
+
+        <div class='col-sm-12'>
+          <p class='blog-title robotoCondensedNormal darkGrey'><a href='https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive--Terms-of-Use?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3DmobileTerms.com&popup=false&categories=CBS_Interactive%3AmTOU&template=template_mobileTerms&referer=mobileTerms.com' target='_blank'>Terms of Use</a>&nbsp;&nbsp;<span class='grey'>|</span>&nbsp;&nbsp;<a href='https://cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy?template=template_mobilePrivacy&referer=mobileprivacy.com' target='_blank'>Privacy Policy</a>&nbsp;&nbsp;<span class='grey'>|</span>&nbsp;&nbsp;In Partnership with <a href="http://www.etonline.com" target="_blank">ETonline</a>. CBS Television Distribution &copy; 2016 Inside Edition Inc. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+</div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+<script type="text/javascript" src="/javascripts/breakingNews.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/javascripts/custom.js"></script>
+<script type="text/javascript" src="/javascripts/jquery.carousel.min.js"></script>
+<script type="text/javascript" src="/javascripts/DFPtargeted_preroll.js"</script>
+<script type="/text/javascript">_satellite.pageBottom();</script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<div id="div-gpt-ad-Inside_Edition-headlines/article-0">
+    <script type="text/javascript">
+        googletag.cmd.push(function () {
+            googletag.display('div-gpt-ad-Inside_Edition-headlines/article-0');
+        });
+    </script>
+</div>
+    <!-- OMNITURE SCRIPT -->
+    <script id="myscript" type="text/javascript" src="/javascripts/s_code.js"></script>
+    <script language="JavaScript" type="text/javascript">
+    s.pageName    = 'Rowanne Brewer Lane Says She Was Flattered to Be Called &#039;A Stunning Trump Girl&#039; at Pool Party - Inside Edition'
+    s.server      = 'www.insideedition.com'
+    s.referrer    = document.referrer;
+    s.prop1       = 'Home'
+    s.pageURL     = 'http://www.insideedition.com/headlines/16413-rowanne-brewer-lane-says-she-was-flattered-to-be-called-a-stunning-trump-girl-at'
+    var s_code=s.t();if(s_code)document.write(s_code);
+    </script>
+    <script language="JavaScript" type="text/javascript"> if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-'); </script>
+    <noscript><img src="http://cbstelevisiondistribution.112.2o7.net/b/ss/cbsinsideedition/1/H.26--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+<!-- CHARTBEAT SCRIPT -->
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 20200;
+    _sf_async_config.domain = "insideedition.com";
+    _sf_async_config.sections = "Headlines";  
+    _sf_async_config.title = "Rowanne Brewer Lane Says She Was Flattered to Be Called 'A Stunning Trump Girl' at Pool Party";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.authors = "Inside Edition";
+    _sf_async_config.path = window.location.pathname;
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement("script");
+        e.setAttribute("language", "javascript");
+        e.setAttribute("type", "text/javascript");
+        e.setAttribute("src",(("https:"==document.location.protocol)?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/")+"js/chartbeat.js");
+	document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != "function") ?
+         loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e;} loadChartbeat(); };
+
+    })();
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7925dc8d76","applicationID":"4660907","transactionName":"bwMAYhdUXUJSVUxZV1ZJN0QMGlpfV1NAHkhQFg==","queueTime":0,"applicationTime":286,"atts":"Q0QDFF9OTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,20 @@
+[
+  {
+    "category": "The Nation", 
+    "active": true, 
+    "_id": {
+      "$oid": "573642a4b4967415f5c0842a"
+    }, 
+    "link": "http://www.thenation.com/feed/?post_type=article", 
+    "title": "The Nation \u00bb Article"
+  }, 
+  {
+    "category": "Nation", 
+    "active": true, 
+    "_id": {
+      "$oid": "57375bc122c36d1a1bf08c29"
+    }, 
+    "link": "http://www.thenation.com/rss/articles", 
+    "title": "The Nation \u00bb Article"
+  }
+]

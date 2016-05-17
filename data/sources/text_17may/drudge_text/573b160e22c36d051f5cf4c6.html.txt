@@ -1,0 +1,84 @@
+This Thursday, May 12, 2016, photo shows an Otto driverless truck at a garage in San Francisco. An 18-wheel truck barreling down the highway with 80,000 pounds of cargo and no one behind the wheel might seem reckless to most people, even in an age when a few driverless cars already are cruising some city streets. But robot-loving Anthony Levandowski is betting autonomous big rigs will be the next big thing on the road to creating a safer and saner transportation system. (AP Photo/Eric Risberg)
+
+
+
+SAN FRANCISCO (AP) â Picture an 18-wheel truck barreling down the highway with 80,000 pounds of cargo and no one but a robot at the wheel.
+To many, that might seem a frightening idea, even at a time when a few dozen of Google's driverless cars are cruising city streets in California, Texas, Washington and Arizona.
+But Anthony Levandowski, a robot-loving engineer who helped steer Google's self-driving technology, is convinced autonomous big rigs will be the next big thing on the road to a safer transportation system.
+Levandowski left Google earlier this year to pursue his vision at Otto, a San Francisco startup the he co-founded with two other former Google employees, Lior Ron and Don Burnette, and another robotics expert, Claire Delaunay.
+Otto is aiming to equip trucks with software, sensors, lasers and cameras so they eventually will be able to navigate the more than 220,000 miles of U.S. highways on their own, while a human driver naps in the back of the cab or handles other tasks.
+For now, the robot truckers would only take control on the highways, leaving humans to handle the tougher task of wending through city streets. The idea is similar to the automated pilots that fly jets at high altitudes while leaving the takeoffs and landings to humans.
+"Our goal is to make trucks drive as humanly as possible, but with the reliability of machines," Levandowski says.
+That objective probably won't be reached for decades, despite the progress made with automated passenger vehicles over the past five years, predicts Steven Shladover, program manager for mobility at the University of California's Partners for Advanced Transportation Technology. He maintains that the technology is still a long way from being reliable enough to convince government regulators that a robot can be entrusted to steer a truck traveling at highway speeds without causing a catastrophic accident.
+"I don't want to be on that highway when there is nobody there to take over a truck with 80,000 pounds of cargo and I don't think I know anyone else who would want to be," Shladover says. "The consequences of any kind of failure in any component would be too severe."
+Google's self-driving cars have logged about 1.6 million miles in autonomous mode without being involved in an accident that resulted in a deaths or major injuries. Of the more than 20 accidents involving its self-driving cars Google has accepted the blame for only one â a February collision with a bus in Mountain View, California.
+It would be easier to brush off robot trucks as a far-fetched concept if not for Levandowski's background.
+Levandowski has been working on automated driving for more than a decade, starting in 2004 with a self-driving motorcycle called Ghostrider that is now in the Smithsonian's National Museum of American History. He also designed PriBot, a self-driving Prius that crossed the San Francisco-Oakland Bay Bridge to deliver a pizza in 2008 before Google unveiled its fleet of autonomous cars.
+Otto already has assembled a crew of about 40 employees experienced in self-driving cars to transplant the technology to trucks. With former employees from Google, Apple and Tesla Motors, Otto boasts that its team is made up of "some of the sharpest minds in self-driving technology."
+Although only four months old, Otto already has outfitted three big-rig cabs with its automated technology. The company completed its first extended test of its system on public highways in Nevada during the past weekend.
+Otto went to Nevada because California's self-driving regulations apply only to passenger cars, forbidding the technology from being used on public roads by commercial trucks or any vehicle exceeding 10,000 pounds.
+Now, Otto is looking for 1,000 truckers to volunteer to have self-driving kits installed on their cabs, at no cost, to help fine-tune the technology. The volunteer truckers would still be expected to seize the wheel and take control of the truck if the technology fails or the driving conditions make it unsafe to remain in autonomous mode, mirroring the laws governing tests of self-driving cars on public streets and highways.
+Otto hasn't set a timetable for completing its tests, but hopes to eventually retrofit all the U.S. trucks on the road. That would encompass more than 4.7 million trucks, according to the American Trucking Associations.
+The startup touts its technology as way to make up for a worsening shortage of truck drivers as more of them retire without enough younger drivers to replace them. Last year, the shortage stood at 47,500 and, unless recent trends change, will rise to nearly 175,000 by 2024, according to the American Trucking Associations.
+The trade group hasn't taken a stand on self-driving technology, but may draw up a policy later this year, said Dave Osiecki, executive vice president and chief of national advocacy.
+"We are paying close attention because this could be huge for trucking in terms of labor costs and safety," Osiecki says.
+Levandowski insists self-driving trucks aren't as scary as they might sound. Robot truckers are less likely to speed or continue to drive in unsafe conditions than a human, and will never get tired. Between 10 and 20 percent of the roughly 4,000 fatal accidents in the U.S. each year involving trucks and buses are linked to driver fatigue, based on estimates gathered by the National Academies of Sciences, Engineering and Medicine.
+"It's really silly to have a person steering a truck for eight hours just to keep it between two lines on the highway," Levandowski says.
+
+
+SAN FRANCISCO (AP) â Picture an 18-wheel truck barreling down the highway with 80,000 pounds of cargo and no one but a robot at the wheel.
+
+To many, that might seem a frightening idea, even at a time when a few dozen of Google's driverless cars are cruising city streets in California, Texas, Washington and Arizona.
+
+But Anthony Levandowski, a robot-loving engineer who helped steer Google's self-driving technology, is convinced autonomous big rigs will be the next big thing on the road to a safer transportation system.
+
+Levandowski left Google earlier this year to pursue his vision at Otto, a San Francisco startup the he co-founded with two other former Google employees, Lior Ron and Don Burnette, and another robotics expert, Claire Delaunay.
+
+Otto is aiming to equip trucks with software, sensors, lasers and cameras so they eventually will be able to navigate the more than 220,000 miles of U.S. highways on their own, while a human driver naps in the back of the cab or handles other tasks.
+
+For now, the robot truckers would only take control on the highways, leaving humans to handle the tougher task of wending through city streets. The idea is similar to the automated pilots that fly jets at high altitudes while leaving the takeoffs and landings to humans.
+
+"Our goal is to make trucks drive as humanly as possible, but with the reliability of machines," Levandowski says.
+
+That objective probably won't be reached for decades, despite the progress made with automated passenger vehicles over the past five years, predicts Steven Shladover, program manager for mobility at the University of California's Partners for Advanced Transportation Technology. He maintains that the technology is still a long way from being reliable enough to convince government regulators that a robot can be entrusted to steer a truck traveling at highway speeds without causing a catastrophic accident.
+
+"I don't want to be on that highway when there is nobody there to take over a truck with 80,000 pounds of cargo and I don't think I know anyone else who would want to be," Shladover says. "The consequences of any kind of failure in any component would be too severe."
+
+Google's self-driving cars have logged about 1.6 million miles in autonomous mode without being involved in an accident that resulted in a deaths or major injuries. Of the more than 20 accidents involving its self-driving cars Google has accepted the blame for only one â a February collision with a bus in Mountain View, California.
+
+It would be easier to brush off robot trucks as a far-fetched concept if not for Levandowski's background.
+
+Levandowski has been working on automated driving for more than a decade, starting in 2004 with a self-driving motorcycle called Ghostrider that is now in the Smithsonian's National Museum of American History. He also designed PriBot, a self-driving Prius that crossed the San Francisco-Oakland Bay Bridge to deliver a pizza in 2008 before Google unveiled its fleet of autonomous cars.
+
+Otto already has assembled a crew of about 40 employees experienced in self-driving cars to transplant the technology to trucks. With former employees from Google, Apple and Tesla Motors, Otto boasts that its team is made up of "some of the sharpest minds in self-driving technology."
+
+Although only four months old, Otto already has outfitted three big-rig cabs with its automated technology. The company completed its first extended test of its system on public highways in Nevada during the past weekend.
+
+Otto went to Nevada because California's self-driving regulations apply only to passenger cars, forbidding the technology from being used on public roads by commercial trucks or any vehicle exceeding 10,000 pounds.
+
+Now, Otto is looking for 1,000 truckers to volunteer to have self-driving kits installed on their cabs, at no cost, to help fine-tune the technology. The volunteer truckers would still be expected to seize the wheel and take control of the truck if the technology fails or the driving conditions make it unsafe to remain in autonomous mode, mirroring the laws governing tests of self-driving cars on public streets and highways.
+
+Otto hasn't set a timetable for completing its tests, but hopes to eventually retrofit all the U.S. trucks on the road. That would encompass more than 4.7 million trucks, according to the American Trucking Associations.
+
+The startup touts its technology as way to make up for a worsening shortage of truck drivers as more of them retire without enough younger drivers to replace them. Last year, the shortage stood at 47,500 and, unless recent trends change, will rise to nearly 175,000 by 2024, according to the American Trucking Associations.
+
+The trade group hasn't taken a stand on self-driving technology, but may draw up a policy later this year, said Dave Osiecki, executive vice president and chief of national advocacy.
+
+"We are paying close attention because this could be huge for trucking in terms of labor costs and safety," Osiecki says.
+
+Levandowski insists self-driving trucks aren't as scary as they might sound. Robot truckers are less likely to speed or continue to drive in unsafe conditions than a human, and will never get tired. Between 10 and 20 percent of the roughly 4,000 fatal accidents in the U.S. each year involving trucks and buses are linked to driver fatigue, based on estimates gathered by the National Academies of Sciences, Engineering and Medicine.
+
+"It's really silly to have a person steering a truck for eight hours just to keep it between two lines on the highway," Levandowski says.
+
+Â 
+
+Â 
+
+View the discussion thread.
+
+
+AP Radio News:
+Your browser does not support the audio element. 
+
+
+

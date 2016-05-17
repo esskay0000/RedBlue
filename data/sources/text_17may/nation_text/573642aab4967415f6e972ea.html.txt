@@ -1,0 +1,374 @@
+
+
+Illustration in Harperâs Weekly of the Memphis Riot of 1866, by Alfred Rudolph Waud. (Tennessee State Library and Archive)
+
+One hundred and fifty years ago this month, the white population of Memphis, Tennessee, set about raping, murdering, and plundering the cityâs African Americans, most of whom were recently liberated slaves. The riot left dozens dead and entire African-American neighborhoods completely destroyed. It was a harbinger of things to come. Soon the Ku Klux Klan, which had been founded only a few months earlier, in addition to other white-supremacist vigilante groups, would embark on a more general campaign of violence and terror, ultimately succeeding in bringing Reconstruction to an end and ensuring that African-Americans would not enjoy full equality and freedom for many, many more years.
+
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-67050-0','tn_culture_books_and_ideas_ros_halfpage_1','tn_culture_books_and_ideas_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+The following editorial was published in The Nation two weeks after the Memphis riot. In noting the cruel absurdity of demanding African-American loyalty to a government neither able to protect black property nor willing to acknowledge the significance of black livesâand, perhaps most painfully, in its emphasis on the role of the police in âthe butcheryââthe editorial speaks eloquently, if unnervingly, to more recent struggles over racism, state violence, vigilantism, and the ambiguous role of âthe guardians of the public peace.â âRichard Kreitner				
+					
+					
+* * *				
+			
+
+							What was peculiar about the Memphis riot was that the officers of the law took a leading part in it.
+						
+ 
+There was one feature of the late riot at Memphis which is worthy of attention from its bearings upon the political status of the negroes. It appears by the more recent and trustworthy accounts of the affair that it began in an unsuccessful attempt made by the police to put a stop to the disorderly conduct of some negro soldiers. The row which followed was taken up by the citizens at large, and when renewed in the afternoon, after a short pause, it took the form of a general massacre of such of the colored population as showed themselves in the streets. This part of the tragedy appears to have been inconceivably brutal, but its brutality was, after all, not the most remarkable thing about it. Its most novel and most striking incident was, that the police headed the butchery, and roved round the town either in company with the white mob or singly, and occupied themselves in shooting down every colored person, of whatever sex, of whom they got a glimpse. In the half-organized attack made on the fort, also, the police were the principal assailants.				
+					
+					
+We are not going to furbish this occurrence up into any argument for the wholesale disenfranchisement of the South, or for any greater severities against her white population than we are now inflicting upon them. Anybody who expects Southern whites and blacks to settle down into their true and just relations to each other without breaking one anotherâs heads a good deal knows little either of history or human nature. There will prevail in the South for a long time to come a good deal of envy, hatred, and malice towards the colored population, and they will show themselves in riots and outrages more or less flagrant.				
+					
+							
+Related Articles
+
+This Long-Lost Constitutional Clause Could Save the Right to Vote 
+Richard Kreitner
+
+
+The Historical Roots of Dylann Roofâs Racism 
+Eric Foner
+
+
+Race and Civil Rights in âThe Nationâ: Part I 
+The Nation
+
+
+What was peculiar about the Memphis riot was that the officers of the law, the very persons on whom the colored population will have to rely for protection as soon as the troops are withdrawn, took a leading part in it, and we now have very little doubt that, were any similar outburst of popular prejudice to take place tomorrow in any other town in the South, the local police, if they interfered at all, would interfere in the same way. âThey would stand by their race,â as Mr. James T. Brady once said, in a speech before the war, when Northern Democrats were trembling lest the Southern blacks should break loose, come North, and eat them all up. The negro would, when pursued by a mob, avoid âthe guardians of the public peaceâ as vigilantly as he would any of the pack at his heels. We grant that under the State law and under his Federal law he would have his remedy against all his assailants. He could sue them either civilly or criminally, or both, for assault and battery, or assault and false imprisonment, or for a felonious assault. If his house was burnt or his furniture damaged by a popular rising, he could sue the country for damages. He might get a verdict, and he might now. We will suppose that he would; but which of us would live in any community where this was our main reliance for protection against mob violence? Which of us would keep our families in a town in which not only were we objects of popular odium, but in which, if an attempt were made to mob us, we might expect to see the policeman who patrolled our street taking the first pop at us with his revolver, or the sheriff of the county heading a party charged with the duty of ramming in our front door?
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+
+			.article-wrap .article-body aside.left.custom_background_67050			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+The following editorial was published in The Nation two weeks after the Memphis riot. In noting the cruel absurdity of demanding African-American loyalty to a government neither able to protect black property nor willing to acknowledge the significance of black livesâand, perhaps most painfully, in its emphasis on the role of the police in âthe butcheryââthe editorial speaks eloquently, if unnervingly, to more recent struggles over racism, state violence, vigilantism, and the ambiguous role of âthe guardians of the public peace.â âRichard Kreitner				
+					
+					
+* * *				
+			
+
+							What was peculiar about the Memphis riot was that the officers of the law took a leading part in it.
+						
+ 
+There was one feature of the late riot at Memphis which is worthy of attention from its bearings upon the political status of the negroes. It appears by the more recent and trustworthy accounts of the affair that it began in an unsuccessful attempt made by the police to put a stop to the disorderly conduct of some negro soldiers. The row which followed was taken up by the citizens at large, and when renewed in the afternoon, after a short pause, it took the form of a general massacre of such of the colored population as showed themselves in the streets. This part of the tragedy appears to have been inconceivably brutal, but its brutality was, after all, not the most remarkable thing about it. Its most novel and most striking incident was, that the police headed the butchery, and roved round the town either in company with the white mob or singly, and occupied themselves in shooting down every colored person, of whatever sex, of whom they got a glimpse. In the half-organized attack made on the fort, also, the police were the principal assailants.				
+					
+					
+We are not going to furbish this occurrence up into any argument for the wholesale disenfranchisement of the South, or for any greater severities against her white population than we are now inflicting upon them. Anybody who expects Southern whites and blacks to settle down into their true and just relations to each other without breaking one anotherâs heads a good deal knows little either of history or human nature. There will prevail in the South for a long time to come a good deal of envy, hatred, and malice towards the colored population, and they will show themselves in riots and outrages more or less flagrant.				
+					
+							
+Related Articles
+
+This Long-Lost Constitutional Clause Could Save the Right to Vote 
+Richard Kreitner
+
+
+The Historical Roots of Dylann Roofâs Racism 
+Eric Foner
+
+
+Race and Civil Rights in âThe Nationâ: Part I 
+The Nation
+
+
+What was peculiar about the Memphis riot was that the officers of the law, the very persons on whom the colored population will have to rely for protection as soon as the troops are withdrawn, took a leading part in it, and we now have very little doubt that, were any similar outburst of popular prejudice to take place tomorrow in any other town in the South, the local police, if they interfered at all, would interfere in the same way. âThey would stand by their race,â as Mr. James T. Brady once said, in a speech before the war, when Northern Democrats were trembling lest the Southern blacks should break loose, come North, and eat them all up. The negro would, when pursued by a mob, avoid âthe guardians of the public peaceâ as vigilantly as he would any of the pack at his heels. We grant that under the State law and under his Federal law he would have his remedy against all his assailants. He could sue them either civilly or criminally, or both, for assault and battery, or assault and false imprisonment, or for a felonious assault. If his house was burnt or his furniture damaged by a popular rising, he could sue the country for damages. He might get a verdict, and he might now. We will suppose that he would; but which of us would live in any community where this was our main reliance for protection against mob violence? Which of us would keep our families in a town in which not only were we objects of popular odium, but in which, if an attempt were made to mob us, we might expect to see the policeman who patrolled our street taking the first pop at us with his revolver, or the sheriff of the county heading a party charged with the duty of ramming in our front door?
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+
+			.article-wrap .article-body aside.left.custom_background_67050			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+* * *				
+			
+
+							What was peculiar about the Memphis riot was that the officers of the law took a leading part in it.
+						
+ 
+There was one feature of the late riot at Memphis which is worthy of attention from its bearings upon the political status of the negroes. It appears by the more recent and trustworthy accounts of the affair that it began in an unsuccessful attempt made by the police to put a stop to the disorderly conduct of some negro soldiers. The row which followed was taken up by the citizens at large, and when renewed in the afternoon, after a short pause, it took the form of a general massacre of such of the colored population as showed themselves in the streets. This part of the tragedy appears to have been inconceivably brutal, but its brutality was, after all, not the most remarkable thing about it. Its most novel and most striking incident was, that the police headed the butchery, and roved round the town either in company with the white mob or singly, and occupied themselves in shooting down every colored person, of whatever sex, of whom they got a glimpse. In the half-organized attack made on the fort, also, the police were the principal assailants.				
+					
+					
+We are not going to furbish this occurrence up into any argument for the wholesale disenfranchisement of the South, or for any greater severities against her white population than we are now inflicting upon them. Anybody who expects Southern whites and blacks to settle down into their true and just relations to each other without breaking one anotherâs heads a good deal knows little either of history or human nature. There will prevail in the South for a long time to come a good deal of envy, hatred, and malice towards the colored population, and they will show themselves in riots and outrages more or less flagrant.				
+					
+							
+Related Articles
+
+This Long-Lost Constitutional Clause Could Save the Right to Vote 
+Richard Kreitner
+
+
+The Historical Roots of Dylann Roofâs Racism 
+Eric Foner
+
+
+Race and Civil Rights in âThe Nationâ: Part I 
+The Nation
+
+
+What was peculiar about the Memphis riot was that the officers of the law, the very persons on whom the colored population will have to rely for protection as soon as the troops are withdrawn, took a leading part in it, and we now have very little doubt that, were any similar outburst of popular prejudice to take place tomorrow in any other town in the South, the local police, if they interfered at all, would interfere in the same way. âThey would stand by their race,â as Mr. James T. Brady once said, in a speech before the war, when Northern Democrats were trembling lest the Southern blacks should break loose, come North, and eat them all up. The negro would, when pursued by a mob, avoid âthe guardians of the public peaceâ as vigilantly as he would any of the pack at his heels. We grant that under the State law and under his Federal law he would have his remedy against all his assailants. He could sue them either civilly or criminally, or both, for assault and battery, or assault and false imprisonment, or for a felonious assault. If his house was burnt or his furniture damaged by a popular rising, he could sue the country for damages. He might get a verdict, and he might now. We will suppose that he would; but which of us would live in any community where this was our main reliance for protection against mob violence? Which of us would keep our families in a town in which not only were we objects of popular odium, but in which, if an attempt were made to mob us, we might expect to see the policeman who patrolled our street taking the first pop at us with his revolver, or the sheriff of the county heading a party charged with the duty of ramming in our front door?
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+
+			.article-wrap .article-body aside.left.custom_background_67050			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+
+							What was peculiar about the Memphis riot was that the officers of the law took a leading part in it.
+						
+
+
+There was one feature of the late riot at Memphis which is worthy of attention from its bearings upon the political status of the negroes. It appears by the more recent and trustworthy accounts of the affair that it began in an unsuccessful attempt made by the police to put a stop to the disorderly conduct of some negro soldiers. The row which followed was taken up by the citizens at large, and when renewed in the afternoon, after a short pause, it took the form of a general massacre of such of the colored population as showed themselves in the streets. This part of the tragedy appears to have been inconceivably brutal, but its brutality was, after all, not the most remarkable thing about it. Its most novel and most striking incident was, that the police headed the butchery, and roved round the town either in company with the white mob or singly, and occupied themselves in shooting down every colored person, of whatever sex, of whom they got a glimpse. In the half-organized attack made on the fort, also, the police were the principal assailants.				
+					
+					
+We are not going to furbish this occurrence up into any argument for the wholesale disenfranchisement of the South, or for any greater severities against her white population than we are now inflicting upon them. Anybody who expects Southern whites and blacks to settle down into their true and just relations to each other without breaking one anotherâs heads a good deal knows little either of history or human nature. There will prevail in the South for a long time to come a good deal of envy, hatred, and malice towards the colored population, and they will show themselves in riots and outrages more or less flagrant.				
+					
+							
+Related Articles
+
+This Long-Lost Constitutional Clause Could Save the Right to Vote 
+Richard Kreitner
+
+
+The Historical Roots of Dylann Roofâs Racism 
+Eric Foner
+
+
+Race and Civil Rights in âThe Nationâ: Part I 
+The Nation
+
+
+What was peculiar about the Memphis riot was that the officers of the law, the very persons on whom the colored population will have to rely for protection as soon as the troops are withdrawn, took a leading part in it, and we now have very little doubt that, were any similar outburst of popular prejudice to take place tomorrow in any other town in the South, the local police, if they interfered at all, would interfere in the same way. âThey would stand by their race,â as Mr. James T. Brady once said, in a speech before the war, when Northern Democrats were trembling lest the Southern blacks should break loose, come North, and eat them all up. The negro would, when pursued by a mob, avoid âthe guardians of the public peaceâ as vigilantly as he would any of the pack at his heels. We grant that under the State law and under his Federal law he would have his remedy against all his assailants. He could sue them either civilly or criminally, or both, for assault and battery, or assault and false imprisonment, or for a felonious assault. If his house was burnt or his furniture damaged by a popular rising, he could sue the country for damages. He might get a verdict, and he might now. We will suppose that he would; but which of us would live in any community where this was our main reliance for protection against mob violence? Which of us would keep our families in a town in which not only were we objects of popular odium, but in which, if an attempt were made to mob us, we might expect to see the policeman who patrolled our street taking the first pop at us with his revolver, or the sheriff of the county heading a party charged with the duty of ramming in our front door?
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+
+			.article-wrap .article-body aside.left.custom_background_67050			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+We are not going to furbish this occurrence up into any argument for the wholesale disenfranchisement of the South, or for any greater severities against her white population than we are now inflicting upon them. Anybody who expects Southern whites and blacks to settle down into their true and just relations to each other without breaking one anotherâs heads a good deal knows little either of history or human nature. There will prevail in the South for a long time to come a good deal of envy, hatred, and malice towards the colored population, and they will show themselves in riots and outrages more or less flagrant.				
+					
+							
+Related Articles
+
+This Long-Lost Constitutional Clause Could Save the Right to Vote 
+Richard Kreitner
+
+
+The Historical Roots of Dylann Roofâs Racism 
+Eric Foner
+
+
+Race and Civil Rights in âThe Nationâ: Part I 
+The Nation
+
+
+What was peculiar about the Memphis riot was that the officers of the law, the very persons on whom the colored population will have to rely for protection as soon as the troops are withdrawn, took a leading part in it, and we now have very little doubt that, were any similar outburst of popular prejudice to take place tomorrow in any other town in the South, the local police, if they interfered at all, would interfere in the same way. âThey would stand by their race,â as Mr. James T. Brady once said, in a speech before the war, when Northern Democrats were trembling lest the Southern blacks should break loose, come North, and eat them all up. The negro would, when pursued by a mob, avoid âthe guardians of the public peaceâ as vigilantly as he would any of the pack at his heels. We grant that under the State law and under his Federal law he would have his remedy against all his assailants. He could sue them either civilly or criminally, or both, for assault and battery, or assault and false imprisonment, or for a felonious assault. If his house was burnt or his furniture damaged by a popular rising, he could sue the country for damages. He might get a verdict, and he might now. We will suppose that he would; but which of us would live in any community where this was our main reliance for protection against mob violence? Which of us would keep our families in a town in which not only were we objects of popular odium, but in which, if an attempt were made to mob us, we might expect to see the policeman who patrolled our street taking the first pop at us with his revolver, or the sheriff of the county heading a party charged with the duty of ramming in our front door?
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+
+			.article-wrap .article-body aside.left.custom_background_67050			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+Richard Kreitner
+
+Eric Foner
+
+The Nation
+
+What was peculiar about the Memphis riot was that the officers of the law, the very persons on whom the colored population will have to rely for protection as soon as the troops are withdrawn, took a leading part in it, and we now have very little doubt that, were any similar outburst of popular prejudice to take place tomorrow in any other town in the South, the local police, if they interfered at all, would interfere in the same way. âThey would stand by their race,â as Mr. James T. Brady once said, in a speech before the war, when Northern Democrats were trembling lest the Southern blacks should break loose, come North, and eat them all up. The negro would, when pursued by a mob, avoid âthe guardians of the public peaceâ as vigilantly as he would any of the pack at his heels. We grant that under the State law and under his Federal law he would have his remedy against all his assailants. He could sue them either civilly or criminally, or both, for assault and battery, or assault and false imprisonment, or for a felonious assault. If his house was burnt or his furniture damaged by a popular rising, he could sue the country for damages. He might get a verdict, and he might now. We will suppose that he would; but which of us would live in any community where this was our main reliance for protection against mob violence? Which of us would keep our families in a town in which not only were we objects of popular odium, but in which, if an attempt were made to mob us, we might expect to see the policeman who patrolled our street taking the first pop at us with his revolver, or the sheriff of the county heading a party charged with the duty of ramming in our front door?
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+
+			.article-wrap .article-body aside.left.custom_background_67050			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
+
+Michael Ratner, 1943-2016
+
+Get Ready for a Wave of Green Civil Disobedience, America
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+When the Freedmenâs Bureau bill and the civil rights bill were first talked of, one of the strongest arguments used against them by their opponents was that they were unnecessary, that âthe laws of political economyâ would eventually secure protection for the negroes from their white neighbors themselves without any interference on the part of the Federal Government. No matter how much their old masters might dislike them, the necessity of employing them, of relying on them for prosperity and comfort, would sooner or later make the relations of the two races, if not cordial, at least amicable. The negro had only to wait a little and all would be right by-and-by.				
+					
+					
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+We always thought there was something in this argument, but we nevertheless always considered it a most ridiculous argument when addressed to the blacks themselves. It was substantially this: âYour white neighbors are at present greatly incensed against you. They consider you the cause of all their troubles, and look upon themselves as having been robbed of your services. Therefore, for some time to come, they will probably maltreat you a good deal. They will most likely rob and murder you frequently, and more frequently they will flog you and deny you justice in the courts. Your house will, probably, be burnt now and then, and you will be driven from one part of the country to the other by mobs. But you must not mind this. They will get over their feelings toward you after a while, and get used to seeing you free, and then they will most likely let you alone, or at least not annoy you so much. The laws of political economy are all working for you, and you know whenever you need to travel abroad you can have a United States passport. In the meantime pay your taxes regularly, and put your trust in Providence. The Federal Government can do nothing else for you.â				
+					
+					
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+The negro might very naturally reply that he cared nothing for the laws of political economy; that what he wanted was the protection of the Government to which he paid his taxes and owed his allegiance; that most likely the whites would get used to him after a while and leave him alone, and, whenever that time came, of course he would not need any protection. But that it is precisely at those periods of a manâs life when his neighbors donât like him, and want to attack him, that governments and police are needed, and that for any government to announce that it could do nothing at these crises was to destroy its sole claim on his fidelity.				
+					
+					
+		
+
+ Richard Kreitner
+Twitter
+ Richard Kreitner isÂ The Nation's assistant editor for special projects and a contributor to Raritan, The Baffler, and The Boston Globe. His writings are at www.richardkreitner.com.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

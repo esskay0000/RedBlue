@@ -1,0 +1,2046 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="c: http://s.opencalais.com/1/pred/ sys: http://s.opencalais.com/1/type/sys/ lid: http://s.opencalais.com/1/type/lid/ cat: http://s.opencalais.com/1/type/cat/ resolved: http://s.opencalais.com/1/type/er/ cgeo: http://s.opencalais.com/1/type/er/Geo/ eventfact: http://s.opencalais.com/1/type/em/r/ entity: http://s.opencalais.com/1/type/em/e/ cld: http://s.opencalais.com/1/linkeddata/pred/ content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcAVFVACwoEVVFVAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta property="author" content="Jonathan Easley" />
+<meta name="Smart_Paging" content="on" />
+<link rel="shortcut icon" href="http://thehill.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="One of Trump’s former girlfriends says her comments were distorted to smear him." />
+<meta name="keywords" content=",Donald Trump, John McCain, Marco Rubio," />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" />
+<link rel="shortlink" href="http://thehill.com/node/280114" />
+<meta property="fb:admins" content="581787871" />
+<meta property="fb:admins" content="732535504" />
+<meta property="fb:admins" content="100000299130732" />
+<meta property="fb:app_id" content="566538590082898" />
+<meta property="og:site_name" content="TheHill" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="NYT story on Trump’s history with women creates backlash" />
+<meta property="og:url" content="http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" />
+<meta property="og:description" content="One of Trump’s former girlfriends says her comments were distorted to smear him." />
+<meta property="og:updated_time" content="2016-05-17T08:43:50-04:00" />
+<meta property="og:image" content="http://thehill.com/sites/default/files/trumpdonald_050716getty2.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="NYT story on Trump’s history with women creates backlash" />
+<meta name="twitter:url" content="http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" />
+<meta name="twitter:description" content="One of Trump’s former girlfriends says her comments were distorted to smear him." />
+<meta property="article:published_time" content="2016-05-16T20:28:03-04:00" />
+<meta property="article:modified_time" content="2016-05-17T08:43:50-04:00" />
+<meta name="dcterms.title" content="NYT story on Trump’s history with women creates backlash" />
+<meta name="dcterms.creator" content="Jesse Helfrich" />
+<meta name="dcterms.description" content="One of Trump’s former girlfriends says her comments were distorted to smear him." />
+<meta name="dcterms.date" content="2016-05-16T20:28-04:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" />
+<meta name="dcterms.language" content="und" />
+<meta name="dcterms.modified" content="2016-05-17T08:43-04:00" />
+  <title>NYT story on Trump’s history with women creates backlash | TheHill</title>
+  <link type="text/css" rel="stylesheet" href="//thehill.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//thehill.com/sites/default/files/css/css_Cwasr4Wu8GfebhCjmZhsnqp4tY2RKPKf2nNiXO1q4dg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//thehill.com/sites/default/files/css/css_jvewgF06ccblux74MJKO9rvqRvAGfT2tYs62lNiZZNo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//thehill.com/sites/default/files/css/css_jKouC6AcqwRU8cRFuiaCISrIMWDbqH_4jZYKNRf_CXA.css" media="all" />
+  <script src="//thehill.com/sites/default/files/js/js_ZlbZCt9VIesFzM75iHKSbqRnsBoSHbjj0YQjK494mHI.js"></script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};</script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="//thehill.com/sites/default/files/js/js_zQK_ju8qKyFO8LWGrmgHgf3kcHLPTwA7QuT1OohUgK8.js"></script>
+<script src="//thehill.com/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script>googletag.slots["leaderboard"] = googletag.defineSlot("1107919/Leaderboard_728x90_ROS_asynch", [728, 90], "dfp-ad-leaderboard")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["menu_ad_news"] = googletag.defineSlot("1107919/159x200_inMenuAd_news", [159, 200], "dfp-ad-menu_ad_news")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["menu_ad_regulation"] = googletag.defineSlot("1107919/159x200_inMenuAd_regulation", [159, 200], "dfp-ad-menu_ad_regulation")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["menu_ad_video"] = googletag.defineSlot("1107919/159x200_inMenuAd_video", [159, 200], "dfp-ad-menu_ad_video")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["pushdown"] = googletag.defineSlot("1107919/Pushdown_ROS_asynch", [[970, 66], [970, 90], [970, 250], [970, 500]], "dfp-ad-pushdown")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["mosad_1"] = googletag.defineSlot("1107919/Content_300x250_ROS_asynch", [300, 250], "dfp-ad-mosad_1")
+  .addService(googletag.pubads())
+  .setTargeting("position", "mosad_briefingroom_position_2");</script>
+<script>googletag.slots["video_companion_645x363"] = googletag.defineSlot("1107919/PreRoll_645x363_companion", [645, 363], "dfp-ad-video_companion_645x363")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["video_companion_multi_size"] = googletag.defineSlot("1107919/PreRoll_645x363_companion", [[300, 250], [300, 600], [300, 1050]], "dfp-ad-video_companion_multi_size")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .set("adsense_ad_types", "image");</script>
+<script>googletag.slots["most_popular_insert"] = googletag.defineSlot("1107919/Most_popular_300x100", [300, 100], "dfp-ad-most_popular_insert")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["rightrail_bottom"] = googletag.defineSlot("1107919/RightRail_bottom_300x250_ROS_asynch", [[300, 250], [300, 600], [300, 1050]], "dfp-ad-rightrail_bottom")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["1x1_asynch_teads"] = googletag.defineSlot("1107919/1x1_asynch_Teads", [1, 1], "dfp-ad-1x1_asynch_teads")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["oop_1x1_1"] = googletag.defineSlot("1107919/1x1_asynch", [1, 1], "dfp-ad-oop_1x1_1")
+  .addService(googletag.pubads());
+googletag.defineOutOfPageSlot("1107919/1x1_asynch", "dfp-ad-oop_1x1_1-oop")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["modal_window_ad"] = googletag.defineSlot("1107919/Interstitial_ROS_asynch", [[300, 250], [400, 400], [640, 480], [770, 600], [768, 1024]], "dfp-ad-modal_window_ad")
+  .addService(googletag.pubads());</script>
+<script src="//thehill.com/sites/default/files/js/js_TWesmZWxzUZ3DU050sz8QrIU986Uz2SjL2n2joX_XYk.js"></script>
+<script>googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().enableVideoAds();
+  googletag.companionAds().setRefreshUnfilledSlots(true);
+  googletag.pubads().setTargeting("Article", "280114");
+  googletag.pubads().setTargeting("Category", "Campaign");
+  googletag.pubads().setTargeting("Section", "News");
+  googletag.pubads().setTargeting("Tarmeta", ["","Donald Trump","John McCain","Marco Rubio",""]);
+});
+googletag.enableServices();</script>
+<script src="//thehill.com/sites/default/files/js/js_UlgQwqBztlTNwD8PYNXSwCVbJHJOJiHEsF-8ZKBt8yE.js"></script>
+<script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="//thehill.com/sites/default/files/js/js_tMEv3vrjx89cThviVEG2AmtMkiefuK454RM-3wHtfD0.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-10188146-1", "auto");ga("set", "dimension1", "Jonathan Easley");ga("send", "pageview");</script>
+<script src="//thehill.com/sites/default/files/js/js_PKQlSjw4EoR88dufRYR4hSkRerREX-vsbl0y96NiyAc.js"></script>
+<script>        window._taboola = window._taboola || [];
+        _taboola.push({article: 'auto'});
+       !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/prometheus-thehill/loader.js');</script>
+<script src="//thehill.com/sites/default/files/js/js_JROf8HkxhN2h3Fe3mkoSXQQDO5ZWmlwjBuqVtr5o_K0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thehill","theme_token":"4Qwjc8sjXSAhlOcOHA6Bc7o6i2Xujd4VkpsaIxWeN6U","js":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"7":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"20":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.js":1,"21":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"\/\/maps.googleapis.com\/maps\/api\/js?sensor=false":1,"sites\/all\/modules\/google_map_field\/js\/google_map_field_node_display.js":1,"sites\/all\/modules\/thehill\/thehill_misc\/js\/person-links.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/thehill_rba.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"22":1,"sites\/all\/modules\/disqus\/disqus.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/carousel\/helper-plugins\/jquery.touchSwipe.min.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/carousel\/helper-plugins\/jquery.mousewheel.min.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/carousel\/jquery.caroufredsel.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/carousel\/helper-plugins\/jquery.transit.min.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/carousel\/thehill_carousel.js":1,"sites\/all\/modules\/thehill\/thehill_blocks\/js\/carousel\/helper-plugins\/jquery.ba-throttle-debounce.min.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/mostpopular\/js\/fade.js":1,"sites\/all\/modules\/mostpopular\/js\/mostpopular.js":1,"23":1,"sites\/all\/themes\/thehill\/js\/script.js":1,"sites\/all\/themes\/thehill\/js\/dfp.gpt.logger.override.js":1,"sites\/all\/themes\/thehill\/js\/overriden\/mostpopular.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/thehill\/thehill_misc\/css\/person-links.css":1,"sites\/all\/modules\/mostpopular\/css\/mostpopular-basic.css":1,"sites\/all\/modules\/mostpopular\/css\/mostpopular-full.css":1,"sites\/all\/themes\/thehill\/system.menus.css":1,"sites\/all\/themes\/thehill\/css\/normalize.css":1,"sites\/all\/themes\/thehill\/css\/wireframes.css":1,"sites\/all\/themes\/thehill\/css\/layouts\/responsive-sidebars.css":1,"sites\/all\/themes\/thehill\/css\/page-backgrounds.css":1,"sites\/all\/themes\/thehill\/css\/tabs.css":1,"sites\/all\/themes\/thehill\/css\/pages.css":1,"sites\/all\/themes\/thehill\/css\/blocks.css":1,"sites\/all\/themes\/thehill\/css\/navigation.css":1,"sites\/all\/themes\/thehill\/css\/views-styles.css":1,"sites\/all\/themes\/thehill\/css\/nodes.css":1,"sites\/all\/themes\/thehill\/css\/comments.css":1,"sites\/all\/themes\/thehill\/css\/forms.css":1,"sites\/all\/themes\/thehill\/css\/fields.css":1,"sites\/all\/themes\/thehill\/css\/print.css":1,"sites\/all\/themes\/thehill\/css\/articles-teaser.css":1}},"chartbeat":{"uid":3100,"domain":"thehill.com","useCanonical":true,"noCookies":false},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ad_timeout":"10000","thehill_carousel":{"carousels":{"#thehill_blocks_blogs-menu ul":{"auto":{"play":1,"timeoutDuration":12000,"pauseOnHover":true},"circular":true,"infinite":false,"prev":"#blogs_menu_prev","next":"#blogs_menu_next","mousewheel":true,"swipe":{"onMouse":true,"onTouch":true},"items":5,"scroll":{"items":5,"duration":1000,"pauseOnHover":true}},"#thehill_blocks_blogs-promotion ul":{"auto":false,"infinite":false,"circular":true,"next":"#blog_promotions_next","mousewheel":false,"swipe":{"onMouse":true,"onTouch":true},"items":6,"direction":"up","scroll":{"items":6,"duration":1000,"timeoutDuration":2000}},"#thehill_blocks_more-videos ul":{"auto":false,"circular":true,"prev":"#more_videos_prev","next":"#more_videos_next","mousewheel":true,"swipe":{"onMouse":true,"onTouch":true},"pagination":{"container":"#more_videos_pager","items":4,"pauseOnHover":true},"items":4,"scroll":{"items":4,"duration":1000,"timeoutDuration":2000}},".block-mostpopular .mostpopular--content ul":{"auto":false,"infinite":false,"circular":true,"next":"#most_popular_next","mousewheel":false,"swipe":{"onMouse":true,"onTouch":true},"items":6,"mostpopular":true,"direction":"up","scroll":{"items":6,"duration":1000,"timeoutDuration":2000}}}},"rba":{"start":1431367200000,"end":1431378900000,"expiration":"43200","ad_tag":"road_block_ad","timer":15000,"url":"\/rba_page"},"urlIsAjaxTrusted":{"\/homenews\/campaign\/280114-nyt-story-on-trumps-history-with-women-creates-backlash":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqus":{"domain":"thehill-v4","url":"http:\/\/thehill.com\/homenews\/campaign\/280114-nyt-story-on-trumps-history-with-women-creates-backlash","title":"NYT story on Trump\u2019s history with women creates backlash","identifier":"node\/280114","developer":1,"language":"en","sso":{"name":"TheHill","url":"\/user\/login?destination=disqus\/closewindow","logout":"\/user\/logout?destination=node\/280114","width":800,"height":600,"button":"http:\/\/thehill.com\/sites\/all\/themes\/thehill\/images\/print_logo.png","icon":"http:\/\/thehill.com\/favicon.ico"},"api_key":"MU2vV9R8hBF3W9kH0Zo2HKkiLqQY5ahOlvro6pPtNeOnnI6dQLfkIjd0OgRl9W6x","remote_auth_s3":"W10= 6a02262b2767f46e6d5aecd2072f21dcda2bcf03 1463489693"},"thehill_mostpopular":{"sid":"4","iid":"1","tag":"most_popular_insert"},"mostpopular":{"url":"\/mostpopular\/ajax"}});</script>
+  <script type="text/javascript" src="//use.typekit.net/ylz3ven.js"></script>
+  <script type="text/javascript">try{Typekit.load({async:true});}catch(e){}</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e8f5d7e1bc8befe"></script>
+  <meta name="twitter:widgets:csp" content="on">
+<meta property="fb:pages" content="7533944086">
+<!-- iOS -->
+<meta name="apple-itunes-app" content="app-id=360124019">
+<meta name="apple-itunes-app" content="app-id=396640962">
+<!-- end iOS -->
+<!-- START Nativo -->
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+<!-- END Nativo -->
+<!-- NDN Start -->
+<script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<!-- NDN End --><meta http-equiv="refresh" content="3600"/><!-- Taboola Newsroom Start -->
+<script>
+window._newsroom = window._newsroom || [];
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/prometheus-thehill/newsroom.js');
+</script>
+<!-- Taboola Newsroom End -->
+
+  <!--[if lt IE 9]>
+    <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+    </script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-280114 node-type-article featured-other--articles section-homenews" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- page.tpl.php in thehill -->
+<div id="page">
+
+  <header id="header" role="banner">
+    <div>
+        <div id="logo">
+        <a href="/" title="TheHill" rel="home" alt="TheHill.com"></a>
+        <img class="print_logo" alt="TheHill.com" src="/sites/all/themes/thehill/images/print_logo.png" />
+    </div>
+        <div class="header_blocks">
+              <section id="header_blocks">
+            <div class="header__region region region-header">
+    <div id="block-dfp-leaderboard" class="block block-dfp first last odd">
+
+      
+  <div id="dfp-ad-leaderboard-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-leaderboard" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-leaderboard");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+  </div>
+        </section>
+                          <section id="header_controls">
+            <div class="region region-controls">
+    <div id="block-term-queue-0" class="block block-term-queue first odd">
+
+        <h2 class="block__title block-title">TRENDING:</h2>
+    
+  <ul class="term-queue-links"><li class="0 first"><a href="/person/donald-trump">Donald Trump</a></li>
+<li class="1"><a href="/person/hillary-clinton">Hillary Clinton</a></li>
+<li class="2 last"><a href="/person/bernie-sanders">Bernie Sanders</a></li>
+</ul>
+</div>
+<div id="block-term-queue-15" class="block block-term-queue even">
+
+        <h2 class="block__title block-title">SPONSORED:</h2>
+    
+  <ul class="term-queue-links"><li class="0 first last"><a href="/social-tags/infrastructure-week">Infrastructure Week</a></li>
+</ul>
+</div>
+<div id="block-social-share-social-share" class="block block-social-share odd">
+
+      
+  <a href="http://www.facebook.com/TheHill" class="social-share-facebook" target="_blank">Facebook</a>&nbsp;<a href="http://twitter.com/intent/follow?screen_name=thehill" class="social-share-twitter-follow" target="_blank">Twitter</a>&nbsp;<a href="https://plus.google.com/+thehill/posts" class="social-share-googleplus-follow" target="_blank">Google Plus</a>&nbsp;<a href="https://www.linkedin.com/company/the-hill" class="social-share-linkedin" target="_blank">LinkedIn</a>&nbsp;
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form action="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="0" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-u7kFVRtjwD5PrOiFR08MRLGoxgpztMx6_VzEHXmGbJs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+        </section>
+          </div>
+    <div class="clear"></div>
+    <div id="navigation">
+       <nav id="main-menu" role="navigation">
+          <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd" role="navigation">
+
+        <h2 class="block__title block-title">Main menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-expanded menu__item is-expanded first expanded depth-1"><a href="/" class="menu__link menu__link">News</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/homenews/senate" title="Senate" name="Senate" class="menu__link menu__link">Senate</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/homenews/house" class="menu__link menu__link">House</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/homenews/administration" class="menu__link menu__link">Administration</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/blogs/ballot-box/polls" class="menu__link menu__link">Polls</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/homenews/sunday-talk-shows" class="menu__link menu__link">Sunday Talk Shows</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/homenews/1230-report" class="menu__link menu__link">12:30 Report</a></li>
+<li class="menu__item is-leaf leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block view-dom-id-83ae1b9229ae16f6f63b719af3209933">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/homenews/house" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">House</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/homenews/house/280103-in-shift-pelosi-defends-discreet-obama-immigration-enforcement"> In shift, Pelosi defends ‘discreet’ Obama immigration enforcement</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/homenews/house/280103-in-shift-pelosi-defends-discreet-obama-immigration-enforcement"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/article_images/pelosinancy_051216gn2.jpg?itok=pdwIgY5_" width="212" height="119" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/homenews/house" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">House</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/homenews/house/280106-house-begins-work-on-spending-bills-despite-budget-impasse">House begins work on spending bills despite budget impasse</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/homenews/house/280106-house-begins-work-on-spending-bills-despite-budget-impasse"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/blogs/rayburntunnel_confederate_042116_gettyfile.jpg?itok=bbg9FxOq" width="211" height="119" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-attach-block depth-2"><div class="menu-attach-block-wrapper orientation-horizontal">
+  <div id="block-dfp-menu-ad-news" class="block block-dfp first odd">
+
+      
+  <div id="dfp-ad-menu_ad_news-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-menu_ad_news" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-menu_ad_news");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+</div>
+</li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-1"><a href="/policy" class="menu__link menu__link">Policy</a><ul class="menu"><li class="menu__item is-expanded menu__item is-expanded first expanded depth-2"><a href="/policy/defense" class="menu__link menu__link">Defense</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/defense" class="menu__link menu__link">Defense News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/defense" class="menu__link menu__link">Defense Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/defense" class="menu__link menu__link">Defense Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/policy/defense/overnights" class="menu__link menu__link">Overnight Defense Newsletter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/51" class="menu__link menu__link">Signup for Defense Email</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/energy-environment" class="menu__link menu__link">Energy &amp; Environment</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/energy-environment" class="menu__link menu__link">Energy &amp; Environment News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/energy-environment" class="menu__link menu__link">Energy &amp; Environment Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/energy-environment" class="menu__link menu__link">Energy &amp; Environment Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/policy/energy-environment/overnights" class="menu__link menu__link">Overnight Energy &amp; Environment Newsletter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/47" class="menu__link menu__link">Signup for Energy &amp; Environment Email</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/finance" class="menu__link menu__link">Finance</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/finance" class="menu__link menu__link">Finance News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/finance" class="menu__link menu__link">Finance Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/finance" class="menu__link menu__link">Finance Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/policy/finance/overnights" class="menu__link menu__link"> Overnight Finance Newsletter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/48" class="menu__link menu__link">Signup for Finance Email</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/healthcare" class="menu__link menu__link">Healthcare</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/healthcare" class="menu__link menu__link">Healthcare News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/healthcare" class="menu__link menu__link">Healthcare Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/healthcare" class="menu__link menu__link">Healthcare Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/policy/healthcare/overnights" class="menu__link menu__link">Overnight Healthcare Newsletter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/46" class="menu__link menu__link">Signup for Healthcare Email</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/technology" class="menu__link menu__link">Technology</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/technology" class="menu__link menu__link">Technology News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/technology" class="menu__link menu__link">Technology Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/technology" class="menu__link menu__link">Technology Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/policy/technology/overnights" class="menu__link menu__link">Overnight Technology Newsletter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/45" class="menu__link menu__link">Signup for Technology Email</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/transportation" class="menu__link menu__link">Transportation</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/transportation" class="menu__link menu__link">Transportation News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/transportation" class="menu__link menu__link">Transportation Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/regulation/transportation" class="menu__link menu__link">Transportation Regulation</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/international" class="menu__link menu__link">International</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/international" class="menu__link menu__link">International News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/international" class="menu__link menu__link">International Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/regulation/international" class="menu__link menu__link">International Regulation</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/cybersecurity" class="menu__link menu__link">Cybersecurity</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/cybersecurity" class="menu__link menu__link">Cybersecurity News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/cybersecurity" class="menu__link menu__link">Cybersecurity Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/cybersecurity" class="menu__link menu__link">Cybersecurity Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/policy/cybersecurity/overnights" class="menu__link menu__link">Overnight Cybersecurity Newsletter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/1549778007" class="menu__link menu__link">Signup for Cybersecurity Email</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-2"><a href="/policy/national-security" class="menu__link menu__link">National Security</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-3"><a href="/policy/national-security" class="menu__link menu__link">National Security News</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/regulation/national-security" class="menu__link menu__link">National Security Regulation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-3"><a href="/video/national-security" class="menu__link menu__link">National Security Video</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-3"><a href="/signup/1209734507" class="menu__link menu__link">Signup for National Security Email</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block_7 view-dom-id-87d9998f0f2e4737b8bea51b3a8946ea">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/policy/healthcare" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Healthcare</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/policy/healthcare/280131-uninsured-rate-fell-to-record-low-in-2015-under-obamacare">Uninsured rate fell to record low in 2015 under ObamaCare</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/policy/healthcare" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Healthcare</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/policy/healthcare/280115-trump-gop-agree-obamacare-helps-us">Trump, GOP agree: ObamaCare helps us</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/policy/healthcare/280115-trump-gop-agree-obamacare-helps-us"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/trumpdonald_barrassojohn_051616gn.jpg?itok=upGSWvaJ" width="211" height="119" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-1"><a href="/regulation" class="menu__link menu__link">Regulation</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/regulation/defense" class="menu__link menu__link">Defense</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/energy-environment" class="menu__link menu__link">Energy &amp; Environment</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/finance" class="menu__link menu__link">Finance</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/healthcare" class="menu__link menu__link">Healthcare</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/technology" class="menu__link menu__link">Technology</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/transportation" class="menu__link menu__link">Transportation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/international" class="menu__link menu__link">International</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/cybersecurity" class="menu__link menu__link">Cybersecurity</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/regulation/national-security" class="menu__link menu__link">National Security</a></li>
+<li class="menu__item is-leaf leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block_8 view-dom-id-5a829f6c1bd61713752d1b27a504721d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/regulation/healthcare" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Healthcare</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/regulation/healthcare/280064-dems-call-for-changes-to-child-nutrition-bill">Dems call for changes to child nutrition bill </a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/regulation/healthcare/280064-dems-call-for-changes-to-child-nutrition-bill"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/article_images/lunchlady_schoollunch_121114getty.jpg?itok=knNGk70z" width="211" height="119" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/regulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Regulation</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/regulation/280060-study-85b-in-regs-so-far-this-year">Study: Obama issued $85B in regs this year</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/regulation/280060-study-85b-in-regs-so-far-this-year"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/article_images/obamadesk02242015getty_0.jpg?itok=CdZZ0aSk" width="211" height="119" alt="Obama, Keystone, Veto" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-attach-block depth-2"><div class="menu-attach-block-wrapper orientation-horizontal">
+  <div id="block-dfp-menu-ad-regulation" class="block block-dfp even">
+
+      
+  <div id="dfp-ad-menu_ad_regulation-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-menu_ad_regulation" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-menu_ad_regulation");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+</div>
+</li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-1"><a href="/blogs" class="menu__link menu__link">Blogs</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/blogs/blog-briefing-room" class="menu__link menu__link">Blog Briefing Room</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/blogs/ballot-box" class="menu__link menu__link">Ballot Box</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/blogs/floor-action" class="menu__link menu__link">Floor Action</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/blogs/congress-blog" class="menu__link menu__link">Congress Blog</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/blogs/in-the-know" class="menu__link menu__link">In The Know</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/blogs/twitter-room" class="menu__link menu__link">Twitter Room</a></li>
+<li class="menu__item is-leaf last leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block_1 view-dom-id-fcbe3e0edd4dc1200e3b09b601e5f086">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-blog-section">        <div class="field-content"><a href="/blogs/in-the-know" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">In The Know</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/in-the-know/in-the-know/280132-kelly-talks-handling-trumps-hair">Megyn Kelly talks handling Trump&#039;s hair</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/blogs/in-the-know/in-the-know/280132-kelly-talks-handling-trumps-hair"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/blogs/kellytrump_0.png?itok=xvb5Coub" width="211" height="119" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-blog-section">        <div class="field-content"><a href="/blogs/congress-blog" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Congress Blog</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/congress-blog/energy-environment/280113-essential-water-infrastructure">Essential water infrastructure</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-1"><a href="/business-a-lobbying" class="menu__link menu__link">Business</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/business-a-lobbying/lobbying-contracts" class="menu__link menu__link">Lobbying Contracts</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/business-a-lobbying/lobbying-revenue" class="menu__link menu__link">Lobbying Revenue</a></li>
+<li class="menu__item is-leaf last leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block_6 view-dom-id-51734b842e8075f3a075bc03fa76d446">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/business-a-lobbying/lobbying-hires" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lobbying Hires</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business-a-lobbying/lobbying-hires/280105-bottom-line">Bottom Line</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/business-a-lobbying" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Business &amp; Lobbying</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/business-a-lobbying/280035-white-house-spokesman-asked-if-aliens-exist">White House spokesman asked if aliens exist</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/business-a-lobbying/280035-white-house-spokesman-asked-if-aliens-exist"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/blogs/joshearnestgetty01-2016.jpg?itok=nryOPgK_" width="209" height="119" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="menu__item is-active-trail is-expanded menu__item is-active-trail is-expanded expanded active-trail depth-1 single"><a href="/homenews/campaign" class="menu__link is-active-trail menu__link is-active-trail single active-trail">Campaign</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first last leaf depth-2"><a href="/blogs/ballot-box" class="menu__link menu__link">Ballot Box</a></li>
+</ul></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-1"><a href="/opinion" class="menu__link menu__link">Opinion</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/opinion/columnists" class="menu__link menu__link">Columnists</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/opinion/letters" class="menu__link menu__link">Letters</a></li>
+<li class="menu__item is-leaf last leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block_3 view-dom-id-b401340320cf21daefe398e58a618f99">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/opinion/op-ed" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Op-Ed</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/opinion/op-ed/280084-north-carolina-governors-ignorance-of-trans-identity">North Carolina governor’s ignorance of trans identity</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/opinion/op-ed/280084-north-carolina-governors-ignorance-of-trans-identity"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/article_images/nchb2_051016getty.jpg?itok=n5xyHC5c" width="211" height="119" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-article-categories">        <div class="field-content"><a href="/opinion/letters" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Letters</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/opinion/letters/280099-democrats-promises-same-as-past-utopian-efforts-they-will-fail">Democrats’ promises same as past utopian efforts — they will fail</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/blogs/pundits-blog" class="menu__link menu__link">Contributors</a></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded depth-1 left"><a href="/video" class="menu__link menu__link left">Video</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/video/campaign" class="menu__link menu__link">Campaign</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/defense" class="menu__link menu__link">Defense</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/energy-environment" class="menu__link menu__link">Energy &amp; Environment</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/finance" class="menu__link menu__link">Finance</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/healthcare" class="menu__link menu__link">Healthcare</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/technology" class="menu__link menu__link">Technology</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/transportation" class="menu__link menu__link">Transportation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/international" class="menu__link menu__link">International</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/cybersecurity" class="menu__link menu__link">Cybersecurity</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/national-security" class="menu__link menu__link">National Security</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/sunday-shows" class="menu__link menu__link">Sunday Shows</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/events" class="menu__link menu__link">Events</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/ask-a-b" class="menu__link menu__link">Ask A.B.</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/lawmaker-interviews" class="menu__link menu__link">Lawmaker Interviews</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/video/best-stories-of-the-week" class="menu__link menu__link">The Best Stories of the Week</a></li>
+<li class="menu__item is-leaf leaf menu-views"><div class="view view-menu-promotions view-id-menu_promotions view-display-id-block_5 view-dom-id-8e1f060358268266da5f241079b7e305">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-video-categories">        <div class="field-content"><a href="/video/in-the-news" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">In the News</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/video/in-the-news/280047-watch-senator-presses-trump-on-coal-promise">WATCH: Senator presses Trump on coal promise</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/video/in-the-news/280047-watch-senator-presses-trump-on-coal-promise"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/article_images/donaldtrump5-12-16getty.jpg?itok=rIHR3hGo" width="210" height="119" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-video-categories">        <div class="field-content"><a href="/video/in-the-news" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">In the News</a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/video/in-the-news/279874-watch-how-sanders-could-create-a-dem-convention-fight">WATCH: How Sanders could create a Dem convention fight</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/video/in-the-news/279874-watch-how-sanders-could-create-a-dem-convention-fight"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_menu/public/sandersbernie_040116getty.jpg?itok=nqi1otgB" width="212" height="119" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-attach-block depth-2 left"><div class="menu-attach-block-wrapper orientation-horizontal">
+  <div id="block-dfp-menu-ad-video" class="block block-dfp odd">
+
+      
+  <div id="dfp-ad-menu_ad_video-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-menu_ad_video" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-menu_ad_video");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+</div>
+</li>
+</ul></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/latino" class="menu__link menu__link">Latino</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/resources/classifieds/employer" class="menu__link menu__link">Jobs</a></li>
+<li class="menu__item is-expanded menu__item is-expanded last expanded depth-1 left single"><a href="/events" class="menu__link menu__link single left">Events</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-2"><a href="/events" class="menu__link menu__link">Upcoming Events</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-2"><a href="/events/past" class="menu__link menu__link">Past Events</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-2"><a href="/events/about" class="menu__link menu__link">About</a></li>
+</ul></li>
+</ul>
+</div>
+  </div>
+       </nav>  
+    </div><!-- /#navigation -->
+    </div>
+  </header>
+
+  <div id="main">
+      <div class="region region-highlighted">
+    <div id="block-thehill-blocks-blogs-menu" class="block block-thehill-blocks first odd">
+
+      
+    <div id="thehill_blocks_blogs-menu" class="block block_wrapper">
+    <ul class="item-list">
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/blog-briefing-room" title="Blog Briefing Room">Blog Briefing Room</a>              <h3><a href="/blogs/in-the-know/in-the-know/280132-kelly-talks-handling-trumps-hair" title="Megyn Kelly on Trump&#039;s hair: &#039;That&#039;s real&#039;">Megyn Kelly on Trump&#039;s hair: &#039;That&#039;s real&#039;</a></h3>
+              <time>08:20am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/congress-blog" title="Congress Blog">Congress Blog</a>              <h3><a href="/blogs/congress-blog/energy-environment/280113-essential-water-infrastructure" title="Essential water infrastructure">Essential water infrastructure</a></h3>
+              <time>08:01am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/pundits-blog" title="Contributors">Contributors</a>              <h3><a href="/blogs/pundits-blog/finance/280128-the-next-step-in-the-fight-to-protect-consumers" title="The next step in the fight to protect...">The next step in the fight to protect...</a></h3>
+              <time>07:30am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/technology" title="Technology">Technology</a>              <h3><a href="/policy/technology/overnights/280091-overnight-tech-crowdfunding-regulations-go-live" title="Overnight Tech: New crowdfunding rules...">Overnight Tech: New crowdfunding rules...</a></h3>
+              <time>05:44pm</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/energy-environment" title="Energy &amp; Environment">Energy & Environment</a>              <h3><a href="/policy/energy-environment/overnights/280094-overnight-energy-labor-rift-opens-over-green-pac" title="Overnight Energy: Labor rift opens over...">Overnight Energy: Labor rift opens over...</a></h3>
+              <time>06:09pm</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/ballot-box" title="Ballot Box">Ballot Box</a>              <h3><a href="/blogs/ballot-box/presidential-races/280134-trump-accuses-attack-ad-of-taking-him-out-of-context" title="Trump accuses attack ad of taking him out...">Trump accuses attack ad of taking him out...</a></h3>
+              <time>08:53am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/finance" title="Finance">Finance</a>              <h3><a href="/blogs/pundits-blog/finance/280083-a-real-hamiltonian-moment-for-puerto-rico" title="A real Hamiltonian response for Puerto Rico">A real Hamiltonian response for Puerto Rico</a></h3>
+              <time>06:30am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/healthcare" title="Healthcare">Healthcare</a>              <h3><a href="/policy/healthcare/280131-uninsured-rate-fell-to-record-low-in-2015-under-obamacare" title="Uninsured rate hits record low under...">Uninsured rate hits record low under...</a></h3>
+              <time>08:15am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/floor-action" title="Floor Action">Floor Action</a>              <h3><a href="/blogs/floor-action/senate/280112-gop-senators-fire-top-aide-over-iran-deal-comments" title="GOP senators: Fire top aide over Iran deal...">GOP senators: Fire top aide over Iran deal...</a></h3>
+              <time>08:01pm</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/transportation" title="Transportation">Transportation</a>              <h3><a href="/policy/transportation/280118-house-panel-plans-hearing-on-long-airport-lines-as-issue-nears-boiling" title="House panel to hold hearing on long...">House panel to hold hearing on long...</a></h3>
+              <time>06:00am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/defense" title="Defense">Defense</a>              <h3><a href="/policy/defense/280125-white-house-issues-veto-threat-over-house-defense-policy-bill" title="White House issues veto threat over House...">White House issues veto threat over House...</a></h3>
+              <time>10:58pm</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/international" title="International">International</a>              <h3><a href="/policy/national-security/280072-white-house-rejects-demand-for-aide-to-testify-over-iran-comments" title="White House rejects GOP demand that aide...">White House rejects GOP demand that aide...</a></h3>
+              <time>04:50pm</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/in-the-know" title="In The Know">In The Know</a>              <h3><a href="/blogs/ballot-box/presidential-races/280133-megyn-kelly-i-had-a-dark-year-feuding-with-trump" title="Megyn Kelly talks about ‘dark year’...">Megyn Kelly talks about ‘dark year’...</a></h3>
+              <time>08:37am</time>
+            </header>
+          </div>
+        </li>
+              <li>
+          <div class="blog_menu_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/cybersecurity" title="Cybersecurity">Cybersecurity</a>              <h3><a href="/policy/cybersecurity/280135-houses-passes-bill-to-help-states-fight-hackers" title="Houses passes bill to help states fight...">Houses passes bill to help states fight...</a></h3>
+              <time>08:53am</time>
+            </header>
+          </div>
+        </li>
+          </ul>
+    <div class="clearfix"></div>
+	    <a class="prev" id="blogs_menu_prev" href="#"><span>prev</span></a>
+	    <a class="next" id="blogs_menu_next" href="#"><span>next</span></a>
+  </div>
+
+</div>
+<div id="block-dfp-pushdown" class="block block-dfp last even">
+
+      
+  <div id="dfp-ad-pushdown-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-pushdown" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-pushdown");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+  </div>
+    <div id="content" class="column" role="main">
+      <div class="easy-breadcrumb"><a href="/" class="easy-breadcrumb_segment easy-breadcrumb_segment-front">Home</a><span class="easy-breadcrumb_segment-separator"> | </span><a href="/homenews" class="easy-breadcrumb_segment easy-breadcrumb_segment-1">News</a><span class="easy-breadcrumb_segment-separator"> | </span><a href="/homenews/campaign" class="easy-breadcrumb_segment easy-breadcrumb_segment-2">Campaign</a></div>      <a id="main-content"></a>
+            <!-- / title preffix -->
+              <h1 class="title" id="page-title">NYT story on Trump’s history with women creates backlash</h1>
+            <!-- / title suffix -->
+      <!-- / messages -->
+      <!-- / tabs -->
+      <!-- / help -->
+            <div class="clearer"></div>
+            
+
+
+<!-- node- -article- -full.tpl.php -->
+<article class="node-280114 node node-article view-mode-full clearfix" about="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" typeof="sioc:Item foaf:Document">
+  <div class="clearfix">
+    <div class="addthis_sharing_toolbox" data-url="http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" data-title="NYT story on Trump’s history with women creates backlash"></div>
+<div class="share">
+  <a href="mailto:?subject=TheHill.com%3A%20%20data-title%3D%22NYT%20story%20on%20Trump%E2%80%99s%20history%20with%20women%20creates%20backlash%22&amp;body=From%20TheHill.com%3A%20%0A%0AOne%20of%20Trump%E2%80%99s%20former%20girlfriends%20says%20her%20comments%20were%20distorted%20to%20smear%20him.%0A%0Ahttp%3A//thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" class="email">&nbsp</a>
+  </div>    <a href="http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash#disqus_thread" class="disqus-comments" data-disqus-identifier="node/280114"></a>  </div>
+
+      <header>
+                
+      <span property="dc:title" content="NYT story on Trump’s history with women creates backlash" class="rdf-meta element-hidden"></span>
+          </header>
+  
+     
+      <p class="submitted">
+      By <span rel="sioc:has_creator"><a href="/author/jonathan-easley">Jonathan Easley</a></span> - <span class="date">05/16/16 08:28 PM EDT</span>
+    </p>
+    <div id="ndn-video-single" class="ndn-widget" style="display: none;"></div>
+  <div class="field field-name-field-free-html field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><!-- Start of Brightcove Player -->
+
+<div style="display:none">
+
+</div>
+
+<!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+-->
+
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+<object id="myExperience4895799408001" class="BrightcoveExperience">
+  <param name="bgcolor" value="#FFFFFF" />
+  <param name="width" value="645" />
+  <param name="height" value="363" />
+  <param name="playerID" value="4852040552001" />
+  <param name="playerKey" value="AQ~~,AAAAAEA-5AE~,7pYsU79IKz286h62pK9uECQQRvD5MML0" />
+  <param name="isVid" value="true" />
+  <param name="isUI" value="true" />
+  <param name="dynamicStreaming" value="true" />
+  
+  <param name="@videoPlayer" value="4895799408001" />
+</object>
+
+<!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+-->
+<script type="text/javascript">brightcove.createExperiences();</script>
+
+<!-- End of Brightcove Player --></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>One of <span class="rollover-people"><a class="rollover-people-link" data-nid="261287" href="http://thehill.com/people/donald-trump">Donald Trump</a><span class="rollover-people-block" id="rollover-people-261287"><span class="rollover-block"><span><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_100/public/trump1.jpg?itok=r4W-zWkm" width="100" height="100" alt="" /><a class="name" href="http://thehill.com/people/donald-trump">Donald Trump</a><a class="people-articles" href="/blogs/ballot-box/presidential-races/280134-trump-accuses-attack-ad-of-taking-him-out-of-context">Trump accuses attack ad of taking him out of context</a> <a class="people-articles" href="/blogs/ballot-box/presidential-races/280133-megyn-kelly-i-had-a-dark-year-feuding-with-trump">Megyn Kelly talks about ‘dark year’ feuding with Trump</a> <a class="people-articles" href="/blogs/in-the-know/in-the-know/280132-kelly-talks-handling-trumps-hair">Megyn Kelly on Trump's hair: 'That's real'</a> <a class="more" href="http://thehill.com/people/donald-trump">MORE<span></span></a></span></span></span></span>’s former girlfriends is pushing back on a New York Times story, saying her comments were distorted to smear him.</p><p>The remarks from Rowanne Brewer Lane, a former model who is the centerpiece of the Times story, invigorated Trump and his supporters and rallied conservatives of all stripes behind their common enemies: the media and The New York Times, in particular.</p><p></p><div id="dfp-ad-mosad_1-wrapper" class="dfp-tag-wrapper wrapper"><div id="dfp-ad-mosad_1" class="dfp-tag-wrapper"><span>ADVERTISEMENT</span><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+googletag.cmd.push(function() {googletag.display("dfp-ad-mosad_1");});
+//--><!]]>
+</script></div></div>“Unfortunately, this doesn’t surprise me in the slightest because I’ve been on the other end of the media’s distortions and lies,” Ben Carson, a top Trump adviser and former presidential candidate, told The Hill in a phone interview. “It’s the New York Times. What did you expect?”<p>Over the weekend, the Times ran a lengthy front-page story headlined “Crossing the Line: How Donald Trump Behaved With Women in Private,” detailing Trump’s past treatment of the women he dated or employed.</p><p>The authors, political reporters Michael Barbaro and Megan Twohey, said the story was the culmination of six weeks of reporting in which they interviewed 50 women from Trump’s past.</p><p>Several women in the story said Trump made unwelcome sexual advances or sought to shame them by critiquing their appearances.</p><p>For Trump’s critics, the story confirmed an existing narrative about him being a sexist and a misogynist. Republican National Committee Chairman Reince Priebus was repeatedly forced to defend Trump against the charges in a string of appearances on Sunday’s political talk shows.</p><p>But Brewer Lane, who was mentioned at the beginning of the story, claimed Monday that she was misquoted and that the paper intentionally mischaracterized what she said to make Trump seem boorish.</p><p>In an interview with The Hill on Monday afternoon, Brewer Lane lashed out at the Times reporters, saying she spent hours on the phone with them and agreed to do a photo shoot for the piece because she wanted to let people know “how well Trump treats women.”</p><p>Brewer Lane says she was stunned and felt she’d been taken advantage of when she read that her words were used to make Trump appear to be a lecher.</p><p>“I think it was intentional,” she said. “They have an agenda to make Trump look unfavorable at this point in the race.”</p><p>Brewer Lane, who said she will vote for Trump in the general election, has made appearances on Fox News Channel, MSNBC and CNN to dispute the Times story.</p><p>Trump seized on Brewer Lane’s comments to declare that the entire story had been discredited, tweeting, “With the coming forward today of the woman central to the failing @nytimes hit piece on me, we have exposed the article as a fraud!”</p><p>The Times is vigorously defending its work.</p><p>The newspaper produced a live Facebook video on Thursday afternoon with one of Trump’s former construction managers, Barbara Res, who was extremely critical of her former boss in the story.</p><p>And the reporters, Barbaro and Twohey, followed Brewer Lane in a segment on CNN to rebut her claims.</p><p>“We stand by our story,” Barbaro said. “We believe we quoted her fairly and accurately, and the story stands for itself.”</p><p>The story begins with an anecdote from the 1980s about Trump courting Brewer Lane at a pool party at his Mar-a-Lago property in tony Palm Beach, Fla.</p><p>There, Trump purportedly asked Brewer Lane, about 20 years his junior, to change out of her clothes and into a bikini. After exclaiming “wow” when he saw her, the Times said, Trump proudly introduced her to others as a “stunning Trump girl.”</p><p>“None of the facts are in dispute,” Barbaro said.</p><p>“I think that story speaks for itself,” he said. “I thought it was a powerful anecdote. There was some key context. She went on to date Donald Trump, which we explained. But the big picture here — we’re talking about a pattern of behavior with the way Donald Trump reacts privately with women.”</p><p>The Times described the story about Brewer Lane being asked to get into a bikini as “a debasing face-to-face encounter between Mr. Trump and a young woman he hardly knew.”</p><p>But Brewer Lane denies that she felt debased and claims that she went out of her way to communicate that to the reporters. Brewer Lane said she was mortified when she learned how the Times had framed the story and said she immediately felt compelled to correct the record.</p><p>“It was a desperate moment,” Brewer Lane said. “I was very upset.”</p><p>But some independent media analysts are unsympathetic to what they see as backtracking by Brewer Lane. Erik Wemple, the media critic for The Washington Post, called blowback against the Times story “laughable.”</p><p>“Lane’s recollections are one thing; the bare facts of the situation are another,” Wemple wrote. </p><p>“The New York Times is entitled to judge and interpret the goings-on. By any standard of decency toward women, the act of ogling a 20-something model, inviting her to change into a bikini and then proclaiming her a ‘Trump girl’ when paraded around the pool is piggish. The New York Times can and should say so.”</p><p>But many conservatives are furious, arguing it’s not the first time the newspaper has mistreated one of their own.</p><p>“They’ve demonstrated in story after story that they hate Republicans and will do anything to destroy them,” said Richard Grenell, a media critic and former communications director under George W. Bush’s administration. “They’re not journalists, they’re advocates.”</p><p>Grenell noted that one of the reporters, Barbaro, also had a byline on another controversial story in the 2016 cycle.</p><p>Last June, the Times reported that Sen. <span class="rollover-people"><a class="rollover-people-link" data-nid="188218" href="http://thehill.com/people/marco-rubio">Marco Rubio</a><span class="rollover-people-block" id="rollover-people-188218"><span class="rollover-block"><span><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_100/public/marco_rubio.jpg?itok=duXpCIFp" width="100" height="100" alt="" /><a class="name" href="http://thehill.com/people/marco-rubio">Marco Rubio</a><a class="people-articles" href="/blogs/ballot-box/presidential-races/280129-rubio-rips-unidentified-sources-in-twitter-rant">Rubio rips unidentified sources in Twitter rant</a> <a class="people-articles" href="/homenews/campaign/280117-hillarys-unlikely-ally-in-2016-the-media">Hillary’s unlikely ally: The media</a> <a class="people-articles" href="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash">NYT story on Trump’s history with women creates backlash</a> <a class="more" href="http://thehill.com/people/marco-rubio">MORE<span></span></a></span></span></span></span> (R-Fla.), who was at the time running for president, had “splurged” on a “luxury speedboat.” It was one of a “series of decisions over the past 15 years that experts called imprudent,” the Times reported.</p><p>The Rubio campaign was furious, saying that the Florida senator hadn’t purchased a “luxury speedboat” at all but rather had bought his family a run-of-the-mill fishing boat with a nearly $1 million advance he received on a book.</p><p>Republicans also still remember a Times report from 2008 that strongly implied Sen. <span class="rollover-people"><a class="rollover-people-link" data-nid="188278" href="http://thehill.com/people/john-mccain">John McCain</a><span class="rollover-people-block" id="rollover-people-188278"><span class="rollover-block"><span><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_100/public/john_mccain_0.jpg?itok=rtF_qU4o" width="100" height="100" alt="" /><a class="name" href="http://thehill.com/people/john-mccain">John McCain</a><a class="people-articles" href="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash">NYT story on Trump’s history with women creates backlash</a> <a class="people-articles" href="/policy/defense/overnights/280110-overnight-defense-pentagon-siding-with-senate-in-funding-fight">Overnight Defense: Pentagon siding with Senate in funding fight</a> <a class="people-articles" href="/business-a-lobbying/lobbying-hires/280105-bottom-line">Bottom Line</a> <a class="more" href="http://thehill.com/people/john-mccain">MORE<span></span></a></span></span></span></span> (R-Ariz.), who was at the time running for the GOP presidential nomination, had an extramarital affair with a lobbyist.</p><p>The Times later added a note to the online story saying “the article did not state, and The Times did not intend to conclude” that was the case.</p><p>Steve Schmidt, a senior adviser to McCain’s campaign at the time, said Monday that the flap over the Times report would only help Trump.</p><p>“It will diminish the credibility and effectiveness on the next line of media stories that come forward,” he said on MSNBC’s ‘Morning Joe.’</p><p>“So one of the good things that will happen for Donald Trump with these stories that are overreaching, it inoculates him pretty far out from the fall election.”</p></div></div></div><div class="field field-name-field-amp-enabled field-type-list-boolean field-label-above"><div class="field-label">AMP enabled:&nbsp;</div><div class="field-items"><div class="field-item even"></div></div></div>  
+  <div class="article-tags">
+        
+      <label>Tags:</label>
+      <a href="/person/donald-trump" title="Donald Trump">Donald Trump</a>, <a href="/person/john-mccain" title="John McCain">John McCain</a>, <a href="/person/marco-rubio" title="Marco Rubio">Marco Rubio</a>    
+      </div>
+  <div id="ndn-video-single-02" class="ndn-widget" style="display: none;"></div>
+  <div class="social-share-bottom">    
+    <div class="fblikebutton-facebook fblikebutton">
+      
+      <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" class="popup facebook-share">Share on Facebook</a>
+          </div>  
+          <div>
+     <a href="https://twitter.com/share?url=http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash&text=NYT story on Trump’s history with women creates backlash" class="popup twitter-share">Share on Twitter</a>
+   </div>
+    <span class="clearfix"></span>
+  </div>
+      <div class="region region content-inside">
+        <div class="region region-content-inside">
+    <div id="block-thehill-blocks-versa-widget" class="block block-thehill-blocks first last odd">
+
+      
+  <script data-electnext id="enxt-script" type="text/javascript">
+  //<![CDATA[
+  var _enxt = _enxt || [];
+  _enxt.push(['set_account', 'c35a59e1bd8571b56cff266a89794f9e']);
+  _enxt.push(['set_article', '280114']);
+  _enxt.push(['setup_featured_perspective']);
+  (function() {
+  var enxt = document.createElement('script'); enxt.type =
+  'text/javascript'; enxt.async = true;
+  enxt.src = '//versahq.com/api/v1/enxt.js'; var k =
+  document.getElementById('enxt-script');
+  k.parentNode.insertBefore(enxt, k);
+  })();
+  //]]>
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://versahq.com?utm_source=noscript&utm_medium=richardson_widget" target="_blank">featured perspectives by Versa.</a></noscript>
+
+</div>
+  </div>
+    </div>
+    </article><!-- /node- -article- -full.tpl.php --><div id="block-dfp-video-companion-645x363" class="block block-dfp last even">
+
+      
+  <div id="dfp-ad-video_companion_645x363-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-video_companion_645x363" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-video_companion_645x363");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+
+                  
+        <div class="region region-content-bottom">
+    <div id="block-thehill-blocks-taboola-web" class="block block-thehill-blocks first odd">
+
+      
+  <div id="taboola-grid-4x2"></div>
+</div>
+<div id="block-block-25" class="block block-block even">
+
+      
+  <!-- Taboola Text Links -->
+<div style="margin: 10px 0;">
+<div id="taboola-below-article-text-links" style="width:300px;float:left;"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-text-links-a',
+    container: 'taboola-below-article-text-links',
+    placement: 'Below Article Text Links',
+    target_type: 'mix'
+  });
+</script>
+<script type="text/javascript"> var pm_adunit_id=1417548267;</script><script type="text/javascript" src="http://widget.perfectmarket.com/prometheus-thehill/load.js"></script>
+</div>
+</div>
+<div id="block-thehill-blocks-taboola-like" class="block block-thehill-blocks odd">
+
+      
+  <div id="taboola-horizontalx4"></div>
+</div>
+<div id="block-thehill-blocks-facebook-story" class="block block-thehill-blocks even">
+
+      
+  <div id="fb-root"></div><div class="fb-like-box" data-href="http://www.facebook.com/thehill" data-width="292" data-show-faces="false" data-stream="false" data-header="false"></div>
+</div>
+<div id="block-disqus-disqus-comments" class="block block-disqus last odd">
+
+      
+  <div id="disqus_thread"><noscript><p><a href="http://thehill-v4.disqus.com/?url=http%3A%2F%2Fthehill.com%2Fhomenews%2Fcampaign%2F280114-nyt-story-on-trumps-history-with-women-creates-backlash">View the discussion thread.</a></p></noscript></div>
+</div>
+  </div>
+          </div><!-- /#content -->
+
+                        <aside class="sidebars">
+                      <section class="region region-sidebar-second column sidebar">
+    <div id="block-dfp-video-companion-multi-size" class="block block-dfp first odd">
+
+      
+  <div id="dfp-ad-video_companion_multi_size-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-video_companion_multi_size" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-video_companion_multi_size");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+<div id="block-block-38" class="block block-block even">
+
+      
+  <!-- Start NDN Player -->
+<div id="thehill_slider" data-config-widget-id="32321" data-config-type="VideoLauncher/Slider" data-config-tracking-group="91690" data-config-site-section="thehill_politics_story"></div>
+<script type="text/javascript">var _ndnq = _ndnq || []; _ndnq.push(['embed','thehill_slider']);</script>
+<!-- End NDN Player -->
+
+</div>
+<div id="block-mostpopular-1" class="block block-mostpopular odd">
+
+        <h2 class="block__title block-title">Most Popular</h2>
+    
+  <!-- mostpopular-block.tpl.php -->
+<div  data-bid="1" class="mostpopular-block">
+    
+  <div class="item-list"><ul class="mostpopular--services"><li data-sid="4" class="first">Most Popular</li>
+<li data-sid="1" class="last">Discussed</li>
+</ul></div>  <div class="item-list"><ul class="mostpopular--intervals"><li class="mostpopular--label first">Past:</li>
+<li data-iid="1" class="last">1 day</li>
+</ul></div>      <div class="mostpopular--content">    <div class="item-list">
+      <ul class="mostpopular--items">
+                      <li data-count="1068" class="first">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/homenews/campaign/280117-hillarys-unlikely-ally-in-2016-the-media">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/clintonhillary_031516getty4.jpg?itok=mvraUfgs" alt="Hillary’s unlikely ally: The media" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/homenews/campaign/280117-hillarys-unlikely-ally-in-2016-the-media">
+        <span class="title">Hillary’s unlikely ally: The media</span>
+      </a>
+              Hillary Clinton has an unlikely ally in her bid to defeat Donald Trump...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="254" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280124-trump-closing-gap-with-clinton-poll-shows">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/clintonhillary_trumpdonald_051016gn.jpg?itok=l8Q-wgR7" alt="Trump closing gap with Clinton, poll shows" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280124-trump-closing-gap-with-clinton-poll-shows">
+        <span class="title">Trump closing gap with Clinton,...</span>
+      </a>
+              Donald Trump is closing in on Hillary Clinton’s narrow lead in a general...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="0" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+      <div id="dfp-ad-most_popular_insert-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-most_popular_insert" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-most_popular_insert");
+    });
+  </script>
+</div>
+
+</div>  </div>        </li>
+                              <li data-count="139" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/healthcare/280115-trump-gop-agree-obamacare-helps-us">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/trumpdonald_barrassojohn_051616gn.jpg?itok=N3_Pz8Cl" alt="Trump, GOP agree: ObamaCare helps us" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/healthcare/280115-trump-gop-agree-obamacare-helps-us">
+        <span class="title">Trump, GOP agree: ObamaCare helps...</span>
+      </a>
+              ObamaCare became a rallying point at last Thursday's meeting.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="130" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/trumpdonald_050716getty2.jpg?itok=IgUj8pU9" alt="NYT story on Trump’s history with women creates backlash" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash">
+        <span class="title">NYT story on Trump’s history with...</span>
+      </a>
+              One of Trump’s former girlfriends says her comments were distorted to...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="126" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/senate-races/280016-gop-senate-candidate-obamas-an-animal">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/beruffcarlos.jpg?itok=YPKa4iud" alt="GOP Senate candidate: Obama ‘an animal’" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/senate-races/280016-gop-senate-candidate-obamas-an-animal">
+        <span class="title">GOP Senate candidate: Obama ‘an...</span>
+      </a>
+              "He wants us to be just another country," Carlos Beruff said.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="116" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/280108-congressional-candidate-posts-screenshot-with-porn-tabs-on-facebook">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/mike_webb_porn_tabs.png?itok=7EtTSu0l" alt="Congressional candidate posts screenshot with porn tabs on Facebook" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/280108-congressional-candidate-posts-screenshot-with-porn-tabs-on-facebook">
+        <span class="title">Congressional candidate posts...</span>
+      </a>
+              A candidate posted a screenshot that included an image of a browser window...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="93" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/pundits-blog/presidential-campaign/280040-is-a-romney-sasse-ticket-the-antidote-to-trump">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/romneymitt_110512gn5.jpg?itok=fv_VYrtX" alt="Is a Romney-Sasse ticket the antidote to Trump?" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/pundits-blog/presidential-campaign/280040-is-a-romney-sasse-ticket-the-antidote-to-trump">
+        <span class="title">Is a Romney-Sasse ticket the...</span>
+      </a>
+              A singular individual like Romney could calm the waters.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="79" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280121-trump-tweet-quotes-then-mocks-obama">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/trumpobama_040516getty.jpg?itok=hx21paqi" alt="Trump mocked for making fun of Obama quote" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280121-trump-tweet-quotes-then-mocks-obama">
+        <span class="title">Trump mocked for making fun of...</span>
+      </a>
+              Trump tweeted Obama's quote, then attacked the president.           </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="77" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/homenews/campaign/280107-5-things-to-watch-in-tuesdays-primaries">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/sandersclinton_040116getty.jpg?itok=KhWIGfGo" alt="5 things to watch in Tuesday’s primaries" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/homenews/campaign/280107-5-things-to-watch-in-tuesdays-primaries">
+        <span class="title">5 things to watch in Tuesday’s...</span>
+      </a>
+              Tuesday’s primaries will have much to say about the general election...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="75" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/dem-primaries/280063-clinton-to-protestor-you-arent-entitled-to-your-own-facts">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/clintonhillary_041816getty.jpg?itok=OJ1iRcsP" alt="Clinton to protester: You aren&#039;t &#039;entitled to your own facts&#039;" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/dem-primaries/280063-clinton-to-protestor-you-arent-entitled-to-your-own-facts">
+        <span class="title">Clinton to protester: You aren&#039;t &#039;...</span>
+      </a>
+              Clinton said the woman was buying into "Republican propaganda."           </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="68" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/energy-environment/280066-afl-cio-rift-opens-over-green-mega-donor-tom-steyer">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/steyertom_081313getty.jpg?itok=nBzPNNZs" alt="AFL-CIO rift opens over green mega-donor Tom Steyer" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/energy-environment/280066-afl-cio-rift-opens-over-green-mega-donor-tom-steyer">
+        <span class="title">AFL-CIO rift opens over green mega...</span>
+      </a>
+              The unions want the AFL-CIO to cut ties to Steyer's super-PAC.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="65" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/national-security/280002-cia-watchdog-accidentally-destroyed-only-copy-of-torture-report">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/cia_030305getty.jpg?itok=5yp20YlS" alt="CIA watchdog ‘accidentally destroyed’ copy of ‘torture report’" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/national-security/280002-cia-watchdog-accidentally-destroyed-only-copy-of-torture-report">
+        <span class="title">CIA watchdog ‘accidentally...</span>
+      </a>
+              The episode is a humiliating one for the CIA inspector general.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="57" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/279930-nevada-dem-convention-devolves-into-chaos">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/sandersbernie_050116gn4.jpg?itok=ntF85kLE" alt="Nevada Dem convention devolves into chaos" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/279930-nevada-dem-convention-devolves-into-chaos">
+        <span class="title">Nevada Dem convention devolves...</span>
+      </a>
+              Sanders supporters were outraged over voice votes, rule changes and...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="55" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/transportation/279878-five-big-infrastructure-emergencies">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/brentspencebridge_092211getty2.jpg?itok=9JqpGv7F" alt="Five infrastructure emergencies" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/transportation/279878-five-big-infrastructure-emergencies">
+        <span class="title">Five infrastructure emergencies</span>
+      </a>
+              Some crumbling structures are threatening both the economy and public...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="55" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280129-rubio-rips-unidentified-sources-in-twitter-rant">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/rubiomarco_031716gn.jpg?itok=v0L2yHln" alt="Rubio rips unidentified sources in Twitter rant" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280129-rubio-rips-unidentified-sources-in-twitter-rant">
+        <span class="title">Rubio rips unidentified sources in...</span>
+      </a>
+              Marco Rubio took to Twitter on Monday night to criticize a Washington Post...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="52" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/blog-briefing-room/news/280030-gop-rep-irans-treatment-of-us-sailors-will-be-huge-cause-for">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/ussailorsiran.jpg?itok=7WCXyGrW" alt="GOP rep: Details of Iran&#039;s treatment of US sailors disturbing" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/blog-briefing-room/news/280030-gop-rep-irans-treatment-of-us-sailors-will-be-huge-cause-for">
+        <span class="title">GOP rep: Details of Iran&#039;s...</span>
+      </a>
+              "Most Americans are going to be kind of taken aback by the entire incident...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="50" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/homenews/house/280103-in-shift-pelosi-defends-discreet-obama-immigration-enforcement">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/pelosinancy_051216gn2.jpg?itok=r5SqKkC5" alt="In shift, Pelosi defends ‘discreet’ Obama immigration enforcement" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/homenews/house/280103-in-shift-pelosi-defends-discreet-obama-immigration-enforcement">
+        <span class="title">In shift, Pelosi defends ‘discreet...</span>
+      </a>
+              Minority Leader Nancy Pelosi (D-Calif.) is defending the Obama...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="49" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/279966-obama-slams-political-climate-in-rutgers-commencement">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/obamabarack_rutgers_051516getty.jpg?itok=LAHRq7NG" alt="Obama slams political climate in Rutgers commencement address" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/279966-obama-slams-political-climate-in-rutgers-commencement">
+        <span class="title">Obama slams political climate in...</span>
+      </a>
+              "Ignorance is not a virtue," Obama said.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="46" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280109-reid-blames-sanders-supporters-for-disruptions-at-nev">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/reidharry_041916hj.jpg?itok=oP-m-a8k" alt="Reid blames Sanders supporters for disruptions at Nev. convention" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280109-reid-blames-sanders-supporters-for-disruptions-at-nev">
+        <span class="title">Reid blames Sanders supporters for...</span>
+      </a>
+              "I'm sure if Bernie found out about it, he would not accept what happened...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="45" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280077-nader-superdelegates-are-hillarys-cronies">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/screen_shot_2016-05-16_at_5.09.50_pm_1.png?itok=yivKid36" alt="Ralph Nader: Dem superdelegates are &#039;Hillary&#039;s cronies&#039;" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280077-nader-superdelegates-are-hillarys-cronies">
+        <span class="title">Ralph Nader: Dem superdelegates...</span>
+      </a>
+              "The Democrats years ago didn’t want an insurgency like Bernie Sanders, so...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="45" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/279879-hillary-clintons-top-five-vice-presidential-picks">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/clintonhillary_051316getty.jpg?itok=erAquFn6" alt="Clinton’s top five vice presidential picks" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/279879-hillary-clintons-top-five-vice-presidential-picks">
+        <span class="title">Clinton’s top five vice...</span>
+      </a>
+              Here are the candidates getting the most buzz in Clintonworld.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="41" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/pundits-blog/presidential-campaign/279982-the-gop-civil-war-reaches-a-fever-pitch">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/trumpdonald_ryanpaul_050916gn.jpg?itok=k_HKdWkk" alt="The GOP civil war reaches a fever pitch" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/pundits-blog/presidential-campaign/279982-the-gop-civil-war-reaches-a-fever-pitch">
+        <span class="title">The GOP civil war reaches a fever...</span>
+      </a>
+              The rift between Trump and Ryan could lead to historic Republican losses...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="40" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280123-poll-more-republicans-trust-trump-than-ryan">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/trumpryan_050616thehill.jpg?itok=DhC7Kwwf" alt="Poll: More Republicans trust Trump than Ryan" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280123-poll-more-republicans-trust-trump-than-ryan">
+        <span class="title">Poll: More Republicans trust Trump...</span>
+      </a>
+              Six in 10 Republicans and GOP-leaners trust Donald Trump more than Paul...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="38" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/transportation/279895-how-politics-are-getting-in-the-way-of-better-roads-and-bridges">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/bridge_041315getty.jpg?itok=lmvtdVtB" alt="How politics are getting in the way of better roads and bridges" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/transportation/279895-how-politics-are-getting-in-the-way-of-better-roads-and-bridges">
+        <span class="title">How politics are getting in the...</span>
+      </a>
+              Attempts to revitalize the nation's infrastructure have gone nowhere.           </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="37" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/defense/280125-white-house-issues-veto-threat-over-house-defense-policy-bill">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/pentagon_getty_0.jpg?itok=Yqbryb9O" alt="White House issues veto threat over House defense policy bill" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/defense/280125-white-house-issues-veto-threat-over-house-defense-policy-bill">
+        <span class="title">White House issues veto threat...</span>
+      </a>
+              The House is expected to take up the bill on Tuesday.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="37" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/279964-trump-on-warren-you-mean-pocahontas">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/trumpwarren.png?itok=qpvVOmi7" alt="Trump on Warren: &#039;You mean Pocahontas?&#039;" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/279964-trump-on-warren-you-mean-pocahontas">
+        <span class="title">Trump on Warren: &#039;You mean...</span>
+      </a>
+              Trump is not reining in his attacks against Warren.           </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="37" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/279986-trumps-former-girlfriend-he-was-a-gentleman">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/trumppledge1.jpg?itok=BHcK_Z8B" alt="Trump’s former girlfriend: New York Times &#039;spun&#039; my comments" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/279986-trumps-former-girlfriend-he-was-a-gentleman">
+        <span class="title">Trump’s former girlfriend: New...</span>
+      </a>
+              "I did not have a negative experience with Donald Trump," Rowanne Brewer...          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="36" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/blogs/ballot-box/presidential-races/280122-trump-on-tone-im-fighting-for-survival">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/blogs/trumpdonald_041116getty_0.jpg?itok=rCbFI5JO" alt="Trump on tone: I&#039;m &#039;fighting for survival&#039;" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/blogs/ballot-box/presidential-races/280122-trump-on-tone-im-fighting-for-survival">
+        <span class="title">Trump on tone: I&#039;m &#039;fighting for...</span>
+      </a>
+              "And I really view myself now as somewhat of a messenger."          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                              <li data-count="36" class="">
+          <!-- mostpopular-item.tpl.php -->
+<div class="mostpopular-item" >
+          <div class="most_popular_image">
+      <a href="/policy/finance/280090-fight-brewing-over-forcing-library-of-congress-to-use-term-illegal-alien">
+        <img typeof="foaf:Image" src="/sites/default/files/styles/thumb_58/public/article_images/libraryofcongress_051617_getty.jpg?itok=bCrUKSLH" alt="Fight brews over forcing library to use ‘illegal alien’" />      </a>
+    </div>
+        <div class="most_popular_content">
+      <a href="/policy/finance/280090-fight-brewing-over-forcing-library-of-congress-to-use-term-illegal-alien">
+        <span class="title">Fight brews over forcing library...</span>
+      </a>
+              A legislative branch spending bill reverses the library's decision.          </div>
+    <div class="clearfix"></div>
+  </div>        </li>
+                    </ul>
+    </div></div>
+    <a class="next" href="#" id="most_popular_next"><span>next</span></a>
+</div>
+</div>
+<div id="block-thehill-blocks-blog-promotion" class="block block-thehill-blocks even">
+
+        <h2 class="block__title block-title">The Hill Blogs</h2>
+    
+    <div id="thehill_blocks_blogs-promotion" class="block block_wrapper">
+    <ul class="item-list">
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/blog-briefing-room" title="Blog Briefing Room">Blog Briefing Room</a>            </header>
+            <h3><a href="/blogs/in-the-know/in-the-know/280132-kelly-talks-handling-trumps-hair" title="Megyn Kelly on Trump&#039;s hair: &#039;That&#039;s...">Megyn Kelly on Trump&#039;s hair: &#039;That&#039;s...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/congress-blog" title="Congress Blog">Congress Blog</a>            </header>
+            <h3><a href="/blogs/congress-blog/energy-environment/280113-essential-water-infrastructure" title="Essential water infrastructure">Essential water infrastructure</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/pundits-blog" title="Contributors">Contributors</a>            </header>
+            <h3><a href="/blogs/pundits-blog/finance/280128-the-next-step-in-the-fight-to-protect-consumers" title="The next step in the fight to protect...">The next step in the fight to protect...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/twitter-room" title="Twitter Room">Twitter Room</a>            </header>
+            <h3><a href="/blogs/blog-briefing-room/news/275173-melania-to-donald-trump-stay-away-from-retweets" title="Melania to Donald Trump: &#039;Stay away...">Melania to Donald Trump: &#039;Stay away...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/technology" title="Technology">Technology</a>            </header>
+            <h3><a href="/policy/technology/overnights/280091-overnight-tech-crowdfunding-regulations-go-live" title="Overnight Tech: New crowdfunding rules...">Overnight Tech: New crowdfunding rules...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/energy-environment" title="Energy &amp; Environment">Energy & Environment</a>            </header>
+            <h3><a href="/policy/energy-environment/overnights/280094-overnight-energy-labor-rift-opens-over-green-pac" title="Overnight Energy: Labor rift opens over...">Overnight Energy: Labor rift opens over...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/ballot-box" title="Ballot Box">Ballot Box</a>            </header>
+            <h3><a href="/blogs/ballot-box/presidential-races/280134-trump-accuses-attack-ad-of-taking-him-out-of-context" title="Trump accuses attack ad of taking him...">Trump accuses attack ad of taking him...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/finance" title="Finance">Finance</a>            </header>
+            <h3><a href="/blogs/pundits-blog/finance/280083-a-real-hamiltonian-moment-for-puerto-rico" title="A real Hamiltonian response for Puerto...">A real Hamiltonian response for Puerto...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/healthcare" title="Healthcare">Healthcare</a>            </header>
+            <h3><a href="/policy/healthcare/280131-uninsured-rate-fell-to-record-low-in-2015-under-obamacare" title="Uninsured rate hits record low under...">Uninsured rate hits record low under...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/floor-action" title="Floor Action">Floor Action</a>            </header>
+            <h3><a href="/blogs/floor-action/senate/280112-gop-senators-fire-top-aide-over-iran-deal-comments" title="GOP senators: Fire top aide over Iran...">GOP senators: Fire top aide over Iran...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/transportation" title="Transportation">Transportation</a>            </header>
+            <h3><a href="/policy/transportation/280118-house-panel-plans-hearing-on-long-airport-lines-as-issue-nears-boiling" title="House panel to hold hearing on long...">House panel to hold hearing on long...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/defense" title="Defense">Defense</a>            </header>
+            <h3><a href="/policy/defense/280125-white-house-issues-veto-threat-over-house-defense-policy-bill" title="White House issues veto threat over...">White House issues veto threat over...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/policy/international" title="International">International</a>            </header>
+            <h3><a href="/policy/national-security/280072-white-house-rejects-demand-for-aide-to-testify-over-iran-comments" title="White House rejects GOP demand that...">White House rejects GOP demand that...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/blogs/in-the-know" title="In The Know">In The Know</a>            </header>
+            <h3><a href="/blogs/ballot-box/presidential-races/280133-megyn-kelly-i-had-a-dark-year-feuding-with-trump" title="Megyn Kelly talks about ‘dark year’...">Megyn Kelly talks about ‘dark year’...</a></h3>
+          </div>
+        </li>
+              <li>
+          <div class="blog_promotion_item">
+            <header class="blog_menu_item_header">
+              <a href="/regulation" title="Regulation">Regulation</a>            </header>
+            <h3><a href="/blogs/pundits-blog/finance/280128-the-next-step-in-the-fight-to-protect-consumers" title="The next step in the fight to protect...">The next step in the fight to protect...</a></h3>
+          </div>
+        </li>
+          </ul>
+          <a class="next" id="blog_promotions_next" href="#"><span>next</span></a>
+        <div class="clearfix"></div>
+  </div>
+
+</div>
+<div id="block-dfp-rightrail-bottom" class="block block-dfp odd">
+
+      
+  <div id="dfp-ad-rightrail_bottom-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-rightrail_bottom" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-rightrail_bottom");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+<div id="block-block-3" class="block block-block even">
+
+        <h2 class="block__title block-title">More From The Web</h2>
+    
+  <!-- Newsmax -->
+<div style="padding-left:5px;">
+<p style="margin: 5px 0 0 0; padding: 0; font-family: Arial,Helvetica,sans-serif; font-size: 10px; color: #006;">Sponsored:</p>
+<div id="nmWidgetContainer" data-client="438"></div>
+<script src="http://cdn.nmcdn.us/js/connect.js"></script>
+<script type="text/javascript">
+NM.init({ClientID: 438});
+</script>
+</div>
+
+<!-- TPM  -->
+<!-- iframe src="http://meta.talkingpointsmemo.com/livewire_on_the_hill"
+width="300px" height="358px" style="border: none;"
+scrolling="no"></iframe -->
+</div>
+<div id="block-thehill-blocks-taboola-related-videos" class="block block-thehill-blocks odd">
+
+      
+  <div id="taboola-grid-2x2"></div><p class="taboola-more"><a href="/video" class="taboola-more-videos">More Videos »</a></p>
+</div>
+<div id="block-thehill-blocks-more-headlines" class="block block-thehill-blocks even">
+
+      
+  <h2 class="block-title">More Campaign Headlines </h2><div class="item-list"><ul class="more_headlines"><li class="first"><a href="/homenews/campaign/280107-5-things-to-watch-in-tuesdays-primaries">5 things to watch in Tuesday’s primaries</a></li>
+<li><a href="/homenews/campaign/280117-hillarys-unlikely-ally-in-2016-the-media">Hillary’s unlikely ally: The media</a></li>
+<li class="last"><a href="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" class="active">NYT story on Trump’s history with women creates backlash</a></li>
+</ul></div><div class="item-list"><ul class="more_headlines_links"><li class="first"><a href="/homenews/campaign">More Campaign Headlines </a></li>
+<li class="last"><a href="/taxonomy/term/1077/feed" class="more_headlines_rss">Campaign News RSS feed</a></li>
+</ul></div>
+</div>
+<div id="block-block-2" class="block block-block odd">
+
+        <h2 class="block__title block-title">FOLLOW The Hill</h2>
+    
+  <!-- 
+/sites/all/themes/thehill/images/comp.png
+/sites/all/themes/thehill/images/buttonVimeo.png
+/sites/all/themes/thehill/images/pinterest.png
+/sites/all/themes/thehill/images/tumblr.png
+/sites/all/themes/thehill/images/buzzfeed.png
+ --><div class="clearer">&nbsp;</div><div class="follow-the-hill"><p><a href="http://twitter.com/thehill" target="_blank"><img src="/sites/all/themes/thehill/images/twitter.png" alt=""></a> <a href="http://facebook.com/thehill" target="_blank"><img src="/sites/all/themes/thehill/images/facebook.png" alt=""></a> <a href="https://plus.google.com/+thehill/about" target="_blank"><img src="/sites/all/themes/thehill/images/googleplus.png" alt=""></a> <a href="http://www.stumbleupon.com/channel/TheHill" target="_blank"><img src="/sites/all/themes/thehill/images/stumbleupon.png" alt=""></a> <!-- <a href="#Instagram page" target="_blank" ><img src="/sites/all/themes/thehill/images/instagram.png" target="_blank" /></a> --> <!-- <a href="#youtube page" target="_blank" ><img src="/sites/all/themes/thehill/images/youtube.png" target="_blank" /></a> --> <a href="http://www.linkedin.com/company/29297" target="_blank"><img src="/sites/all/themes/thehill/images/linkedin.png" alt=""></a> <a href="/signup" target="_blank"><img src="/sites/all/themes/thehill/images/email.png" alt=""></a> <a href="/resources/rss-feeds"><img src="/sites/all/themes/thehill/images/rss.png" alt=""></a></p></div><div class="clearer">&nbsp;</div>
+</div>
+<div id="block-thehill-blocks-columnist-promotion" class="block block-thehill-blocks last even">
+
+        <h2 class="block__title block-title">Columnists</h2>
+    
+    <div id="thehill_blocks_columnist_promotion" class="block block_wrapper">
+    <div class="item-list"><ul><li class="first">  <div class="columnist_promotion_item">
+          <div class="blog_image">
+        <a href="/opinion/columnists/john-feehery" title="John Feehery"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_58/public/john-freehery-153-153.jpg?itok=sW09gwjn" alt="John Feehery" /></a>      </div>
+        <div class="right">
+      <p class="blog_section"><a href="/opinion/columnists/john-feehery">John Feehery</a></p>
+      <div class="columnist_promotion_item_content">
+        <header>
+          <h4><a href="/opinion/john-feehery/280087-feehery-who-will-change-washington-trump">Feehery: Who will change Washington? Trump</a></h4>        
+          <p>When I was in college at Marquette University, I took a class on political communications from...</p>        </header>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+
+</li>
+<li>  <div class="columnist_promotion_item">
+          <div class="blog_image">
+        <a href="/opinion/columnists/bill-press" title="Bill Press"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_58/public/bill-press-153-153.jpg?itok=RKi5073u" alt="Bill Press" /></a>      </div>
+        <div class="right">
+      <p class="blog_section"><a href="/opinion/columnists/bill-press">Bill Press</a></p>
+      <div class="columnist_promotion_item_content">
+        <header>
+          <h4><a href="/opinion/bill-press/280086-press-forget-about-gop-unity-in-2016">Press: Forget about GOP unity in 2016</a></h4>        
+          <p>Last Thursday’s showdown between Donald Trump and Paul Ryan received more media coverage than...</p>        </header>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+
+</li>
+<li>  <div class="columnist_promotion_item">
+          <div class="blog_image">
+        <a href="/opinion/katie-pavlich" title="Katie Pavlich"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_58/public/category_images/katiepavlich_0.jpg?itok=CFB6kcHA" alt="Katie Pavlich" /></a>      </div>
+        <div class="right">
+      <p class="blog_section"><a href="/opinion/katie-pavlich">Katie Pavlich</a></p>
+      <div class="columnist_promotion_item_content">
+        <header>
+          <h4><a href="/opinion/katie-pavlich/280081-pavlich-dont-let-the-irs-get-away-with-political-targeting">Pavlich: Don’t let the IRS get away with political targeting</a></h4>        
+          <p>In May 2013, the Internal Revenue Service (IRS) confirmed what many conservative activists...</p>        </header>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+
+</li>
+<li class="last">  <div class="columnist_promotion_item">
+          <div class="blog_image">
+        <a href="/opinion/columnists/juan-williams" title="Juan Williams"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_58/public/juan-williams-153-153.jpg?itok=uv2mfuK0" alt="Juan Williams" /></a>      </div>
+        <div class="right">
+      <p class="blog_section"><a href="/opinion/columnists/juan-williams">Juan Williams</a></p>
+      <div class="columnist_promotion_item_content">
+        <header>
+          <h4><a href="/opinion/juan-williams/279956-juan-williams-trump-false-promises-and-the-economy">Juan Williams: Trump, false promises and the economy</a></h4>        
+          <p>“It’s the economy, stupid!” That was Democratic strategist James Carville’s famous bottom line...</p>        </header>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+
+</li>
+</ul></div>    <p class="view-all"><a href="/opinion/columnists"></a></p>
+    <div class="clearfix"></div>	    
+  </div>
+
+</div>
+  </section>
+        </aside><!-- /.sidebars -->
+          
+  </div><!-- /#main -->
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-dfp-1x1-asynch-teads" class="block block-dfp first odd">
+
+      
+  <div id="dfp-ad-1x1_asynch_teads-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-1x1_asynch_teads" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-1x1_asynch_teads");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+<div id="block-menu-menu-archives-menu" class="block block-menu even" role="navigation">
+
+        <h2 class="block__title block-title">Archives</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/homenews/senate/senate-archive" class="menu__link menu__link">Senate</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/homenews/house/house-archive" class="menu__link menu__link">House</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/homenews/administration/administration-archive" class="menu__link menu__link">Administration</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/homenews/campaign/campaign-archive" class="menu__link menu__link">Campaign</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/business-a-lobbying/business-a-lobbying-archive" class="menu__link menu__link">Business &amp; Lobbying</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/opinion-archive" class="menu__link menu__link">Opinion</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/capital-living/capital-living-archive" class="menu__link menu__link">Capital Living</a></li>
+</ul>
+</div>
+<div id="block-thehill-blocks-more-videos" class="block block-thehill-blocks odd">
+
+        <h2 class="block__title block-title">More Video</h2>
+    
+    <div id="thehill_blocks_more-videos" class="block block_wrapper">
+    <h2 class="block-title"><a href="/video">More Video</a></h2>
+    <ul class="item-list">
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/280047-watch-senator-presses-trump-on-coal-promise" title="WATCH: Senator presses Trump on coal promise"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/article_images/donaldtrump5-12-16getty.jpg?itok=49YkQUh9" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/280047-watch-senator-presses-trump-on-coal-promise" title="WATCH: Senator presses Trump on coal promise">WATCH: Senator presses Trump on coal promise</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/279874-watch-how-sanders-could-create-a-dem-convention-fight" title="WATCH: How Sanders could create a Dem convention fight"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/sandersbernie_040116getty.jpg?itok=-0E5BFx1" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/279874-watch-how-sanders-could-create-a-dem-convention-fight" title="WATCH: How Sanders could create a Dem convention fight">WATCH: How Sanders could create a Dem convention fight</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/279741-trump-backers-healing-will-happen" title="Trump backers: Healing will happen "><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/article_images/trumpdonald_042716-getty1.jpg?itok=WgEMD8uM" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/279741-trump-backers-healing-will-happen" title="Trump backers: Healing will happen ">Trump backers: Healing will happen </a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/279533-the-game-is-on-between-trump-and-hillary" title="The game is on between Trump and Clinton "><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/blogs/clintontrump_getty.jpg?itok=9ZWIKKk1" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/279533-the-game-is-on-between-trump-and-hillary" title="The game is on between Trump and Clinton ">The game is on between Trump and Clinton </a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/279214-dem-fbi-strong-armed-former-senator-on-9-11-pages" title="Dem: FBI strong-armed former senator on 9/11 pages"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/article_images/capitol06172015getty.jpg?itok=LYQSrcnV" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/279214-dem-fbi-strong-armed-former-senator-on-9-11-pages" title="Dem: FBI strong-armed former senator on 9/11 pages">Dem: FBI strong-armed former senator on 9/11 pages</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/278684-watch-pundits-politicians-eat-their-words-on-trump" title="WATCH: Pundits, politicians eat their words on Trump"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/blogs/trump_donald_26_0.jpg?itok=qy8gscHU" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/278684-watch-pundits-politicians-eat-their-words-on-trump" title="WATCH: Pundits, politicians eat their words on Trump">WATCH: Pundits, politicians eat their words on Trump</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/278517-breaking-down-the-indiana-primary" title="Breaking down Indiana&#039;s GOP primary"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/article_images/trumpcruzsplit2.gettynash.jpg?itok=X-680tW9" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/278517-breaking-down-the-indiana-primary" title="Breaking down Indiana&#039;s GOP primary">Breaking down Indiana&#039;s GOP primary</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/278268-sights-and-scenes-from-the-hills-whcd-party" title="Sights and scenes from The Hill&#039;s WHCD party"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/video_images/screen_shot_2016-04-30_at_2.21.58_pm.png?itok=EfwNM_0J" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/278268-sights-and-scenes-from-the-hills-whcd-party" title="Sights and scenes from The Hill&#039;s WHCD party">Sights and scenes from The Hill&#039;s WHCD party</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/278253-hollywood-dc-kick-off-whcd-with-the-hill" title="Hollywood, DC kick off WHCD with The Hill "><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/video_images/screen_shot_2016-04-30_at_9.37.00_am.png?itok=7K81u7kk" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/278253-hollywood-dc-kick-off-whcd-with-the-hill" title="Hollywood, DC kick off WHCD with The Hill ">Hollywood, DC kick off WHCD with The Hill </a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277907-watch-clinton-vs-trump-in-victory-speeches" title="WATCH: Clinton vs. Trump in victory speeches"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/video_images/screen_shot_2016-04-27_at_4.03.19_pm.png?itok=quIPS-Uc" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277907-watch-clinton-vs-trump-in-victory-speeches" title="WATCH: Clinton vs. Trump in victory speeches">WATCH: Clinton vs. Trump in victory speeches</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277749-watch-pro-clinton-super-pac-targets-millennials" title="WATCH: Pro-Clinton Super PAC targets millennials "><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/blogs/clintonhillary_030116getty2.jpg?itok=q7LZauSY" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277749-watch-pro-clinton-super-pac-targets-millennials" title="WATCH: Pro-Clinton Super PAC targets millennials ">WATCH: Pro-Clinton Super PAC targets millennials </a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277744-watch-donald-trumps-new-favorite-word" title="Watch: Donald Trump&#039;s new favorite word "><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/trumpdonald_031416getty_0.jpg?itok=luYg_wF_" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277744-watch-donald-trumps-new-favorite-word" title="Watch: Donald Trump&#039;s new favorite word ">Watch: Donald Trump&#039;s new favorite word </a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277510-gop-lawmaker-hopes-trump-endorsements-double" title="GOP lawmaker hopes Trump endorsements double"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/blogs/trumpdonald04222016getty.jpg?itok=7WqP5Okm" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277510-gop-lawmaker-hopes-trump-endorsements-double" title="GOP lawmaker hopes Trump endorsements double">GOP lawmaker hopes Trump endorsements double</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277255-breaking-down-the-path-to-the-gop-nomination" title="Breaking down the path to the GOP nomination "><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/video_images/screen_shot_2016-04-22_at_11.20.11_am.png?itok=NEBXfMZp" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277255-breaking-down-the-path-to-the-gop-nomination" title="Breaking down the path to the GOP nomination ">Breaking down the path to the GOP nomination </a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277140-watch-chairwoman-may-pursue-contempt-proceedings-in-fetal-tissue" title="Watch: Chairwoman may pursue contempt proceedings in fetal tissue investigation"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/article_images/capitol06172015getty.jpg?itok=LYQSrcnV" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277140-watch-chairwoman-may-pursue-contempt-proceedings-in-fetal-tissue" title="Watch: Chairwoman may pursue contempt proceedings in fetal tissue investigation">Watch: Chairwoman may pursue contempt proceedings in fetal tissue investigation</a></h3>
+    </header>
+  </div>
+
+        </li>
+              <li>
+            <div class="more_videos_item">
+    <header class="blog_menu_item_header">
+      <a href="/video/in-the-news/277026-weathering-the-storm-continuing-the-conversation" title="Weathering the Storm: Continuing the Conversation"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/thumb_more_video/public/video_images/screen_shot_2016-04-20_at_3.12.49_pm.png?itok=Fqmjj4XN" width="208" height="116" alt="" /></a>      <h3><a href="/video/in-the-news/277026-weathering-the-storm-continuing-the-conversation" title="Weathering the Storm: Continuing the Conversation">Weathering the Storm: Continuing the Conversation</a></h3>
+    </header>
+  </div>
+
+        </li>
+          </ul>
+    <div class="clearfix"></div>
+	    <a class="prev" id="more_videos_prev" href="#"><span>prev</span></a>
+	    <a class="next" id="more_videos_next" href="#"><span>next</span></a>
+      <div id="more_videos_pager"></div>
+  </div>
+
+
+</div>
+<div id="block-dfp-oop-1x1-1" class="block block-dfp last even">
+
+      
+  <div id="dfp-ad-oop_1x1_1-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-oop_1x1_1" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-oop_1x1_1");
+    });
+  </script>
+</div>
+  <div id="dfp-ad-oop_1x1_1-oop" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+        googletag.display("dfp-ad-oop_1x1_1-oop");
+      });
+    </script>
+  </div>
+
+</div>
+</div>
+  </footer>
+  <div class="page-bottom">
+      <div class="region region-footer-bottom">
+    <div id="block-thehill-blocks-footer-signup" class="block block-thehill-blocks first last odd">
+
+      
+  <div class="simple-signup-form">
+  <div class="text">Sign up for our daily emails and alerts. Never miss important news from</div>
+  <form action="/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash" method="post" id="thehill-blocks-signup-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Email Alerts </label>
+ <input placeholder="Enter Your Email Address" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-list">
+ <input class="hidden form-text" type="text" id="edit-list" name="list" value="" size="60" maxlength="128" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="Sign Up" class="form-submit" /><input type="hidden" name="form_build_id" value="form-2ZIjLx4MuewWwcxNvRGZeFLBhdkt1yWS7sbojvZJsao" />
+<input type="hidden" name="form_id" value="thehill_blocks_signup_form" />
+</div></form></div>
+
+
+</div>
+  </div>
+      <div class="region region-bottom">
+    <div id="block-thehill-blocks-cover-image" class="block block-thehill-blocks first last odd">
+
+      
+  <a href="http://thehill.com/contact/subscriptions" target="_blank" title="Subscribe"><img typeof="foaf:Image" src="http://thehill.com/sites/default/files/styles/issue_cover/public/20150805.jpg?itok=TKRpCqEF" alt="The Hill" /></a><a href="http://thehill.com/contact/subscriptions" target="_blank" title="Subscribe" class="subscribe_link">Subscribe</a>
+</div>
+  </div>
+      <div class="region region-bottom-column1">
+    <div id="block-menu-menu-home" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Home</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/homenews/senate" class="menu__link menu__link">Senate</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/homenews/house" class="menu__link menu__link">House</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/homenews/administration" class="menu__link menu__link">Administration</a></li>
+<li class="menu__item is-active-trail is-leaf menu__item is-active-trail is-leaf leaf active-trail depth-1"><a href="/homenews/campaign" class="menu__link is-active-trail menu__link is-active-trail active-trail">Campaign</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/polls" class="menu__link menu__link">Polls</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/business-a-lobbying-category" class="menu__link menu__link">Business &amp; Lobbying</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/homenews/sunday-talk-shows" class="menu__link menu__link">Sunday Talk Shows</a></li>
+</ul>
+</div>
+<div id="block-menu-menu-policy-menu" class="block block-menu last even" role="navigation">
+
+        <h2 class="block__title block-title">Policy</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/policy/defense" class="menu__link menu__link">Defense</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/energy-environment" class="menu__link menu__link">Energy &amp; Environment</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/finance" class="menu__link menu__link">Finance</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/healthcare" class="menu__link menu__link">Healthcare</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/technology" class="menu__link menu__link">Technology</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/international" class="menu__link menu__link">International</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/transportation" class="menu__link menu__link">Transportation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/policy/cybersecurity" class="menu__link menu__link">Cybersecurity</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/policy/national-security" class="menu__link menu__link">National Security</a></li>
+</ul>
+</div>
+  </div>
+      <div class="region region-bottom-column2">
+    <div id="block-menu-menu-video" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Video</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/video/hilltube" class="menu__link menu__link">Latest</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/campaign" class="menu__link menu__link">Campaign</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/defense" class="menu__link menu__link">Defense</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/energy-environment" class="menu__link menu__link">Energy &amp; Environment</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/finance" class="menu__link menu__link">Finance</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/healthcare" class="menu__link menu__link">Healthcare</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/technology" class="menu__link menu__link">Technology</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/transportation" class="menu__link menu__link">Transportation</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/international" class="menu__link menu__link">International</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/cybersecurity" class="menu__link menu__link">Cybersecurity</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/sunday-shows" class="menu__link menu__link">Sunday Shows</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/events" class="menu__link menu__link">Events</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/ask-a-b" class="menu__link menu__link">Ask A.B.</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/video/lawmaker-interviews" class="menu__link menu__link">Lawmaker Interviews</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/video/best-stories-of-the-week" class="menu__link menu__link">The Best Stories of the Week</a></li>
+</ul>
+</div>
+<div id="block-menu-menu-blogs" class="block block-menu last even" role="navigation">
+
+        <h2 class="block__title block-title">Blogs</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/blogs/ballot-box" class="menu__link menu__link">Ballot Box</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/blogs/blog-briefing-room" class="menu__link menu__link">Blog Briefing Room</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/blogs/congress-blog" class="menu__link menu__link">Congress Blog</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/blogs/floor-action" class="menu__link menu__link">Floor Action</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/blogs/in-the-know" class="menu__link menu__link">In The Know</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/blogs/twitter-room" class="menu__link menu__link">Twitter Room</a></li>
+</ul>
+</div>
+  </div>
+      <div class="region region-bottom-column3">
+    <div id="block-menu-menu-opinion" class="block block-menu first last odd" role="navigation">
+
+        <h2 class="block__title block-title">Opinion</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/opinion/columnists/brent-budowsky" class="menu__link menu__link">Brent Budowsky</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/james-carville" class="menu__link menu__link">James Carville</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/lanny-davis" class="menu__link menu__link">Lanny Davis</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/john-feehery" class="menu__link menu__link">John Feehery</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/judd-gregg" class="menu__link menu__link">Judd Gregg</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/david-hill" class="menu__link menu__link">David Hill</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/article-categories/mark-mellman" class="menu__link menu__link">Mark Mellman</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/dick-morris" class="menu__link menu__link">Dick Morris</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/markos-moulitsas" class="menu__link menu__link">Markos Moulitsas</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/bill-press" class="menu__link menu__link">Bill Press</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/ab-stoddard" class="menu__link menu__link">A.B. Stoddard</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists/juan-williams" class="menu__link menu__link">Juan Williams</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/columnists" class="menu__link menu__link">All Columnists</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/opinion/letters" class="menu__link menu__link">Letters</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/opinion/op-ed" class="menu__link menu__link">Op-Ed</a></li>
+</ul>
+</div>
+  </div>
+      <div class="region region-bottom-column4">
+    <div id="block-menu-menu-classified" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Classified</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/resources/classifieds" class="menu__link menu__link">Classifieds</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/resources/classifieds/employer" class="menu__link menu__link">Jobs</a></li>
+</ul>
+</div>
+<div id="block-menu-menu-resources" class="block block-menu even" role="navigation">
+
+        <h2 class="block__title block-title">Resources</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/hill-apps" class="menu__link menu__link">The Hill Apps</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="http://mobile.thehill.com" class="menu__link menu__link">Mobile Site</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/resources/rss-feeds" class="menu__link menu__link">RSS</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/people/" class="menu__link menu__link">People</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/resources/outside-links" class="menu__link menu__link">Outside Links</a></li>
+</ul>
+</div>
+<div id="block-menu-menu-contact-us" class="block block-menu odd" role="navigation">
+
+        <h2 class="block__title block-title">Contact Us</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/contact" class="menu__link menu__link">Contact</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/contact/advertise" class="menu__link menu__link">Advertise</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="http://thehill.com/events-contact" class="menu__link menu__link">Events</a></li>
+</ul>
+</div>
+<div id="block-menu-menu-menu-contributors" class="block block-menu last even" role="navigation">
+
+        <h2 class="block__title block-title">Contributors</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/blogs/pundits-blog" class="menu__link menu__link">Contributors</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/contributor-application-form" class="menu__link menu__link">Become a Contributor</a></li>
+</ul>
+</div>
+  </div>
+    <div class="clearer"></div>
+      <div class="region region-copyright">
+    <div id="block-menu-menu-anchor-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Anchor_menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf depth-1"><a href="/" class="menu__link menu__link">Home</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/privacy-policy" class="menu__link menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/terms-and-conditions" class="menu__link menu__link">Terms &amp; Conditions</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/contact" class="menu__link menu__link">Contact</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf depth-1"><a href="/contact/advertise" class="menu__link menu__link">Advertise</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf depth-1"><a href="/contact/subscriptions" class="menu__link menu__link">Subscriptions</a></li>
+</ul>
+</div>
+<div id="block-thehill-blocks-copyright" class="block block-thehill-blocks last even">
+
+      
+  <p>The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax</p><p>The contents of this site are &copy;2016 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.</p>
+</div>
+  </div>
+  </div>
+</div><!-- /#page -->
+  <div id="dfp-ad-overlay">
+    <div id="block-dfp-modal-window-ad" class="block block-dfp first last odd">
+
+      
+  <div id="dfp-ad-modal_window_ad-wrapper" class="dfp-tag-wrapper"><!-- dfp_tag.tpl.php -->
+<div  id="dfp-ad-modal_window_ad" class="dfp-inner">
+  <a href="#" class="hide_overlay"></a>
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-modal_window_ad");
+    });
+  </script>
+</div>
+
+</div>
+</div>
+  </div>
+    <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    }
+    var oldonload = document.ready;
+    document.ready = (typeof document.ready != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-51dZx4IkAE4Zk.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><!-- Begin comScore Tag -->
+          <script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "10314615", c3: "", c4: "http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash", c5: "", c6: "", c15: "" });
+            (function() {
+              var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+              s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+              el.parentNode.insertBefore(s, el);
+            })();
+          </script>
+          <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&c2=10314615&c3=&c4=http://thehill.com/homenews/campaign/280114-nyt-story-on-trumps-history-with-women-creates-backlash&c5=&c6=&c15=&cv=2.0&cj=1" />
+          </noscript>
+      <!-- End comScore Tag --><iframe width="0" height="0" name="New Partners Tracking - Home" frameborder="0" scrolling="no" src="//insight.adsrvr.org/tags/k81srqd/tp8egnvn/iframe"></iframe>
+<!-- AdDaptive -->
+<script>
+(function() {
+var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
+s.type='text/javascript';
+s.async=true;
+s.src=sc+'s.dpmsrv.com/dpm_4c15dc21c91634c1b301de6236eb08ead86be4ae.min.js';
+h.appendChild(s);
+})();
+</script>
+<!-- End AdDaptive -->
+
+
+
+  </div>
+<script>var _qevents = _qevents || [];(function() {var elem = document.createElement("script");elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName("script")[0];scpt.parentNode.insertBefore(elem, scpt);})();_qevents.push({qacct:"p-51dZx4IkAE4Zk"});</script>
+<script>  var disqus_shortname = 'thehill-v4';
+  (function () {
+      var s = document.createElement('script'); s.async = true;
+      s.type = 'text/javascript';
+      s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+      (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());</script>
+<script>    window._taboola = window._taboola || [];
+    _taboola.push({mode : 'grid-4x2', container : 'taboola-grid-4x2' });</script>
+<script>    window._taboola = window._taboola || [];
+    _taboola.push({mode : 'horizontalx4', container : 'taboola-horizontalx4' });</script>
+<script>    window._taboola = window._taboola || [];
+    _taboola.push({mode : 'grid-2x2', container : 'taboola-grid-2x2' });</script>
+<script>      window._taboola = window._taboola || [];
+      _taboola.push({flush:true});</script>
+<script>    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=566538590082898&version=v2.4";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  <div id="fb-root"></div>
+  <script src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"962df17ac8","applicationID":"3941075","transactionName":"YwRXYBQFWhEEUUYNV1pOdFcSDVsMSlxdAF1rEVRTAztCCwBF","queueTime":0,"applicationTime":2696,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

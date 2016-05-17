@@ -75,7 +75,7 @@ def get_instances_from_files(path):
     # Now that we're done going through all the files, give back docs
     return docs
 
-dataset = get_instances_from_files('/Users/Goodgame/desktop/RedBlue/data/sources/text_16may/wsj_text/')
+dataset = get_instances_from_files('/Users/Goodgame/desktop/RedBlue/data/sources/text_17may/wsj_text/')
 X = tfidf.transform(dataset)
 X_new_tsvd = tsvd.transform(X)
 preds = model_svm.predict(X_new_tsvd)

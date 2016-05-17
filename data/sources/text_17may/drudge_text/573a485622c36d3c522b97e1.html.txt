@@ -1,0 +1,149 @@
+
+	14
+      
+
+By
+
+Amie Gordon For Mailonline
+
+
+
+Published:
+  14:43 EST, 16 May 2016
+
+ | 
+Updated:
+  16:48 EST, 16 May 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '3593256',
+                    'title': 'The Rich Kids of North Korea! Secretive state has \'one-percenters\'',
+                    'url': 'http://www.dailymail.co.uk/news/article-3593256/The-Rich-Kids-North-Korea-Secretive-state-one-percenters-love-paying-nearly-typical-month-s-wage-iced-coffee-downtown-Pyonghattan.html',
+                    'eTwitterStatus': ' http://dailym.ai/1Xg2jNf via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+      
+
+
+
+14
+shares
+
+ 
+          29
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+    
+
+
+
+          29
+
+View  comments
+
+We've seen the Rich Kids of London, Russia and China - and now the rich kids of North Korea are joining the action.Â Â 
+
+Young people in North Korea appear to be joining their counterparts around the world Â - unapologetically rich teenagers who regularly flaunt their lavish purchases and brazenly boast about their wealth.
+
+As reported by the Washington Post, North Korea now has its very own percent - and they can be found in 'Pyonghattan,' the 'parallel Â­universe' frequented by the rich kids of the Democratic People's Republic.
+
+In this up-and-coming cosmopolitan world, North Korea's 'one-percenters' enjoy wearing clothes from globally-recognised high street brands including Zara, H&M, Nike and Adidas.
+
+'Pyonghattan': A View of the Ryugyong Hotel  among towering apartments and other high rises in Pyongyang, North Korea
+
+Indeed the young people in the country treat a workout like a fashion parade, taking the opportunity to flaunt their figures in their workout gear - because revealing clothes and hair-dye are still not allowed.
+
+Speaking to the Washington Post, 24-year-old Lee Seo-hyeon said: 'We're supposed to dress conservatively in North Korea, so people like going to the gym so they can show off their bodies, show some skin.'Â 
+
+Despite the official salary remaining less than Â£6.95 ($10) a month in North Korea, having some sort of disposable income has also become more commonplace.Â 
+
+At the leisure complex in the middle of Pyongyang, visitors can frequent an upmarket restaurant and a coffee shop - where drinks are priced between $4 and $8.
+
+Also on the rise in the country is eyelid surgery - which has become commonplace across Asia in recent years. But it is now coming to North Korea.Â 
+
+Just four years ago, South Korea overtook Brazil as the plastic surgery of the world, with the highest number of surgeries performed per capita - and it has crossed over the border.
+
+In South Korea, double eyelid surgery, which creates the Caucasian crease many Asian women don't naturally have, has become as common as going to the dentist.Â 
+
+Eyelid surgery involves cutting the outer end of the eyes to make them wider and rounder, something plastic surgeons say boosts confidence.Â 
+
+Korean women make pizzas at upscale italian pizza restaurant on Mirae Scientists Street in Pyongyang, North Korea
+
+
+
+Lee Seo-hyeon and her brother Lee Â­Hyeon-seung, now 30, were part of a privileged set of some three million North Koreans - out of a population of 25 million - who own mobile phones.Â 
+
+Growing up, her brother enjoyed listening to Britney Spears and the Backstreet Boys, while their father, a high-rankingÂ North Korean official based in China, earned foreign currency for the regime.Â 
+
+
+
+'If your clothes are too radical or extreme, or they're not in line with North Korean style, the Â­police might take your name and then your name will be broadcast on the radio,' Lee Seo-hyeon said. The siblings defected, togetÂ­her with their mother and Â­father, to South Korea in 2014, and now live in America.Â 
+
+Andray Abrahamian is British, and helps deliver financial training to North Koreans.
+
+He said ofÂ Pyonghattan: 'When you're in there it feels like you could be anywhere in the world. It's definitely for people who have disposable income.'
+
+
+
+A young lady wearing a modern, brightly colored outfit and red clutch purse waits next to other women in traditional Korean dresses in Pyongyang
+
+All of it amounts to a rapidly changing economy in a closed off society which is largely poor.Â 
+
+The Pyongyang skyline is also rising - and not just with the trophy structures that represent the North Korean state. Despite its political and economic isolation, the capital is in the midst of a building boom.Â 
+
+
+
+The influx of cash comes from North Korea's version of public-private partnership.
+
+Local investors known as 'donju', or 'masters of money', have earned wealth in North Korea's growing market economy.Â 
+
+
+
+The money they have made now flows through society - from the sushi bars to the barbecue restaurant.Â Â 
+
+
+                                	Share what you think
+                                
+
+The comments below have not been moderated.
+
+
+                        The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+                    
+
+By posting your comment you agree to our house rules.
+
+Copy link to paste in your message
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+

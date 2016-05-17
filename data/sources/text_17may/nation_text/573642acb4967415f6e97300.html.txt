@@ -1,0 +1,587 @@
+
+
+The Supreme Court building. (Reuters / Kevin Lamarque) 
+
+Until recently, Vermilion Parish, Louisianaâa Cajun enclave on the Gulf of Mexicoâhad 10 public defenders to represent poor people facing criminal charges. Now, after a round of layoffs, Natasha George is the only one. As TheÂ New York Times recently reported, George has little choice but to place most of her would-be clients on a wait list. Instead of the speedy and fair proceedings guaranteed by the Constitution, they have no way of knowing when their cases will be resolved. In New Orleans, which also suffers from a shortage of public defenders, a judge recently ordered the release of several defendants who have spent a year in jail awaiting the appointment of counsel. And in Baton Rouge, public defenders have threatened to begin refusing new cases this summer, if predicted budget shortfalls materialize. Throughout Louisiana, public defenders are operating in a state of crisis.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211842-0','tn_politics_government_ros_halfpage_1','tn_politics_government_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+
+This article originally appeared atÂ TalkPoverty.org.
+
+In some ways, the stateâs indigent-defense emergency is unique and extreme. Louisiana has never had a robust public-defender systemâin fact, it is the only state that attempts to fund this core government function largely through traffic tickets. And as the state struggles to recover from Bobby Jindalâs disastrous tenure as governor, this already rickety framework is now collapsing. But difficult conditions for public defenders are neither new nor limited to Louisiana. Throughout the United States, public defenders have used the word âcrisisâ for decades as shorthand for the combination of volatile funding, understaffing, and excessive per-lawyer caseloads that has persistently plagued many defender offices.		
+In my recent article in the Columbia Law Review, âWhat Gideon Did,â I examined the grassroots effects ofÂ Gideon v. Wainwright, the landmark 1963 Supreme Court decision that established a constitutional right to state-provided counsel in criminal cases. For a number of structural reasons, state-level funding for Gideonâs implementation has proven unpredictable in the best of times, and susceptible to collapse in the worst of times, as defendants in Louisiana can attest. Given this history, Congress should step in to secure the Gideon guarantee with federal funding, so that defenders like Natasha Georgeâand the poor people they serveâare not so vulnerable to the politics of state budgets.		
+A Chronic Crisis
+Almost as soon as Gideon was decided, lawyers began to describe their working conditions as a âcrisis.â While a few states, like California, had longstanding public-defender offices established decades before Gideon, lawyers in most states set out to establish and expand defender offices. However, the available funding never kept pace with the growing demand. These funding realities contrasted with defendersâ interpretation that Gideon required them to serve as many clients as possibleâa noble aim, but one that quickly produced dissatisfaction in lawyers and clients alike, as defendersâ caseloads spiraled upwards. I found, for instance, that in Massachusetts, the state public-defender agency went from handling about 18,000 cases a year in 1968 to about 42,000 cases a year in 1972âa figure that would only continue to climb thereafter.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+And although state budgets for indigent defense rose in the 1970s, the number of cases that public defenders were asked to handle rose faster. As legal scholar William Stuntz observed, âNotwithstanding nominal budget increases, spending on indigent defendants in constant dollars per case appears to have declined significantly between the late 1970s and the early 1990s.â In 1983, the American Bar Association (ABA) lamented a nationwide âcrisis in indigent defense funding.â In 1994, the ABA published a follow-up report whose title remains apt today: âThe Indigent Defense Crisis Is Chronic.â
+The persistence of crisis conditions in indigent defense suggests that the causes are deeply entrenched, and not a temporary reflection of shifting political views or economic vicissitudes. One long-term historical factor helping to explain Americaâs weak commitment to indigent defense is the legal professionâs own prestige hierarchy, which has long valorized advising corporations more than helping ordinary people. A second factor undermining indigent defense is simply the structure of American federalism. The New Orleans judge who recently ordered the release of defendants awaiting counsel wrote, by way of explanation, that âconstitutional rights are not contingent on budget demands.â But in practice, constitutional rights are often hamstrung by state-level budgets.		
+Attitudes Within the Legal Profession
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+This article originally appeared atÂ TalkPoverty.org.
+
+In some ways, the stateâs indigent-defense emergency is unique and extreme. Louisiana has never had a robust public-defender systemâin fact, it is the only state that attempts to fund this core government function largely through traffic tickets. And as the state struggles to recover from Bobby Jindalâs disastrous tenure as governor, this already rickety framework is now collapsing. But difficult conditions for public defenders are neither new nor limited to Louisiana. Throughout the United States, public defenders have used the word âcrisisâ for decades as shorthand for the combination of volatile funding, understaffing, and excessive per-lawyer caseloads that has persistently plagued many defender offices.		
+In my recent article in the Columbia Law Review, âWhat Gideon Did,â I examined the grassroots effects ofÂ Gideon v. Wainwright, the landmark 1963 Supreme Court decision that established a constitutional right to state-provided counsel in criminal cases. For a number of structural reasons, state-level funding for Gideonâs implementation has proven unpredictable in the best of times, and susceptible to collapse in the worst of times, as defendants in Louisiana can attest. Given this history, Congress should step in to secure the Gideon guarantee with federal funding, so that defenders like Natasha Georgeâand the poor people they serveâare not so vulnerable to the politics of state budgets.		
+A Chronic Crisis
+Almost as soon as Gideon was decided, lawyers began to describe their working conditions as a âcrisis.â While a few states, like California, had longstanding public-defender offices established decades before Gideon, lawyers in most states set out to establish and expand defender offices. However, the available funding never kept pace with the growing demand. These funding realities contrasted with defendersâ interpretation that Gideon required them to serve as many clients as possibleâa noble aim, but one that quickly produced dissatisfaction in lawyers and clients alike, as defendersâ caseloads spiraled upwards. I found, for instance, that in Massachusetts, the state public-defender agency went from handling about 18,000 cases a year in 1968 to about 42,000 cases a year in 1972âa figure that would only continue to climb thereafter.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+And although state budgets for indigent defense rose in the 1970s, the number of cases that public defenders were asked to handle rose faster. As legal scholar William Stuntz observed, âNotwithstanding nominal budget increases, spending on indigent defendants in constant dollars per case appears to have declined significantly between the late 1970s and the early 1990s.â In 1983, the American Bar Association (ABA) lamented a nationwide âcrisis in indigent defense funding.â In 1994, the ABA published a follow-up report whose title remains apt today: âThe Indigent Defense Crisis Is Chronic.â
+The persistence of crisis conditions in indigent defense suggests that the causes are deeply entrenched, and not a temporary reflection of shifting political views or economic vicissitudes. One long-term historical factor helping to explain Americaâs weak commitment to indigent defense is the legal professionâs own prestige hierarchy, which has long valorized advising corporations more than helping ordinary people. A second factor undermining indigent defense is simply the structure of American federalism. The New Orleans judge who recently ordered the release of defendants awaiting counsel wrote, by way of explanation, that âconstitutional rights are not contingent on budget demands.â But in practice, constitutional rights are often hamstrung by state-level budgets.		
+Attitudes Within the Legal Profession
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+In my recent article in the Columbia Law Review, âWhat Gideon Did,â I examined the grassroots effects ofÂ Gideon v. Wainwright, the landmark 1963 Supreme Court decision that established a constitutional right to state-provided counsel in criminal cases. For a number of structural reasons, state-level funding for Gideonâs implementation has proven unpredictable in the best of times, and susceptible to collapse in the worst of times, as defendants in Louisiana can attest. Given this history, Congress should step in to secure the Gideon guarantee with federal funding, so that defenders like Natasha Georgeâand the poor people they serveâare not so vulnerable to the politics of state budgets.		
+A Chronic Crisis
+Almost as soon as Gideon was decided, lawyers began to describe their working conditions as a âcrisis.â While a few states, like California, had longstanding public-defender offices established decades before Gideon, lawyers in most states set out to establish and expand defender offices. However, the available funding never kept pace with the growing demand. These funding realities contrasted with defendersâ interpretation that Gideon required them to serve as many clients as possibleâa noble aim, but one that quickly produced dissatisfaction in lawyers and clients alike, as defendersâ caseloads spiraled upwards. I found, for instance, that in Massachusetts, the state public-defender agency went from handling about 18,000 cases a year in 1968 to about 42,000 cases a year in 1972âa figure that would only continue to climb thereafter.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+And although state budgets for indigent defense rose in the 1970s, the number of cases that public defenders were asked to handle rose faster. As legal scholar William Stuntz observed, âNotwithstanding nominal budget increases, spending on indigent defendants in constant dollars per case appears to have declined significantly between the late 1970s and the early 1990s.â In 1983, the American Bar Association (ABA) lamented a nationwide âcrisis in indigent defense funding.â In 1994, the ABA published a follow-up report whose title remains apt today: âThe Indigent Defense Crisis Is Chronic.â
+The persistence of crisis conditions in indigent defense suggests that the causes are deeply entrenched, and not a temporary reflection of shifting political views or economic vicissitudes. One long-term historical factor helping to explain Americaâs weak commitment to indigent defense is the legal professionâs own prestige hierarchy, which has long valorized advising corporations more than helping ordinary people. A second factor undermining indigent defense is simply the structure of American federalism. The New Orleans judge who recently ordered the release of defendants awaiting counsel wrote, by way of explanation, that âconstitutional rights are not contingent on budget demands.â But in practice, constitutional rights are often hamstrung by state-level budgets.		
+Attitudes Within the Legal Profession
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+Almost as soon as Gideon was decided, lawyers began to describe their working conditions as a âcrisis.â While a few states, like California, had longstanding public-defender offices established decades before Gideon, lawyers in most states set out to establish and expand defender offices. However, the available funding never kept pace with the growing demand. These funding realities contrasted with defendersâ interpretation that Gideon required them to serve as many clients as possibleâa noble aim, but one that quickly produced dissatisfaction in lawyers and clients alike, as defendersâ caseloads spiraled upwards. I found, for instance, that in Massachusetts, the state public-defender agency went from handling about 18,000 cases a year in 1968 to about 42,000 cases a year in 1972âa figure that would only continue to climb thereafter.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943-20165Get Ready for a Wave of Green Civil Disobedience, America
+And although state budgets for indigent defense rose in the 1970s, the number of cases that public defenders were asked to handle rose faster. As legal scholar William Stuntz observed, âNotwithstanding nominal budget increases, spending on indigent defendants in constant dollars per case appears to have declined significantly between the late 1970s and the early 1990s.â In 1983, the American Bar Association (ABA) lamented a nationwide âcrisis in indigent defense funding.â In 1994, the ABA published a follow-up report whose title remains apt today: âThe Indigent Defense Crisis Is Chronic.â
+The persistence of crisis conditions in indigent defense suggests that the causes are deeply entrenched, and not a temporary reflection of shifting political views or economic vicissitudes. One long-term historical factor helping to explain Americaâs weak commitment to indigent defense is the legal professionâs own prestige hierarchy, which has long valorized advising corporations more than helping ordinary people. A second factor undermining indigent defense is simply the structure of American federalism. The New Orleans judge who recently ordered the release of defendants awaiting counsel wrote, by way of explanation, that âconstitutional rights are not contingent on budget demands.â But in practice, constitutional rights are often hamstrung by state-level budgets.		
+Attitudes Within the Legal Profession
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
+
+Michael Ratner, 1943-2016
+
+Get Ready for a Wave of Green Civil Disobedience, America
+
+And although state budgets for indigent defense rose in the 1970s, the number of cases that public defenders were asked to handle rose faster. As legal scholar William Stuntz observed, âNotwithstanding nominal budget increases, spending on indigent defendants in constant dollars per case appears to have declined significantly between the late 1970s and the early 1990s.â In 1983, the American Bar Association (ABA) lamented a nationwide âcrisis in indigent defense funding.â In 1994, the ABA published a follow-up report whose title remains apt today: âThe Indigent Defense Crisis Is Chronic.â
+The persistence of crisis conditions in indigent defense suggests that the causes are deeply entrenched, and not a temporary reflection of shifting political views or economic vicissitudes. One long-term historical factor helping to explain Americaâs weak commitment to indigent defense is the legal professionâs own prestige hierarchy, which has long valorized advising corporations more than helping ordinary people. A second factor undermining indigent defense is simply the structure of American federalism. The New Orleans judge who recently ordered the release of defendants awaiting counsel wrote, by way of explanation, that âconstitutional rights are not contingent on budget demands.â But in practice, constitutional rights are often hamstrung by state-level budgets.		
+Attitudes Within the Legal Profession
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+The persistence of crisis conditions in indigent defense suggests that the causes are deeply entrenched, and not a temporary reflection of shifting political views or economic vicissitudes. One long-term historical factor helping to explain Americaâs weak commitment to indigent defense is the legal professionâs own prestige hierarchy, which has long valorized advising corporations more than helping ordinary people. A second factor undermining indigent defense is simply the structure of American federalism. The New Orleans judge who recently ordered the release of defendants awaiting counsel wrote, by way of explanation, that âconstitutional rights are not contingent on budget demands.â But in practice, constitutional rights are often hamstrung by state-level budgets.		
+Attitudes Within the Legal Profession
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+For much of the 20th century, elite lawyers in many parts of the United States did not consider defending poor people to constitute a respectable professional nicheâit was neither lucrative nor, in elite juristsâ view, particularly intellectually challenging. Rather, indigent defense was often described as a suitable training exercise for young lawyersâa way to gain courtroom experience and maybe do some good for the community before they moved on to their ârealâ careers. In order to quantify this phenomenon, I looked through Harvard Law School alumni directories for the class of 1958. Among those who had volunteered as law students with Bostonâs local public-defender equivalent, none were working as public defenders 10 years later, and only one was working in government service. There were geographic exceptions to this pattern, but in the many regions that had no strong tradition of career public defenders when Gideon was decided, Gideonâs implementation had to start from scratch.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211842-2','tn_politics_government_ros_halfpage_2','tn_politics_government_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+Fortunately, lawyersâ own attitudes about indigent defense have changed in recent decades. Over time, lawyers have reimagined indigent defense as a respected practice specialtyânot just training for a future career, but a career in its own right. Jane Kelly, the Iowa federal judge whom Obama recently floated as a possible Supreme Court nominee, embodies this shift. Kelly spent many years working as a public defender in the federal system. After her name appeared on Obamaâs rumored short list, conservative media outlets subjected Kelly to despicable personal attacks, maligning her for representing âinfamous criminals.â Nevertheless, Kellyâs very presence on court-watchersâ radar suggests that most of the American legal community now considers public defense a respectable background for a judicial nominee. To be sure, indigent defense is not the typical legal vocation, but law schools do provide support for students interested in this work, and hiring for some defender offices is extremely competitive. In particular, the organization Gideonâs Promise has an excellent record of partnering with law schools to place graduates in public-defender offices in the Deep South, where the need is especially acute.		
+Federalism and Funding
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+Funding, however, remains a constant headache for defender offices around the country, which is symptomatic of a larger issueâthe mismatch between the requirements of American constitutional law and the federalist structure of American government. It is easy, and often quite justifiable, to blame state legislators for stingy appropriations for public defenders. But state legislators work within a system that permits them to get away with underfunding indigent defense. The Supreme Court has never specified how exactly Gideon is supposed to be implemented. And although states can be punished after the fact if they fail to provide individual defendants with effective counsel, in the form of reversed convictions or habeas relief (although in practice even those remedies are hard to win), the Court has never translated Gideon into forward-looking standards for how states are supposed to structure and fund their indigent-defense systems.		
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+It is not surprising that the Court has failed to set clearer standards. The right to counsel is unique in American lawâitâs one of the few federal rights to positive government assistance, as opposed to a negative right against government interferenceâand there is no clear blueprint for how such a right is supposed to be judicially enforced. Moreover, the justices are typically reluctant to micromanage state criminal-justice systems. Nevertheless, the result is that public defenders have been left in the wake of Gideon to cobble together funding from an ever-fluctuating mix of sources.      
+      .cta.primary.cmulKjQRhR{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.cmulKjQRhR a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      
+
+
+GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+
+Subscribe
+
+
+
+			.article-wrap .article-body aside.left.custom_background_211842			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Possible Solutions?
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+In New Orleans, the ACLU has filed a civil-rights lawsuit challenging the public-defender shortage as a systematic violation of defendantsâ rights to counsel, due process, and equal protection. This litigation builds on efforts nationwide, since the 1980s, to use class-action litigation to spur indigent defense reform. For example, two years ago, Governor Andrew Cuomo reached a settlement agreement with plaintiffs challenging New Yorkâs indigent-defense system. On the whole, however, such lawsuits have met with mixed success.		
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+As a more promising nationwide solution, Congress could establish a dedicated source of federal funding for local and state public defender offices. In 1979, Senator Ted Kennedy introduced legislation, based on an ABA proposal, to establish a permanent Center for Defense Services to administer federal grants and enforce minimum quality standards for indigent defense. At the time, the bill made no progress, but given the current political momentum for criminal-justice reform, Congress should revive the idea. John Pfaff, a law professor at Fordham University who studies criminal justice from an economic perspective, recently estimated that a congressional appropriation of just $4 billionâa minuscule sliver of federal discretionary spendingâwould have the effect of instantly tripling indigent-defense resources nationwide.		
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+An infusion of federal funds into local defender offices could have ripple effects beyond alleviating emergencies in states like Louisiana. Every issue on criminal-justice activistsâ agendaâfrom excessive bail to draconian sentencingâis one where public defenders could make headway through their advocacy in individual cases, if they had the necessary resources. But more fundamentally, the rights of poor people, wherever they happen to live, should not be abandoned to the whims of state legislators. All Americans should be able to depend on federal support for what is, after all, a federal constitutional guarantee.		
+		
+
+ Sara Mayeux
+ Sara Mayeux is the Sharswood Fellow at the University of Pennsylvania Law School.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+This entire discussion seems to miss the point that our justice system is apparently so corrupt that you cannot expect a fair trial unless you have representation from someone with a $100,000 law degree.
+
+The $4B will need to be accompanied by federal administration and oversight to make sure the localities use the money for its intended purpose. Hypothetically, Byrne-JAG grants can be a source of federal funds for states to spend to improve indigent defense, but they are not. Texas raises a substantial amount of money for indigent defense and then redirects it to other purposes. Good intentions are just a start.
+
+In more than 90% of time when individuals are sentenced there has been no available legal counsel. Instead innocent defendants are forced to plea bargain when the choice is between a trial and 20 years in jail or agreeing to a less charge and spending 5 years in jail. Even when the result is a number of years of probation the defendant who is usually a black male, has a criminal record that will keep them from being able to vote in many states and prevent them from accessing any form of federal assistance or getting a job (easy to discriminate against a black person who has to check the box on the employment application asking is he or she has ever been arrested or convicted of a crime. More than 2 million blacks are denied for life the right to vote in this country.  But this is not by accident but a product of Bill Clinton&apos;s war on drugs and signing into law the mandatory drug sentencing mandates that provided for much longer sentences for crack or marijuana than for cocaine or drunk driving (even when someone is killed by the drunk driver).
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+

@@ -1,0 +1,1819 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script>
+var articlereadbyUser = 0;
+var pageCounterPaywall = 0; 
+      function getCookie(name)
+      {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+      }
+      var checkCookie = getCookie('SESSchecknc');
+      if (checkCookie!='undefined' && checkCookie==1)
+      { 
+         var currentUrl = document.URL;
+         if (currentUrl.indexOf("?nc=1") > -1){ }
+         else
+         {
+            if (currentUrl.indexOf("?") > -1)
+            {
+               if (currentUrl.indexOf("&nc=1") > -1) {}
+               else{
+                  window.location.href = currentUrl+"&nc=1";                  
+               }            
+            }
+            else
+            {
+            window.location.href = currentUrl+"/?nc=1"; 
+			
+            }
+            //document.open('text/javascript');
+            //document.write('<script type="text/undefined">');
+         }
+      }
+</script>
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	 <meta charset="utf-8">
+		<!-- Always force latest IE rendering engine or request Chrome Frame -->
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+		<!-- Use title if it's in the page YAML frontmatter -->			
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>The Soul of the Tea Party | The Nation</title>
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="">
+			<!-- Facebook META -->
+			<!--<meta property="fb:app_id" content="">-->
+			<meta property="og:site_name" content="The Nation">
+			<meta property="og:title" content="The Soul of the Tea Party">
+			<meta property="og:description" content="">
+			<!--<meta property="og:url" content="">-->
+			<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img-1440x756.jpg">
+			<meta property="og:type" content="website">
+			<!-- Twitter META -->
+			<meta name="twitter:title" content="The Soul of the Tea Party">
+			<meta name="twitter:description" content="">
+			<meta name="twitter:url" content="http://www.thenation.com/article/the-soul-of-the-tea-party/">
+			<meta name="twitter:image" content="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img-1440x756.jpg">
+						<!-- Fav Icon -->
+			<!--<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />--->
+			<link rel="icon" type="image/ico" href="http://www.thenation.com/wp-content/themes/thenation/images/favicon.ico" />
+	<meta name="sailthru.image.full" content="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img-680x430.jpg" /> 
+<meta name="sailthru.image.thumb" content="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img-275x173.jpg" />
+<meta name="sailthru.title" content="The Soul of the Tea Party" />
+<meta name="sailthru.date" content="May 17th, 2016" />
+<meta name="sailthru.content_id" content="212569" />
+<meta name="sailthru.description" content="" />
+<meta name="sailthru.tags" content="Political Ideologies,The Right,Books &amp; the Arts" />
+<meta name="keywords" content="Tea Party" />
+<meta name="sailthru.author" content="David Bromwich" />
+<script type="text/javascript">
+    (function() 
+	{
+        function loadHorizon() 
+		{
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+        	}
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+		{
+            	if (typeof oldOnLoad === 'function') 
+			{
+                	oldOnLoad();
+          		}
+            	Sailthru.setup({
+                	domain: 'horizon.thenation.com'
+            		});
+        	};
+    	})();
+</script>
+<!--Advertisements-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//kilomonj.net/adBlockDetector/12257" async defer></script>
+<!--<script class="kxct" data-id="JDkN7kNL" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN7kNL"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>-->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "20564932" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20564932&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+<link href="http://www.thenation.com/wp-content/themes/thenation/stylesheets/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="Dark Money is a provocative and copious history of the leverage of right-wing money in our recent politics. Like Jane Mayer’s previous book, The Dark Side (2008), which dealt with the emergency-­detention regime set up after September 2001 by Dick Cheney and his associates, it centers on the exor..." />
+<meta name="keywords" content="books &amp; the arts, political ideologies, the right, tea party" />
+<meta property="fb:app_id" content="192399944158735" />
+<meta property="og:site_name" content="The Nation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Soul of the Tea Party" />
+<meta property="og:url" content="http://www.thenation.com/article/the-soul-of-the-tea-party/" />
+<meta property="og:description" content="Dark Money is a provocative and copious history of the leverage of right-wing money in our recent politics. Like Jane Mayer’s previous book, The Dark Side (2008), which dealt with the emergency-­detention regime set up after September 2001 by Dick Cheney and his associates, it centers on the exor..." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2016-05-16T21:00:53+00:00" />
+<meta property="og:image" content="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="907" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2016-05-17T08:00:43+00:00" />
+<meta property="article:modified_time" content="2016-05-16T21:00:53+00:00" />
+<meta property="article:author" content="http://www.thenation.com/author/smccroskey/" />
+<meta property="article:publisher" content="https://www.facebook.com/TheNationMagazine" />
+<meta property="article:tag" content="books &amp; the arts" />
+<meta property="article:tag" content="political ideologies" />
+<meta property="article:tag" content="the right" />
+<meta property="article:tag" content="tea party" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TheNation" />
+<meta name="twitter:title" content="The Soul of the Tea Party" />
+<meta name="twitter:description" content="Dark Money is a provocative and copious history of the leverage of right-wing money in our recent politics. Like Jane Mayer’s previous book, The Dark Side (2008), which dealt with the emergency-­detention regime set up after September 2001 by Dick Cheney and his associates, it centers on the exor..." />
+<meta name="twitter:image:src" content="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img.jpg" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="907" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Feed" href="http://www.thenation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; Comments Feed" href="http://www.thenation.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Nation &raquo; The Soul of the Tea Party Comments Feed" href="http://www.thenation.com/article/the-soul-of-the-tea-party/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thenation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='defaultbasic-css'  href='http://www.thenation.com/wp-content/themes/thenation/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='thenation-stylesheet-all-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/all.css?nc=1&#038;ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='basicfonts-css'  href='http://www.thenation.com/wp-content/themes/thenation/stylesheets/fonts.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_calendar-jos-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='form_maker_frontend-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style_submissions-css'  href='http://www.thenation.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thenation.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tn_stf_style-css'  href='http://www.thenation.com/wp-content/plugins/tn-sailthruforms/admin/assets/tn_sailthruforms_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.thenation.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/plugins/tn-customeditor//tinymce-dropcap.js?ver=4.2.4'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thenation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.13" />
+<link rel='canonical' href='http://www.thenation.com/article/the-soul-of-the-tea-party/' />
+<link rel='shortlink' href='http://www.thenation.com/?p=212569' />
+<link rel="stylesheet" href="http://www.thenation.com/wp-content/plugins/solr-for-wordpress-on-pantheon/template/autocomplete.css" type="text/css" media="screen" />
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          //  $("#s").suggest("?method=autocomplete", {});
+          //  $("#search-value").suggest("?method=autocomplete", {});
+        });
+    </script>
+    <script type='text/javascript'>var pageCounterPaywall = 0; var scrollHolderPaywall = {};var maxarticlePaywall = 0; var current_articlePaywall = 0; var maxdaysPaywall = 0; var accesseddaysPaywall = 0; </script>				<!-- WordPress Popular Posts v3.2.1 -->
+				<script type="text/javascript">//<![CDATA[
+
+					// Create XMLHttpRequest object and set variables
+					var xhr = ( window.XMLHttpRequest )
+					  ? new XMLHttpRequest()
+					  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+					url = 'http://www.thenation.com/wp-admin/admin-ajax.php',
+					params = 'action=update_views_ajax&token=cd972b92ca&id=212569';
+					// Set request method and target URL
+					xhr.open( "POST", url, true );
+					// Set request header
+					xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+					// Hook into onreadystatechange
+					xhr.onreadystatechange = function() {
+						if ( 4 == xhr.readyState && 200 == xhr.status ) {
+							if ( window.console && window.console.log ) {
+								window.console.log( xhr.responseText );
+							}
+						}
+					}
+					// Send request
+					xhr.send( params );
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.1 -->
+				<script src="http://www.thenation.com/wp-content/plugins/tn-paywall/inc/paywall-script.php?nc=1&paywallid=MjEyNTY5&display=YmxvY2s="></script><script>
+jQuery(document).ready(function(){
+   jQuery('#search').submit(function(event){
+      if (jQuery('#search input:text').eq(0).val().length<1){
+	 return false;
+      }
+   });
+   jQuery('#searchbox').submit(function(event){
+      if (jQuery('#searchbox input:text').eq(0).val().length<1){
+	 return false;
+	 }
+   });
+});
+</script>
+</head>
+<!-- Quantcast Tag -->  <script type="text/javascript">  var _qevents = _qevents || [];    (function() {  var elem = document.createElement('script');  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";  elem.async = true;  elem.type = "text/javascript";  var scpt = document.getElementsByTagName('script')[0];  scpt.parentNode.insertBefore(elem, scpt);  })();    _qevents.push({  qacct:"p-krSvyk7fmpe57"  });  </script>    <noscript>  <div style="display:none;">  <img src="//pixel.quantserve.com/pixel/p-krSvyk7fmpe57.gif" border="0" height="1" width="1" alt="Quantcast"/>  </div>  </noscript>  <!-- End Quantcast tag -->
+<body class="sticky-ads">
+<!-- Google Analytics Code -->
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63392420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- Live Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code End -->
+<!-- Chartbeat code starts here -->
+<script type="text/javascript">
+  var _sf_async_config = { uid: 7841, domain: 'thenation.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.insertBefore(e, document.body.firstChild);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Chartbeat code ends here -->
+<!-- Google Mobile Interstitial Starts here -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script> 
+  (adsbygoogle = window.adsbygoogle || []).push({ 
+    google_ad_client: 'ca-pub-4976568202552923', 
+    enable_page_level_ads: true, 
+    interstitials: {google_ad_channel: 'ca-pub-4976568202552923'} 
+  }); 
+</script>
+<!-- Google Mobile Interstitial Ends here -->
+<!-- Advertisements -->
+<!---- Moat Script starts here -------->
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/thenationcontent252XZzP54/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<!---- Moat Script ends here --------->
+<script async="async" data-client-id="hBpPprgSpyyiDmn" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/esf.js"></script><script>
+    var pageCounterPaywall ;
+	var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+</script>
+<!-- Function to call Advertisements on entire website-->
+<script type='text/javascript'>
+   function call_ad(ad_type,ad_div,ad_name_desktop,ad_name_mobile,custom_targeting,key,values) {
+      if (typeof custom_targeting === 'undefined') { custom_targeting = false; }
+      if (typeof key === 'undefined') { key = null; }
+      if (typeof values === 'undefined') { values = null; }
+      var w,h,w1,h1;
+      var ad_name='';
+      if (ad_type == "leaderboard")
+	  {
+		 w = 728;
+		 h = 90;
+		 w1=970;
+		 h1=90;
+		 ad_name = ad_name_desktop;
+		 if (isMobile.any())
+		 {
+			 w = 320;
+			 h = 50;
+			 ad_name = ad_name_mobile;
+		 }
+      }
+      else if (ad_type == "halfpage")
+	  {
+		w = 300;
+		h = 250;
+		w1 = 300;
+		h1 = 600;
+		ad_name = ad_name_desktop;
+		if(isMobile.any())
+		{
+			w = 300;
+			h = 250;
+			w1 = 300;
+			h2 = 250;
+			ad_name = ad_name_mobile;
+		}		
+      }
+      else if (ad_type == "halfpage250") {
+	 w = 300;
+	 h = 250;
+	 ad_name = ad_name_desktop;
+      }
+      else if (ad_type == "pixel")
+	  {
+		var ad_pixel_name1 = "_pixel_2";
+		var ad_pixel_name_final=ad_name_desktop.indexOf(ad_pixel_name1);
+		//alert(ad_pixel_name_final);
+		if(articlereadbyUser!=0)
+		{
+		if(ad_pixel_name_final<=-1)
+		{
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===true) {
+			  return;
+			}
+		}
+		}
+		/*for hiding meterpaywall popups when pixel ads call ends here*/
+		
+		if(isMobile.any())
+		{
+		ad_name = ad_name_mobile;
+		}
+		else
+		{
+		ad_name = ad_name_desktop;
+		}
+		
+						w = 1;
+		h = 1;
+      }
+      //alert('ad_name: '+ad_name+'  div: '+ad_div+'  key: '+key+'  values: '+values);
+      googletag.cmd.push(function() {
+      var ad_slot = null;
+	  if(ad_type == "halfpage" || ad_type == "leaderboard") {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [[w, h],[w1,h1]], ad_div);
+	  }
+	  else {
+		ad_slot = googletag.defineSlot('/1004953/'+ad_name, [w, h], ad_div);
+	  }
+      if (custom_targeting==true && key && values)
+	  {
+		 for(i=0;i<key.length;i++) {
+			ad_slot = ad_slot.setTargeting(key[i], [values[i]]);
+		 }
+      }
+      ad_slot = ad_slot.addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      	  googletag.pubads().refresh([ad_slot]); // Since same ad unit might get repeated
+	  //setInterval(function(){googletag.pubads().refresh([ad_slot]);}, 10000);
+            googletag.enableServices();
+      });
+		googletag.cmd.push(function() {
+		googletag.display(ad_div);		
+      });
+   }
+</script>
+<div id="ad-pixel"></div>
+<div id="ad-pixel-2"></div>
+<div id="ad-leaderboard" class="push ad full-width leaderboard"></div>
+<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="desktop">
+	<div class="header-bar utility">
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="actions">
+			<li><a class="social-link fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"><span>Facebook</span></a></li>
+			<li><a class="social-link tw" href="https://twitter.com/thenation" target="_blank"><span>Twitter</span></a></li>
+						<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage" class="btn btn-yellow donate">Donate</a>
+			</li>
+									<li id="login_status">
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        <div class="lightbox-form">
+			<div class="lightbox-inner login_popup">
+				<div class="listing__hero row">
+					<div class="listing_form small-12 columns">
+						<!--<div class="closebutton"></div>-->
+                        <div class="login_top_msz">If you are a current Subscriber and are unable to log in, you may have to create a NEW username and password.  To do so, <a href="https://ssl.palmcoastd.com/06601/apps/LOGINSSO" target="_blank">click here</a> and use the “NEW USER” sign-up option.</div>
+						<h1>Log In</h1>
+						<div class="row primaryError" id="primaryError"  style="display: none">
+						 <div class="field form-field text-field small-12 columns error">
+									<p class="errormsg"></p>
+						 </div>
+						 </div>
+						<form action="index.html" class="search__form" onsubmit="return trigClick();"  name="lightboxform" id="lightboxform">
+								<div class="row">
+								<div class="field form-field e_mail_field_con text-field small-12 columns valid">
+									<input type="text" tabindex="1" name="e_mail" class="pcd_email" value="" id="e_mail" placeholder="" autocapitalize="off">
+									<label for="e_mail">Email *</label>
+															
+								</div>
+							</div>
+							<div class="row">
+								<div class="field form-field text-field pwd_field_con small-12 columns error">
+									<input type="password" tabindex="2" name="pwd" class="pcd_pwd" value="" id="pwd" placeholder="" minlength="2">
+									<label for="last_name">Password *</label>
+									             
+								</div>
+							</div>
+							
+							
+							<div class="row checkbox-row">
+								<div class="field form-field checkbox-field small-7 partsec columns">
+									<div class="checkbox">
+										<input type="checkbox" tabindex="4" value="None" id="box03" class="check_input" name="checkbox3" >
+										<label for="box03"></label>
+									</div>
+									<label for="box03">Remember Me</label>
+									 </div>
+								<div class="field form-field checkbox-field small-5 partsec columns pull-right"> <a tabindex="5" href="https://ssl.palmcoastd.com/06601/apps/-222532" style="padding: 0px !Important;">Forgot Your Password?</a></div>
+							</div>
+ 
+							<div class="row">
+								<div class="field form-field small-12 medium-6 partsec columns">
+									<div class="form-button" id="form-loading">
+									    <button class="primary-button pcdLoginButton" tabindex="3" type="submit" id="loginBut">Log In</button>
+									    <img class="loaderImg" src='http://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF' style="display: none" id="loader" alt="loader">
+								    </div>
+								</div>
+						        </div>
+							<div class="row">
+								<div class="field form-field small-12 medium-12 columns Subscriber_btn">									
+								If you are not a Subscriber, <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO" target="_blank">Subscribe</a> Now!<br />Back to <a href="http://www.thenation.com" >site</a>								
+								</div>
+						      </div>
+						</form>
+					</div>
+				</div>
+			</div>
+</div>					
+						</div>
+						
+									  <a href="http://www.thenation.com/login/" class="btn btn-yellow login">Log In</a>
+				 				</li>
+					</ul>
+		<!-- /.actions -->
+		<nav class="trending">
+						<div class="menu-keyword-menu-container"><ul id="menu-keyword-menu" class="menu"><li id="menu-item-199269" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-199269"><a href="http://www.thenation.com/subject/election-2016/">Election 2016</a></li>
+<li id="menu-item-210718" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-210718"><a href="http://www.thenation.com/keyword/donald-trump/">Donald Trump</a></li>
+<li id="menu-item-207209" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-207209"><a href="http://www.thenation.com/keyword/bernie-sanders/">Bernie Sanders</a></li>
+<li id="menu-item-211902" class="menu-item menu-item-type-taxonomy menu-item-object-keyword menu-item-211902"><a href="http://www.thenation.com/keyword/voting-rights/">Voting Rights</a></li>
+<li id="menu-item-212239" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-212239"><a href="http://www.thenation.com/subject/climate-change/">Climate Change</a></li>
+</ul></div>		</nav>
+	</div>
+	</div>
+		<!-- /.trending -->
+	</div>
+	<!-- /.header-bar.utility -->
+
+	<div class="header-bar main" id="'navbar'">
+	<div class="row">
+		<nav role="navigation" class="primary small-12 columns">
+			<ul>
+				<li class="home">
+						<h1 class="logo">
+							<a href="http://www.thenation.com">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation" class="non-sticky">
+								<img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation" class="sticky"/>
+							</a>
+						</h1>
+					</li>
+				<li class="news-links">
+									<div class="menu-subject-menu-container"><ul id="menu-subject-menu" class="menu"><li id="menu-item-186986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-201145" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li id="menu-item-201148" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li id="menu-item-116709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>				</li>
+				 
+				
+				<li class="article-meta">
+													 <h3 class="tophead_subject"><a href="http://www.thenation.com/subject/conservatives-and-the-american-right/">
+					The Right</a></h3>
+											<h2>The Soul of the Tea Party</h2>
+				</li>
+								<li class="quick-links">
+					<ul>
+														<li class="current-issue"><a href="http://www.thenation.com/issue/may-23-30-2016-issue/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+								<a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a>								</li>
+														<li class="search-toggle"><a href="#">Search</a></li>
+					</ul>
+				</li>
+				 
+				<li class="article-social">
+						<ul>
+							<li><a href="javascript:void(0)" class="social-article social-share fb"><span>Facebook</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share tw"><span>Twitter</span></a></li>
+							<li><a href="javascript:void(0)" class="social-article social-share email"><span>Email</span></a></li>
+						</ul>
+					</li>
+								</ul>
+		</nav>
+		</div>
+	<!-- /.primary -->
+	</div>
+
+	<!-- /.header-bar.main -->
+	<div class="header-bar search searchbardrop">
+	<div class="row">
+		<form action="http://www.thenation.com/" role="search" method="get" id="search" name="search">
+			<input type="text" placeholder="Search" name="ssearch">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		</div>
+	</div>
+</header>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+		$(".landing ul>li.news-links, .landing ul>li.quick-links").attr('style','display:inline !important');
+	});
+	</script>
+<!-- /#desktop -->
+<header id="mobile" class="push">
+	<div class="header-bar">
+		<a href="#mobile-menu" class="nav-toggle">
+			<span>Toggle Menu</span>
+		</a>
+		<h1 class="logo">
+			<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/m-logo.png" alt="The Nation"/></a>
+		</h1>
+						
+								  <a href="http://www.thenation.com/login/" class="my-profile"><span>Log In</span></a>
+				 							 
+	 	</div>
+	<!-- /.header-bar -->
+	<div id="mobile-menu" role="navigation">
+	<div class="mobile-scroll">
+	
+		<nav class="primary">
+			<ul>
+				<div class="menu-subject-menu-container"><ul id="menu-subject-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186986"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201145"><a href="http://www.thenation.com/subject/world/">World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-201148"><a href="http://www.thenation.com/subject/economy/">Economy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116709"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115090"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div>			</ul>
+		</nav>
+		<nav class="utility">
+			<ul>
+												<li class="subscribe">
+								<a class="alert" href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**MOB">Subscribe</a>								</li>
+																					<li class="current-issue"><a href="http://www.thenation.com/issue/may-23-30-2016-issue/">Current Issue</a></li>
+																	
+						
+														<li class="subscribe">
+																</li>
+															<li>
+				<a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a>
+			</li>
+			<!-- Login/Logout -->
+							<li>
+				<script  src="http://www.thenation.com/wp-content/themes/thenation/inc/pcd_javascript.php?nc=1"></script>						<div id="login-content-id-pcd_login" style="display:none;">
+	                                        					
+						</div>
+						
+									  
+				 <li id="login_status_mob_account"><a href="http://www.thenation.com/login/">Log In</a></li>
+				 				</li>
+							</ul>
+		</nav>
+		<div class="social">
+			<a class="social-icon icon-fb" target="_blank" href="https://www.facebook.com/TheNationMagazine">
+			<span>Facebook</span>
+			</a>
+			<a class="social-icon icon-tw" target="_blank" href="https://twitter.com/thenation">
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="search">
+			<form id="mobile-search" action="http://www.thenation.com/" role="search" method="get" name="search">
+			<!--<input type="text" placeholder="Search" class="clearable" name="s">-->
+			<input type="text" id="q" class="clearable" name="ssearch" placeholder="Search">
+			 <input type="hidden" name="post_type" value="article" />
+		</form>
+		
+		</div>
+		</div>
+	</div>
+	<!-- /#mobile-menu -->
+</header>
+	<div class="container push"><script type= "text/javascript">
+var preventLoad_article = false;
+var check_comment = false;
+jQuery(document).ready(function(){
+		});
+</script>
+
+
+<div class="article-wrap article-page " id="wrap">
+	<!-- Advertisements -->
+<script type="text/javascript">
+	var key = [];
+	var values = [];
+</script>
+		<script type="text/javascript">
+			key.push("tn_keyword");
+			values.push("'tea-party'");
+		</script>
+				<script type="text/javascript">
+			key.push("tn_author");
+			values.push("'david-b'");
+		</script>
+			<!-- Calling Header, Footer Leaderboards and Pixel Ads -->
+	<script type="text/javascript">
+		jQuery( document ).ready(function($) {
+			custom_targeting = false;
+			if (key.length > 0 && values.length > 0) {
+				custom_targeting = true;
+			}
+			call_ad('leaderboard','ad-leaderboard','tn_politics_political_ideologies_ros_leaderboard_1','tn_politics_political_ideologies_article_leaderboard_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel','tn_politics_political_ideologies_article_pixel_1','tn_politics_political_ideologies_article_pixel_mobile_1',custom_targeting,key,values);
+			call_ad('pixel','ad-pixel-2','tn_politics_political_ideologies_article_pixel_2','tn_politics_political_ideologies_article_pixel_mobile_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_test_pixel','tn_test_pixel',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_test_pixel_2','tn_test_pixel_2',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel','tn_politics_political_ideologies_article_pixel_1','tn_politics_political_ideologies_article_pixel_1',custom_targeting,key,values);
+			//call_ad('pixel','ad-pixel-2','tn_politics_political_ideologies_article_pixel_2','tn_politics_political_ideologies_article_pixel_2',custom_targeting,key,values);
+			call_ad('leaderboard','div-gpt-ad-1428494597034-0','tn_politics_political_ideologies_ros_leaderboard_1','tn_politics_political_ideologies_article_leaderboard_mobile_1',custom_targeting,key,values);
+		});
+	</script>
+	<div class="postid-212569 scrolltrace " articlelisttitle="The Soul of the Tea Party" articlelistlinks="http://www.thenation.com/article/the-soul-of-the-tea-party/" article-post-id="212569">
+	<article id="url-title">
+	<!-- Banner Image -->  
+			<header class="article-header">
+		<div class="article-header-content">
+					<ul class="article-info">
+				<li class="category"><a href="http://www.thenation.com/subject/conservatives-and-the-american-right/" class="anchor_subject"
+                     subjectlink="http://www.thenation.com/subject/conservatives-and-the-american-right/">The Right</a></li><li class="subcategory"><a href="http://www.thenation.com/keyword/tea-party/">Tea Party</a></li><li class="subcategory"><a href="http://www.thenation.com/admin-taxonomy/books-and-the-arts/">Books &amp; the Arts</a></li>				</ul>
+		
+			<h1 class="title">The Soul of the Tea Party</h1>
+			<h2 class="subtitle"> </h2>
+			<div class="byline">
+							<h2 class="author_name">By <a class="author" href="http://www.thenation.com/authors/david-bromwich/">David Bromwich</a></h2>					<!--<h2>By </h2>-->
+								
+		
+				<h4 class="time is-today article_pub_time">Today 8:00 am<!--<span><a href="" class="click_comment"></span><span>0 Comments</span></a>-->
+								
+				</h4>
+
+							</div>
+			<ul class="article-share">
+			<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+			</ul>
+			</div>
+		</header>
+					
+		
+		<section class="article-body  abody-212569">
+		<aside class="left full-width-mobile image wide indent">
+										<a class="gallery imgHover" href="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img.jpg" title="Donald Trump in Wilkes Barre, Pennsylvania, April 25, 2016. (Mel Evans / AP)"><img src="http://www.thenation.com/wp-content/uploads/2016/05/bromwich_ap_img.jpg" alt="bromwich_ap_img"></a>
+										<p class="caption">Donald Trump in Wilkes Barre, Pennsylvania, April 25, 2016. <span class="credits">(Mel Evans / AP)</span></p>
+							</aside>
+							<div style="clear:both"></div>		
+					<p><em>Dark Money</em> is a provocative and copious history of the leverage of right-wing money in our recent politics. Like Jane Mayer’s previous book, <em>The Dark Side</em> (2008), which dealt with the emergency-­detention regime set up after September 2001 by Dick Cheney and his associates, it centers on the exorbitant reactions by men of power to a situation that supplied a pretext for the sudden expansion of their control. It has been reported, on good circumstantial evidence, that Charles and David Koch picked over the life and writings of Mayer herself in an effort to intimidate and discredit her while the book was being written, and for that reason <em>Dark Money</em> must be praised for its courage as well as its comprehensiveness. Her narrative begins in the middle, with the summit of January 30–31, 2009, in Indian Wells, California: a convocation of distressed billionaires, invited by the Koch brothers to plan against the consequences of Barack Obama’s election. By then, says Mayer, Koch Industries owned “four thousand miles of pipelines, oil refineries in Alaska, Texas, and Minnesota, the Georgia-Pacific lumber and paper company, coal, and chemicals, and [the brothers] were huge traders in commodities futures, among other businesses.” Their net worth was approximately $14 billion each.<aside class="ad right most-popular-plus-ad grey_back">
+				<div id="ad-halfpage-212569-0" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>					<script type="text/javascript">
+						jQuery( document ).ready(function($) {
+						setTimeout(function(){call_ad('halfpage','ad-halfpage-212569-0','tn_politics_political_ideologies_ros_halfpage_1','tn_politics_political_ideologies_ros_halfpage_mobile_1',custom_targeting,key,values);}, 6000);
+							
+						});
+					</script>
+									<aside class="left suggested-reading">
+											<div class="book">
+															<p class="title">Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right</p>
+								
+															<p class="author">By Jane Mayer</p>
+								
+																								<p class="purchase"><a href="http://www.powells.com/partner/36604/biblio/9780385535595?p_isbn" target="blank">Buy this book</a></p>
+														</div>
+												</aside>
+						
+<p>The billionaires who joined them in the wake of Obama’s inauguration were agreed in their wish to obstruct any progressive reform the new president might attempt. The likely guest list must be inferred from the scraps of other lists: The financiers known to have attended or sent proxies to later summits in Obama’s first term include Steven A. Cohen, Paul Singer, and Stephen Schwarzman. Present and accounted for at Indian Wells, however, were Senators John Cornyn of Texas and Jim DeMint of South Carolina. Conservative opinion-makers like Charles Krauthammer, Ramesh Ponnuru, and Glenn Beck, who had accepted invitations to earlier summits, were situated to learn punctually of the doings at Indian Wells, and whatever may have been resolved there, the design that emerged would be vindicated in one obvious way. By March 2015, Charles and David Koch’s personal fortunes had climbed from the initial $14 billion to almost $42 billion each.		
+<p>Among the political developments for which Mayer awards the Koch brothers substantial credit are the <em>Citizens United</em> decision; the Republican takeover of the House of Representatives in 2010, and of the Senate in 2014; and Republican gains in statehouses and governorships, where, between 2009 and 2015, the party increased its hold from 22 to 31 governors, and its control of both chambers of the legislature from 14 to 30 states. Among the causes of the change not covered by Mayer are the slow economic recovery after the collapse of 2008, and the decline, among Democrats, of the political talent for explaining the purpose, function, and occasional necessity of government.		
+<p align="center">* * *		
+<p>A collective response by the very rich to an alarm in the night, the Indian Wells summit was hardly the first of its kind. The most notable precursor was Lewis Powell’s widely distributed private memo of 1971 proposing a conservative strategy for the decades to come. Powell, who would soon ascend to the Supreme Court, had served on “the boards of over a dozen of the largest companies in the country, including the cigarette maker Philip Morris,” and his memo urged “guerrilla warfare” against public-interest lawmakers and editors on the liberal side who sought to curb the power of big business. He called for “careful long-range planning and implementation,” with a “scale of financing available only through joint effort.” This was, in effect, a reveille for the rich, and Powell aimed to organize them just as Saul Alinsky had done with the laboring poor. Cartels or secret business agreements were remote from Powell’s design. Rather, the memo spoke of the planting and inculcation of an ideology, and the creation of institutions to propagate it. The Scaife Family Charitable Trust, the Olin and Bradley foundations, the conversion of the American Enterprise Institute from a business think tank to a neoconservative combine specializing in foreign policy, economic policy, and everything in between—these were the offspring of the right-wing strategy launched by the memo.<aside class="right hidden-on-mobile most-popular-plus-ad"><div class="most-popular hover_b_remove">
+									<h3>Most Popular</h3><div class="popular-article"><h4>1</h4><p><a href="http://www.thenation.com/article/to-beat-a-nasty-brutish-donald-trump-hillary-clinton-will-have-to-do-something-different/">To Beat a Nasty, Brutish Donald Trump, Hillary Clinton Will Have to Do Something Different</a></p></div><div class="popular-article"><h4>2</h4><p><a href="http://www.thenation.com/article/bernie-sanders-says-us-must-end-colonial-type-relationship-with-puerto-rico/">Bernie Sanders Says the US Must End Its ‘Colonial-Type Relationship’ With Puerto Rico</a></p></div><div class="popular-article"><h4>3</h4><p><a href="http://www.thenation.com/article/donald-trump-has-played-the-man-card-his-whole-life/">Donald Trump Has Played the Man Card His Whole Life</a></p></div><div class="popular-article"><h4>4</h4><p><a href="http://www.thenation.com/article/why-wont-the-government-crack-down-on-shady-financial-advisers/">Why Is Elizabeth Warren Working With a Pro-Trump Republican?</a></p></div><div class="popular-article"><h4>5</h4><p><a href="http://www.thenation.com/article/automatic-voter-registration-in-oregon-is-revolutionizing-american-democracy/">Automatic Voter Registration in Oregon Is Revolutionizing American Democracy</a></p></div></aside>		
+<p>As Mayer narrates the rising fortunes of the right in the 1980s, the Koch family remains a convenient focus. Fred Chase Koch made a lot of his money from oil transactions with Hitler and Stalin. He wrote warmly in praise of fascism, preferring Germany, Italy, and Japan to the United States under the New Deal, “simply because they are all working and working hard.” In 1958, he became one of the 11 founding members of the John Birch Society and helped to bring the hunt for the “Communist conspiracy” from the McCarthy era into the 1960s. Legal obstruction and litigation were ingrained habits of the family business. Charles and David may well have become the richest sons because they internalized those habits and put them into practice most assiduously. The other two sons, Frederick and Bill, once made the mistake of suing Charles and David and were promptly denied part of their inheritance, thanks to a provision in their mother’s will against any son who litigated against another within six weeks of her death.		
+<p>The Koch family dynamic would make a chastening study for another book: the disciplinarian father who whipped the boys with a belt or a tree branch to punish an infraction; the loyal wife and mother who seems never to have been tempted to intervene; and the self-exiled outlier sons—Frederick, who became a collector of artworks, antiques, and books; and Bill, who started “his own carbon-heavy energy company,” took a keen interest in yachting, and in 1992 won the America’s Cup. All four brothers have been major donors to the Republican Party. Charles would inherit practical control of Koch Industries, while patronage of the arts and education would come to occupy much of David’s energy. But the family ideology underwent a subtle mutation when, in the late 1950s, Charles fell under the spell of a freelance guru, Robert LeFevre, at the Freedom School in Colorado Springs—a man (as Mayer describes him) “almost as adamantly opposed to America’s government as he was to Communism.” Charles was still echoing the language and disposition of LeFevre when he wrote in 1978 that “Our <em>movement</em> must destroy the prevalent statist paradigm.” Yet the Koch brothers reversed course and checked their criticism of the government bailouts in 2008–9, once they understood the effects of the financial collapse on their stock portfolios.		
+<p>Their greed, on Mayer’s showing, has been incorrigible, but David anyway has modestly declined the pretense of being a self-made man. In a speech to alumni at the Deerfield Academy in 2003, he said:					<aside class="ad right most-popular-plus-ad grey_back">
+				<div id="ad-halfpage-212569-2" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>							<script type="text/javascript">
+							jQuery( document ).ready(function($) {
+							setTimeout(function(){call_ad('halfpage','ad-halfpage-212569-2','tn_politics_political_ideologies_ros_halfpage_2','tn_politics_political_ideologies_ros_halfpage_mobile_2',custom_targeting,key,values);}, 6000);
+								
+							});
+						</script>
+								
+<blockquote><p>You might ask: How does David Koch happen to have the wealth to be so generous? Well, let me tell you a story. It all started when I was a little boy. One day, my father gave me an apple. I soon sold it for five dollars and bought two apples and sold them for ten. Then I bought four apples and sold them for twenty. Well, this went on day after day, week after week, month after month, year after year, until my father died and left me three hundred million dollars!		</blockquote>
+<p>The fame of the brothers is still young, even if their wealth and power are not. The extravagance of the <em>Citizens United</em> decision flushed them out, but wider publicity and a partial change of heart may exert on their later careers an ameliorating effect. Such things have happened before. It is a curious fact, and not trivial, that Charles opposed the Vietnam War; and the brothers’ Cato Institute gives some hint of a direction in which they might evolve. Cato is dedicated to the defense of civil liberties, but does not confine its energies to property-and-guns libertarianism, and the think tank has shown an occasional convergence with the constitutionalism of the American Civil Liberties Union. This interesting anomaly is not mentioned in Mayer’s book.		
+<p align="center">* * *		
+<p>The Koch family portrait aside, <em>Dark Money</em> piles up facts and anecdotes to support its central thesis: the evasion by the very rich of any obligation to rise above self-interest and serve the public interest. But selfishness usually wants an alibi, and Mayer might have paused somewhere to try and explain the attraction of the free-market ideology. Much of the doctrine comes from F.A. Hayek, and it draws some of its prestige from his antitotalitarian politics. Augmenting this, in the school of Koch, is a simplified understanding of Adam Smith on the connection between free markets and moral action, and of John Locke on the proper reward of human inventions that extract value from the raw materials of nature. Absent is any recognition of Smith’s distrust of greed and monopoly, or Locke’s understanding of the imperative of service to the common good. Granted, the nostrum is simple and the distortion great; but what do left-liberal politics offer in reply? “The nation,” President Obama said in his first inaugural address, “cannot prosper long when it favors only the prosperous.” The words were calculated to make a gentle and generous impression, but they signified nothing in particular; and Mayer is right to criticize the “largely milquetoast messaging about Wall Street” by Obama in his first months in office.      <style>
+      .cta.primary.yORnjfxUuF{
+      background: #cc0e0e !important;
+      color: #ffffff !important;
+      }
+      .cta.primary.yORnjfxUuF a:hover
+      {
+      color: #cc0e0e !important;
+      background: #ffffff !important;
+      }
+      </style>
+      <aside class="siderail__item full cta primary right article_action_right yORnjfxUuF">
+   <div class="item__content">
+            <h3>GET A DIGITAL SUBSCRIPTION 
+FOR JUST $9.50!
+</h3>
+            <a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**ARL" target="_blank" class="btn">Subscribe</a>   
+   </div>   
+</aside>
+ 
+
+										
+<p>The Koch brothers, as well as their associates John M. Olin, Joseph Coors, Richard DeVos, Richard Mellon Scaife, and others of the stratospheric rich, certainly pushed for a transformation of American politics between 1976 and the present, and they have gotten much of what they wanted. It would be absurd to deny that the rightward drift of “the possible” stems in some measure from the sheer power of money. And call it “dark money,” if you like, to suggest that it has sunk roots in illegal or insalubrious activity that is mostly hidden from public view. The influence of an entity like the Federalist Society—started by Olin money and later backed by the Koch and Scaife fortunes—has gone far to remove a thoughtful heterogeneity from the federal judiciary. But other things besides money contributed the thought germs and slogans that launched the Tea Party; and a conscientious journalistic imperative to follow the money may have led here to an unnecessarily exclusive emphasis on the financial sources of popular opinion and sentiment.		
+<p>You can dig up some pertinent and seldom-­advertised motives of the American rebels of 1776 by showing the extent of their mercantile investments and the size of their country estates; but if you treated pamphleteers like Daniel Dulany, Josiah Quincy, and Thomas Paine as merely useful tools or background players, a major element of the story would be missing. Those excited citizens thronging the stadium to imbibe the wisdom of Donald Trump in Florida or Ted Cruz in Wisconsin were heated to a pitch of participation by right-wing radio hosts, a force that has yet to be reckoned with by the left. Mayer alludes in passing to the talk-radio leaders, but she takes no serious account of their influence. Many reversals that have surprised the Democrats in the last seven years would not have surprised someone who listened to Rush Limbaugh, Sean Hannity, Glenn Beck, Mark Levin, or Michael Savage, and to the people who call their shows begging for political guidance. The Koch brothers may have paid for some buses, but Fox News and talk radio filled them with bodies.		
+<p>Mayer quotes John Judis on the new president’s indifference to the rise of the Tea Party during the late spring and early summer of 2009: “In an atmosphere primed for a populist backlash, he allowed the right wing to define the terms.” This is a fair criticism. The impunity of the banks and financial firms ranked high on the Tea Party’s early list of grievances, and while the radio hosts never clamored for the prosecution of Wall Street, they added their voices to the general outcry against the people who rigged the financial collapse. Obama’s posture of detachment in 2009 followed logically from his choice to cut himself loose from campaign-finance restrictions in 2008. His later attempts to define himself against Wall Street sounded as ungrateful as they were unconvincing. Mayer recalls, in this connection, Limbaugh’s attack on “porkulus”—his catchy nickname for the stimulus package, which called to mind the taxpayer bailout of too-big-to-fail financial firms, Obamacare’s delayed excise tax on “Cadillac” healthcare plans, the special deal cut with Senator Ben Nelson to secure his vote on the Affordable Care Act, and the excessively dignified pseudo-Roman airs that Limbaugh thought he could detect in the president. The talk-show host would soon turn Obamacare into a byword for the unwelcome attentions of the nanny state, and the nickname alone would do more to impede healthcare reform than any false rumor or argument. By the summer of 2009, the Tea Party was in full swing, subsidized by Koch money, but successful beyond the reach of their dollars.							<aside class="ad right most-popular-plus-ad grey_back">
+				<div id="ad-halfpage-212569-4" class="sailthru_class_form"></div>
+				<a href="http://www.thenation.com/advertising-policy" class="ad-policy" target="_blank">Ad Policy</a>
+			</aside>									<script type="text/javascript">
+									jQuery( document ).ready(function($) {
+									setTimeout(function(){call_ad('halfpage','ad-halfpage-212569-4','tn_politics_political_ideologies_ros_halfpage_2','tn_politics_political_ideologies_ros_halfpage_mobile_2',custom_targeting,key,values);}, 6000);
+										
+									});
+								</script>
+										
+<p align="center">* * *		
+<p>How big is the Tea Party? Borrowing an estimate from <em>The</em> <em>New York Times</em>, Mayer says that its strength at its height may have amounted to 18 percent of the electorate; yet the numbers seem to swell anytime a critical issue arises in connection with a grievance that bears a familiar name: immigration, abortion, gun rights. A fairer guess at the ceiling might be 30 percent. This significant minority is partly composed of Reagan Democrats or “angry white men” (as liberals like to call them), but it is also a surviving remnant of the anti–New Deal populism of the right. The beliefs that cement these people are ideological, in the most stubborn and intractable sense, and they do not think of themselves as fans or spectators. They are political activists and autodidacts; the radio is their department of political science; and they treat the hosts with the deference owed to a pastor or a professor, and the affection that belongs to a wise uncle or friend.		
+<p>The biggest Koch-supported lie against science asserts that global climate disruption is (a) greatly exaggerated, or (b) nothing but a hoax. Through radio above all, deployed as a pedagogic medium, climate-change denial has achieved an extraordinary acceptance in the United States. The GOP consultant Frank Luntz instigated this PR tactic when he advised the fossil-fuel interests not to “raise economic arguments first” but rather “continue to make the lack of scientific certainty a primary issue”; the brothers followed that lead and pitched in enthusiastically. One may venture that this, and not any political or economic scam, is the largest evil for which they are answerable, an evil that is catastrophic and will be impossible to atone for. The radio hosts read the Drudge Report and repeat the lie on every cold day of winter. Lost years in the life of the planet have been the consequence of the pandering to antiscientific prejudice and the spreading of contradiction by the billionaires.		
+<p><em>Dark Money</em>, which must have gone to the publisher in mid-2014, fails to predict the rise of Trump or anything like it. Who did? Still, the phenomenon argues against a Koch-centered view of the populist right. Trump was far from Charles Koch’s idea of a good candidate—Scott Walker or Paul Ryan would be closer to the mark—and the brothers have lately revealed that they would consider backing even Hillary Clinton over Trump. But Trump was a favorite golf partner of Limbaugh’s, who promoted his candidacy with a high good humor that has turned to serious advocacy­—and he was a lively and frequent interviewee for Hannity on the subject of Obama’s birth certificate. Mayer seems not to have noticed the huge hatred of the Republican establishment that was broadcast by the radio mentors of the Tea Party as far back as the Romney campaign of 2012. The GOP’s congressional leaders, Mitch McConnell and John Boehner, were alluded to as a kind of nerve-killing poison, almost as bad for freedom-loving Americans as the socialist Obama, and in one sense worse because they were enemies within the gates, unworthy inheritors of the legacy of President Reagan. The success of the revolt against Boehner as speaker of the House was celebrated on most of those same stations for many weeks after his retirement; and when Kevin McCarthy bowed out as Boehner’s replacement, and Ryan ascended in his place, there was an instant suspicion of foul play. What Fox News and talk radio sowed, Trump and Cruz have together reaped; but now the field is left to Trump alone.		
+<p>Could all this have been averted? Go back to John Judis’s remark on the decision by the White House, in the spring and summer of 2009, to remain silent in the face of Obama’s most aggressive opponents. The strategy was to concentrate all forces on healthcare and hope the bill would be shielded by a bipartisan aura. Many months were occupied in that futile undertaking, while the Tea Party’s numbers swelled. Its members demanded that their representatives come home and confront their grievances; they asked impolite and embarrassing (and in most cases ill-informed) questions at town halls; they went off on rants and disrupted meetings with sufficient ferocity for the police to be called in. The cost was paid in the 2010 midterm election by Democratic lawmakers who cast the hard vote for the Affordable Care Act in vulnerable constituencies.						<style>
+			.article-wrap .article-body aside.left.custom_background_212569			 {
+			 background:#5000b2 !important;
+			 }
+			 </style>
+				<aside class="left takeaction indent custom_background_212569">
+					<div class="action_tout_heading"><p>LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS</p></div>
+					<form action="" name="sailthru_action_tout_form" method="post">
+					<input type="email" name="email" id="take_action_sailthru_email_212569" class="take_action_sailthru_email" Placeholder="Enter Email">
+									<input type="hidden" name="take_action_sailthru_list_final" id="take_action_sailthru_list_final_212569" value="daily_tout,master,daily">
+					<div class="cta"><p>
+										<input type="button" class="take_action_sailthru_submit" name="submit_sailthru" value="SIGN UP!" onclick="add_action_tout_sailthru(212569)"></p></div>
+					</form>
+				<p id="action_tout_response_212569"></p>
+				</aside>
+				
+<p>All along, Obama showed a troubling innocence of the lineage of the Tea Party. As of August 2011, according to WhiteHouse.gov, he had spoken the words “Tea Party” only twice in speeches or press briefings; and the words that followed were invariably emollient. Thus, at a CNBC “town hall” on September 20, 2010:		
+<blockquote><p>I think that America has a noble tradition of being healthily skeptical about government. That’s in our DNA, right? I mean, we came in because the folks over on the other side of the Atlantic had been oppressing folks without giving them representation. And so we’ve always had a healthy skepticism about government. And I think that’s a good thing…. The problem that I’ve seen in the debate that’s been taking place and in some of these Tea Party events is I think they’re misidentifying sort of who the culprits are here.		</blockquote>
+<p>So all the tumult and mayhem were the result of a small misunderstanding; but who were the right culprits? Obama was coy and offered no explanation. A year and half into his presidency, he was building rhetorical bridges to a nonexistent opposite bank; and the process would continue well into 2014. The 2011 sequestration deal—an extortionate bargain signed to avoid the embarrassment of a debt default—shrank the federal budget across the board for the indefinite future. This was the largest of the Tea Party’s victories, and it followed the recipe laid down by Grover Norquist: Starve the government of funds, make it perform so badly that people resent it more than ever, and use the growing popular contempt for government to enact further cuts.		
+<p align="center">* * *		
+<p>Mayer concedes the inadequacy of the Obama approach, but she is charitable toward the underlying failure of perception. “As President Obama worked up his own budget proposal” in the spring of 2011, she writes, “he had no idea that some of the richest people in the country, with huge stakes in the outcome, were partly paying to shape and sell the Republican alternative.” How could the White House have “no idea” about the Koch brothers? Yet it does seem true that no one advising the president had pieced together the recklessness of talk radio, the breakup of town meetings that was front-page news all through the summer of 2009, and the organizations with new names like Americans for Prosperity and FreedomWorks. David Axelrod, Obama’s senior adviser, has confessed that in May 2010 he barely knew who the Koch brothers were. No one, in short, within a country mile of the White House was tasked with listening to right-wing talk radio for as much as three hours a week—an exercise that by itself would have set off an alarm.		
+<p>Now the scene has changed. The crowds and the billionaires are reading from different scripts, and a great many people are scrambling for cover. The annual World Forum of the American Enterprise Institute—convened on the weekend of March 5–6 in Sea Island, Georgia, and attended, according to a report by Ryan Grim, Nick Baumann, and Matt Fuller in The Huffington Post, by a remarkable group of political and media grandees, including Tim Cook, Arthur Sulzberger, Paul Ryan, and Bill Kristol—turned into a strategy convention on how to stop Donald Trump. Also among the attendees (and it makes a nice symmetry with Indian Wells in 2009) were several billionaires whose identities could only be guessed by the huddle of private planes.		
+<p>The government-assisted recovery from the collapse of 2008 sent the stock market to an all-time high by the spring of 2015, and unemployment has subsided again to a rate the experts call normal; but in the future, in America, people will be working less and at less satisfactory jobs than were promised by every president from Reagan to Obama. This fact, more than any other, accounts for the emergence of Trump on May 3 as the presumptive Republican nominee. None of our wars since 1945 has ended in victory, and none of the wars we fought or sponsored in the Gulf or the Middle East in the last three decades has met even the humblest definition of political success. A mere majority cannot be the sovereign of a free people—that is the sense of constitutional checks and limitations—but the people are never mistaken when they signal loudly that something is wrong. The notion, cherished by many liberals, that conservative populism is just hokum, that its train of believers are a fake procession in a counterfeit pageant, will be among the casualties of this election year. It is no good saying they are a bunch of rubes and rednecks, bought, sold, and scripted by their political betters. The billionaires do all the mischief they can, and Jane Mayer, in this brave and resourceful book, has numbered their abuses with admirable pertinacity, but they are only one of the forces “behind the rise of the radical right.” With the worst will in the world, a score of Kochs and Olins could never manufacture a motive for action without a prompting in the experience of the people who are called upon to act.		
+		</section>
+		 <section class="aside-wrap"></section>
+		<footer class="article-footer narrow">
+
+			   		<div class="footer-module comments">
+			<!-- Comments count function -->
+				<a class="click_comment" href="">0 Comments</a>
+			</div>
+						<div class="footer-module">
+				<ul class="article-share">
+					<li><a class="social-share fb" href="javascript:void(0)"><span>Facebook</span></a></li>
+					<li><a class="social-share tw" href="javascript:void(0)"><span>Twitter</span></a></li>
+					<li><a class="social-share email" href="javascript:void(0)"><span>Email</span></a></li>
+					<li><a class="social-share tn_print" href="javascript:void(0)" onclick="tn_print_fn()"><span>Print</span></a></li>
+				</ul>
+			</div>
+			<!--<div class="footer-module narrow supplemental-info">
+							</div>-->
+			
+			<div class="footer-module narrow author-bio">
+									<p><span><a href="http://www.thenation.com/authors/david-bromwich/"> David Bromwich</a>
+												</span> David Bromwich teaches English at Yale. His most recent book is
+<i>Skeptical Music: Essays on Modern Poetry</i> (Chicago).</em></p><br/>
+						</div>
+							<div class="footer-module narrow contact-us">
+					<p>To submit a correction for our consideration, click <a target=_blank href=/corrections>here.</a>										</p>
+					<p>For Reprints and Permissions, click <a target="_blank" href="http://www.thenationreprints.com/services/reprints/">here.</a></p>
+				</div>
+				
+			<div id="comments_212569" class="commentContainer" style="display:none">
+			<div id="comments" class="comments-area">
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/article/the-soul-of-the-tea-party/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">In order to comment, you must be logged in as a paid subscriber. <a href="#TB_inlinepcd_login?width=600&height=550&inlineId=login-content-id-pcd_login" class="thickbox comment_login_link"> Click here to log in</a> or subscribe.</p>												</div><!-- #respond -->
+						
+</div><!-- #comments -->			</div>
+					</footer>
+		<footer class="article-footer recirc-block">
+			<div class="footer-module full-width-mobile recirc-block">
+					<div class="recirc column" id="recirccol-212569">
+					<ul class="tag-browser">
+					 
+							<li><a name="conservatives-and-the-american-right" class="other" href="#">The Right</a></li>
+						 
+							<li><a name="tea-party" class="other" href="#">Tea Party</a></li>
+				 
+							<li><a name="books-and-the-arts" class="other" href="#">Books &amp; the Arts</a></li>
+										
+					</ul>
+					<div class="recirc-carousel" id="recirccar-212569">
+														<ul id="conservatives-and-the-american-right" class="article-list">
+																		<li>
+										<time>Yesterday 12:45 pm</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/donald-trump-has-played-the-man-card-his-whole-life/">Donald Trump Has Played the Man Card His Whole Life</a> <span class="author">
+																	By Joan Walsh																		</span></h2>
+									</li>
+																		<li>
+										<time>Yesterday 10:43 am</time>
+										<h2 class="title"><a href="http://www.thenation.com/article/to-beat-a-nasty-brutish-donald-trump-hillary-clinton-will-have-to-do-something-different/">To Beat a Nasty, Brutish Donald Trump, Hillary Clinton Will Have to Do Something Different</a> <span class="author">
+																	By Bruce Shapiro																		</span></h2>
+									</li>
+																	</ul>
+														<ul id="tea-party" class="article-list">
+														<li>
+								<time>Feb 02, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/dont-expect-ted-cruz-to-moderate-any-time-soon/">Don’t Expect Ted Cruz to Moderate Any Time Soon</a> <span class="author">									By George Zornick								</span></h2>
+							</li>
+														<li>
+								<time>Jan 22, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/ted-cruz-is-smart-disciplined-and-has-a-strategy-to-win/">Ted Cruz Is Smart, Disciplined, and Has a Strategy to Win</a> <span class="author">									By George Zornick								</span></h2>
+							</li>
+													</ul>
+												<ul id="books-and-the-arts" class="article-list">
+														<li>
+								<time>Yesterday 8:00 am</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/blues-for-murray/">A Blues for Albert Murray</a> <span class="author">									By Thomas Chatterton Williams								</span></h2>
+							</li>
+														<li>
+								<time>May 12, 2016</time>
+								<h2 class="title"><a href="http://www.thenation.com/article/the-anthropocene-truism/">The Anthropocene Truism</a> <span class="author">									By Katrina Forrester								</span></h2>
+							</li>
+													</ul>
+												
+					</div>
+				</div>
+				<style>
+.tout.footer.donate.aYmesziEut{
+background: #cc0e0e !important;
+}
+.tout.footer.donate p{color: #ffffff !important;}
+.tout.footer.donate .btn{
+   border:3px solid #ffffff !important;
+   color: #ffffff !important;
+   background: #cc0e0e !important;
+}
+.tout.footer.donate .btn:hover{
+   background:#ffffff !important;
+   color:#cc0e0e !important;
+}
+</style>
+<div class="tout footer donate column aYmesziEut">
+   <div class="donate-wrapper">
+             <p>“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+
+
+— ELIZABETH WARREN
+</p>
+            <div class="donate-grid"><a href="https://ssl.palmcoastd.com/06601/apps/ANNIVERSARY2?ikey=I**RR2" target="_blank" class="btn">Subscribe to The Nation</a></div>   </div>
+</div>
+							</div>
+		</footer>
+		</article>
+
+
+<script type="text/javascript">
+  //  googletag.cmd.push(function() {
+  //  googletag.defineSlot('/1004953/tn_article_leaderboard_2', [728, 90], 'div-gpt-ad-1428494597034-0').
+  //  setTargeting("test","infinitescroll").
+  //  addService(googletag.pubads());
+  //
+  // // Infinite scroll requires SRA
+  // googletag.pubads().enableSingleRequest();
+  //
+  // // Disable initial load, we will use refresh() to fetch ads.
+  // // Calling this function means that display() calls just
+  // // register the slot as ready, but do not fetch ads for it.
+  // googletag.pubads().disableInitialLoad();
+  //
+  // // Enable services
+  // googletag.enableServices();
+  //});
+    
+  
+ // Function to generate unique names for slots
+ var nextSlotId = 1;
+ function generateNextSlotName() {
+   var id = nextSlotId++;
+   return 'adslot' + id;
+ }
+	var nextSlotIdSide = 1;
+	function generateNextSlotNameSide() {
+	  var idSide = nextSlotIdSide++;
+	  return 'slotSide' + idSide;
+	}
+
+</script>
+	
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+   //googletag.display('div-gpt-ad-1428494597034-0');
+});
+</script>
+	 <div id="ad-interarticle"   class="ad full-width interarticle position-relative">
+		<a href="http://www.thenation.com/advertising-policy" class="top-ad-policy">Ad Policy</a>
+		<div id="div-gpt-ad-1428494597034-0"> 
+<!--     <script>
+        // Call display() to register the slot as ready
+        // and refresh() to fetch an ad.
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-1428494597034-0');
+          googletag.pubads().refresh();
+        });
+     </script> 
+--> </div>
+	</div>
+	 <!--<div id='div-gpt-ad-1428494597034-0' class="push ad full-width leaderboard"></div>-->
+	
+	<a class="inifiniteLoader"><img src="http://www.thenation.com/wp-content/themes/thenation/images/infi_loader.gif" /></a>
+	</div>
+					</div><!-- article wrap -->
+	<!--<a class="goTop" title="Scroll Top"><img src="http://www.thenation.com/wp-content/themes/thenation/images/scroll_arrow.png" /></a>-->
+<!-- Including  Body content image in gallery -->
+	<!-- Including  Body content image in  gallery -->
+	<script>
+	       function runSlider(ele)
+	    {   
+			 ele.bxSlider({
+  adaptiveHeight: true,
+ adaptiveHeightSpeed: 500,
+  infiniteLoop: false,
+  hideControlOnEnd: false,
+  pager: false
+});
+return false;
+		}
+
+	   
+		 jQuery(document).ready(function(){
+		 var flag = false;
+		 $('section.article-body img').each(function() {
+		   
+			 if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 {
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+             if(flag)
+			{
+			 runSlider($('.gallery-2'));
+			}
+	});
+	</script>
+	<script>	
+jQuery(document).ready(function(){
+  $e = $('.article-body').children().last();   
+   $t = $e.prop("tagName");
+   var tagsArray = ['FORM','ASIDE'];
+   var anothertagsArray = {'UL':'li','OL':'li','BLOCKQUOTE':'p'};
+   if(jQuery.inArray($t, tagsArray )!='-1')
+   {} 
+   else
+   {    
+      if($t in anothertagsArray)
+      {
+         $('.article-body > p:last-of-type').toggleClass('changed');
+         $e.find(anothertagsArray[$t]+':last').addClass('redotclass');         
+      }    
+   }
+});
+jQuery(document).ready(function(){
+$('figure').each(function(){
+    //this wrapped in jQuery will give us the current .letter-q div
+   if($(this).hasClass('alignright')||$(this).hasClass('alignleft') || $(this).hasClass('aligncenter'))
+   { 
+     $(this).after('<div class="clear"></div>');
+	}
+	});
+
+	//jQuery('.click_comment').click(function(){
+	//			console.log("called     "+'#comments_212569' );
+	//		$( '#comments_212569' ).toggle();
+	//		$('html, body').animate({
+	//			scrollTop: $('#comments_212569').offset().top
+	//		},2000);
+	//		return false;
+	//	});
+});
+</script>
+	<script>// Scroll IF # id exist in URL
+	jQuery(document).ready(function($){
+	var url_id = window.location.hash.substr(1);
+	if(url_id!='')
+	{
+	var s = url_id;
+	var n = s.indexOf('/');
+	if(n!=''&& typeof n!= 'undefined')
+	{
+		var id_var = s.substring(0, n != -1 ? n : s.length);
+		//alert(id_var);
+		
+				$('html, body').animate({
+					scrollTop: $('#'+id_var).offset().top
+				},2000);
+				return false;
+			
+		}
+	}
+	});
+	</script>
+	
+	<script type="text/javascript">
+/*script to handle Back Button Event */
+var pageChange = 1;
+jQuery.noConflict();
+if(window.attachEvent) {
+    window.attachEvent('onpopstate', datHash);
+}
+function datHash(event)
+{
+	//event.preventDefault();
+	var str = $('#goback').val();
+	if(str=='')
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	else
+	{
+	 window.history.go(-Math.abs(pageChange));
+	}
+	return false;
+}
+/*script to handle Back Button Event */
+
+</script>
+<!--Alternate Popup code start-->
+<!--Alternate Popup code End--> 
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+	$('.post-edit-link').attr('href', function( _, action){
+    return action.replace('https', 'http');
+});
+    });
+
+jQuery(document).ready(function($) {
+	
+//	(function(window, undefined) {
+//    // Define variables
+//    var History = window.History,
+//        State = History.getState();
+//
+//    // Bind statechange event
+//    History.Adapter.bind(window, 'statechange', function() {
+//        var State = History.getState();
+//    });
+//	})(window);
+	
+	$('a.inifiniteLoader').hide();
+	var count = 1;
+	var loagAgn = false;
+	/*Script to handle Article Load Ajax*/
+	function loadArticle(pageNumber){
+		$('a.inifiniteLoader').show('fast');
+		$.ajax({
+		    url: "http://www.thenation.com/wp-admin/admin-ajax.php",
+		    type:'POST',
+			cache: false,
+			dataType: 'json',
+		    data: {action:'infinite_scroll',page_no: pageNumber, loop_file: 'articleload',slug:'political-ideologies,conservatives-and-the-american-right',curr_post_id:'212569',baseInfo:'{"SERVER_SOFTWARE":"nginx\/1.8.1","REQUEST_URI":"\/article\/the-soul-of-the-tea-party\/","USER":"7e1000ca1a784ef2b65c2792cd59fa8d","HOME":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d","FCGI_ROLE":"RESPONDER","QUERY_STRING":"","REQUEST_METHOD":"GET","CONTENT_TYPE":"","CONTENT_LENGTH":"","SCRIPT_NAME":"\/index.php","DOCUMENT_URI":"\/index.php","DOCUMENT_ROOT":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/code","SERVER_PROTOCOL":"HTTP\/1.1","GATEWAY_INTERFACE":"CGI\/1.1","REMOTE_ADDR":"164.132.161.59","REMOTE_PORT":"30940","SERVER_ADDR":"10.223.145.182","SERVER_PORT":"11933","SERVER_NAME":"endpointa28bd986.chios.panth.io","REDIRECT_STATUS":"200","PATH_INFO":"","PATH_TRANSLATED":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/code","HTTPS":"OFF","SCRIPT_FILENAME":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/code\/\/index.php","HTTP_HOST":"www.thenation.com","HTTP_USER_AGENT":"Mozilla\/5.0 (compatible; AhrefsBot\/5.1; +http:\/\/ahrefs.com\/robot\/)","HTTP_ACCEPT":"*\/*","HTTP_ACCEPT_ENCODING":"gzip","HTTP_COOKIE":"has_js=1","HTTP_SURROGATE_CAPABILITY":"styx=\\\"ESI\/1.0\\\"","HTTP_USER_AGENT_HTTPS":"OFF","HTTP_VIA":"HTTP\/1.1 ECS (ory\/43CA)","HTTP_X_FORWARDED_FOR":"164.132.161.59, 5.104.67.202, 5.104.67.202","HTTP_X_FORWARDED_PROTO":"http","HTTP_X_HOST":"www.thenation.com","HTTP_X_PANTHEON_CLIENT_IP":"164.132.161.59","HTTP_X_PANTHEON_STYX":"1","HTTP_X_PROTO":"http:\/\/","HTTP_X_VARNISH":"704907369","PHP_SELF":"\/index.php","REQUEST_TIME_FLOAT":"1463486508.4827","REQUEST_TIME":"1463486508","PRESSFLOW_SETTINGS":"{\\\"conf\\\":{\\\"pressflow_smart_start\\\":true,\\\"pantheon_binding\\\":\\\"7e1000ca1a784ef2b65c2792cd59fa8d\\\",\\\"pantheon_site_uuid\\\":\\\"672ae238-dede-44f4-9243-89a591c2cc46\\\",\\\"pantheon_environment\\\":\\\"live\\\",\\\"pantheon_tier\\\":\\\"live\\\",\\\"pantheon_index_host\\\":\\\"18f9ce30-8984-49c6-a353-771e7a1a88ef-private.panth.io\\\",\\\"pantheon_index_port\\\":449,\\\"redis_client_host\\\":\\\"10.223.242.45\\\",\\\"redis_client_port\\\":10000,\\\"redis_client_password\\\":\\\"f7862bd887a04097b9c0c40dd322708a\\\",\\\"file_public_path\\\":\\\"sites\/default\/files\\\",\\\"file_private_path\\\":\\\"sites\/default\/files\/private\\\",\\\"file_directory_path\\\":\\\"sites\/default\/files\\\",\\\"file_temporary_path\\\":\\\"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/tmp\\\",\\\"file_directory_temp\\\":\\\"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/tmp\\\",\\\"css_gzip_compression\\\":false,\\\"js_gzip_compression\\\":false,\\\"page_compression\\\":false,\\\"error_level\\\":0},\\\"databases\\\":{\\\"default\\\":{\\\"default\\\":{\\\"host\\\":\\\"10.223.144.42\\\",\\\"port\\\":10000,\\\"username\\\":\\\"pantheon\\\",\\\"password\\\":\\\"b35cb8c7d81b4ff0a54a7af315773f96\\\",\\\"database\\\":\\\"pantheon\\\",\\\"driver\\\":\\\"mysql\\\"}}},\\\"drupal_hash_salt\\\":\\\"b444002d80740b3d94cc5e42e4945dbc224fd3134e65b580da60215ffe4c8bf3\\\",\\\"config_directory_name\\\":\\\"config\\\"}","FRAMEWORK":"wordpress","DOCROOT":"\/","FILEMOUNT":"wp-content\/uploads","AUTH_KEY":"VHpmJoHTr14kv2qyk4zD6NrSc3IqAUmZxtz0nUnwkNA=","SECURE_AUTH_KEY":"zuloHYH0e\/uwY8+VFQ\/rgob0NrMXhmIsg9ymhQ4uBTg=","LOGGED_IN_KEY":"2m+ff0Ly0rHeTX0y0XQjPbiJWgk2aCET7rTjb+zMW5c=","NONCE_KEY":"JMqPWPpuEU03WW4UaqSzKy1gkcWsavf\/LHKLgHKzusc=","AUTH_SALT":"Q7pT2rIMICgULXTEtMwYfknUKfI0Yaog3PBcoVMI7F8=","SECURE_AUTH_SALT":"a3AFHfpntT3bMHQ5x\/6oFBL2AUyT\/sRYoO2W8Zz5hws=","LOGGED_IN_SALT":"+gVdi3DCKSVclyPORyNbSyHp2Gx9F81RWiMAwMV3hGg=","NONCE_SALT":"JcwHG4IRUl\/DsS0Va2+Z15HXCQKQmnIsDS8mbPoP8w4=","CACHE_HOST":"10.223.242.45","CACHE_PORT":"10000","CACHE_PASSWORD":"f7862bd887a04097b9c0c40dd322708a","REPLICA_DB_HOST":"10.223.240.192","REPLICA_DB_PORT":"10000","REPLICA_DB_USER":"pantheon","REPLICA_DB_PASSWORD":"51bc58f755ba453a9c36b3f5794b3513","REPLICA_DB_NAME":"pantheon","DB_HOST":"10.223.144.42","DB_PORT":"10000","DB_USER":"pantheon","DB_PASSWORD":"b35cb8c7d81b4ff0a54a7af315773f96","DB_NAME":"pantheon","PANTHEON_INDEX_HOST":"10.223.96.36","PANTHEON_INDEX_PORT":"449","PANTHEON_SITE":"672ae238-dede-44f4-9243-89a591c2cc46","PANTHEON_SITE_NAME":"thenation","PANTHEON_ENVIRONMENT":"live","PANTHEON_INFRASTRUCTURE_ENVIRONMENT":"live","PATH":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/bin:\/usr\/local\/bin:\/bin:\/usr\/bin:\/srv\/bin","PHPRC":"\/srv\/bindings\/7e1000ca1a784ef2b65c2792cd59fa8d\/php.ini"}'},
+		    success: function(receivedHTML){
+			if (typeof receivedHTML == 'object') 
+			{
+				if(typeof receivedHTML.html!=='undefined' && receivedHTML.html!='')
+				{
+					html = receivedHTML.html;
+				}
+			}
+			else
+			{
+				$('a.inifiniteLoader').hide();
+				$("#single_article_footer").show();
+			}
+			//html = receivedHTML.html;
+			$('a.inifiniteLoader').hide('1000');
+			$("#wrap").append(html);    // This will be the div where our content will be loaded
+			var postID = $($.parseHTML(html)).filter(".scrolltrace").attr('article-post-id');
+			
+			$('.abody-'+postID).children('p:first-of-type').html(function (i, html) {
+if ($('.abody-'+postID).children('img').length == "0") {
+var text = $('.abody-'+postID).children('p:first-of-type').html();
+$('.abody-'+postID).children('p:first-of-type').html(text.replace(/^(<.?>)?([A-Za-z0-9])/g,'$1<span class="dropcap">$2</span>'));
+}
+});        
+	$('<section class="aside-wrap"></section>').insertAfter('.abody-' + postID);
+			/*for hiding meterpaywall popups when pixel ads call starts here*/
+			var hidePixelBool = false;
+			var meetkatstep1 = jQuery('#paywall .step.one');
+			var meetkatstep2 = jQuery('#paywall .step.two');
+			var meetkatstep3 = jQuery('#paywall .step.three');
+			var meetkatstep4 = jQuery('#paywall .step.four');
+			if (typeof meetkatstep1!='undefined' && meetkatstep1.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep2!='undefined' && meetkatstep2.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep3!='undefined' && meetkatstep3.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (typeof meetkatstep4!='undefined' && meetkatstep4.is(':visible'))
+			{
+			  hidePixelBool = true;
+			}
+			if (hidePixelBool===false) 
+			{		  
+				/*for hiding meterpaywall popups when pixel ads call ends here*/
+				/****Alternate Popup code start*********/
+				var enable_alterpopup_check;
+				enable_alterpopup_check ='';
+				if(typeof(enable_alterpopup_check) != "undefined" && enable_alterpopup_check == 1) 
+				{ 
+					var alternate_article_no;
+					alternate_article_no = '';
+					if(pageCounterPaywall % alternate_article_no == 0 && pageCounterPaywall!=0)
+					{
+						show_lightbox('','');
+					}
+				}
+				/******Alternate Popup code End********/
+			}
+			pageCounterPaywall++;
+			ajaxCarousel(postID);
+			/** Slider Content **/
+			var flag = false;
+			$('section.article-body:last img').each(function() {
+			if($(this).parent("a").parent("figure").hasClass('bx-item'))
+			 { 
+			  flag = true;
+			 }
+			 else
+			 {
+			 $(this).parent("a").addClass("gallery");
+			 }
+			 });
+
+			 if(flag){
+			var k = $('section.article-body:last').find('.gallery-2').bxSlider({
+				  adaptiveHeight: true,
+				 adaptiveHeightSpeed: 500,
+				  infiniteLoop: false,
+				  hideControlOnEnd: false,
+				  pager: false
+				});
+			 k.reloadSlider();
+			 }
+			 /* Slider Content End */
+			 
+			 
+			 var usera = navigator.userAgent.toLowerCase(); 
+				if ($('.article-page').length) { 
+				var slickWidth = $('.article-list.slick-slide').width(); 
+				if ($('.ie9').length) 
+				{ slickWidth = $('.recirc-carousel.slick-initialized.slick-slider').width(); } 
+				$('.slick-list.draggable').css( 
+				{'width' : slickWidth} 
+				); 
+				if (!/android|webos|iphone|ipad|ipod|blackberry/i.test(usera)) { 
+				$('.article-list.slick-slide').children('li').css( 
+				{'width' : slickWidth} 
+				); 
+				$('.slick-list').css( 
+				{'width' : slickWidth} 
+				); 
+				} 
+				} 
+			 var $newArticles = $(html);
+        var imagesLoading = [];
+
+        $newArticles.find('img').each(function() {
+          // For each image, create a new deferred object that resolves when the
+          // image has loaded and add that to an array of deferred objects.
+          var loadingImage = $.Deferred();
+          imagesLoading.push(loadingImage);
+
+          // "this" is the image element here and should have a complete property.
+          // See http://stackoverflow.com/a/24201249
+          if (this.complete) {
+            loadingImage.resolve();
+          } else {
+            var adTimeout = window.setTimeout(function() {
+              loadingImage.resolve();
+            }, 3000);
+            this.addEventListener('load', function() {
+              loadingImage.resolve();
+              window.clearTimeout(adTimeout);
+              // Clean up event listeners
+              this.removeEventListener('load');
+              this.removeEventListener('error');
+            });
+            this.addEventListener('error', function() {
+              // We really don't care if the image never loads, but we still need
+              // to resolve the promise so that we can reset the waypoints.
+              loadingImage.resolve();
+              window.clearTimeout(adTimeout);
+              // Clean up event listeners
+              this.removeEventListener('load');
+              this.removeEventListener('error');
+            });
+            // This conditional block could also maybe be simplifed to:
+            // $(this).one('load error', function() {
+            //  loadingImage.resolve();
+            // });
+			}
+		});
+		 $.when.apply(this, imagesLoading).then(function() {
+          // stickyAds();
+          fixedAds($('.postid-' + postID).children('article'));
+        }, function() {
+          console.log(arguments);
+        });
+      }
+    })
+	    return false;
+	}
+	
+
+	/*Script to handle Scroll*/
+	 $(window).bind('scroll', function() {
+		
+			$('.scrolltrace').each(function() {
+			   var post = $(this);
+			   var topp = post.position().top;
+			   var bott = post.position().top + post.height();
+			   var pos = $(window).scrollTop();
+			    if (pos>=topp && pos<=bott) {
+			       $(this).addClass('currentScr');
+			       if($('.currentScr').attr("articlelistlinks")!=window.location.href)
+				   {
+						var ua = window.navigator.userAgent;
+						var msie = ua.indexOf("MSIE ");
+
+						if (msie > 0){ 
+							
+						}else{
+								window.history.pushState({}, "", $('.currentScr').attr('articlelistlinks'));
+								load_article_ads();
+						}
+				   // Google Analytics  for Infinite Scroll
+					 ga('send', 'pageview', {
+								'page': $('.currentScr').attr('articlelistlinks'),
+								'title': $('.currentScr').attr('articlelisttitle')
+							});
+
+				    pSUPERFLY.virtualPage($('.currentScr').attr('articlelistlinks'), $('.currentScr').attr('articlelisttitle'));
+				$("nav.primary ul li.article-meta h2").html($('.currentScr').attr('articlelisttitle').substring(0,100));
+			       $("title").html($('.currentScr').attr('articlelisttitle'));
+						 
+						 
+						 var linktext = $('.currentScr').find(".anchor_subject").html();
+						 if (linktext!='') {
+						 var linkredirectval =$('.currentScr').find(".anchor_subject").attr('subjectlink');
+						 if(typeof linkredirectval!='undefined')
+						 {
+								var subject_head_link = "<a href='"+linkredirectval+"'>"+linktext+"</a>";
+								$('.tophead_subject').html(subject_head_link);
+						 }
+						 else
+						 {
+							 var subject_head_link = "";
+							$('.tophead_subject').html(subject_head_link);
+						 }
+							
+						 }
+			       
+			       pageChange = parseInt(pageChange) + 1;
+				   }
+				  
+				 }
+			   else
+			   {
+			       $(this).removeClass('currentScr');
+			   }
+		       });
+			
+		if ( typeof PaywallWorking !== 'undefined' && PaywallWorking == 'on' )
+     {
+        var loadPoint = false;
+        var loadPointElement = $('.scroll_handler:eq('+pageCounterPaywall+')').offset();        
+        if (typeof loadPointElement!=="undefined")
+        {
+           loadPoint = loadPointElement.top;
+        }
+     }
+     else
+     {
+        //var loadPoint = $('.footer-module .article-share:last').position().top; 
+        //var loadPoint = $('footer.recirc-block:last').position().top;	
+         var loadPoint = $('.article-header .article-share:last').offset().top;
+        //var loadPoint = $('section.article-body:last').position().top;
+     }
+	
+		if  (loadPoint!=false && $(window).scrollTop() > loadPoint)
+		{ if($('.scrolltrace').length==count)
+		  { { loagAgn = true;
+		      if(loagAgn)
+			  {
+			count++;
+		 if (count < 6) {
+			 if(preventLoad_article==false){
+								loadArticle(count);//code
+				
+				}		
+		 }
+		 if (count==6) {
+			$('a.inifiniteLoader').hide();
+			$("#single_article_footer").show();
+		 }
+		 loagAgn = false;
+			  }
+		   }
+		  
+		  }
+		}
+		
+//		 if($(this).scrollTop() > 100){
+//            $('.goTop').stop().animate({
+//                bottom: '20px'    
+//                }, 500);
+//        }
+//        else{
+//            $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//            }, 500);
+//        }
+	});
+	
+	/*Script to handle Scroll close*/	
+	 
+//	$('.goTop').click(function() {
+//        $('html, body').stop().animate({
+//           scrollTop: 0
+//        }, 500, function() {
+//           $('.goTop').stop().animate({
+//               bottom: '-100px'    
+//           }, 500);
+//        });
+//    });
+	
+	 // Script for Comment Sec
+	 $('body').on('click','.click_comment',function(event){
+	   event.preventDefault();
+	   $(this).closest('.article-footer').find('.commentContainer').slideToggle('slow', function() {
+         if ($(this).css('display')=='none') {
+           check_comment = false;//condition added for print
+         }
+         else{
+            check_comment = true;//condition added for print
+         }			
+		});
+		 $('html, body').animate({
+				scrollTop: $($(this).closest('.article-footer').find('.commentContainer')).offset().top
+			},2000);
+	 });
+	 
+	var list;
+	$('body').on('click','a.comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	var comment_link_respond = $(this);		
+	comment_link_respond.closest('.comment-form').find('.comment-status').html('');
+	list = $(this).closest('article').attr('id');
+
+	var PIDS = list.split('-');
+	$(this).closest('.comments-area').find('.comment-respond').find('#comment_parent').val(PIDS[PIDS.length-1]);
+	
+	});
+	
+	$('body').on('click','.cancel-comment-reply-link',function(event){
+	$( ".comment-status" ).remove();
+	list=null;
+	});
+	
+	
+	$('body').on('click','.submit',function(event){
+		event.preventDefault();
+		$( ".comment-status" ).remove();
+	var commentform=$(this).closest('.comment-form'); // find the comment  form
+	    commentform.prepend('<div class="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+        var statusdiv=commentform.find('.comment-status'); // define the infopanel
+				var checkspace = $(this).closest('.comment-form').find("textarea#comment").val();
+		if (checkspace.replace(/\s/g, '').length && $(this).closest('.comment-form').find("textarea#comment").val()!='') {
+			statusdiv.html(' ');
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Add a status message
+			//Extract action URL from commentform
+			var formurl=commentform.attr('action');
+			
+				statusdiv.html('<p>Processing...</p>');
+				 $(this).attr('disabled','disabled');
+				var e = $(this);
+				$.ajax({
+						type: 'post',
+						url: formurl,
+						data: formdata,
+					  error: function(XMLHttpRequest, textStatus, errorThrown)
+						{
+							statusdiv.html(' ');
+							 $('.submit').removeAttr('disabled');
+							statusdiv.html('<p class="error_cmnt" >You might have left one of the fields blank, or be posting too quickly</p>');
+						},
+						success: function(data, textStatus){
+							var chkstatus_comment = $($.parseHTML(data)).filter(".chk_comment_class").attr('comment-status');
+							
+								if (chkstatus_comment=='spam') {
+									statusdiv.html('<p class="error_cmnt" >You have been blocked from commenting by <i>The Nation\'s</i> moderators.</p>');
+								}
+								else{
+									$('.submit').removeAttr('disabled'); 
+									$("textarea#comment").val('');
+									statusdiv.html('<p class="success_cmnt" ></p>');
+									if(e.closest(".comments-area").has("ol.comment-list").length > 0){
+										if(list != null){
+											e.closest(".comments-area").find('#'+list).after(data);
+										}
+										else{
+											e.closest(".comments-area").find('ol.comment-list').prepend(data);
+										}
+									}
+									else{
+										e.closest(".comments-area").prepend('<ol class="comment-list custom_comments"> </ol>');
+										e.closest(".comments-area").find('ol.comment-list').html(data);
+									}
+							}
+						}
+						
+				});
+				return false;
+			statusdiv.html('');
+		}else{
+			statusdiv.html('<p class="error_cmnt" >Please enter text in comment box.</p>');
+		}
+        }); 
+});
+// Print functionality
+function tn_print_fn()
+{            
+    var tn_current_url=window.location.href;
+    if (check_comment == true) {
+       window.open(tn_current_url+'?print=1&comment=1','_blank');
+    }
+    else{
+       window.open(tn_current_url+'?print=1','_blank');
+    }
+    
+    return false;
+}
+</script>
+ 
+<script>
+function add_action_tout_sailthru(post_id)
+{
+ var ajaxurl=ajax_object.ajax_url;
+	var sailthru_email_take_action = document.getElementById('take_action_sailthru_email_'+post_id).value;
+	if(sailthru_email_take_action!='')
+	{
+			var take_action_sailthru_list_final = document.getElementById('take_action_sailthru_list_final_'+post_id).value;
+			var action_tout_sailthru='action_tout_sailthru';
+			jQuery.ajax({
+			url:ajaxurl,
+			type:"POST",
+			data:"sailthru_email_take_action="+sailthru_email_take_action+"&take_action_sailthru_list_final="+take_action_sailthru_list_final+"&action="+action_tout_sailthru,
+			success:function(data){
+			//alert(data);
+			document.getElementById('action_tout_response_'+post_id).innerHTML=data;
+			document.getElementById('take_action_sailthru_email_'+post_id).value='';
+			}
+			});
+	}
+	else
+	{
+	var error_msg='<span style="color:#cc0e0e">Please Enter Email</span>';
+	document.getElementById('action_tout_response_'+post_id).innerHTML=error_msg;
+	}
+}
+jQuery(document).ready(function(){
+jQuery( ".action_tout_remove_gallery a" ).removeClass( "gallery imgHover" ).delay( 1000 );
+});
+
+</script>
+
+  <div id="show_light_box">
+</div>
+	</div>
+	</div>
+	<div id="single_article_footer" style="display: none">	<footer class="push">
+	<div class="row">
+	<div class="sitemap small-12 columns">
+		<div class="block home">
+			<h1 class="logo">
+					<a href="http://www.thenation.com"><img src="http://www.thenation.com/wp-content/uploads/2015/07/d-logo-header.png" alt="The Nation"></a>
+				</h1>
+		</div>
+		<div class="block social">
+			<h2>Follow The Nation</h2>
+			<ul>
+				<li><a class="fb" href="https://www.facebook.com/TheNationMagazine" target="_blank"></a></li>
+				<li><a class="tw" href="https://twitter.com/thenation" target="_blank"></a></li>
+				<li><a class="rs" href="http://www.thenation.com/feed/?post_type=article" target="_blank"></a></li>
+			</ul>
+			<h2>Get Email Updates</h2>
+			<p>Stay connected with everything Nation by signing up for our free daily newsletter. </p>
+			<div class="newsletter-signup">
+					<input type="email" class="newsletter-signup__email" id="newsletter_email" name="newsletter_email" required="required" placeholder="Email address">
+					<input type="button" id="newsletter_submit" value="" class="newsletter-signup__submit" />
+			</div>
+			
+			<div id="subscribe_newsletter"></div>
+		</div>
+		<div class="">
+			<aside id="nav_menu-5" class="widget widget_nav_menu block nation nav"><h2  class="expander"><a href="#">Sections</a></h2><div class="menu-footer-sections-container"><ul id="menu-footer-sections" class="menu"><li id="menu-item-119851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119851"><a href="http://www.thenation.com/politics/">Politics</a></li>
+<li id="menu-item-119852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119852"><a href="http://www.thenation.com/world/">World</a></li>
+<li id="menu-item-119853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119853"><a href="http://www.thenation.com/economy/">Economy</a></li>
+<li id="menu-item-119850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119850"><a href="http://www.thenation.com/culture/">Culture</a></li>
+<li id="menu-item-115792" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-115792"><a href="http://www.thenation.com/subject/society/">Society</a></li>
+<li id="menu-item-116577" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-116577"><a href="http://www.thenation.com/subject/environment/">Environment</a></li>
+<li id="menu-item-119854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119854"><a href="http://www.thenation.com/take-action/">Take Action</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			   <aside id="nav_menu-4" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">The Nation</a></h2><div class="menu-footer-the-nation-container"><ul id="menu-footer-the-nation" class="menu"><li id="menu-item-116578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116578"><a title="About-us-and-contact" href="http://www.thenation.com/about-us-and-contact/">About</a></li>
+<li id="menu-item-178918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178918"><a href="http://www.thenation.com/advertise/">Advertise</a></li>
+<li id="menu-item-180633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180633"><a href="http://www.thenation.com/ebooks/">eBooks</a></li>
+<li id="menu-item-116581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116581"><a href="http://www.thenation.com/community-guidelines/">Comments Policy</a></li>
+<li id="menu-item-131108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131108"><a href="http://www.thenation.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-116583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116583"><a href="http://www.thenation.com/help/">Help</a></li>
+<li id="menu-item-178899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178899"><a href="http://www.thenation.com/jobs/">Jobs and Internships</a></li>
+<li id="menu-item-134910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134910"><a href="http://www.thenation.com/nation-builders/">Nation Builders</a></li>
+<li id="menu-item-179840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179840"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
+</ul></div></aside>		</div>
+		<div class="">
+			  <aside id="nav_menu-3" class="widget widget_nav_menu block nation nav"><h2 class="expander"><a href="#">Magazine</a></h2><div class="menu-footer-magazine-container"><ul id="menu-footer-magazine" class="menu"><li id="menu-item-134664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134664"><a href="http://www.thenation.com/issue/">Current Issue</a></li>
+<li id="menu-item-134728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134728"><a href="http://www.thenation.com/masthead/">Masthead</a></li>
+<li id="menu-item-116587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116587"><a href="http://www.thenation.com/archive/">Archive</a></li>
+<li id="menu-item-134846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134846"><a href="https://donate.thenation.com/responsive-pages/5_122014_hompage">Donate</a></li>
+<li id="menu-item-134847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134847"><a href="https://ssl.palmcoastd.com/06601/apps/ORDOPTION1LANDING?ikey=I**TOO">Subscribe</a></li>
+<li id="menu-item-134727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134727"><a href="http://www.thenation.com/subscription-services/">Subscription Services</a></li>
+<li id="menu-item-134733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134733"><a href="http://www.thenation.com/events/">Events</a></li>
+<li id="menu-item-179839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179839"><a href="http://www.thenationreprints.com/">Reprints</a></li>
+</ul></div></div></aside>		</div>
+	</div>
+		<div class="copyright row">
+		<div class="small-12 columns">
+			<p>Copyright (c) 2016 The Nation Company LLC</p>
+		</div>
+	</div>
+	</footer>
+</div>
+
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://www.thenation.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script src='http://www.thenation.com/wp-content/plugins/tn-paywall/inc/js/paywall.js'></script><link rel='stylesheet' id='dashicons-css'  href='http://www.thenation.com/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.thenation.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thenation.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.thenation.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/Magzine_issue_ajax.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/light_box.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/all.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/javascripts/modernizr.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/comments_js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.thenation.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thenation.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.thenation.com/wp-content/themes/thenation/js/pcd_login_popup.js?ver=4.2.4'></script>
+<script>
+function susbcribe_sailthru(form_value){        
+   var newsletterArray = new Array();var firstname ='';var lastname ='';var zippostal ='';var user_email ='';
+   jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         firstname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         lastname = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         zippostal = jQuery(this).val();
+      }
+      if (jQuery(this).attr("id")=="email") {
+         user_email = jQuery(this).val();
+      }     
+   });
+   
+   jQuery(form_value).closest("form").find("input[name^='sft_newssletter_variables']").each(function() {
+      newsletterArray.push(jQuery(this).attr("id"));         
+   });      
+   var newsletter_variable=newsletterArray.join(",");
+   var origin_host=document.location.origin;
+  // console.log(firstname);
+   //console.log(lastname);
+  // console.log(zippostal);
+   //console.log(user_email);
+  //myWindow= window.open(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,"form_popup","width=400,height=400");
+ PopupCenter(origin_host+"/submit.php?form_value_fname_val="+firstname+"&form_value_lname_val="+lastname+"&form_value_zip_val="+zippostal+"&form_value_email_val="+user_email+"&email_newsletter="+newsletter_variable,'xtf','300','300');
+   //console.log(newsletterArray.join(","));
+  jQuery(form_value).closest("form").find("input[name^='sft_variables']").each(function() {
+      if (jQuery(this).attr("id")=="first_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="last_name") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="zip_postal-code") {
+         jQuery(this).val('');
+      }
+      if (jQuery(this).attr("id")=="email") {
+         jQuery(this).val('');
+      }     
+   });
+}  
+function PopupCenter(url, title, w, h) {
+    // Fixes dual-screen position                         Most browsers      Firefox
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    // Puts focus on the newWindow
+    if (window.focus) {
+        newWindow.focus();
+    }
+	setTimeout(function () { newWindow.close();}, 5000);
+}
+
+</script>
+<script type="text/javascript"  src="http://www.thenation.com/wp-content/themes/thenation/js/jquery.bxslider.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"442438c9d9","applicationID":"5436353","transactionName":"Z1JSYkYACEsAV0cKXV4YZURdTklRD1BWGxxAX0A=","queueTime":0,"applicationTime":1258,"ttGuid":"","agentToken":"","atts":"SxVRFA4aG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

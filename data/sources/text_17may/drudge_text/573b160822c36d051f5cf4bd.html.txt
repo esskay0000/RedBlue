@@ -1,0 +1,148 @@
+How innovative businesses are using the cloud and big data to stay in sync.
+
+Some of Some of the most innovative minds in design. most innovative minds in design.
+
+Industry leaders offer a glimpse of their lives outside of the office.
+
+Insights from successful entrepreneurs on the go.
+
+Not your typical tired start up advice.
+
+Brands that are changing the marketing landscape and how we think about advertising.
+
+14 of the most important trends, theories, and inventions in the year to come.
+
+A snapshot of the range and depth of creativity across our business landscape.
+
+Unconventional advice, tips, habits, and hacks from the most creative people in business.
+
+What our Most Creative People in Business are loving now.
+
+Uncovering the year's most inspiring design solutions.
+
+If there's a professional problem you can't solve, ask the experts for their advice.
+
+Up-And-Coming Designers Share Innovative Problem-Solving Ideas.
+
+The personalities driving the world's most radical, disruptive, and creative companies.
+
+Responsible business practices through data-rich graphics and stories.
+
+Highlighting the clever and covetable products that designers are putting on the market.
+
+The way we pay today %u2030Ã¯Â¿Â½Ã¯Â¿Â½ and tomorrow %u2030Ã¯Â¿Â½Ã¯Â¿Â½ and the brands driving our digital future.
+
+Welcome to the sensor revolution.
+
+A reader's essential source for breaking news and innovation from around the web.
+
+The apps, tactics, tips, and brain hacks to help you work smarter instead of harder.
+
+Uncovering the year's most inspiring design solutions.
+
+How to arrange your workday -- and your life -- for maximum creativity and productivity.
+
+The stumbling blocks that some of our Most Innovative Companies have faced on their journeys to success and what they learned along the way.
+
+The newest products and services from the biggest names in technology.
+
+Weâll come to you.
+
+ Turns out Facebook Live seems to only work for BuzzFeed when they&apos;re exploding a watermelon. Legal editor Chris Geidner&apos;s chat with the president, not so much. 
+
+The chat was supposed to be the president&apos;s first on Facebook Live, but the stream failed. However, it could still be watched live on YouTube. Commenters were understandably concerned, with one astutely observing, "Looks like it&apos;s not working, just like the Senate."
+
+Facebook Live 0, YouTube 1. CD
+
+At Miami International Airport, officials are preparing for the legalization of ride-hailing apps in the city with special zones for Lyft and Uber passenger pick-up. The zones are one way that airports have dealt with the influx of often semi-legal taxis: Sydney airport  has plans to open a ride-sharing pickup zone next month, but it will charge drivers $4 to enter. And Chicago established ride-sharing pickup zones in November to help relieve holiday travel traffic. SK
+
+To celebrate the International Space Station&apos;s 100,000th orbit around the earth, NASA has teamed up with Snapchat to let you see what 24 hours is like on the ISS, reports TheNextWeb. For the next day check out NASA&apos;s Snapchat account and you&apos;ll be able to see NASA astronauts doing fun stuff in zero G, view awesome images of the earth, and see exactly what those astronauts eat in space.Image credit: NASA/Snapchat MG
+
+The new study was conducted by PricewaterhouseCoopers on behalf of Facebook, reports the Guardian. It concluded that almost $7 trillion would be added to the global economy and 500 million people would be lifted out of poverty after five years if all of the planet&apos;s remaining 4.1 billion people currently without Internet access got access to it. Surprisingly, the report found that the primary barrier isn&apos;t infrastructure—it&apos;s cost. Even most developing countries already have networks in place that would support Internet access for their entire populations, but the cost of that access keeps people offline. The report says that for 66% of the world Internet access is unaffordable; on average a 500MB data plan costs more than 5% of a person&apos;s monthly income. MG
+
+The $1.36 million cyber-heist attempted on the Tien Phong Bank in Vietnam via the SWIFT network was supposed to see the stolen funds land in an unnamed Slovenian bank, Reuters reports. SWIFT is the global financial system that allows for easy fund transfers between banks. Though a top central bank official revealed the destination of the heist was a Slovenian bank, they did not speculate on the nationality of the hackers involved or how many accounts were listed as recipients. MG
+
+Apple&apos;s CEO landed in Beijing yesterday at the start of a trip that is primarily aimed at improving relations with the Chinese government, reports the Wall Street Journal. Cook tweeted the first step of his journey by hailing a Didi Chuxing cab in the city. Apple recently invested $1 billion in the Chinese Uber competitor. Recently China&apos;s regulators blocked the iTunes Movies and iBooks stores in the country and Apple saw its Q2 year-over-year sales in Greater China fall by 26%.
+
+Cook&apos;s tour also includes visiting Apple stores and meeting with Chinese developers, some of whom he addressed on Monday, saying: "My message to all of you today and to all of the developers who are not here is, we are happy to work with you. We are proud to work with you. We are humble to work with you."
+
+"Taxi!" Caught a cab in Beijing this morning with Didi Chuxing&apos;s Jean Liu. pic.twitter.com/Sl2xnzXtNY— Tim Cook (@tim_cook) May 16, 2016 
+
+"Taxi!" Caught a cab in Beijing this morning with Didi Chuxing&apos;s Jean Liu. pic.twitter.com/Sl2xnzXtNY
+
+Makers, rejoice! The credit-card-sized DIY computing board just got its first major upgrade since launching in November: a camera connector. The addition of this feature means makers will be able to build devices like rudimentary GoPro clones or home security cameras. Best of all, the Raspberry Pi Zero still costs the same price: Only $5.
+
+
+
+Image credit: Raspberry Pi MG
+
+A new report from Blanco Technology Group has found that Android devices have a 44% failure rate—that is, how often a device crashes or freezes. Devices that run iOS, such as iPhones and iPads, on the other hand, have only a 25% failure rate. Among the report&apos;s other findings:
+
+• The Samsung Galaxy S6, Samsung Galaxy S5 and Lenovo K3 Note had the highest failure rates among Android devices that crashed
+
+• Device failure rates were significantly higher in Asia at 55%. This could be due to there being more OEMs in Asia than in the West. Devices in Europe had a 35% failure rate and in North America had a 27% failure rate
+
+• App crashes were detected on 74% of Android devices
+
+• Out of the different models of iPhones, the iPhone 6 and iPhone 5s models had the highest failure rates (25% and 17%, respectively) MG
+
+If Google&apos;s driverless car project fulfills its wild ambitions, it&apos;ll change everyday life in a way that few technologies ever have. Otto, a new San Francisco startup founded by some folks who were formerly part of Google&apos;s effort—and staffed with alumni of Apple, Tesla, and other companies—is tackling a challenge that&apos;s a tad more specific: It&apos;s developing tech to let trucks drive themselves. The company, which was formed in January and is officially unveiling itself today, has already been testing modified Volvo trucks on public roads.
+
+By focusing on trucks and the U.S.&apos;s 222,000 miles of highways, Otto doesn&apos;t need to think as much about oncoming traffic, pedestrians, cyclists, and other facts of life which are unavoidable if you&apos;re trying to teach an automobile to drive itself on surface roads.
+
+
+
+Cofounder Anthony Levandowski told me that Otto&apos;s goal isn&apos;t to render human truck drivers obsolete but rather to help owner-operators make more money by allowing them to safely keep their vehicles on the road far longer than would be possible if they were behind the wheel 100% of the time. "We could make their lives a lot better by allowing them to be more of a navigator than a skipper, in a marine sense of the term," he says. HM
+
+Twitter, which has been under fire for some time over its lack of executive diversity, announced today that BET chair and CEO Debra Lee has joined its board. 
+
+Dorsey has previously said Twitter intends to bring on people who will better represent the diversity of its user base. As a Pew study revealed last year, 28% of black Internet users are on Twitter—and the same goes for Hispanic users. Amongst white Internet users, that figure is just 20%. 
+
+More additions to the board soon, ones that will bring diversity and represent the strong communities on Twitter. This matters & is a must.— Jack (@jack) April 8, 2016
+
+More additions to the board soon, ones that will bring diversity and represent the strong communities on Twitter. This matters & is a must.
+
+
+
+While the company announced two new members—one of whom was a woman—last month, both were still white. Lee is the first African-American person to be appointed to Twitter&apos;s board. 
+
+Read more about Twitter&apos;s board and the company&apos;s ongoing diversity issues. CW
+
+Longtime journalist Gary Schwitzer believes that reporters aren&apos;t thinking critically enough when writing about scientific research — and that&apos;s a big problem. In an interview with KQED&apos;s Future of You blog, Schwitzer shares some salient advice:
+
+We treat anything published in a journal as if it&apos;s from Moses coming down the mountaintop with a set of stone tablets. Journals were never meant to be sources for the 24-hour news cycle — they are meant to be a forum for discussion among scientists.
+
+Schwitzer recently consulted John Oliver on the topic for Last Week Tonight. 
+
+ CF
+
+Welcome @IamDebraLee, @BET chair and CEO, to the @twitter board!— Omid Kordestani (@omidkordestani) May 16, 2016
+
+Welcome @IamDebraLee, @BET chair and CEO, to the @twitter board!
+
+
+
+Thrilled to be joining the @twitter board. It&apos;s transformed the media and the world like few other things in history (and continues to)!!— Debra Lee (@IamDebraLee) May 16, 2016
+
+Thrilled to be joining the @twitter board. It&apos;s transformed the media and the world like few other things in history (and continues to)!!
+
+ PM
+
+After announcing his new app-based to-go restaurant, Ando, in a Fast Company story earlier this year, superstar chef David Chang opened the business today, with a menu that includes a box of fried chicken and a brutally filling chicken cheesesteak that Chang told us is "maybe the most dangerous thing I&apos;ve eaten all year." (Fear not, eat-at-your-desk office workers: the irresistibly drippy cheesesteaks come with a free bib.) The Ando app is now available via iTunes. 
+
+Your day just got a whole lot more delicious—but only if you fit these three criteria:
+
+1. You live or work in east midtown in New York City.
+
+2. You were savvy enough to sign up for early access. 
+
+3. You&apos;re really, really hungry. 
+
+If you didn&apos;t get a code, you can sign up for the waiting list here.  RB
+
+Fast Company & Inc Â©  Mansueto Ventures, LLC
+                                
+
+
+
+

@@ -1,0 +1,58 @@
+Since July, more than 20 million Facebook users added posts, comments and other messages about this week's elections. The social media company analyzed the data, placed the messages into categories and shared the findings with The Wall Street Journal. These maps show several of those categories by congressional district, with darker shades representing proportionally more discussion. Search the maps to find your city or state. Read more about the data.
+
+In analyzing the data, Facebook gathered 150 million mentions of the midterm elections and than classified posts and comments into topic categories based on the keywords people used when talking about politics. The company created more than a dozen topic categories (economy, immigration, health care, etc.), and then calculated the percentage of midterm politics discussion devoted to each category. There is some overlap between topics, and the data distribution is different depending on the topic, so each map should be viewed independently. 
+
+In the above map, it's clear jobs, employment and economic security are important to Facebook users in Wisconsin, where incumbent Gov. Scott Walker, a Republican, has made the issue part of his campaign against challenger Mary Burke, the Democrat. The Facebook data are mapped by congressional district, rather than state, to add some granularity. It's clear the issue has been discussed statewide across all districts. 
+
+The issue was also more common in Colorado's 5th congressional district, held by Rep. Doug Lamborn, a Republican. The district is listed by the Cook Political Report as the state's most conservative. There's also a tight race statewide between Democratic U.S. Sen. Mark Udall and challenger Cory Gardner, a Republican.
+
+This map above shows messages related to a category Facebook called "economic equality and mobility." These are issues such as social welfare, poverty, minimum wage and the wealthiest Americans, or the "one percent". This seems to be a popular topic in Rust Belt states and some Northeastern districts that have seen manufacturing declines over the years.
+
+The partisan split among the top 100 districts for this topic is almost even - 47 are represented by Republicans and 53 Democrats - but there is a noticeable difference on seats that are in play. 
+
+The vast majority of those Republicans are safe; only two are rated as toss-ups by the Cook Political Report. Nine of the 53 Democratic-represented districts are rated as tossups or leaner toward one party or the other by Cook. And a number of them could be characterized as white working class districts as defined in a recent Wall Street Journal story about the Democratic Partyâs struggles in those kinds of places, including West Virginiaâs third district, Illinoisâ seventeenth and twelfth districts and Minnesotaâs eighth.
+
+The fact the economic equality and mobility was a big topic in those districts suggests that Democrats probably had people talking about an issue they wanted. Tuesdayâs results will tell whether that made a difference.
+
+Going into the 2014 campaign, many believed that immigration would play a pivotal role in races across the country, perhaps giving Democrats an issue to drive turnout in some places.
+
+On the whole, the data from Facebook suggest immigration has not dominated the online discussion in any district, but there is a set of 45 districts where it made up at least 10% of the conversation. Those districts are overwhelmingly represented by Republicans, 34 of them, and they are based heavily in border states â 29 of them are in Texas, Arizona or California.
+
+Looking at those districts, the Facebook data suggest that immigration does not appear to be a big issue where races are close. Only two of the 45 districts, are rated as âleanersâ or âtossupsâ by the Cook Political Report â the first and second districts in Arizona, both represented by Democrats.
+
+In the case of those two districts, the non-Hispanic white population makes up more than 50% of the total.  They are, in other words, districts where the immigration issue may be particularly contentious and possibly not positive for Democratic candidates.
+
+In the other nine Democratic districts where immigration made up more than 10% of the Facebook talk, the non-Hispanic white population was 32% or less. In other words, immigration may have been big topic in them, but they are full of Hispanic populations that were already leaning heavily Democratic.
+
+The Facebook data show how news can have an impact on the conversation about immigration. Note the high concentration of immigration chatter in districts in Alabama and Tennessee that are far from the Mexican border where the Hispanic population is not large.
+
+In both states, the immigration issue may be Hispanic farm workers. The issue made an appearance in a recent senatorial debate in Tennessee, and in Alabama the toughest provisions of a law aimed to make it harder for undocumented immigrants to come to the state were voided.
+
+Meanwhile, the four districts with the least chatter about immigration were in Wisconsin, where talk of âthe borderâ is more likely to be about Canada than Mexico.
+
+The political talk about energy and the environment on Facebook may be most notable for where it isnât. There are no House districts in Texas or Louisiana (big energy producing states) where those topics even made up 6% of the Facebook political conversations.
+
+In Facebookâs analysis, energy and environment conversations concerned topics such as âclimate change, fracking, renewable energy.â Yet, the map above shows the topic largely missed areas where energy extraction is a big or contentious issue. The distribution is more scattershot â more about specific energy related issues or candidates.
+
+For instance, the top district for energy and environment discussions is New Yorkâs sixth district in Queens, which sits far from big oil and gas territory. And large-scale energy or environmental policy may not be driving all that conversation as much as  a massive power cable that is slated to run between Quebec and Queens.
+
+There are a few places where the chatter seems more tied to larger energy/environment debate. In Colorado where oil and gas production is a big business, the Facebook conversations had a greater focus on energy and environment. That increased interest was noticeable in the stateâs third and fourth districts and particularly in the second, which sits in northern Colorado near very productive oil territory.
+
+And if you look a slightly longer list â the top 100 districts for energy and environment chatter on Facebook â some more obvious places appear, including North Dakota (where an energy boom has fundamentally changed the eastern part of the state) and Pennsylvaniaâs third, fifth and twelfth districts (where much fracking has been a big topic) and West Virginiaâs first and second districts (coal country).
+
+But if you look at the other end of the list, bottom 100 House districts for energy/environment political talk on Facebook, more than a quarter, 26, are in Texas and many in major energy producing areas.
+
+For the last several elections, the gender gap has become more pronounced in American politics with women growing increasingly likely to vote for Democratic candidates. In 2014, Democrats again focused on what are loosely described as womenâs issues with the hope of turning out that crucial part of their base. This map looks at conversation on Facebook related to womenâs issues, in terms of discussion around contraception, gender inequality and the âwar on women.â While not dominant in terms of driving overall conversation â it made up less than 4% of the conversation in every district â the data highlights that womenâs issues are a topic in key Senate races this year. 
+
+Candidates in both parties in three tight Senate races â Iowa, New Hampshire and Colorado â have spent time courting women voters. Half of the top ten districts with the largest conversation on womenâs issues are In Colorado, which is also significant because Colorado only has seven districts. Voters in the state will decide on Amendment 67, would include fetuses in the definition of "human" and "child" under the state's criminal code. Opponents call the âpersonhoodâ measure anti-abortion, while supporters say it allows for the state to prosecute crimes that result in the miscarriage of a fetus. The stateâs tight Senate race has been full of conversation about birth control and the amendment. Republican Senate candidate Cory Gardner, who has faced a constant assault around womenâs issues from incumbent Sen. Mark Udall, made headlines when he said he supported over-the-counter birth control â something Planned Parenthood decried as an âempty gesture.â This week, NARAL Pro-Choice Colorado started airing an ad telling voters to âstock up on condoms,â saying it will be harder to access if Mr. Gardner is elected.
+
+In New Hampshire, the topic is popular in both of the stateâs two districts. Notable women like Hillary Clinton and Sen. Elizabeth Warren have campaigned for Democratic incumbent Jeanne Shaheen, targeting women voters. Both Shaheen and her Republican opponent Scott Brown say they support abortion rights.
+
+A year ago, the Affordable Care Act was the focus of the government shutdown â and incumbents already looking ahead toward Election Day, pointed fingers and dodged attacks about the controversial law. Now, with Election Day just a few days away, the data from Facebook suggests that health care wonât be a voter priority. This may be because in a recent Pew Research poll, neither party was named as the best to deal with health care in the U.S.
+
+That isnât stopping Republicans from bringing it up in the election. According to a study by the Cook Political Report, Republicans are outnumbering Democrats on health-care messaging by 10:1. Facebook users may be hearing those messages and reacting to it. In the top ten districts with the most health-care conversation, seven are Republican.
+
+The district with the highest amount of health care-related chatter on social media â at 7.5% of the stateâs political conversation â is in Arkansas. In the tight Senate race, Arkansas incumbent Sen. Mark Pryor is a rare Democrat whoâs run an ad touting provisions in the health law, though he doesnât name it. In that district in particular, Republican Rep. Steve Womack, who was first elected in 2010 after running primarily against the Affordable Care Act, is running a race with no Democratic challenger.
+
+Several of the top districts talking about health care are in Florida, where the stateâs gubernatorial race is tight and Democratic challenger Charlie Crist has attacked Republicans for refusing to expand Medicaid under the federal health law.
+
