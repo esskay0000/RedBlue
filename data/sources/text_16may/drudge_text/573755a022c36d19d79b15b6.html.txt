@@ -1,0 +1,103 @@
+jQuery(function(){jQuery("#lbg_audio4_html5_shoutcast_2").audio4_html5({skin:"whiteControllers",playerWidth:500,responsive:true,initialVolume:0.5,autoPlay:false,volumeOffColor:"#dadada",volumeOnColor:"#FFFFFF",songTitleColor:"#000000",radioStationColor:"#000000",frameBehindPlayerColor:"#000000",imageBorderWidth:4,imageBorderColor:"#000000",showVolume:true,showRadioStation:false,showTitle:false,showNextPrevBut:true,autoHidePlayButton:true,showFacebookBut:false,facebookAppID:"",facebookShareTitle:"HTML5 Radio Player With Playlist - Shoutcast and Icecast",facebookShareDescription:"A top-notch responsive HTML5 Radio Player compatible with all major browsers and mobile devices.",showTwitterBut:false,beneathTitleBackgroundColor_VisiblePlaylist:"#c55151",beneathTitleBackgroundOpacity_VisiblePlaylist:100,beneathTitleBackgroundColor_HiddenPlaylist:"#c55151",beneathTitleBackgroundOpacity_HiddenPlaylist:100,beneathTitleBackgroundBorderColor:"#000000",beneathTitleBackgroundBorderWidth:3,translateRadioStation:"Radio Station: ",translateSongTitle:"Now Playing: ",translateReadingData:"reading data...",translateAllRadioStations:"ALL RADIO STATIONS",showPlaylistBut:true,showPlaylist:true,showPlaylistOnInit:true,playlistTopPos:6,playlistBgColor:"#c55151",playlistRecordBgOffColor:"#000000",playlistRecordBgOnColor:"#00000",playlistRecordBottomBorderOffColor:"#333333",playlistRecordBottomBorderOnColor:"#4d4d4d",playlistRecordTextOffColor:"#777777",playlistRecordTextOnColor:"#00b4f9",categoryRecordBgOffColor:"#000000",categoryRecordBgOnColor:"#252525",categoryRecordBottomBorderOffColor:"#2f2f2f",categoryRecordBottomBorderOnColor:"#2f2f2f",categoryRecordTextOffColor:"#777777",categoryRecordTextOnColor:"#00b4f9",numberOfThumbsPerScreen:7,playlistPadding:18,firstCateg:"ALL RADIO STATIONS",showCategories:true,selectedCategBg:"#000000",selectedCategOffColor:"#FFFFFF",selectedCategOnColor:"#00b4f9",selectedCategMarginBottom:12,showSearchArea:true,searchAreaBg:"#000000",searchInputText:"search...",searchInputBg:"#ffffff",searchInputBorderColor:"#333333",searchInputTextColor:"#333333",showPlaylistNumber:true,pathToAjaxFiles:"http://hw.infowars.com/wp-content/plugins/lbg-audio4-html5-shoutcast/audio4_html5/",nowPlayingInterval:15,grabLastFmPhoto:false,noImageAvailable:"/wp-content/plugins/lbg-audio4-html5-shoutcast/audio4_html5/noimageavailable.jpg"});});  http://stream-mp3.infowars.com:80/;              No HTML5 audio playback capabilities for this browser. Use Chrome Browser!  
+
+Over the last several years we have documented with clockwork regularity Venezuela’s collapse into failed state status, which was cemented several weeks ago when news hit that “Venezuela had officially run out of money to print new money.”Â  At that point the best one could do was merely to step back and watch as local society and civilization turned on itself, unleashing what would ultimately turn into Venezuela’s own, sad apocalypse.
+
+Last night we showed what Caracas, looks like this week:
+
+
+
+As we wrote then these are simply hungry Venezuelans protesting that their children are dying from lack of food and medicine and that they do not have enough water or electricity. As AgainstCronyCapitalism added, this is a country with more oil than Saudi Arabia, and the government has stolen all the money and now they bottleneck peaceful protesters and threaten them with bombs (or haul them to prison and torture them).
+
+As pure desperation has set in, crime has becomes inevitable. A man accused of mugging people in the streets of Caracas was surrounded by a mob of onlookers, beaten and set on fire, who published a pixeled-out but still graphic video of the man burning as mob justice is now the supreme arbiter of who lives and who dies:
+
+“Roberto Fuentes Bernal, 42, was reportedly caught trying to mug passersby in the Venezuelan capital, and before police arrived at the scene, the crowd took the law into their own hands.” The video can be seen here.
+
+Now, in the latest shocking development, Venezuela saw a new wave of looting this week that resulted in at least two deaths, countless wounded, and millions of dollars in losses and damages.
+
+According to Panampost, on Wednesday morning, a crowd sacked the Maracay Wholesale Market in the central region of Venezuela.Â  According to the testimonies of merchants, the endless food lines that Venezuelans have been enduring to do groceries could not be organized that day.
+
+Â¡VENEZUELA TIENE HAMBRE! #Video Saquean Mercado Mayorista Maracay #11May pic.twitter.com/DGRZ1bgkgI vÃ­a @venezolanodecen #CNERevocatorioYA
+
+— El llanero (@llaneroVen) May 11, 2016
+
+
+
+As time went by, desperate Venezuelans grew anxious over not being able to buy food. Then they started jumping over the gates and stormed the supermarket.
+
+“They took milk, pasta, flour, oil, and milk powder. There were 5,000 people” one witness told Venezuela outlet El EstÃ­mulo.
+
+People from across the entire state came to the supermarket because there were rumors that some products not found anywhere else would be sold there.
+
+As a result of the massive crowd, the authorities were unable to preserve the peace. “There were 250 people for each National Guard officerâ¦ lots of people and few soldiers. At least one officer was beat up because he tried to stop the crowd,â another source told El EstÃ­mulo.
+
+Other food dispensaries run by the government were also looted by the people.
+
+Far from the promised socialist paradise, as the massive group of people moved, an entrance gate collapsed under the weight of the crowd, leaving several wounded.
+
+The image below shows a human stampede over rice.
+
+#TOP La âestampida humanaâ en el Luvebras La Florida por arroz regulado https://t.co/bDtirmLUUs pic.twitter.com/msqjelDGZl
+
+— Sumarium (@sumariumcom) May 11, 2016
+
+
+
+Over the last two weeks, several provinces have hosted scenes of looting in pharmacies, shopping malls, supermarkets, and food delivery trucks. In several markets, shouts of âwe are hungry!â echoed. On April 27, the Venezuelan Chamber of Food (Cavidea) reported that the countryâs food producers only had 15 days left of inventory.
+
+PanamPost adds that lootings are becoming an increasingly common occurrence in Venezuela, as the countryâs food shortage resulted in yet another reported incident of violence in a supermarket â this time in the Luvebras Automarket located in the La Florida Province of Caracas.
+
+
+
+Venezuelans lost control this week when offered small portions
+
+Videos posted to social media showed desperate people falling over each other trying to get bags of rice. One user claimed the looting occurred because it is difficult to get cereal, and so people âbroke down the doors and damaged infrastructure.â
+
+
+
+In the central province of Carabobo, residents ransacked a corn warehouse located in the coastal city of Puerto Cabello. They reportedly broke down the gate because workers were giving away small portions.
+
+“Thereâs no rice, no pasta, no flour,â resident Glerimar Yohan told La Costa, âonly hunger.â
+
+* * *
+
+Social Collapse Is Inevitable
+
+With the economy dead, the only thing remaining is to watch as society implodes. To that end, Oscar Meza, Director of the Documentation Center for Social Analysis (Cendas-FVM),said that measurements of scarcity and inflation in May are going to be the worst to date. âWe are officially declaring May as the month that [widespread] hunger began in Venezuela,â he told Web Noticias Venezuela. â¦ âAs for March, there was an increase in yearly prices due to inflation â a 582.9 percent increase for food, while the level of scarcity of basic products remains at 41.37 percent.”
+
+
+âWe are officially declaring May as the month that hunger began in Venezuela,â says an NGO that measures inflation and scarcity
+
+Meza said the trigger for the crisis is the shortage of bread and other foods derived from wheat.
+
+âPrices are so high that you canât buy anything, so people donât buy bread, they donât buy flour. You get porridge, you see the price of chicken go up and families struggle â¦ lunch is around 1,500 bolivarsâ¦ People used to take food from home to work, but now you canât anymore because you donât have food at home.”
+
+The is why, EspaÃ±ol RamÃ³n Muchacho, Mayor of Chacao in Caracas, said the streets of the capital of Venezuela are filled with people killing animals for food. “Muchacho reported that in Venezuela, it is a âpainful realityâ that people âhunt cats, dogs and pigeonsâ to ease their hunger.”
+
+Subsquently, Muchacho warned that Caribbean islands and Colombia may suffer an influx of refugees from Venezuela if food shortages continue in the country.
+
+âAs hunger deepens, we could see more Venezuelans fleeing by land or sea to an island,â Muchacho said.
+
+And that is how all socialist utopias always end.
+
+* * *
+
+Meanwhile, as civil war appears inevitable, as we reported last night there are factions vying to oust Maduro, but signs that he may hang on and force his population to endure more of this socialist nightmare. One can only hope that these shocking scenes remain relegated to the streets of offshore socialist paradises, although Americans should always prepare for the worst in case they eventually manage to make their way into the country.
+
+Join our daily newsletter for breaking news, special articles, personal messages from Alex, exclusive store deals, and more.
+
+
+Receive the INFOWARS underground insider!
+
+
+
+
+
+
+
+
+Former Speaker of the House John Boehner said he would not be surprised if Hillary Clinton drops out of the race. Do you thinkâ¦
+
+
+
+View Results
+

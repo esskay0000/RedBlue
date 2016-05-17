@@ -1,0 +1,201 @@
+Broken Clouds
+
+WASHINGTON (AP) â Grandmaâs cholesterol is OK, but maybe the doctor should be asking about her social life, too. Think about health during t…
+
+BATON ROUGE, La. (AP) â An effort to speed and expand the dispensing of medical marijuana in Louisiana has won final legislative passage. Pa…
+
+Broken Clouds
+
+Sponsored by:
+
+Broken Clouds
+
+WASHINGTON (WCMH/AP) â Facing a growing backlash over extremely long airport security lines, Homeland Security Secretary Jeh Johnson on Friday asked fliers “to be patient” as the government takes steps to get them onto planes more quickly.
+
+Travelers across the country have endured lengthy lines, some snaking up and down escalators, or through food courts, and into terminal lobbies. At some airports, lines during peak hours have topped 90 minutes. Airlines have reported holding planes at gates to wait for passengers to clear security.
+
+Johnson said the government has a plan to deal with the lines but won’t neglect its duty to stop terrorists.
+
+“Our job is to keep the American people safe,” Johnson told reporters at a news conference. “We’re not going to compromise aviation security in the face of this.”
+
+The comments reflect a statement released earlier this week after long lines were reported at Newark, JFK and LaGuardia airport security checkpoints. When asked about those long lines, the TSA essentially blamed you in a press release, specifically passengers who bring too many carry-on items:
+
+There are several factors that have caused checkpoint lines to take longer to screen passengers… including more people traveling with carry-on bags, in many cases bringing more than the airline industry standard of one carry-on bag and one personal item per traveler;
+
+Passenger preparedness can have a significant impact on wait times at security checkpoints nationwide…Individuals who come to the TSA checkpoint unprepared for a trip can have a negative impact on the time it takes to complete the screening process.”
+
+In response, some airport authorities are now threatening to dump the TSA and hire their own private security firms.
+
+The Transportation Security Administration has fewer screeners and has tightened security procedures. Meanwhile, more people are flying. Airlines and the TSA have been warning customers to arrive at the airport two hours in advance, but with summer travel season approaching even that might not be enough.
+
+In the past three years, the TSA and Congress cut the number of front-line screeners by 4,622 â or about 10 percent â on expectations that an expedited screening program called PreCheck would speed up the lines. However, not enough people enrolled for TSA to realize the anticipated efficiencies.
+
+Congress this week did agree to shift $34 million in TSA funding forward, allowing the agency to pay overtime to its existing staff and hire an extra 768 screeners by June 15 to bring it up to the congressionally mandated ceiling of 42,525.
+
+But that might barely make a dent on the lines. This week, the president of the union representing the TSA officers sent a letter to congressional leaders suggesting that 6,000 additional screeners are needed. J. David Cox, Sr. wrote that the $34 million just provides “a small amount of temporary relief for travelers” and defers dealing with the long-term, larger problem.
+
+Additionally, the agency loses about 100 screeners a week through attrition.
+
+Airlines and airports have hired extra workers to handle non-security tasks at checkpoints â such as returning empty bins to the beginning of the line â as part of an effort to free up as many TSA employees to handle passenger screening.
+
+The help can’t come quickly enough.
+
+Friday morning, American Airlines held at least five flights at Dallas-Fort Worth International Airport because of passengers stuck at security lines, according to airline spokesman Ross Feinstein.
+
+On the 7:20 a.m. flight to Las Vegas, 52 of the 160 passengers were not onboard 10 minutes before departure. American held the plane an extra 13 minutes past its scheduled pushback from the gate, allowing 23 passengers to hop onboard. However, 29 still missed the jet and arrived on later flights.
+
+A few gates away, 27 passengers missed their flight to Orlando.
+
+At another American hub, Chicago’s O’Hare International Airport, security lines peaked at one hour and 45 minutes on Thursday.
+
+Delta Air Lines CEO Ed Bastian told The Associated Press Thursday that “the longer lines get the more passengers are going to miss flights and there’s not much you can do about that.”
+
+The biggest help to ease lines is to have more fliers enroll in the PreCheck program.
+
+Launched nationwide in 2012, PreCheck gives previously vetted passengers special screening. Shoes, belts and light jackets stay on. Laptops and liquids stay in bags. And these fliers go through standard metal detectors rather than the explosive-detecting full-body scanners most pass through.
+
+PreCheck security lanes can screen 300 passengers an hour, twice that of standard lanes.
+
+The TSA offered Congress a lofty goal of having 25 million fliers enrolled in the program. But as of March 1, only 9.3 million people were PreCheck members. Applicants must pay $85 to $100 every five years. Most must also trek to the airport for an interview before being accepted. Getting once-a-year fliers to join has been a challenge.
+
+Johnson Friday said that 10,000 people applied for PreCheck Thursday, up from 8,500 a day in April and 7,500 in March. Still, at that pace, it will take more than four years to reach 25 million members.
+
+What others are clicking on:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-50914310166f2f826ee1b15d1cddcd61-573a4811c4a8e');
+				var iframe = document.getElementById('wpcom-iframe-50914310166f2f826ee1b15d1cddcd61-573a4811c4a8e');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-50914310166f2f826ee1b15d1cddcd61-573a4811c4a8e'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+
+Advertisement
+
+[…] TSA blames you for longer lines at airport security checkpoints […]
+
+LikeLike
+
+[…] From the NBC article: […]
+
+LikeLike
+
+[…] Warns of Another 911 Attack If Refugees Continues to be Let In TSA Airport Lines Getting Longer House to Hold Impeachment Hearings on IRS Head  Woman Taken to Hospital With Shark Attached to […]
+
+LikeLike
+
+[…] —————— FEDS BLAME FLYERS…  http://nbc4i.com/2016/05/13/tsa-blames-you-for-longer-lines-at-airport-security-checkpoints/ —————————— Commentary, TSA, government, […]
+
+LikeLike
+
+[…] read more […]
+
+LikeLike
+
+[…] Â by: ncc4i.com […]
+
+LikeLike
+
+[…] by  /u/GubmentTeatSucker  [link] […]
+
+LikeLike
+
+[…]  […]
+
+LikeLike
+
+[…] to sleep in cots…Nightmare in Atlanta…Complaints surge 10-fold…FEDS BLAME FLYERS…Clowns, Tiny Horses Used to Calm […]
+
+LikeLike
+
+[…] TSA blames you for longer lines at airport security checkpoints […]
+
+LikeLike
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+All content Â© Copyright 2000 - 2016 Media General Communications Holdings, LLC. A Media General Company.
+
+Powered by WordPress.com VIP
+
+Get every new post delivered to your Inbox.
+
+
+
+Join 123 other followers
+
+
+
+
+

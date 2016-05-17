@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Drudge Report", 
+    "active": true, 
+    "_id": {
+      "$oid": "57363fe5b4967415c0d1dad6"
+    }, 
+    "link": "http://feeds.feedburner.com/DrudgeReportFeed", 
+    "title": "Drudge Report Feed"
+  }, 
+  {
+    "category": "Drudge Report", 
+    "active": true, 
+    "_id": {
+      "$oid": "5738ce5b5fbf8f21f3066b62"
+    }, 
+    "link": "http://drudgereportfeed.com/rss.xml", 
+    "title": "Drudge Report Feed"
+  }
+]

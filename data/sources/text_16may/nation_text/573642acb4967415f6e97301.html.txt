@@ -1,0 +1,764 @@
+
+
+Supporters listen to Donald Trump at a campaign rally in Davenport, Iowa.  (AP Photo / Charlie Neibergall)
+
+The 2016 electorate will be the most diverse in American history, with people of color comprising 31 percent of eligible voters, up from 29 percent in 2012. Despite his love for taco bowls, thatâs bad news for Donald Trump.
+
+Ad Policy
+ 
+						jQuery( document ).ready(function($) {
+							call_ad('halfpage','ad-halfpage-211829-0','tn_politics_campaigns_and_elections_ros_halfpage_1','tn_politics_campaigns_and_elections_ros_halfpage_mobile_1',custom_targeting,key,values);
+						});
+					
+In the latest CNN poll Hillary Clinton is beating Trump 81 percent to 14 percent among non-white voters, a big reason sheâs leading Trump 54 percent to 41 percent overall.		
+Trump is faring worse among this key demographic than John McCain and Mitt Romney, who respectively won only 19 percent and 17 percent of non-white voters against Barack Obama. Thatâs a major reason Trump heads into the general election as a huge underdog against Hillary Clinton or Bernie Sanders.		
+âIf the 2016 nominee gets no better than Romneyâs 17 percent of the nonwhite vote, he or she would need 65 percent of the white vote to win, a level achieved in modern times only by Ronald Reagan in his 1984 landslide,â writes Dan Balz in The Washington Post. â[George W] Bushâs 2004 winning formula â 26 percent of the nonwhite vote and 58 percent of the white voteâwould be a losing formula in 2016, given population changes.â		
+Trump supporters believe that he can turn out an unprecedented number of white voters, relying heavily on an analysis by Sean Trende of Real Clear Politics, who argued that there were 5 million fewer white voters in 2012 than in 2008 that lean Republican. The problem with this analysis is that turnout declined among every demographic group in 2012 except for African Americans 55 and older, so there were 2.3 million fewer minority voters as well. Of the 10 million newly eligible voters in 2016, two-thirds come from racial and ethnic minorities who strongly oppose Trump, according to the Pew Research Center. Whites had the slowest growth among all demographics.		
+
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+In the latest CNN poll Hillary Clinton is beating Trump 81 percent to 14 percent among non-white voters, a big reason sheâs leading Trump 54 percent to 41 percent overall.		
+Trump is faring worse among this key demographic than John McCain and Mitt Romney, who respectively won only 19 percent and 17 percent of non-white voters against Barack Obama. Thatâs a major reason Trump heads into the general election as a huge underdog against Hillary Clinton or Bernie Sanders.		
+âIf the 2016 nominee gets no better than Romneyâs 17 percent of the nonwhite vote, he or she would need 65 percent of the white vote to win, a level achieved in modern times only by Ronald Reagan in his 1984 landslide,â writes Dan Balz in The Washington Post. â[George W] Bushâs 2004 winning formula â 26 percent of the nonwhite vote and 58 percent of the white voteâwould be a losing formula in 2016, given population changes.â		
+Trump supporters believe that he can turn out an unprecedented number of white voters, relying heavily on an analysis by Sean Trende of Real Clear Politics, who argued that there were 5 million fewer white voters in 2012 than in 2008 that lean Republican. The problem with this analysis is that turnout declined among every demographic group in 2012 except for African Americans 55 and older, so there were 2.3 million fewer minority voters as well. Of the 10 million newly eligible voters in 2016, two-thirds come from racial and ethnic minorities who strongly oppose Trump, according to the Pew Research Center. Whites had the slowest growth among all demographics.		
+
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Trump is faring worse among this key demographic than John McCain and Mitt Romney, who respectively won only 19 percent and 17 percent of non-white voters against Barack Obama. Thatâs a major reason Trump heads into the general election as a huge underdog against Hillary Clinton or Bernie Sanders.		
+âIf the 2016 nominee gets no better than Romneyâs 17 percent of the nonwhite vote, he or she would need 65 percent of the white vote to win, a level achieved in modern times only by Ronald Reagan in his 1984 landslide,â writes Dan Balz in The Washington Post. â[George W] Bushâs 2004 winning formula â 26 percent of the nonwhite vote and 58 percent of the white voteâwould be a losing formula in 2016, given population changes.â		
+Trump supporters believe that he can turn out an unprecedented number of white voters, relying heavily on an analysis by Sean Trende of Real Clear Politics, who argued that there were 5 million fewer white voters in 2012 than in 2008 that lean Republican. The problem with this analysis is that turnout declined among every demographic group in 2012 except for African Americans 55 and older, so there were 2.3 million fewer minority voters as well. Of the 10 million newly eligible voters in 2016, two-thirds come from racial and ethnic minorities who strongly oppose Trump, according to the Pew Research Center. Whites had the slowest growth among all demographics.		
+
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+âIf the 2016 nominee gets no better than Romneyâs 17 percent of the nonwhite vote, he or she would need 65 percent of the white vote to win, a level achieved in modern times only by Ronald Reagan in his 1984 landslide,â writes Dan Balz in The Washington Post. â[George W] Bushâs 2004 winning formula â 26 percent of the nonwhite vote and 58 percent of the white voteâwould be a losing formula in 2016, given population changes.â		
+Trump supporters believe that he can turn out an unprecedented number of white voters, relying heavily on an analysis by Sean Trende of Real Clear Politics, who argued that there were 5 million fewer white voters in 2012 than in 2008 that lean Republican. The problem with this analysis is that turnout declined among every demographic group in 2012 except for African Americans 55 and older, so there were 2.3 million fewer minority voters as well. Of the 10 million newly eligible voters in 2016, two-thirds come from racial and ethnic minorities who strongly oppose Trump, according to the Pew Research Center. Whites had the slowest growth among all demographics.		
+
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Trump supporters believe that he can turn out an unprecedented number of white voters, relying heavily on an analysis by Sean Trende of Real Clear Politics, who argued that there were 5 million fewer white voters in 2012 than in 2008 that lean Republican. The problem with this analysis is that turnout declined among every demographic group in 2012 except for African Americans 55 and older, so there were 2.3 million fewer minority voters as well. Of the 10 million newly eligible voters in 2016, two-thirds come from racial and ethnic minorities who strongly oppose Trump, according to the Pew Research Center. Whites had the slowest growth among all demographics.		
+
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent
+
+Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
+
+These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
+
+Michael Ratner, 1943â2016
+
+Get Ready for a Wave of Green Civil Disobedience, America
+
+Trump is also performing historically bad among young voters. Clinton leads Trump 61 percent to 25 percent among voters 18 to 29 in a new Harvard University Institute of Politics poll, seven points worse than the 32 percent McCain won in 2008, which was the poorest showing for the GOP since exit polling began in 1972.		
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Unless thereâs an unexpected turnaround in his terrible numbers among non-white and young voters, thereâs only one way Trump can win the general election: by massively suppressing Democratic voters or hoping they donât show up on Election Day. Trump could do this by supporting new voting restrictions adopted by GOP-controlled states (17 have new restrictions in place for the first time in 2016), urging his supporters to create chaos at the polls and running a breathtakingly negative campaign that demobilizes his opposition.						
+			.article-wrap .article-body aside.left.custom_background_211829			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+Trumpâs support in the primary directly correlated with racial resentment toward African Americans, Hispanics and Muslims. âThe higher you scored on racial resentment, the more likely you were to support Trump; the more you resented immigrants or professed your white ethnocentrism, the likelier you were to plan to vote for Trump,â wrote Tom Edsall in The New York Times. Itâs not a stretch to imagine Trump supporters trying to block these same voters from the polls.		
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+âI suspect that weâll go from inciting violence at rallies to inciting violence at polling places rather seamlessly,â tweeted Jason Cherkis of the Huffington Post.		
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+I suspect that we'll go from inciting violence at rallies to inciting violence at polling places rather seamlessly https://t.co/nwQSsIGNll
+— Jason Linkins (@dceiver) May 4, 2016 
+
+— Jason Linkins (@dceiver) May 4, 2016 
+
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Given his endless complaining about how the GOP primaries were âriggedâ against him and the fact that his own kids couldnât vote in New Yorkâs primary because of the stateâs onerous voter-registration laws, youâd think Trump would be sympathetic to the plight others face in trying to cast a ballot. But Trump has never been known for his empathy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-211829-2','tn_politics_campaigns_and_elections_ros_halfpage_2','tn_politics_campaigns_and_elections_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Chuck Todd asked Trump on Meet the Press yesterday, âAre you going to be somebody thatâs going to advocateâ¦to make it easier to vote, since your voters had a hard time?â		
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+âWell, you canât expand the party that way,â Trump said, explaining that he opposed election reforms like Election Day voter registration, which wouldâve allowed his kids to vote in New York.		
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Hereâs the relevant exchange:		
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+TODD: You know, you complained about the system a lot. Iâm curious, are you now more open to same-day voter registration, allowing independents to vote in any primary they want? Are you going to be somebody thatâs going to advocate for those positions now, to make it easier to vote, since your voters had a hard time?		
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TRUMP: Well, you canât expand the party that way. And you know, weâve done it both ways. Iâve always done better when independents could cross over, and, frankly, when Democrats could cross over. You know, in New York when we were doing the voting, they interviewedâa lot of people interviewed the people at the voting booths, that you know, manned the voting booths. And they were saying that theyâve never seen anything like itâ		
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TODD: You realize that in New York, had there been same-day voter registration those people could have voted. So are you for that?		
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TRUMP: Well, Iâll tell you what. But they said that theyâve never seen so many Democrats wanting to vote for Trump. They were by the thousands. And I will say this. On Election Day, weâre going to do very well in New York. But the people were saying to the press that theyâd never seen anything like it. Theyâve been there for 30 and 40 years doing this kind of stuff.		
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TODD: Do you want to see the voting laws changed to make it easier to vote?		
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TRUMP: I want to see voting laws so that people that are citizens can vote. Not so people that can walk off the street and can vote, or so that illegal immigrants can voteâ		
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TODD: So youâre not for same-day voter registration?		
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TRUMP: No, no. I want to make the voting laws so that people thatâit doesnât make any difference how they do it. But I donât think people should sneak in through the cracks. You have to haveâand whether thatâs an ID or any way you want to do it. But you have to be a citizen to vote.		
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TODD: Well, of course. That is the law as it stands already.		
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+TRUMP: No, itâs not. I mean, you have places where people just walk in and vote.		
+
+Trump makes the voting process sound like going to 7-Eleven and repeats debunked Republican talking points about non-citizens voting.		
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+But perhaps Trump knows more than heâs letting on. Studies have shown that restrictions like voter-ID laws can reduce voter turnout by 2 to 3 percent, with the largest drop-off among young, first-time and African-American voters.		
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Already, many Republicans have admitted that such laws will help their party win elections, from Wisconsin Congressman Glenn Grothman (âI think Hillary Clinton is about the weakest candidate the Democrats have ever put up. And now we have photo ID, and I think photo ID is going to make a little bit of a difference as wellâ) to Heritage Foundation President Jim DeMint (âItâs something weâre working on all over the country, because in the states where they do have voter-ID laws youâve seen, actually, elections begin to change towards more conservative candidatesâ).		
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+Suppressing votes may not be enough to save Trump, but it doesnât mean he wonât try. Recent history suggests that we should expect the worst from his campaign.		
+		
+
+ Ari Berman
+Twitter
+ Ari Berman is a senior contributing writer for The Nation.
+
+To submit a correction for our consideration, click here. 
+
+For Reprints and Permissions, click here.
+
+In order to comment, you must be logged in as a paid subscriber.  Click here to log in or subscribe.
+
+Can&apos;t believe I signed up for this site, it&apos;s "Hillary.com" nothing but adds, commercials and pop ups and overlays.
+We get it, whoever runs this site, she&apos;s your candidate.
+
+You don&apos;t use adblockplus?
+
+hillary won&apos;t be able to motivate anybody beyond tribalistic voters to vote for her.  With her as candidate the dem.turnout will be ~17% of total voters, as in 2014.  Why the self-delusional lapsus about that, ari?  Only trump himself can provoke minorities to vote against him and he&apos;s soft-pedaling already.  It&apos;ll be trump&apos;s to lose if bernie is not the nominee...
+
+add that the DNC has done everything possible to protect hillary by discouraging new voters and sabotaging voter enthusiasm during the primaries. i.e., that the DNC has pursued voter self-suppression systematically.  Hillary wins primaries only when turnout is discouraged or suppressed (3 million excluded voters in NY), and she will lose in the general because primary voters were discouraged and demoralized. If you live by the sword... One wonders why ari does not mention any of that either...
+
+Donald Trump as president is a good outcome for a lot of the more virulent of the editorial writers and other scribes here at The Nation who didn&apos;t feel the need to vet Bernie, and were actively working to reduce Hillary to an evil cartoon character.  A good many of the commenters here aided and abetted this because they also couldn&apos;t be bothered to understand that of the two candidates, Hillary has, by far, more workable and realistic plans and she also hasn&apos;t gone around promising things that she knew couldn&apos;t be delivered. Bernie has been lying and getting young people&apos;s hopes up with ideas that he knew damn well weren&apos;t feasible. I had to make up my mind a long time ago since I voted on Super Tuesday and I got busy and did my homework because I was evenly split. The more I drilled down on both candidates, the more it became clear that Bernie wasn&apos;t an honest broker and that his sycophants are like right wingers, going by their feelings. I&apos;ve long grown tired of these naifs who can&apos;t see their way to voting for the most qualified candidate in my lifetime. I&apos;ve been astonished that so many have been only too willing to use right wing talking points and lies as a result of their unfounded fealty to Bernie Sanders. It&apos;s really opened my eyes to what the far left really is - people who want to blow up the whole country and who are privileged enough to deal with the fallout. Unfortunately, so many don&apos;t have that privilege. You naifs who have nothing but contempt for Hillary had better bone up on who and what she really is, take the blinkers from your eyes because Donald Trump is NOT an option. I will say that as much as I admire Ari Berman, I&apos;m getting a little tired of this peddling fear.  The Bernie or bust had better get their arses out to vote and quit kvetching. ;-) Seriously, I am long tired of the utter insanity of the Bernie fan fiction and the demonization of a good candidate in Hillary Clinton. Maybe someone could write an article about how the people who usually populate this site should try as hard as they can to do something besides carp. You all could be instrumental in getting voters registered and working on campaigns like I have. Roll up your sleevs and step away from the fear. Democracy is better than anarchy.
+
+Your posting reads like someone who lives in an ivory tower and doesn&apos;t have a clue about what goes on in the real world.  You have a lot of nasty things to say about people whom you know absolutely nothing about, and think nothing of it.
+
+Sort of a hyper "RaRa" delusion.
+
+Sorry for the double post. I pressed cancel on the earlier post, but it posted.
+
+Fortunately the Justice Department includes the US Marshals Service in these numbers:
+Personnel
+ï´ 94 U.S. marshals, one for each federal court district
+ï´ 3,752 deputy U.S. marshals and criminal investigators
+ï´ 1,457 administrative employees and detention enforcement officers
+ï´ 5,209 total employees
+ï´ 94 districts, 218 sub-offices, three foreign field offices 
+With enough advance planning, these numbers augmented by local poll-watchers and attorneys, should be sufficient to minimize the danger to Democrats.  Does anyone know differently? We do have 6 months to prepare!
+
+There&apos;s another way Trump can win: if the DINOs nominate Hillary.
+
+Well the DNC has already shown it&apos;s own ability at voter suppression, so if HRC is the nominee it should be a real slug fest of un-democracy!
+
+Nothing as bad as the Repubs and where is you serious proof
+
+I question the validity of the numbers you present in predicting Hillary&apos;s win over Trump when reputable data places Hillary&apos;s projected win against Trump in question.  Your article and its obvious omission of Sander&apos;s greater chance of winning against Trump becomes a disingenuous narrative to support Clinton&apos;s nomination.  After years of choosing to remain an ardent subscriber to The Nation, articles such as yours sully my choice.
+
+I know the polls have Sanders beating Trump by about 3 more points than Hillary. But I don&apos;t believe it. First of all, Bernie&apos;s rallies are mostly at universities where the audience is mostly young.
+Secondly, polls at this time, and motivated by primaries, are not reliable.
+Thirdly, Sanders has been a back bencher who was mostly uncompromising, and critical of the Dems who were trying to come to an agreement.
+Fourthly, He&apos;s running as a Democrat because he has no chance as an independent or a socialist.
+Sanders people follow him as blindly as the haters on the right follow Trump.
+
+Bernie&apos;s so called advantage comes about because he has not been properly vetted. There is a trove of items from his early sex writing  to his flirtation with the Sandinistas that the Republicans would not hesitate to use against him. Besides the  article is simply accepting the reality: He has no path to winning the nomination and all the fulminations against The  Nation won&apos;t change that. nomination
+
+Bernies advantage comes from consistent support of populist proposals over the last 40 years. The demographics which care about satirical sex stories and giving the then democratically elected Sandinista government of Nicaragua the chance to prove themselves as a legitimate structure are the fundamentalist Christians and conservatives who do not know the difference between communism, socialism, and capitalism. These groups will not be won by either democrat. And if you really want to talk about who has not been vetted, it is Hilary wih the lack of follow ups to the no substance responses she gives constantly, her refusal to release her speech transcripts, and the lack of accountability for her foreign policy decisions. These are questions which should be asked by any real liberal and facts should supersede emotional attachment.
+
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
+
+
+â ELIZABETH WARREN
+
+
+Stay connected with everything Nation by signing up for our free daily newsletter. 
+
+Copyright (c) 2016 The Nation Company LLC
+
