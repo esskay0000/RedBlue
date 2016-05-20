@@ -2,6 +2,10 @@ import os
 import bs4
 import codecs
 
+ ###############################################################################
+ # This script takes directories of HTML documents and converts them to text.
+ ###############################################################################
+
 CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/html_17may/wsj_html/wsj/"
 TARGET_ROOT = "/Users/Goodgame/desktop/RedBlue/data/sources/text_17may/wsj_text/"
 

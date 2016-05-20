@@ -6,7 +6,12 @@ import urllib2
 import lxml
 import os
 
-####I will try to get a list of the relevant URLs, then 'for loop' through them so I don't have to write a different script for each debate.####
+ ###############################################################################
+ # This script takes long HTML documents, parses them, and generates one
+ # text document per line in the original document. We create many documents
+ # in order to increase the number of training instances we have available,
+ # which increases the power of the model.
+ ###############################################################################
 
 ##Saving home page as text file.##
 res = requests.get('http://www.presidency.ucsb.edu/debates.php')
@@ -41,7 +46,7 @@ c = urllist.index("http://www.presidency.ucsb.edu/ws/index.php?pid=115148") #Las
 d = urllist.index("http://www.presidency.ucsb.edu/ws/index.php?pid=110757") #First Republican debate link. Output is 67.#
 print a,b,c,d
 
-## Creating Democrat documents for each line
+## Creating documents for each line
 
 DEMdebates2016list = urllist[a:b+1]
 REPUBdebates2016list = urllist[c:d+1]

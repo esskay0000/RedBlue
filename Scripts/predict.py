@@ -42,6 +42,10 @@ import codecs
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
+ ###############################################################################
+ # This script takes the picked models from classify_svm.py and applies them
+ # to directories of text data (here, using RSS feeds transformed to text)
+ ###############################################################################
 
 
 #Loading Fitted Estimator of Interest

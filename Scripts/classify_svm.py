@@ -5,7 +5,6 @@ import pickle
 from bs4 import BeautifulSoup
 from sklearn.datasets.base import Bunch
 from sklearn import metrics
-from sklearn.metrics import classification_report
 from sklearn import cross_validation as cv
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -28,6 +27,12 @@ from sklearn.feature_extraction import text
 import lxml
 import pprint
 
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import LabelEncoder
+from sklearn.linear_model import SGDClassifier
+from sklearn.metrics import classification_report
+from sklearn.cross_validation import train_test_split as tts
+
 ## For data exploration
 import pandas as pd
 import numpy as np
@@ -42,9 +47,28 @@ import codecs
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
+
+import string
+
+from nltk.corpus import stopwords as sw
+from nltk.corpus import wordnet as wn
+from nltk import wordpunct_tokenize
+from nltk import WordNetLemmatizer
+from nltk import sent_tokenize
+from nltk import pos_tag
+
+
+
+
+################################################################################
+# This script ingests debate data, vectorizes the data, fits it to three
+# different ML models (Logistic Regression, Multinomial Naive Bayes, and Support
+#  Vector Machine), truncates the vectorizers to make them leaner,
+# Chooses the best model, optimizes its parameters,and saves ("pickles") models
+################################################################################
+
 #CONNECTING TO THE DATASET
 CORPUS_ROOT = "/Users/Goodgame/desktop/RedBlue/data/debate_data/"
-#You will have to insert your own path to the transcript data folder here.#
 
 def load_data(root=CORPUS_ROOT):
     """
@@ -100,7 +124,7 @@ print "Here are the categories of the last five instances: \n", dataset.target[-
 "\n\n"
 
 
-##FEATURE ENGINEERING##
+#FEATURE ENGINEERING
 #Creating an augmented stop words list comprised of 'english' words and candidate and moderator names.
 candmodnames = ["donald","trump","ted","cruz","john","kasich","marco","rubio","ben","carson",
                 "jeb","bush","chris","christie","carly","fiorina","mike","huckabee","rick","perry",
@@ -113,29 +137,17 @@ candmodnames = ["donald","trump","ted","cruz","john","kasich","marco","rubio","b
                 'holt','mitchell','todd','maddow','ifill','woodruff','ramos','salinas','tumulty','louis']
 
 stop_words = text.ENGLISH_STOP_WORDS
-# print stop_words
-# print len(stop_words)
-# print "\n"
+
 custom_stop_words = text.ENGLISH_STOP_WORDS.union(candmodnames)
-# print custom_stop_words
-# print len(custom_stop_words)
-# print "\n"
 
-# new_words= []
-# for i in custom_stop_words:
-#     if i not in stop_words:
-#         new_words.append(i)
-# print new_words
-# print len(new_words)
-
-#TfIdfVectorizer = CountVectorizer and TfIdfTransformer all in one step.
+#TfIdfVectorizer: CountVectorizer and TfIdfTransformer all in one step
 tfidf = TfidfVectorizer(stop_words=custom_stop_words)
 X_train_tfidf_1 = tfidf.fit_transform(dataset.data)
 print "\n Here are the dimensions of our dataset: \n", X_train_tfidf_1.shape, "\n"
 
-#Singular Value Decomposition: Model fit and transform
-#This identifies the optimal number of features to select out of all created in the tf-idf vectorizer
-#and truncates the vectorizer to make it leaner.
+# Singular Value Decomposition: Model fit and transform
+# This identifies the optimal number of features to select out of all created in the tf-idf vectorizer
+# and truncates the vectorizer to make it leaner.
 
 #Without any truncating of the Logistic Regression model (11,288 features), the f1-score = 0.80 and the accuracy_score = 0.82.
 #Without any truncating of the Multinomial Naive Bayes model (11,288 features), the f1-score = 0.73 and the accuracy_score = 0.78.
@@ -162,7 +174,7 @@ print "\n Here are the dimensions of our dataset: \n", X_train_tfidf_1.shape, "\
 #MNB: f1-score = xx and the accuracy_score = xx.
 #SVM: f1-score = 0.83 and the accuracy_score = 0.84.
 
-tsvd      = TruncatedSVD(n_components=2000)
+tsvd = TruncatedSVD(n_components=2000)
 X_train_tfidf_2000 = tsvd.fit_transform(X_train_tfidf_1)
 print X_train_tfidf_2000.shape
 #LR: f1-score = 0.81 and the accuracy_score = 0.83.
@@ -211,102 +223,103 @@ print X_train_tfidf.shape
 ##ANALYTICAL MODELING##
 
 #Logistic Regression: Model fit, transform, and testing
-splits     = cv.train_test_split(X_train_tfidf, dataset.target, test_size=0.2)
+splits = cv.train_test_split(X_train_tfidf, dataset.target, test_size=0.2)
 X_train, X_test, Y_train, Y_test = splits
 
-model_lr      = LogisticRegression()
+model_lr = LogisticRegression()
 model_lr.fit(X_train, Y_train)
 
 ## Variable "expected" is our actual category, dem or rep.
-expected   = Y_test
+expected = Y_test
 
 #Variable "predicted" is our model's prediction based on the training data, dem or rep
-predicted  = model_lr.predict(X_test)
+predicted = model_lr.predict(X_test)
 
-print "\n Here's our classification report, showing the Logistic Regression model's accuracy: \n"
+print "\n Logistic Regression classification report (accuracy): \n"
 print classification_report(expected, predicted)
-print "Here's a matrix showing results. Clockwise from top left, it's"
-print " # correct dem classifications, # incorrect dem, # incorrect rep, # correct rep"
+print "Logistic Regression confusion matrix. Clockwise from top left, it's"
+print "# correct dem classifications, # incorrect dem, # incorrect rep, # correct rep:"
 print metrics.confusion_matrix(expected, predicted)
 print "\n"
-print "Here's the accuracy score for the model: \n"
+print "Logistic Regression model accuracy score: \n"
 print metrics.accuracy_score(expected, predicted)
 
-#Multinomial Naive Bayes: Model fit, transform, and testing
-#Note that this model could not operate with the SVD, so it relies on the originally
-#fitted tf-idf model with 11,228 features.
-splits     = cv.train_test_split(X_train_tfidf_1, dataset.target, test_size=0.2)
+# Multinomial Naive Bayes: Model fit, transform, and testing
+# Note that this model could not operate with the SVD, so it relies on the originally
+# fitted tf-idf model with 11,228 features.
+splits = cv.train_test_split(X_train_tfidf_1, dataset.target, test_size=0.2)
 X_train, X_test, Y_train, Y_test = splits
 
-model_mnb      = MultinomialNB()
+model_mnb = MultinomialNB()
 model_mnb.fit(X_train, Y_train)
 
-expected   = Y_test
-predicted  = model_mnb.predict(X_test)
+expected = Y_test
+predicted = model_mnb.predict(X_test)
 
-print "\n Here's our classification report, showing the Multinomial Naive Bayes model's accuracy: \n"
+print "\n Multinomial Naive Bayes classification report (accuracy) \n"
 print classification_report(expected, predicted)
 print "Here's a matrix showing results. Clockwise from top left, it's"
 print " # correct dem classifications, # incorrect dem, # incorrect rep, # correct rep"
 print metrics.confusion_matrix(expected, predicted)
 print "\n"
-print "Here's the accuracy score for the model: \n"
+print "Multinomial Naive Bayes model accuracy score: \n"
 print metrics.accuracy_score(expected, predicted)
 
-#Support Vector Machine: Model fit, transform, and testing
+# Support Vector Machine: Model fit, transform, and testing
 
-splits     = cv.train_test_split(X_train_tfidf, dataset.target, test_size=0.2)
+splits = cv.train_test_split(X_train_tfidf, dataset.target, test_size=0.2)
 X_train, X_test, Y_train, Y_test = splits
 
-model_svm      = svm.LinearSVC()
+model_svm = svm.LinearSVC()
 model_svm.fit(X_train, Y_train)
 
-expected   = Y_test
-predicted  = model_svm.predict(X_test)
+expected = Y_test
+predicted = model_svm.predict(X_test)
 
-print "\n Here's our classification report, showing the Support Vector Machine model's accuracy: \n"
+print "\n Support Vector Machine classification report (accuracy): \n"
 print classification_report(expected, predicted)
 print "Here's a matrix showing results. Clockwise from top left, it's"
 print " # correct dem classifications, # incorrect dem, # incorrect rep, # correct rep"
 print metrics.confusion_matrix(expected, predicted)
 print "\n"
-print "Here's the accuracy score for the model: \n"
+print "Support Vector Machine model accuracy score: \n"
 print metrics.accuracy_score(expected, predicted)
 
-## ADDING GRID SEARCH TO SVM MODEL, OPTIMIZING PARAMETER 'C'
-# Code was run originally; commented out here after finding the results
+# GRID SEARCH FOR SVM MODEL, OPTIMIZING PARAMETER 'C'
+# Code commented out; the results of the grid search are applied to the SVM
+# model below.
 
-#GRID SEARCH - Searching for optimal parameter values
-# parameters = {'C':[1, 10, 100, 1000]}
-# grid_search = grid_search.GridSearchCV(model_svm, parameters)
-# grid_search.fit(X_train, Y_train)
-# print grid_search.grid_scores_
-# print grid_search.best_estimator_
-#Best estimator was C=1.
+    #GRID SEARCH - Searching for optimal parameter values
+    # parameters = {'C':[1, 10, 100, 1000]}
+    # grid_search = grid_search.GridSearchCV(model_svm, parameters)
+    # grid_search.fit(X_train, Y_train)
+    # print grid_search.grid_scores_
+    # print grid_search.best_estimator_
+    #Best estimator was C=1.
 
-#Narrowing down by order of magnitude.
-# parameters = {'C':[1,2,3,4,5,6,7,8,9]}
-# grid_search_1 = grid_search.GridSearchCV(model_svm, parameters)
-# grid_search_1.fit(X_train, Y_train)
-# print grid_search_1.grid_scores_
-# print grid_search_1.best_estimator_
-#Best estimator was C=1.
+    #Narrowing down by order of magnitude.
+    # parameters = {'C':[1,2,3,4,5,6,7,8,9]}
+    # grid_search_1 = grid_search.GridSearchCV(model_svm, parameters)
+    # grid_search_1.fit(X_train, Y_train)
+    # print grid_search_1.grid_scores_
+    # print grid_search_1.best_estimator_
+    #Best estimator was C=1.
 
-#Narrowing down by order of magnitude.
-# parameters = {'C':[0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5]}
-# grid_search = grid_search.GridSearchCV(model_svm, parameters)
-# grid_search.fit(X_train, Y_train)
-# print grid_search.grid_scores_
-# print grid_search.best_estimator_
-#Best estimator was C=0.5.
+    #Narrowing down by order of magnitude.
+    # parameters = {'C':[0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5]}
+    # grid_search = grid_search.GridSearchCV(model_svm, parameters)
+    # grid_search.fit(X_train, Y_train)
+    # print grid_search.grid_scores_
+    # print grid_search.best_estimator_
+    #Best estimator was C=0.5.
 
-#Re-centering search.
-# parameters = {'C':[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]}
-# grid_search = grid_search.GridSearchCV(model_svm, parameters)
-# grid_search.fit(X_train, Y_train)
-# print grid_search.grid_scores_
-# print grid_search.best_estimator_
-#Best estimator was C=0.5.
+    #Re-centering search.
+    # parameters = {'C':[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]}
+    # grid_search = grid_search.GridSearchCV(model_svm, parameters)
+    # grid_search.fit(X_train, Y_train)
+    # print grid_search.grid_scores_
+    # print grid_search.best_estimator_
+    #Best estimator was C=0.5.
 
 #Narrowing down by order of magnitude.
 parameters = {'C':[0.45, 0.46, 0.47, 0.48, 0.49, 0.50, 0.51, 0.52, 0.53, 0.54, 0.55]}
@@ -317,14 +330,14 @@ print grid_search.best_estimator_
 #Best estimator was C=0.45. Because we already compared 0.4 to 0.5 two searches above, and 0.5 was selected, we induce that 0.45 is the optimal value without searching between 0.40 and 0.45.
 
 #Returning model results with optimal 'C' value.
-expected   = Y_test
-predicted  = grid_search.predict(X_test)
+expected = Y_test
+predicted = grid_search.predict(X_test)
 
 print classification_report(expected, predicted)
 print metrics.confusion_matrix(expected, predicted)
 print metrics.accuracy_score(expected, predicted)
 
-#Support Vector Machine: Model fit, transform, and testing WITH OPTIMIZED 'C' VALUE FROM GRID SEARCH OUTPUT.
+#Support Vector Machine: Model fit, transform, and testing with optimized 'C' value
 splits = cv.train_test_split(X_train_tfidf, dataset.target, test_size=0.2)
 X_train, X_test, Y_train, Y_test = splits
 
@@ -341,7 +354,7 @@ print classification_report(expected, predicted)
 print metrics.confusion_matrix(expected, predicted)
 print metrics.accuracy_score(expected, predicted)
 
-## SAVING MODELS
+# Saving/Picking Models
 
 ## Pickle TFIDF
 modelpath = '/Users/Goodgame/desktop/RedBlue/models/' #This should be customized.

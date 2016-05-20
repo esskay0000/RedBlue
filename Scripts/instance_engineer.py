@@ -1,6 +1,11 @@
  #!/usr/bin/python
  # -*- coding: utf-8 -*-
 
+ ###############################################################################
+ # This script removes less-predictive instances (documents) from the training
+ # data corpus.
+ ###############################################################################
+
 import os
 import codecs
 mod_names = ['PARTICIPANTS', 'MODERATOR','MODERATORS','PANELISTS','HEMMER','MACCALLUM','TAPPER','BASH','HEWITT',
