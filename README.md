@@ -5,32 +5,36 @@
 
 This quick start is intended to help you replicate our process:
 
-Clone the repository:
+1. Clone the repository:
     ```
 $ git clone git@github.com:samgoodgame/redblue.git
 $ cd redblue
     ```
 
-Create a virtualenv and install the dependencies:
+2. Create a virtualenv and install the dependencies:
+
     ```
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
     ```
 
-Create a "models" directory where you'll store the pickled models:
+3. Create a "models" directory where you'll store the pickled models:
+
 ```
 $ mkdir models
 ```
 
-Build the models by running the classification script:
+4. Build the models by running the classification script:
+
 ```
 $ cd scripts
 $ python svm_classify.py
 ```
 
-Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
+5. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
 dataset (news source) that you wish to analyze:
+
 ```
 $ python predict.py
 ```
