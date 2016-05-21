@@ -23,9 +23,7 @@ $ pip install -r requirements.txt
     ```
 
 3. Build the models by running the classification script. Make sure that you modify the script
-to pickle the models into the right directory.
-
-(Modify the paths in lines 68, 357, 365, and 371)
+to pickle the models into the right directory (modify the paths in lines 68, 357, 365, and 371).
 
     ```
 $ cd scripts
@@ -37,9 +35,7 @@ number is the last one, which is the accuracy of the SVM model.
 
 4. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
 dataset (news source) that you wish to analyze, and you'll also need to make sure the
-script is pulling the pickled models from the right directory.
-
-(Modify the paths in lines 51 and 81)
+script is pulling the pickled models from the right directory (modify the paths in lines 51 and 81).
 
     ```
 $ python predict.py
