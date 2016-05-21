@@ -1,7 +1,7 @@
 # RedBlue
 **A political language classifier for news articles**
 
-[![RedBlue Word Cloud](results/debate_wordcloud.png)]
+![RedBlue Word Cloud](results/wordcloud.png)
 
 ## Quick Start
 
