@@ -10,7 +10,7 @@ This quick start is intended to help you replicate our process:
 1. Clone the repository:
 
     ```
-$ git clone git@github.com:samgoodgame/redblue.git
+$ git clone https://github.com/samgoodgame/RedBlue.git
 $ cd redblue
     ```
 
