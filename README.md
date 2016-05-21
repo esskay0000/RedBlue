@@ -1,7 +1,7 @@
 # RedBlue
 **A political language classifier for news articles**
 
-[![RedBlue Word Cloud](results/debate_wordcloud.png)][debate_wordcloud.png]
+[![RedBlue Word Cloud](results/debate_wordcloud.png)]
 
 ## Quick Start
 
@@ -51,3 +51,8 @@ and Republican presidential primary debates. It then uses [Baleen](https://githu
 Once the RSS data is in the proper format (a sparse matrix with words as
 features and documents as instances), we pass it to our fitted model, which predicts
 if articles are "red" (Republican) or "blue" (Democratic).
+
+## Attribution
+
+We generated our word cloud from an [open-source Python word cloud package](https://github.com/amueller/word_cloud). The words are
+from Democratic and Republican presidential primary debates.
