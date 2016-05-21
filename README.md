@@ -35,6 +35,7 @@ $ python svm_classify.py
 
 5. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
 dataset (news source) that you wish to analyze.
+
 ```
 $ python predict.py
 ```
