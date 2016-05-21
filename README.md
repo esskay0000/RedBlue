@@ -22,25 +22,29 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
     ```
 
-3. Create a "models" directory where you'll store the pickled models:
+3. Build the models by running the classification script. Make sure that you modify the script
+to pickle the models into the right directory.
 
-    ```
-$ mkdir models
-    ```
-
-4. Build the models by running the classification script:
+(Modify the paths in lines 68, 357, 365, and 371)
 
     ```
 $ cd scripts
-$ python svm_classify.py
+$ python classify_svm.py
     ```
 
-5. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
-dataset (news source) that you wish to analyze:
+You'll receive a number of different results as your output. The most important
+number is the last one, which is the accuracy of the SVM model.
+
+4. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
+dataset (news source) that you wish to analyze, and you'll also need to make sure the
+script is pulling the pickled models from the right directory.
+
+(Modify the paths in lines 51 and 81)
 
     ```
 $ python predict.py
     ```
+
 
 ## About
 

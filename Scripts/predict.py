@@ -31,7 +31,6 @@ import pprint
 ## For data exploration
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas.io.sql as pd_sql
 import sqlite3 as sql
 

@@ -1,12 +1,7 @@
-time
-pickle
 bs4
 scikit-learn
 lxml
-pprint
 pandas
 numpy
-sqlite3
 requests
-urllib2
-codecs
+scipy
