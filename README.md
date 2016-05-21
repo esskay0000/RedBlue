@@ -22,23 +22,23 @@ $ pip install -r requirements.txt
 
 3. Create a "models" directory where you'll store the pickled models:
 
-```
+    ```
 $ mkdir models
-```
+    ```
 
 4. Build the models by running the classification script:
 
-```
+    ```
 $ cd scripts
 $ python svm_classify.py
-```
+    ```
 
 5. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
 dataset (news source) that you wish to analyze:
 
-```
+    ```
 $ python predict.py
-```
+    ```
 
 ## About
 
