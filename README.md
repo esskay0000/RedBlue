@@ -30,8 +30,8 @@ $ cd scripts
 $ python classify_svm.py
     ```
 
-You'll receive a number of different results as your output. The most important
-number is the last one, which is the accuracy of the SVM model.
+    You'll receive a number of different results as your output. The most important
+    number is the last one, which is the accuracy of the SVM model.
 
 4. Classify the RSS data. You'll need to go into _predict.py_ and adjust the path to the
 dataset (news source) that you wish to analyze, and you'll also need to make sure the
