@@ -1,6 +1,0 @@
-Your email has been sent.
-
-An error has occurred and your email has not been sent.
-          Please try again.
-          
-

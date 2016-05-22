@@ -2,7 +2,7 @@
 
 Relatives of the victims of the Atomic Bomb offer flowers at Hiroshima Memorial Cenotaph to mark the 70th anniversary of the US atomic bombing of Hiroshima on August 6, 2015.  (The Yomiuri Shimbun via AP Images)
 
-As an American who was raised in postwar Japan in the 1950s and ’60s, I applaud President Obama for his decision to become, later this month, the first serving US president to visit Hiroshima. But I cringe every time I hear voices still defending the horrific nuclear attacks on that city on August 6, 1945, and three days later in Nagasaki.
+As an American who was raised in postwar Japan in the 1950s and â60s, I applaud President Obama for his decision to become, later this month, the first serving US president to visit Hiroshima. But I cringe every time I hear voices still defending the horrific nuclear attacks on that city on August 6, 1945, and three days later in Nagasaki.
 
 Ad Policy
  
@@ -10,92 +10,15 @@ Ad Policy
 							call_ad('halfpage','ad-halfpage-212041-0','tn_world_war_and_peace_ros_halfpage_1','tn_world_war_and_peace_ros_halfpage_mobile_1',custom_targeting,key,values);
 						});
 					
-Moreover, I deeply regret that Obama’s visit could lend prestige to Japan’s Prime Minister Shinzo Abe. He leads a right-wing faction within the ruling Liberal Democratic Party that is trying to weaken Japan’s Peace Constitution and allow Japanese soldiers to take part in military operations overseas for the first time since World War II.				
+Moreover, I deeply regret that Obamaâs visit could lend prestige to Japanâs Prime Minister Shinzo Abe. He leads a right-wing faction within the ruling Liberal Democratic Party that is trying to weaken Japanâs Peace Constitution and allow Japanese soldiers to take part in military operations overseas for the first time since World War II.				
 					
 					
-Obama’s historic, and long-expected, visit to Hiroshima was announced Tuesday morning by the White House, which assured potential critics that he would not “apologize” to Japan. “[Obama] will not revisit the decision to use the atomic bomb at the end of World War II,” Benjamin Rhodes, his deputy national security adviser, wrote in a blog post. Instead, Obama will “shine a spotlight on the tremendous and devastating human toll of war.”				
-					
-							
-Related Article
-
-The War Was Won Before Hiroshima—And the Generals Who Dropped the Bomb Knew It 
-Gar Alperovitz
-
-
-Devastating it was. I lived in Tokyo for most of my youth, after arriving with my missionary parents in 1952. Throughout my childhood, the horrors of World War II were always present. In the 1950s, movies in Japan began not with news clips from overseas but with films of the brave firefighters who tried, valiantly, to extinguish the flames in the horrific firebombing of Tokyo in the spring of 1945. One of the first houses my family lived in replaced a foreign residence destroyed in the bombing; the cement fireplace in our backyard was all that was left of the old house.				
-			
-
-							As a kid living  in Tokyo after the war, I discovered caves dug into the nearby hills by people hiding from Allied bombs.
-						
- 
-Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyo’s citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
-					
-					
-The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the war’s end that they used to grab onto telephone poles to steady themselves while they were walking.
-Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
-					
-					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
-					
-					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
-			
-
-							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
-						
- 
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
-
-Ad Policy
- 
-							jQuery( document ).ready(function($) {
-								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
-							});
-						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
-					
-					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
-					
-									
-			.article-wrap .article-body aside.left.custom_background_212041			 {
-			 background:#5000b2 !important;
-			 }
-			 
-
-LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
-
-
-
-
-
-
-
-
-Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
-					
-					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
-					
-					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
-					
-					
-If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
-					
-					
-		
-
-Moreover, I deeply regret that Obama’s visit could lend prestige to Japan’s Prime Minister Shinzo Abe. He leads a right-wing faction within the ruling Liberal Democratic Party that is trying to weaken Japan’s Peace Constitution and allow Japanese soldiers to take part in military operations overseas for the first time since World War II.				
-					
-					
-Obama’s historic, and long-expected, visit to Hiroshima was announced Tuesday morning by the White House, which assured potential critics that he would not “apologize” to Japan. “[Obama] will not revisit the decision to use the atomic bomb at the end of World War II,” Benjamin Rhodes, his deputy national security adviser, wrote in a blog post. Instead, Obama will “shine a spotlight on the tremendous and devastating human toll of war.”				
+Obamaâs historic, and long-expected, visit to Hiroshima was announced Tuesday morning by the White House, which assured potential critics that he would not âapologizeâ to Japan. â[Obama] will not revisit the decision to use the atomic bomb at the end of World War II,â Benjamin Rhodes, his deputy national security adviser, wrote in a blog post. Instead, Obama will âshine a spotlight on the tremendous and devastating human toll of war.â				
 					
 							
 Related Article
 
-The War Was Won Before Hiroshima—And the Generals Who Dropped the Bomb Knew It 
+The War Was Won Before HiroshimaâAnd the Generals Who Dropped the Bomb Knew It 
 Gar Alperovitz
 
 
@@ -105,24 +28,24 @@ Devastating it was. I lived in Tokyo for most of my youth, after arriving with m
 							As a kid living  in Tokyo after the war, I discovered caves dug into the nearby hills by people hiding from Allied bombs.
 						
  
-Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyo’s citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
+Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyoâs citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
 					
 					
-The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the war’s end that they used to grab onto telephone poles to steady themselves while they were walking.
-Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the warâs end that they used to grab onto telephone poles to steady themselves while they were walking.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
 					
 					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -130,10 +53,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -153,10 +76,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -164,12 +87,15 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-Obama’s historic, and long-expected, visit to Hiroshima was announced Tuesday morning by the White House, which assured potential critics that he would not “apologize” to Japan. “[Obama] will not revisit the decision to use the atomic bomb at the end of World War II,” Benjamin Rhodes, his deputy national security adviser, wrote in a blog post. Instead, Obama will “shine a spotlight on the tremendous and devastating human toll of war.”				
+Moreover, I deeply regret that Obamaâs visit could lend prestige to Japanâs Prime Minister Shinzo Abe. He leads a right-wing faction within the ruling Liberal Democratic Party that is trying to weaken Japanâs Peace Constitution and allow Japanese soldiers to take part in military operations overseas for the first time since World War II.				
+					
+					
+Obamaâs historic, and long-expected, visit to Hiroshima was announced Tuesday morning by the White House, which assured potential critics that he would not âapologizeâ to Japan. â[Obama] will not revisit the decision to use the atomic bomb at the end of World War II,â Benjamin Rhodes, his deputy national security adviser, wrote in a blog post. Instead, Obama will âshine a spotlight on the tremendous and devastating human toll of war.â				
 					
 							
 Related Article
 
-The War Was Won Before Hiroshima—And the Generals Who Dropped the Bomb Knew It 
+The War Was Won Before HiroshimaâAnd the Generals Who Dropped the Bomb Knew It 
 Gar Alperovitz
 
 
@@ -179,24 +105,24 @@ Devastating it was. I lived in Tokyo for most of my youth, after arriving with m
 							As a kid living  in Tokyo after the war, I discovered caves dug into the nearby hills by people hiding from Allied bombs.
 						
  
-Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyo’s citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
+Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyoâs citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
 					
 					
-The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the war’s end that they used to grab onto telephone poles to steady themselves while they were walking.
-Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the warâs end that they used to grab onto telephone poles to steady themselves while they were walking.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
 					
 					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -204,10 +130,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -227,10 +153,84 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
+					
+					
+If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
+					
+					
+		
+
+Obamaâs historic, and long-expected, visit to Hiroshima was announced Tuesday morning by the White House, which assured potential critics that he would not âapologizeâ to Japan. â[Obama] will not revisit the decision to use the atomic bomb at the end of World War II,â Benjamin Rhodes, his deputy national security adviser, wrote in a blog post. Instead, Obama will âshine a spotlight on the tremendous and devastating human toll of war.â				
+					
+							
+Related Article
+
+The War Was Won Before HiroshimaâAnd the Generals Who Dropped the Bomb Knew It 
+Gar Alperovitz
+
+
+Devastating it was. I lived in Tokyo for most of my youth, after arriving with my missionary parents in 1952. Throughout my childhood, the horrors of World War II were always present. In the 1950s, movies in Japan began not with news clips from overseas but with films of the brave firefighters who tried, valiantly, to extinguish the flames in the horrific firebombing of Tokyo in the spring of 1945. One of the first houses my family lived in replaced a foreign residence destroyed in the bombing; the cement fireplace in our backyard was all that was left of the old house.				
+			
+
+							As a kid living  in Tokyo after the war, I discovered caves dug into the nearby hills by people hiding from Allied bombs.
+						
+ 
+Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyoâs citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
+					
+					
+The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the warâs end that they used to grab onto telephone poles to steady themselves while they were walking.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+					
+					
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
+					
+					
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
+			
+
+							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
+						
+ 
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+
+Ad Policy
+ 
+							jQuery( document ).ready(function($) {
+								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
+							});
+						
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+					
+					
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_212041			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
+					
+					
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+					
+					
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -246,24 +246,24 @@ Devastating it was. I lived in Tokyo for most of my youth, after arriving with m
 							As a kid living  in Tokyo after the war, I discovered caves dug into the nearby hills by people hiding from Allied bombs.
 						
  
-Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyo’s citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
+Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyoâs citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
 					
 					
-The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the war’s end that they used to grab onto telephone poles to steady themselves while they were walking.
-Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the warâs end that they used to grab onto telephone poles to steady themselves while they were walking.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
 					
 					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -271,10 +271,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -294,10 +294,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -310,24 +310,24 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 						
 
 
-Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyo’s citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
+Later, as a kid living on the campus of a university in Tokyo that had once been a Japanese aircraft factory, I discovered caves dug into the nearby hills by people hiding from the bombs. With my fellow faculty kids, we raced our bikes through the bombed-out remains of a hangar for warplanes. Hundreds of thousands of Tokyoâs citizens, mostly the poor and working class, had died in those attacks. And from my dad, who first came to Japan in 1947, I heard firsthand stories of the horrors in Hiroshima and Nagasaki, which he visited several times. The idea of radiation sickness, which continued to kill thousands of victims for decades, terrified me.				
 					
 					
-The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the war’s end that they used to grab onto telephone poles to steady themselves while they were walking.
-Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the warâs end that they used to grab onto telephone poles to steady themselves while they were walking.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
 					
 					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -335,10 +335,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -358,10 +358,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -369,21 +369,21 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the war’s end that they used to grab onto telephone poles to steady themselves while they were walking.
-Most Popular1Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943–20165Get Ready for a Wave of Green Civil Disobedience, America
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+The idea that the atomic bombings brought an end to war has always seemed ridiculous to me. By the summer of 1945, Tokyo and dozens of other cities had been obliterated. People throughout the country were, literally, starving amid the ruins, and any national pride and hopes for the future were long gone. My stepmother, Yasuko, survived the war in Kokubunji, a western suburb of Tokyo, where her preacher father had a church. She and her teenage brother were so weakened by hunger by the warâs end that they used to grab onto telephone poles to steady themselves while they were walking.
+Most Popular1Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent2Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda3These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall4Michael Ratner, 1943â20165Get Ready for a Wave of Green Civil Disobedience, America
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
 					
 					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -391,10 +391,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -414,10 +414,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -425,29 +425,29 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-Start Making Sense: Hillary Clinton Is Donald Trump’s Dream Opponent
+Start Making Sense: Hillary Clinton Is Donald Trumpâs Dream Opponent
 
 Bernie Sanders Keeps Winning Primaries and Keeps Shaping the Anti-Trump Agenda
 
 These Haunting Photos Show the Deadly Absurdity of the US-Mexico Border Wall
 
-Michael Ratner, 1943–2016
+Michael Ratner, 1943â2016
 
 Get Ready for a Wave of Green Civil Disobedience, America
 
-My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the people’s morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
+My friend Muto Ichiyo, a co-founder of the Japan Peace in Vietnam Committee in the 1960s, once told me about riding his bike in Yokohama after the bombings, and feeling the crunch of burnt bodies as he ran over them. By the time of Hiroshima, he and Yasuko have told me, the peopleâs morale had been destroyed. And despite the ever-present security police, most Japanese no longer believed the absurd demands of their military leaders for further sacrifice.				
 					
 					
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -455,10 +455,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -478,10 +478,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -489,16 +489,16 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-As the historian John Dower has written so eloquently, the “unthinkable” surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obama’s visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human history—and targeting civilians in those attacks—is in order, and long overdue.				
+As the historian John Dower has written so eloquently, the âunthinkableâ surrender of Japan was accepted with little question by the stricken population. Others have documented that the Emperor and his military advisers were ready for the final terms of surrender weeks before the bombs were dropped on Hiroshima and Nagasaki. Those events will undoubtedly be the source of much debate as Obamaâs visit approaches, with many voices demanding that he forgo any expression of regret. I respectfully disagree. I believe an apology for unleashing the first nuclear holocaust in human historyâand targeting civilians in those attacksâis in order, and long overdue.				
 					
 					
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -506,10 +506,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -529,10 +529,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -540,13 +540,13 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-There’s a precedent. President Eisenhower, who understood war better than any American leader, didn’t apologize, but he did express remorse. “I was against [use of the atomic bomb] on two counts,” he said in a postwar interview. “First, the Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.” And in The Fog of War, Errol Morris’s film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crime—but only if the United States had lost the war.				
+Thereâs a precedent. President Eisenhower, who understood war better than any American leader, didnât apologize, but he did express remorse. âI was against [use of the atomic bomb] on two counts,â he said in a postwar interview. âFirst, the Japanese were ready to surrender and it wasnât necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon.â And in The Fog of War, Errol Morrisâs film about Robert McNamara, the former Secretary of Defense (who helped plan the destruction of Japanese cities) suggested that the US firebombing in the final months of the war should have been considered a war crimeâbut only if the United States had lost the war.				
 			
 
 							I also believe that Japan’s militarism and aggression that sparked the war should never be ignored.
 						
  
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -554,10 +554,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -577,10 +577,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -593,7 +593,7 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 						
 
 
-At the same time, I believe that Japan’s militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victims—such as the famous “Hiroshima Maidens”—created a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
+At the same time, I believe that Japanâs militarism and aggression that sparked the war should never be ignored. When I was growing up in Tokyo, there was a strange undercurrent to the official version of the war. The focus on the atomic attacks and their victimsâsuch as the famous âHiroshima Maidensââcreated a picture of Japan as a victim of war, not a perpetrator. It allowed complacent Japanese and their conservative, pro-American, postwar governments to portray Japan as somehow an innocent bystander to an unprovoked attack by the American enemy.					
 
 Ad Policy
  
@@ -601,44 +601,10 @@ Ad Policy
 								call_ad('halfpage','ad-halfpage-212041-2','tn_world_war_and_peace_ros_halfpage_2','tn_world_war_and_peace_ros_halfpage_mobile_2',custom_targeting,key,values);
 							});
 						
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
 					
 					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
-					
-									
-			.article-wrap .article-body aside.left.custom_background_212041			 {
-			 background:#5000b2 !important;
-			 }
-			 
-
-LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
-
-
-
-
-
-
-
-
-Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
-					
-					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
-					
-					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
-					
-					
-If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
-					
-					
-		
-
-In that sanitized version of history that I heard growing up, Japan’s brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now “special,” as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
-					
-					
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -658,10 +624,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -669,7 +635,10 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the “reverse course” in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+In that sanitized version of history that I heard growing up, Japanâs brutal colonization of Korea, its invasion of and atrocities in China, its vicious attacks on Southeast Asia, and its utterly inhumane treatment of prisoners of war were all incidental to the horror of Hiroshima and Nagasaki. Japanese leaders promoted the idea that Japan was now âspecial,â as the only country to be attacked by such weapons, and would serve as a symbol of peace. There was truth in this, but it was only part of the story.				
+					
+					
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
 					
 									
 			.article-wrap .article-body aside.left.custom_background_212041			 {
@@ -689,10 +658,41 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
+					
+					
+If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
+					
+					
+		
+
+Unfortunately, the glossy image of Japan as victim and peacemaker was embraced by the US government and political elite during the Cold War. Under Gen. Douglas MacArthur, the US occupation of Japan from 1945 to 1952 brought tremendous, positive change: Women were given the vote, labor-union rights were restored, and many of the criminals responsible for the war were executed or imprisoned. But few are aware of the âreverse courseâ in the occupation, starting around 1948, when the United States enlisted Japan as its anti-communist partner in Asia and purposely tried to distance Japan from its imperial past.				
+					
+									
+			.article-wrap .article-body aside.left.custom_background_212041			 {
+			 background:#5000b2 !important;
+			 }
+			 
+
+LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
+
+
+
+
+
+
+
+
+Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
+					
+					
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+					
+					
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -712,21 +712,10 @@ LIKE THIS? GET MORE OF OUR BEST REPORTING AND ANALYSIS
 Throughout the Cold War, burying the memory of Japanese militarism served US interests, in part because many of the men who brought on the war were released from prison in exchange for working with the Americans. Among them were Nobusuke Kishi, the grandfather to current Prime Minister Shinzo Abe; Kishi had served as prime minister in the early 1960s. These Japanese rightists and their corporate allies later provided critical assistance to US forces in the wars in Korea and Vietnam.				
 					
 					
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
 					
 					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
-					
-					
-If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
-					
-					
-		
-
-Abe told reporters Tuesday that he will welcome Obama to Hiroshima “from the bottom of my heart,” while Obama, through adviser Rhodes, said he would “offer a forward-looking vision focused on our shared future.” Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
-					
-					
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -734,7 +723,18 @@ If Obama truly wants to contribute to peace and reconciliation when he visits Hi
 					
 		
 
-Abe has also eagerly embraced Obama’s “Asia Pivot,” which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizen’s movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japan’s ruling elite to face up to Japan’s terrible crimes during the war.				
+Abe told reporters Tuesday that he will welcome Obama to Hiroshima âfrom the bottom of my heart,â while Obama, through adviser Rhodes, said he would âoffer a forward-looking vision focused on our shared future.â Those are fine sentiments. But with his rejection of the 1945 Peace Constitution, which banned Japan from ever making war again, Abe is now pushing a modern brand of militarism. Thousands of Japanese citizens have been demonstrating their opposition to these changes, and recent polls show that a majority wants to retain the Constitution.				
+					
+					
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
+					
+					
+If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
+					
+					
+		
+
+Abe has also eagerly embraced Obamaâs âAsia Pivot,â which has become a euphemism for the largest US military buildup in Asia since the Vietnam War. As the Pentagon strengthens its position in Asia, the Abe government is using state power to oppose the citizenâs movement in Okinawa demanding the closure of a key US Marine base on the island. Obama and Abe are also eager to expand trilateral military relations with South Korea, which is uncomfortable with the refusal by Abe and Japanâs ruling elite to face up to Japanâs terrible crimes during the war.				
 					
 					
 If Obama truly wants to contribute to peace and reconciliation when he visits Hiroshima, he would recognize that both Japan and the United States bear responsibility for devastating acts that cannot be justified, and that the surest way to end war is to bury the scourge of militarism once and for all.				
@@ -779,10 +779,10 @@ http://www.columbia.edu/cu/computinghistory/#hiroshima
 
 If our President doesn&apos;t apologize he&apos;s justifying the use of nuclear weapons to resolve squabbles..... not cool man
 
-“AN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.”
+âAN INDISPENSABLE VOICE IN OUR POLITICAL DIALOGUE.â
 
 
-— ELIZABETH WARREN
+â ELIZABETH WARREN
 
 
 Stay connected with everything Nation by signing up for our free daily newsletter. 

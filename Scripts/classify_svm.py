@@ -372,3 +372,119 @@ modelpath = '/Users/Goodgame/desktop/RedBlue/models/' #This should be customized
 
 with open (modelpath + 'model_svm.pkl', 'wb') as f:
     pickle.dump(model_svm, f)
+#
+#
+# #informative features
+# classifier = SGDClassifier
+# # Label encode the targets
+# labels = LabelEncoder()
+# y = labels.fit_transform(dataset.target)
+# X_train, X_test, Y_train, Y_test = cv.train_test_split(dataset.data, y, test_size=0.2)
+# def identity(arg):
+#     """
+#     Simple identity function works as a passthrough.
+#     """
+#     return arg
+# class NLTKPreprocessor(BaseEstimator, TransformerMixin):
+#     def __init__(self, stopwords=None, punct=None,
+#                  lower=True, strip=True):
+#         self.lower      = lower
+#         self.strip      = strip
+#         self.stopwords  = custom_stop_words
+#         self.punct      = punct or set(string.punctuation)
+#         self.lemmatizer = WordNetLemmatizer()
+#     def fit(self, X, y=None):
+#         return self
+#     def inverse_transform(self, X):
+#         return [" ".join(doc) for doc in X]
+#     def transform(self, X):
+#         return [
+#             list(self.tokenize(doc)) for doc in X
+#         ]
+#     def tokenize(self, document):
+#         # Break the document into sentences
+#         document = document.decode('ascii', 'ignore')
+#         for sent in sent_tokenize(document):
+#             # Break the sentence into part of speech tagged tokens
+#             for token, tag in pos_tag(wordpunct_tokenize(sent)):
+#                 # Apply preprocessing to the token
+#                 token = token.lower() if self.lower else token
+#                 token = token.strip() if self.strip else token
+#                 token = token.strip('_') if self.strip else token
+#                 token = token.strip('*') if self.strip else token
+#                 # If stopword, ignore token and continue
+#                 if token in self.stopwords:
+#                     continue
+#                 # If punctuation, ignore token and continue
+#                 if all(char in self.punct for char in token):
+#                     continue
+#                 # Lemmatize the token and yield
+#                 lemma = self.lemmatize(token, tag)
+#                 yield lemma
+#     def lemmatize(self, token, tag):
+#         tag = {
+#             'N': wn.NOUN,
+#             'V': wn.VERB,
+#             'R': wn.ADV,
+#             'J': wn.ADJ
+#         }.get(tag[0], wn.NOUN)
+#         return self.lemmatizer.lemmatize(token, tag)
+# def build(classifier, X, y=None):
+#     if isinstance(classifier, type):
+#         classifier = classifier()
+#     model = Pipeline([
+#         ('preprocessor', NLTKPreprocessor()),
+#         ('vectorizer', TfidfVectorizer(
+#             tokenizer=identity, preprocessor=None, lowercase=False
+#         )),
+#         ('classifier', classifier),
+#     ])
+#     model.fit_transform(X, y)
+#     return model
+# feature_model = build(classifier, X_train, Y_train)
+# Y_pred = feature_model.predict(X_test)
+# print(classification_report(Y_test, Y_pred, target_names=labels.classes_))
+# feature_model = build(classifier, X_train_tfidf, y)
+# feature_model.labels_ = labels
+# def show_most_informative_features(model, text=None, n=20):
+#     # Extract the vectorizer and the classifier from the pipeline
+#     vectorizer = model.named_steps['vectorizer']
+#     classifier = model.named_steps['classifier']
+#     # Check to make sure that we can perform this computation
+#     if not hasattr(classifier, 'coef_'):
+#         raise TypeError(
+#             "Cannot compute most informative features on {}.".format(
+#                 classifier.__class__.__name__
+#             )
+#         )
+#     if text is not None:
+#         # Compute the coefficients for the text
+#         tvec = model.transform([text]).toarray()
+#     else:
+#         # Otherwise simply use the coefficients
+#         tvec = classifier.coef_
+#     # Zip the feature names with the coefs and sort
+#     coefs = sorted(
+#         zip(tvec[0], vectorizer.get_feature_names()),
+#         key=itemgetter(0), reverse=True
+#     )
+#     # Get the top n and bottom n coef, name pairs
+#     topn  = zip(coefs[:n], coefs[:-(n+1):-1])
+#     # Create the output string to return
+#     output = []
+#     # If text, add the predicted value to the output.
+#     if text is not None:
+#         output.append("\"{}\"".format(text))
+#         output.append(
+#             "Classified as: {}".format(model.predict([text]))
+#         )
+#         output.append("")
+#     # Create two columns with most negative and most positive features.
+#     for (cp, fnp), (cn, fnn) in topn:
+#         output.append(
+#             "{:0.4f}{: >15}    {:0.4f}{: >15}".format(
+#                 cp, fnp, cn, fnn
+#             )
+#         )
+#     return "\n".join(output)
+# print show_most_informative_features(feature_model)
