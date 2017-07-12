@@ -16,19 +16,17 @@ This quick start is intended to help you replicate our process.
 
 
 1. Clone the repository:
-
-    ```
+```
 $ git clone https://github.com/samgoodgame/RedBlue.git
 $ cd redblue
-    ```
-
+```
 2. Create a virtualenv and install the dependencies:
 
-    ```
+```
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-    ```
+```
 
 3. Normally, you'd need to run the _dem_parse.py_ and _rep_parse.py_ scripts to
 pull the training data from the internet and parse it into useable form. Since this
@@ -38,10 +36,10 @@ don't need to run these scripts.
 4. Build the models by running the classification script. Make sure that you modify the script
 to pickle the models into the right directory (modify the paths in lines 68, 357, 365, and 371).
 
-    ```
+```
 $ cd scripts
 $ python classify_svm.py
-    ```
+```
 
     You'll receive a number of different results as your output. The most important
     number is the last one, which is the accuracy of the SVM model.
@@ -50,9 +48,9 @@ $ python classify_svm.py
 dataset (news source) that you wish to analyze, and you'll also need to make sure the
 script is pulling the pickled models from the right directory (modify the paths in lines 51 and 81).
 
-    ```
+```
 $ python predict.py
-    ```
+```
 
     Your results will appear in your CLI. To see results for each news source, simply redirect
     the _classify_svm.py_ script to run in each news source's directory, under _/data/sources/text/_.
