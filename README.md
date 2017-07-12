@@ -52,8 +52,8 @@ script is pulling the pickled models from the right directory (modify the paths 
 $ python predict.py
 ```
 
-    Your results will appear in your CLI. To see results for each news source, simply redirect
-    the _classify_svm.py_ script to run in each news source's directory, under _/data/sources/text/_.
+Your results will appear in your CLI. To see results for each news source, simply redirect
+the _classify_svm.py_ script to run in each news source's directory, under _/data/sources/text/_.
 
 ## About
 
